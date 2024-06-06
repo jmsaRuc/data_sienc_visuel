@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idfa9785f1-11f6-4fb1-8f52-2d305a636538" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idc2815d16-232c-4229-b740-bdcdfccb2407">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240912960</AccessionNumber>
+    <DocumentId>DH001769</DocumentId>
+    <UniqueDocumentId>242254</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til handicaporganisationer og -foreninger på det sociale område (ULHAN)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-07</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-08</EndDate>
+    <Status>Valid</Status>
+    <Number>9129</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240022805</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-07</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til handicaporganisationer og -foreninger på det sociale område (ULHAN)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2023-14129</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+    <AdministrativeAuthority>Social- og Boligstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id23e11871-b16f-4317-8d5c-a7c03a4a5b27">
+    <Titel id="id5626ce59-6c3b-4c2c-ae9e-23c1d47771e9">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til handicaporganisationer og -foreninger på det sociale område (ULHAN)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf096631a-5825-42bd-a3f0-8f8aed53e90f">
+    <TekstGruppe id="id2a8c91bb-2b8f-41a2-81ec-347da25287d8">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">”Sjældne-delpuljen”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 22. april kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12:00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I</Char>
+          <Char formaChar="Bold">NDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">5 Tilskudsperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">6 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7 Udfyldelse af ansøgningsskema</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1 Ad 1) Formål og målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1.1 Formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1.2 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2 Ad 2) Ansøger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2.1 Ad ”handicapområde”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2.2 Ad ”formaliserede”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2.3 Ad ”landsdækkende”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2.4 Ad ”eksistensberettigelse”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.3 Ad 3) Budget og årsregnskaber</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.3.1 Budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.3.2 Årsregnskaber</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.3.3 Vedtægter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.4 Ad 4) Tilskud fra andre driftspuljer under udlodningsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8 Dokumentation, som skal vedlægges (obligatoriske bilag)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9 Gradvis indfasning og udfasning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.1 Gradvis udfasning under krav om minimum 15 medlemmer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">10 Fusion eller opsplitning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11 Paraplyorganisationer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11.1 Dokumentation, som en paraplyorganisation skal indsende</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">12 Udgifter der må dækkes af tilskuddet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">13 Udgifter der ikke må dækkes af tilskuddet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14.1 Ansøgningsfrist</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14.2 Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14.3 It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14.4 Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14.5 Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">15 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">16 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">17 Statens fleksjobordning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen udmønter årligt ansøgningspuljen til handicaporganisationer og –foreninger på det sociale område (ULHAN).</Char>
+        </Linea>
+        <Linea>
+          <Char>Midlerne er afsat på finansloven for 2024 på § 07.18.19.20. og ved tekstanmærkning nr. 126.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På Finansloven for 2024 er der afsat 99,3 mio. kr. til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det angivne beløb er et foreløbigt acontobeløb og således ikke det endelige beløb til udmøntning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det endelige beløb afventer Danske Spils regnskab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan derfor forventes en efterregulering af beløbet året efter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljen er delt op i to delpuljer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beløb til udmøntning fordeles således mellem delpuljerne:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Landsdækkende handicaporganisationer og -foreninger (97,6 pct.)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Landsdækkende foreninger for en eller flere sjældne diagnoser eller sjældne handicap (2,4 pct.)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Denne vejledning omhandler alene delpuljen til</Char>
+          <Char formaChar="Bold"> landsdækkende foreninger for en eller flere sjældne diagnoser eller sjældne handicap</Char>
+          <Char> (”Sjældne-delpuljen”).</Char>
+        </Linea>
+        <Linea>
+          <Char>Til denne delpulje er der afsat ca. 2,38 mio. kr. som aconto af udlodningsbeløbet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Midlerne fordeles mellem kvalificerede ansøgere efter en fordelingsnøgle.</Char>
+        </Linea>
+        <Linea>
+          <Char>En eventuel efterregulering i sjældne-delpuljen tilfalder paraplyorganisationerne, i det der er tale om mindre midler, der i så fald bruges til fælles aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udmøntningen af midler sker i henhold til udlodningsloven (lov nr. 1532 af 19. december 2017 om udlodning af overskud og udbytte fra lotteri) samt bekendtgørelse om ansøgningspuljen til handicaporganisationer og -foreninger på det sociale område (ULHAN) af marts 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde driftstilskud til landsdækkende handicaporganisationer og -foreninger med henblik på at styrke deres arbejde på det sociale område både i form af generel interessevaretagelse og konkrete aktiviteter for personer med handicap.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er landsdækkende foreninger for en eller flere sjældne diagnoser eller sjældne handicap, herunder paraplyorganisationer på handicapområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om paraplyorganisationer, se mere i afsnit 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er personer med handicap og pårørende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">5 Tilskudsperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Midlerne anvendes i perioden fra 1. januar 2024 til 31. december 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">6 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, som de fremgår af tabel 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte områder for vurdering uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="599" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 158pt 291pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Vurdering</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Tildelingskriterier</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">1.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøgers formål og målgruppe ligger inden for ansøgningspuljens formål og målgruppe.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- Ansøger skal både udføre generel interessevaretagelse og have konkrete aktiviteter.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">2.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Ansøger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger ligger inden for ansøgningspuljens ansøgerkreds.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- Ansøgningspuljen retter sig mod organisationer og foreninger på handicapområdet.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- Der skal endvidere være tale om formaliserede organisationer/foreninger, der er landsdækkende, og som gennem deres eksistens i nogle år, samt et vist medlemstal, har dokumenteret deres eksistensberettigelse.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der er tale om velfungerende og veldefinerede organisationer og foreninger.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">3.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Budget og årsregnskaber</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der indsendes:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- Et samlet, bestyrelsesgodkendt budget for indeværende år</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- Årsregnskaber for 2021 og 2022</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">4.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Tilskud fra andre driftspuljer under udlodningsloven</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Hvis ansøger samme år har modtaget tilskud til drift fra andre udlodningspuljer, der fordeles efter udlodningsloven, kan der ikke ydes tilskud fra denne ansøgningspulje.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">7 Udfyldelse af ansøgningsskema</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når ansøgningsskemaet udfyldes, skal ansøger beskrive nedenstående:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1 Ad 1) Formål og målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, hvorvidt ansøgers formål og målgruppe falder inden for ansøgningspuljens formål og målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1.1 Formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal blandt andet have til </Char>
+          <Char formaChar="Bold">formål </Char>
+          <Char>at virke på det sociale område, hvor man både udfører generel interessevaretagelse og har konkrete aktiviteter for medlemmerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal således beskrive, hvordan man varetager målgruppens generelle interesser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøger skal desuden redegøre for, hvilke aktiviteter der kan være tale om:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Med </Char>
+          <Char formaChar="Bold">generel interessevaretagelse</Char>
+          <Char> menes, at ansøger skal varetage sine medlemmers fælles interesse via fx medlemsservice, foreningsservice, interessepolitisk arbejde, sekretariatsfunktioner, kommunikation og repræsentation i forskellige sammenhænge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Interessevaretagelsen for små foreninger kan fx ske helt eller delvist gennem medlemskab af en paraplyorganisation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Med </Char>
+          <Char formaChar="Bold">konkrete aktiviteter</Char>
+          <Char> menes tiltag, der er afgrænset i tid og indhold, fx en sommerlejr, brugerrådgivning eller netværksaftener.</Char>
+        </Linea>
+        <Linea>
+          <Char>En aktivitet kan være enkeltstående eller tilbagevendende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Det skal desuden beskrives i ansøgningen, at ansøger har sit </Char>
+          <Char formaChar="Bold">virke inden for handicapområdet</Char>
+          <Char> og har</Char>
+          <Char formaChar="Bold"> fokus på det sociale aspekt ved at have et handicap</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningspuljen er derfor ikke tiltænkt sundheds- eller patientorganisationer, der </Char>
+          <Char formaChar="Italic">primært </Char>
+          <Char>har fokus på behandlingssektoren og medlemmernes/målgruppens rolle og ageren som patienter i behandlingssystemet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1.2 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Målgruppen er personer med handicap og deres pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>I denne delpulje er der tale om organisationer/foreninger, der organiserer borgere med en eller flere sjældne diagnoser eller sjældne handicap.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er således også tale om foreninger for borgere med sjældne handicap, som ikke har kunnet opnå en klinisk diagnose.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgers</Char>
+          <Char formaChar="Bold"> målgruppe</Char>
+          <Char> skal beskrives kort og præcist.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beskrivelsen skal indeholde oplysninger om, hvem der indgår i målgruppen, og hvad der kendetegner de borgere, som indgår i målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2 Ad 2) Ansøger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljen retter sig mod organisationer og foreninger på </Char>
+          <Char formaChar="Bold">handicapområdet</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der skal endvidere være tale om </Char>
+          <Char formaChar="Bold">formaliserede </Char>
+          <Char>organisationer/foreninger, der er </Char>
+          <Char formaChar="Bold">landsdækkende</Char>
+          <Char>, og som gennem deres eksistens i nogle år, samt et vist medlemstal, har dokumenteret deres </Char>
+          <Char formaChar="Bold">eksistensberettigelse</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan være tale om store eller små velfungerende og veldefinerede organisationer og foreninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2.1 Ad ”handicapområde”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger skal have sit virke inden for handicapområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger skal være organiseret omkring en eller flere sjældne diagnoser eller sjældne handicap.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger må ikke have underafgrænsninger i forhold til sin målgruppe, som fx alder, køn eller etnicitet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved Social- og Boligstyrelsens vurdering af kriteriet sjældne handicap tages der udgangspunkt i Social- og Boligstyrelsens publikation ”Indsatser der virker: Mennesker med sjældne handicap” (2014):</Char>
+        </Linea>
+        <Nota id="id33b64dac-18a8-4c0a-8a64-9c753e77f97c">
+          <Explicatus>1</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Derudover henvises til den nationale strategi for sjældne sygdomme fra Sundhedsstyrelsen (2014).</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Begrebet sjældne handicap dækker over alle former for nedsat funktionsevne, der typisk skyldes medfødte, ofte arvelige, komplekse og alvorlige sygdomme, der er konstateret hos færre end 1.000 personer (i Danmark).</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Der kræves særlig viden og sagkundskab og en højt specialiseret, veltilrettelagt indsats i form af diagnostik, behandling, opfølgning og kontrol i sundhedssektoren og en tilsvarende velkoordineret indsats i socialsektoren.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2.2 Ad ”formaliserede”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal have et CVR-nr. Dette oplyses i ansøgningsskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal vedlægge </Char>
+          <Char formaChar="Bold">vedtægterne for organisationen</Char>
+          <Char> (BILAG 4), og de skal indeholde bestemmelser om:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1) Navn,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>2) hjemsted,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>3) formål,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>4) generalforsamling,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>5) valg og konstituering af bestyrelse,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>6) betingelser for medlemskab,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>7) regnskabs- og formueforhold, herunder valg af revisor</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>8) tegningsret og</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>9) vedtægtsændringer og ophør, herunder anvendelse af nettoformuen ved organisationens ophør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal ledes af en bestyrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestyrelsen er ansvarlig for, at ansøgers formål varetages i overensstemmelse med gældende lovgivning og formålet med ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt ansøger har en daglig ledelse, skal den daglige ledelse handle inden for de budget- og bevillingsmæssige rammer, samt øvrige tilskudsbetingelser i afgørelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2.3 Ad ”landsdækkende”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af ansøgningen og ansøgers beskrivelse vil det blive vurderet om ansøger er landsdækkende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Følgende kriterier vil blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger er en landsdækkende hovedorganisation.</Char>
+        </Linea>
+        <Linea>
+          <Char>En hovedorganisation kan være en lille, landsdækkende, frivillig forening.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger har medlemmer i minimum tre regioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er mulighed for dispensation, såfremt der foreligger en saglig velbegrundet beskrivelse i ansøgningen herfor, fx at et sjældent handicap er arveligt og familierne er koncentreret regionalt, eller at bosættelse sker i et eller få geografiske områder fx i nærheden af en højtspecialiseret hospitalsenhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal dække bredt inden for sin målgruppe for at kunne være en hovedorganisation/hovedforening.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2.4 Ad ”eksistensberettigelse”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger har dokumenteret sin eksistensberettigelse og er velfungerende og veldefineret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger har eksisteret i minimum 2 år defineret ved, at ansøger har eksisteret i minimum 24 måneder og aflagt minimum 2 godkendte årsregnskaber på tidspunktet for ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Ansøger har minimum 15 kontingentbetalende medlemmer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Medlemsantallet skal opgøres pr. 31. december året før ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at for ansøgningspuljen for 2024 skal medlemstallet opgøres pr. </Char>
+          <Char formaChar="Underline">31. december 2023</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Familiemedlemskaber tæller som ét medlem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Medlemmer under 18 år, der betaler eget kontingent, tælles som ét medlem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3 Ad 3) Budget og årsregnskaber</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3.1 Budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal indsende et </Char>
+          <Char formaChar="Bold">samlet, bestyrelsesgodkendt budget</Char>
+          <Char> for tilskudsåret for hele organisationen (BILAG 1).</Char>
+        </Linea>
+        <Linea>
+          <Char>Budgettet skal udarbejdes på en sådan måde, at det udgør en fyldestgørende og sandfærdig beskrivelse af de forventede indtægter og udgifter i forhold til organisationen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Budgettet skal have været forelagt og godkendt af bestyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet indsendes som bilag til ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Læs mere om krav til budgettet m.m. i vejledningens afsnit 12-13.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3.2 Årsregnskaber</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal indsende </Char>
+          <Char formaChar="Bold">organisationens regnskaber</Char>
+          <Char> for hhv.</Char>
+        </Linea>
+        <Linea>
+          <Char>regnskabsåret 2021 og regnskabsåret 2022 (BILAG 2 og 3).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Regnskaberne skal være underskrevet af revisor og godkendt af bestyrelsen ved at være underskrevet af dem, der ifølge vedtægten tegner organisationen eller foreningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3.3 Vedtægter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal derudover vedlægge foreningens gældende </Char>
+          <Char formaChar="Bold">vedtægter</Char>
+          <Char> (BILAG 4), som beskrevet i afsnit 7.2.2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.4 Ad 4) Tilskud fra andre driftspuljer under udlodningsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jf. § 6, stk. 4, i bekendtgørelsen kan der ikke ydes tilskud fra denne ansøgningspulje, hvis organisationen samme år har modtaget tilskud til drift fra en anden ansøgningspulje, der fordeles efter lov nr. 1532 af 19. december 2017 om udlodning af overskud fra lotteri (Udlodningsloven).</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gælder bl.a.:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Social- og Boligstyrelsens ansøgningspulje til landsdækkende frivillige sociale organisationer (ULFRI).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Indenrigs- og Sundhedsministeriets driftspulje til landsdækkende sygdomsbekæmpende organisationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Slots- og Kulturstyrelsens pulje til landsdækkende almennyttige organisationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bemærk, at såfremt en ansøger skulle opnå tilskud til drift fra flere ansøgningspuljer under udlodningsloven, kan der opstå krav om tilbagebetaling eller bortfald af tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">8 Dokumentation, som skal vedlægges (obligatoriske bilag)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ud over </Char>
+          <Char formaChar="Bold">ansøgningsskema</Char>
+          <Char>, der er udfyldt i den påkrævede skabelon for </Char>
+          <Char formaChar="Bold">sjældne-delpuljen (hovedorganisationer)</Char>
+          <Char>, skal der indsendes følgende dokumentation i forbindelse med en ansøgning:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	BILAG 1 – </Char>
+          <Char formaChar="Bold">Bestyrelsesgodkendt budget for 2024</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal indsendes i ansøgers eget format.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	BILAG 2 og 3 – </Char>
+          <Char formaChar="Bold">Regnskaber for de seneste to år</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>For 2024 vil det være regnskaberne for </Char>
+          <Char formaChar="Bold">2021</Char>
+          <Char> og </Char>
+          <Char formaChar="Bold">2022</Char>
+          <Char>, der skal fremsendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Regnskaberne skal indsendes i ansøgers eget format.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	BILAG 4 – </Char>
+          <Char formaChar="Bold">Gældende vedtægter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vedtægterne skal indsendes i ansøgers eget format.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">9 Gradvis indfasning og udfasning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nye ansøgere, </Char>
+          <Char formaChar="Italic">der er ansøgere, som ikke i mindst ét af de forudgående to år, 2022 og 2023, har modtaget tilskud fra ansøgningspuljen</Char>
+          <Char>, skal leve op til alle tildelingskriterier for at få tilskud fra ansøgningspuljen, herunder et medlemstal på minimum 15.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nye ansøgere, der er ansøgere, som ikke i mindst ét af de forudgående to år, 2022 og 2023, har modtaget tilskud fra ansøgningspuljen, indfases over en periode på to år, hvor tilskuddet vægtes med 75 pct. i første år og 100 pct. i andet år af det tilskudsbeløb, de ville være berettiget til ved fuldt tilskud på 100 pct.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9.1 Gradvis udfasning under krav om minimum 15 medlemmer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Lever en ansøger, der i det forudgående år har fået tilskud fra delpuljen, ikke op til tildelingskriterierne, falder man uden for ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dog vil ansøger have mulighed for gradvis udfasning svarende til indfasningen, </Char>
+          <Char formaChar="Italic">hvis ansøger alene ikke lever op til kravet om minimum 15 medlemmer</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>I en udfasningsperiode vil en ansøger modtage tilskud i et år, hvor tilskuddet vægtes med 75 pct. i udfasningsåret af det tilskudsbeløb, den ville være berettiget til ved tilskud på 100 pct.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Eksempel</Char>
+          <Char>: Har en organisation fx i et år 12 medlemmer, men lever op til de øvrige, absolutte tildelingskriterier, kan tilskuddet nedsættes til 75 pct. af det fulde tilskud i år 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Har organisationen i år 2 fortsat et medlemstal under 15, kan den ikke længere opnå tilskud og falder dermed uden for ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Såfremt en organisation i et år med 75 pct. tilskud får over 15 medlemmer igen, påbegyndes igen en gradvis indfasning af tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">10 Fusion eller opsplitning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke en overgangsperiode for fusionerende organisationer/foreninger, hvoraf den ene eller begge har været omfattet af ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter en fusion skal den ’nye’ organisation/forening leve op til alle tildelingskriterier for at være berettiget til tilskud fra ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke en overgangsperiode for opsplittede organisationer/foreninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den ’nye’ organisation/forening, der er brudt ud af den eksisterende, skal ligesom alle andre ansøgere leve op til alle tildelingskriterier, såsom et krav om minimum 15 medlemmer, for at få del i midlerne, og indfases gradvist til 100 pct. tilskud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den tilbageværende organisation, der viderefører det samme CVR-nr., skal fortsat kunne leve op til alle tildelingskriterier for at kunne bevare sin tilskudsberettigelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis den tilbageværende organisation derfor ikke længere kan leve op til kravet om minimum 15 medlemmer, vil organisationen have mulighed for gradvis udfasning, jf. kap.</Char>
+        </Linea>
+        <Linea>
+          <Char>9 ovenfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">11 Paraplyorganisationer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgning fra en paraplyorganisation vurderes på baggrund af, om tildelingskriterierne er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der gælder følgende tildelingskriterier:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	En paraplyorganisation skal have minimum otte medlemsorganisationer, som alle er hovedorganisationer/foreninger og berettigede til at modtage midler fra ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	En paraplyorganisation skal have eksisteret i minimum et år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	En paraplyorganisation skal dække bredt inden for handicapområdet og have medlemsorganisationer/foreninger fra mindst tre af de fire kategorier i henhold til FN’s Handicapkonvention: 1) Fysisk, 2) psykisk, 3) intellektuel eller 4) sensorisk funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	En paraplyorganisation skal have en veldefineret rolle og funktion.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En ansøgende paraplyorganisation skal have et CVR-nr. og vedhæfte vedtægter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der skal også indsendes et samlet, bestyrelsesgodkendt budget for tilskudsåret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Budgettet skal udarbejdes på en sådan måde, at det udgør en fyldestgørende og sandfærdig beskrivelse af de forventede udgifter i forhold til organisationen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11.1 Dokumentation, som en paraplyorganisation skal indsende</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>-	Udfyldt ansøgningsskema i den påkrævede skabelon til </Char>
+          <Char formaChar="Bold">sjældne-delpuljen (paraplyorganisationer)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Samlet bestyrelsesgodkendt budget for 2024 (BILAG 1)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Reviderede regnskaber for de to seneste år.</Char>
+        </Linea>
+        <Linea>
+          <Char>For 2024 vil det være regnskaberne for 2021 og 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Regnskaberne skal være underskrevet af revisor og godkendt af bestyrelsen (BILAG 2 og 3)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Gældende vedtægter (BILAG 4)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>-	Dokumentation på mindst otte medlemsorganisationer, der er hovedorganisationer og –foreninger (BILAG 7)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">12 Udgifter der må dækkes af tilskuddet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der må dækkes af tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char></Char>
+          <Char formaChar="Bold">Lønudgifter </Char>
+          <Char>i organisationen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lønniveauet må ikke være højere end det, der er aftalt i overenskomster for arbejdet på området.</Char>
+        </Linea>
+        <Linea>
+          <Char>Yderligere information kan fås ved henvendelse til de relevante fagforeninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis området ikke er dækket af en overenskomst, må lønniveauet ikke være højere end det, der er aftalt i de statslige overenskomster for lignende arbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">honorarer til konsulenter</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">revisor</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan løbende afholdes udgifter til revisor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Lovpligtige </Char>
+          <Char formaChar="Bold">forsikringer</Char>
+          <Char>, herunder arbejdsskadeforsikringer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">transport </Char>
+          <Char>i egen bil.</Char>
+        </Linea>
+        <Linea>
+          <Char>Transportudgiften skal beregnes på baggrund af statens lave takst pr. km.</Char>
+        </Linea>
+        <Linea>
+          <Char>jf. Økonomistyrelsens Cirkulære om satsregulering for tjenesterejser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til offentlig </Char>
+          <Char formaChar="Bold">transport</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">aktiviteter</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">uddannelses- og kursusaktiviteter for frivillige</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">formidling</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">lokaler</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Udgifter til </Char>
+          <Char formaChar="Bold">kontorhold </Char>
+          <Char>(fx mindre kontorartikler, porto mv.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>12.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Øvrige udgifter indeholdt i ansøgningspuljens formål.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">13 Udgifter der </Char>
+          <Char formaChar="Bold Underline">ikke</Char>
+          <Char formaChar="Bold"> må dækkes af tilskuddet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der </Char>
+          <Char formaChar="Underline">ikke</Char>
+          <Char> kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Køb af </Char>
+          <Char formaChar="Bold">fast ejendom</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char></Char>
+          <Char formaChar="Bold">Anlægsudgifter </Char>
+          <Char>(fx ombygning og renovering).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Dækning af </Char>
+          <Char formaChar="Bold">underskud </Char>
+          <Char>eller anden gæld.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Støtte til </Char>
+          <Char formaChar="Bold">enkeltpersoners underhold</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Aktiviteter, der</Char>
+          <Char formaChar="Bold"> fuldt ud er finansieret</Char>
+          <Char> fra anden side.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Aktiviteter eller tilsvarende til personer </Char>
+          <Char formaChar="Bold">uden lovligt ophold</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Projekter forankret i </Char>
+          <Char formaChar="Bold">udlandet samt Grønland og Færøerne</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.</Char>
+        </Linea>
+        <Linea>
+          <Char></Char>
+          <Char formaChar="Bold">Kommerciel virksomhed</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">14 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14.1 Ansøgningsfrist</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den 22. april 2024, kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>12:00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema og alle de obligatoriske bilag, der er nævnt under afsnit 8.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det forventes, at ansøgerne får svar på ansøgningen i juni 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14.2 Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgere kan indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til tilskudsforvaltning@sbst.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle </Char>
+          <Char>ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal </Char>
+          <Char>indgives på den ansøgningsblanket som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges alle de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget </Char>
+          <Char>i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14.3 It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char></Char>
+          <Char formaChar="Bold">Inden </Char>
+          <Char>ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I</Char>
+          <Char formaChar="Bold"> inden fristens udløb</Char>
+          <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+        </Linea>
+        <Linea>
+          <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse </Char>
+          <Char>af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+          <Char formaChar="Bold">uden unødigt ophold</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever </Char>
+          <Char formaChar="Bold">it-problemer på egne systemer</Char>
+          <Char>, er det jeres eget ansvar at afhjælpe disse, fx i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14.4 Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af ansøgningen ud fra oplysningerne i ansøgningsskemaet samt obligatoriske bilag, der er nævnt i afsnit 8.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken til oplysning heraf kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14.5 Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema, eller hvis alle obligatoriske bilag ikke er vedlagt ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">15 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">16 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">17 Statens fleksjobordning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Organisationer, der modtager driftstilskud efter denne ordning, er omfattet af den statslige refusionsordning vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char>fleksjob, jf. tekstanmærkning nr. 105 ad 07.14.01. og 07.14.38. til § 7 på finansloven for finansåret 2024 og jf. § 1 i bekendtgørelse om den statslige fleksjobordning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette betyder, at Social- og Boligstyrelsen indberetter tilskudsmodtager til Statens Administration, hvorefter Statens Administration meddeler den omfattede organisation om, at denne er omfattet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herefter vil Statens Administration opkræve organisationen et fast bidrag pr. årsværk pr. måned til finansiering af ordningens refusionsudgifter.</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idc5396345-d525-410a-a9cd-f42b8d4d71b8">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

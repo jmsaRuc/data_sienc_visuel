@@ -1,0 +1,6 @@
+
+data/*
+!data/.ignore
+data_sienc_visuel/embedding_model/*
+!data_sienc_visuel/embedding_model/.ignore
+data_sienc_visuel/.env

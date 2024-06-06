@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idc56725de-91a4-4cde-afe0-eb5273c6178f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id00f8e638-86d2-46f9-9a79-351af9fda245">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240915425</AccessionNumber>
+    <DocumentId>AA014143</DocumentId>
+    <UniqueDocumentId>242531</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-08296</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-21</EndDate>
+    <Status>Valid</Status>
+    <Number>9154</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-08296</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id94d09320-4f61-41a8-8407-2cb070a80f6c">
+    <Titel id="id308078e1-c130-4a5b-abc8-bec6e2e48046">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-08296</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id123d19d5-a69d-48bb-a5ec-57d9768cbdd6">
+    <Resume id="idbc125630-30f1-47a7-bad3-294a12bc50df">
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad får ikke kritik for overskrift i lederartikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad bragte i oktober 2023 en lederartikel om en familie, hvorfra et familiemedlem klagede til Pressenævnet over, at det var ukorrekt, når det fremgik af lederartiklens overskrift, at familien havde fremsat usandheder og bedraget.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt ikke grundlag for at udtale kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lagde blandt andet vægt på, at overskriftens formulering klart fremstod som chefredaktørens vurdering, der ikke overskred de vide rammer for frisprog i en lederartikel.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id9e312b92-8666-4f9a-bee5-a17d49c50087">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget til Pressenævnet over lederartiklen ”</Char>
+          <Char formaChar="Italic">Det mener Vejle Amts Folkeblad: [Person 1]s familie har med sine løgne og bedrag skadet integrationen mere, end onklerne aner</Char>
+          <Char>”, bragt den 31. oktober 2023, idet han mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at lederartiklen indeholder ukorrekt information.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Påklaget artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad bragte den 31. oktober 2023 lederartiklen ”</Char>
+          <Char formaChar="Italic">Det mener Vejle Amts Folkeblad: [Person 1]s familie har med sine løgne og bedrag skadet integrationen mere, end onklerne aner</Char>
+          <Char>” på vafo.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er øverst i lederartiklen indsat et billede af [Chefredaktøren].</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår ”Chefredaktør [Chefredaktøren], Vejle Amts Folkeblad.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af lederartiklen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ordet fatamorgana bruges ofte om et synsbedrag – at man tror, man ser noget, der i virkeligheden ikke er der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ordet kan i overført betydning derfor også bruges om de løgne og bedrag, som den [Nationalitet] familie fra [Bynavn] står bag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Familien har gennem halvandet år bildt politiet, myndighederne og ikke mindst befolkningen ind, at deres dengang 16-årige familiemedlem [Person 1] var sporløst forsvundet efter en konfrontation med politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Faktisk forsøgte familien i starten via medierne at sætte politiet i dårligt lys ved at hævde, at de mente, at ordensmagten havde anbragt [Person 1] hemmeligt i en kælder under politigården.</Char>
+        </Linea>
+        <Linea>
+          <Char>Heldigvis var det også en slags absurd fatamorgana, som ikke havde noget hold i virkeligheden</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sagen om den [Nationalitet] familie, [Person 1]s forsvinden og politiets rolle er dybt tragisk, og især er det dybt tragisk for den almindelige danskers tillid til ordensmagten og integrationen i Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Igennem halvandet år har den [Nationalitet] familie – og især onklerne – forsøgt at gøre politiet ansvarligt for [Person 1]s forsvinden samt ansvarligt for den manglende eftersøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kulminationen var den problematiske DR-dokumentar "[Dokumentaren]", som ganske rimeligt satte fokus på politiets overgreb mod familien – men også vendte det blinde øje til og fremstillede familien og onklerne som nærmest pletfrie mønsterborgere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Siden har den mudrede debat og [Person 1]-sagen delt borgerne i to lejre: Den del, der har stået på den [Nationalitet] families side og anklaget politiet for de hårdhændede metoder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og den del, der har forsvaret politiet og mistænkt familien for at skjule sandheden om blandt andet [Person 1]s forsvinden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Heldigvis valgte Sydøstjyllands Politi tirsdag omsider at bryde den årelange tavshed og til Vejle Amts Folkeblad fortælle, at familien har været vidende om [Person 1]s forsvinden i halvandet år – og været i løbende kontakt med ham, hvilket familien og onklerne dog stadig afviser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilbage står desværre, at politiet med sin tavshed gennem næsten halvandet år har skabt utryghed og unødig forvirring i en sag, hvor blot lidt mere information kunne have lukket [Person 1]-sagen fra starten af.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Værre er dog, at [Person 1]-sagen nu er endt med at være vand på møllen for alle de fremmedfjendske borgere og debattører i Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>For dem er [Person 1]-sagen ikke fatamorgana – men i stedet en virkelighed, hvor den [Nationalitet] familie med sine løgne og bedrag har skadet den danske integration mere, end onklerne aner.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage er modtaget i Pressenævnet den 31. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at det er ukorrekt, når det fremgår af lederartiklens overskrift, at ”[Person 1]s familie har med sine løgne og bedrag skadet integrationen”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hertil har [Klager] bemærket, at han er uforstående over for, hvad familien har bedraget med og fremsat usandheder om, og har i den forbindelse anført, at det er kritisabelt, at Vejle Amts Folkeblad har bragt denne injurierende oplysning, såfremt mediet ikke har dokumentation for denne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere bemærket, at Vejle Amts Folkeblad af andre medier er blevet gjort opmærksom på, at politiet forklarer noget andet end det, som Vejle Amts Folkeblad har bragt i den påklagede lederartikel, og at Vejle Amts Folkeblad ikke, efter at være blevet bekendt hermed, har foretaget sig noget for at verificere oplysningerne, hvilket ikke er i orden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 Vejle Amts Folkeblads synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har anført, at den påklagede lederartikel bygger sine konklusioner på artikler og nyheder bragt af andre medier og mediet selv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forlængelse heraf har Vejle Amts Folkeblad anført, at lederartiklen bygger på information fra politiet, herunder om deres efterforskning og oplysninger om [Person 1] og hans familie, som politiet har modtaget i det sidste halvandet år, som Vejle Amts Folkeblad har modtaget i forbindelse med artiklen ”</Char>
+          <Char formaChar="Italic">Vejle Amts Folkeblad kan nu fortælle politiets forklaring på, hvorfor [Person 1] forsvandt: 'Han blev holdt skjult - familien planlagde det'</Char>
+          <Char>” bragt den 30. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har hertil bemærket, at det er mediets klare opfattelse, at politiet herved oplyser til offentligheden, at [Person 1]s familie har planlagt hans forsvinden, og at lederartiklens konklusioner henset til dette faktuelle grundlag er rimelige og i overensstemmelse med det frisprog, som efter Pressenævnets praksis accepteres i ledere og kommentarerer efter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Hans Peter Blicher, James Kristoffer Miles og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Kompetence</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 43, at Pressenævnet træffer afgørelse i sager om, hvorvidt der er sket offentliggørelse i strid med god presseskik, jf. § 34, og hvorvidt et massemedie efter reglerne i lovens kapitel 6 er forpligtet til at offentliggøre et genmæle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Spørgsmål om, hvorvidt der er sket overtrædelse af straffelovens bestemmelser om freds- og ærekrænkelser ved offentliggørelsen, hører under domstolene og falder uden for nævnets kompetence.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Retlig interesse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er som udgangspunkt en betingelse for, at Pressenævnet kan behandle en klage, at klageren har retlig interesse i det forhold, der klages over.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det indebærer, at man selv som person, organisation, virksomhed eller lignende skal være omtalt, afbilledet eller på anden måde identificeret i mediet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klagen angår lederartiklens omtale af [Person 1]s familie, herunder hans onkler.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager], som er onkel til [Person 1], er i lederartiklen omtalt som en af ”onklerne”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sagen realitetsbehandles herefter i relation til lederartiklens omtale af [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der gives eller gengives, er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Overskrifter og mellemrubrikker skal i form og indhold have dækning i den pågældende artikel eller udsendelse, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1 og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af lederartiklens overskrift fremgår følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Det mener Vejle Amts Folkeblad: [Person 1]s familie har med sine løgne og bedrag skadet integrationen mere, end onklerne aner”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af lederartiklen fremgår følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ordet fatamorgana bruges ofte om et synsbedrag – at man tror, man ser noget, der i virkeligheden ikke er der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ordet kan i overført betydning derfor også bruges om de løgne og bedrag, som den [Nationalitet] familie fra [Bynavn] står bag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Familien har gennem halvandet år bildt politiet, myndighederne og ikke mindst befolkningen ind, at deres dengang 16-årige familiemedlem [Person 1] var sporløst forsvundet efter en konfrontation med politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Faktisk forsøgte familien i starten via medierne at sætte politiet i dårligt lys ved at hævde, at de mente, at ordensmagten havde anbragt [Person 1] hemmeligt i en kælder under politigården.</Char>
+        </Linea>
+        <Linea>
+          <Char>Heldigvis var det også en slags absurd fatamorgana, som ikke havde noget hold i virkeligheden</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sagen om den [Nationalitet] familie, [Person 1]s forsvinden og politiets rolle er dybt tragisk, og især er det dybt tragisk for den almindelige danskers tillid til ordensmagten og integrationen i Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Igennem halvandet år har den [Nationalitet] familie – og især onklerne – forsøgt at gøre politiet ansvarligt for [Person 1]s forsvinden samt ansvarligt for den manglende eftersøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kulminationen var den problematiske DR-dokumentar "[Dokumentaren]", som ganske rimeligt satte fokus på politiets overgreb mod familien – men også vendte det blinde øje til og fremstillede familien og onklerne som nærmest pletfrie mønsterborgere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Siden har den mudrede debat og [Person 1]-sagen delt borgerne i to lejre: Den del, der har stået på den [Nationalitet] families side og anklaget politiet for de hårdhændede metoder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og den del, der har forsvaret politiet og mistænkt familien for at skjule sandheden om blandt andet [Person 1]s forsvinden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Heldigvis valgte Sydøstjyllands Politi tirsdag omsider at bryde den årelange tavshed og til Vejle Amts Folkeblad fortælle, at familien har været vidende om [Person 1]s forsvinden i halvandet år – og været i løbende kontakt med ham, hvilket familien og onklerne dog stadig afviser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilbage står desværre, at politiet med sin tavshed gennem næsten halvandet år har skabt utryghed og unødig forvirring i en sag, hvor blot lidt mere information kunne have lukket [Person 1]-sagen fra starten af.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Værre er dog, at [Person 1]-sagen nu er endt med at være vand på møllen for alle de fremmedfjendske borgere og debattører i Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>For dem er [Person 1]-sagen ikke fatamorgana – men i stedet en virkelighed, hvor den [Nationalitet] familie med sine løgne og bedrag har skadet den danske integration mere, end onklerne aner.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er Pressenævnets opfattelse, at en lederartikel i videre omfang end nyhedsartikler og lignende reportager kan indeholde vurderende, kommenterende og subjektive betragtninger, og at der derfor må indrømmes en høj grad af frisprog i sådanne artikler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er endvidere nævnets opfattelse, at det bør være klart, også for andre end mediets faste læsere, hvilken type artikel, der er tale om.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den påklagede lederartikel er ledsaget af et billede af chefredaktør [Chefredaktøren], og lederartiklens overskrift indledes med ”Det mener Vejle Amts Folkeblad”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet finder på baggrund heraf, at det fremgår tilstrækkeligt klart, at der er tale om en lederartikel.</Char>
+        </Linea>
+        <Linea>
+          <Char>Teksten vurderes derfor efter de videre rammer for frisprog.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at den påklagede lederartikel klart fremstår som et indlæg, hvori chefredaktør [Chefredaktøren] med udgangspunkt i dækningen af [Person 1]-sagen, herunder artiklen ”</Char>
+          <Char formaChar="Italic">Vejle Amts Folkeblad kan nu fortælle politiets forklaring på, hvorfor [Person 1] forsvandt: 'Han blev holdt skjult - familien planlagde det'</Char>
+          <Char>” bragt af Vejle Amts Folkeblad med oplysninger fra politiet, tilkendegiver sin holdning til [Person 1]-sagen og familiens rolle i denne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder endvidere, at overskriften: ”Det mener Vejle Amts Folkeblad: [Person 1]s familie har med sine løgne og bedrag skadet integrationen mere, end onklerne aner”, klart fremstår, som chefredaktør [Chefredaktøren]s vurdering og ikke som en faktuel oplysning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uanset sprogbrugen finder nævnet ikke grundlag for at anse de vide rammer for frisprog i en lederartikel for at være overskredet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at det er angivet i lederartiklen, at [Klager] og hans familie afviser politiets påstand om, at de er involveret i [Person 1]s forsvinden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På denne baggrund finder nævnet ikke grundlag for at udtale kritik af Vejle Amts Folkeblad for at bringe den påklagede lederartikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id59ef8344-1504-4a52-8b98-1c1881d5f83e" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idbb215f63-cea0-4364-886b-ffa7e953d9b4">
+    <DocumentType>CIR1H#LOKDOK11</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240914209</AccessionNumber>
+    <DocumentId>AA014126</DocumentId>
+    <UniqueDocumentId>242384</UniqueDocumentId>
+    <DocumentTitle>Rigsadvokatmeddelelsen, afsnittet: International retshjælp</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-15</EndDate>
+    <Status>Valid</Status>
+    <Number>9142</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Rigsadvokaten</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rigsadvokaten</Signature>
+    <PlaceOfSignature>Rigsadvokaten</PlaceOfSignature>
+    <JournalNumber>CMS VB 9996</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Rigsadvokaten</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id8e2bf14d-d1b4-4d47-8173-b4bd1e04677c">
+    <Titel id="id3fbb5cc4-4fc6-4eea-9bf1-6357bf588e04">
+      <Linea>
+        <Char>Rigsadvokatmeddelelsen, afsnittet: International retshjælp</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idc73beb41-a264-4efd-b99a-7b5f4e335cb8">
+    <TekstGruppe id="id8c63751b-d40b-4da1-94da-f62193a475dc">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Overblik og tjekliste</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">1.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Retshjælp er betegnelsen for situationer, hvor politi, anklagemyndighed eller domstole har behov for bistand fra et andet land til at gennemføre en opgave, de ellers selv havde udført.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Retshjælp dækker over mange ting, f.eks. forskellige efterforskningsskridt, forkyndelse mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Retshjælp kan finde sted både ind og ud af Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Længere nede i vejledningen beskrives fremgangsmåden for både indgående retshjælp, dvs. hvor en udenlandsk myndigheder beder Danmark om hjælp, og udgående retshjælp, hvor en dansk myndighed anmoder om hjælp fra udlandet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Politiets efterforskning og sagsbehandling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indgående retshjælpsanmodninger (retsanmodninger til Danmark)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">2.1.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Politiet foretager deres normale arbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Dette betyder, at det arbejde der normalt ville blive udført af politiet i en tilsvarende dansk sag også skal udføres af politiet i den udenlandske sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For nærmere om selve besvarelsen af den udenlandske anmodning se </Char>
+          <Char formaChar="Underline">afsnit 3.1.4.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">2.1.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Prioritering som tilsvarende dansk sag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når Danmark modtager en anmodning om retshjælp fra et andet land, skal behandlingen af anmodningen behandles med samme hurtighed og prioritet som en lignende national sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">2.1.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Ønske om speciel fremgangsmåde ved foretagelsen af efterforskningsskridt, udenlandske repræsentanters tilstedeværelse mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Man skal være opmærksom på, om det anmodende land har fremsat krav til form og fremgangsmåde som f.eks. indenretlig afhøring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette bør så vidt muligt respekteres, medmindre det vil stride mod grundlæggende, danske retsprincipper, jf. EU-retshjælpskonventionen art.</Char>
+        </Linea>
+        <Linea>
+          <Char>4, stk. 1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Eksempelvises ses det jævnligt, at nogle lande anmoder om, at en afhøring skal foretages i retten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Selv om man i en national sag måske ikke ville vurdere, at en indenretlig afhøring var nødvendig, bør man imødekomme det anmodende lands ønske.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et andet eksempel er tilstedeværelse af udenlandske myndighedspersoner under udførelsen af efterforskningsskridtet, f.eks. ransagning, afhøring eller lignende, hvilket ofte er hensigtsmæssigt fordi det er den udenlandske myndighed, der ofte kender sagen bedst, og derfor ved hvad de leder efter.</Char>
+        </Linea>
+        <Linea>
+          <Char>I den forbindelse fremhæves, at udenlandske myndighedspersoner ikke har hjemmel til at udøve deres myndighed i Danmark, hvorfor de alene kan medvirke som observatører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">2.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Udgående retshjælpsanmodninger (retsanmodninger fra Danmark)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er ofte politiet, der udarbejder det indledende materiale til brug for en retsanmodning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs nærmere om udarbejdelse af selve anmodning i </Char>
+          <Char formaChar="Underline">afsnit 3.2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er ofte nødvendigt at være meget specifik i sine retsanmodninger, således at man beskriver hvad man konkret leder efter ved en ønsket ransagning eller medsender et afhøringstema til en ønsket afhøring.</Char>
+        </Linea>
+        <Linea>
+          <Char>På den måde kan den udenlandske myndighed bedre yde den ønskede hjælp uden at kende sagen indgående.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Forberedelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indgående retshjælpsanmodninger (retsanmodninger til Danmark)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Kan man yde retshjælp i den givne sag?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når man modtager en retshjælpsanmodning fra udlandet, skal anklagemyndigheden vurdere, hvorvidt de danske myndigheder kan yde den retshjælp, som den udenlandske myndighed anmoder om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udgangspunktet er – efter en analog anvendelse af retsplejeloven – at hvis dansk politi i en lignende dansk sag kunne foretage det pågældende efterforskningsskridt, så er det også muligt at foretage efterforskningsskridtet på baggrund af en udenlandsk retsanmodning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gælder også selvom der ikke er en aftale mellem Danmark, og det land der anmoder om retshjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis et land anmoder om efterforskningsskridt, der vil være i strid med retsplejelovens regler, f.eks. hvis der anmodes om aflytning i en tyveri-sag, hvor kriminalitetskravet i retsplejeloven ikke er opfyldt, kan anmodningen ikke imødekommes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Man kan i stedet tage kontakt til det anmodede land og orientere om, hvilket efterforskningsskridt, der kommer tættest på anmodningen, og herefter aftale, hvordan anmodningen skal besvares.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der skal gives afslag på retshjælp, skal Rigsadvokaten orienteres herom, jf. nedenfor i </Char>
+          <Char formaChar="Underline">afsnit 3.1.2.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.1.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Sprog der accepteres af Danmark</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De indgående retsanmodninger skal være fremsendt på et sprog som accepteres af Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dem kan du se på nedenstående link:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Underline">http://www.coe.int/en/web/conventions/full-list/-conventions/treaty/030/declarations?</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Underline">p_auth=sIUwjg8W</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Afslag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Afslag på at yde retshjælp</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis anklagemyndigheden vurderer, at en retshjælpsanmodning ikke kan imødekommes, skal den lokale anklagemyndighed meddele den anmodende udenlandske myndighed et afslag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Afslaget skal begrundes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis anmodningen er fremsat af et nordisk-land eller et EU-land, eller et land uden for EU og Norden, som har tiltrådt Europarådets Retshjælpskonvention af 1959, skal afslaget begrundes på baggrund af bestemmelsen i artikel 2, jf. artikel 19, i Europarådets Retshjælpskonvention af 1959.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis anmodningen er fremsat af et land, med hvilket der ikke gælder noget internationalt retsgrundlag, skal der ikke henvises til de førnævnte bestemmelser, hvilket betyder, at der er en videre adgang til afslag.</Char>
+        </Linea>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Alle afslag skal formuleres høfligt og diplomatisk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Afslag kan formuleres på engelsk eller formuleres på dansk og oversættes til et sprog, som landet, der meddeleles afslag, må formodes at kunne forstå.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afslag til lande uden for norden og EU fremsendes via Rigsadvokaten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I de næste afsnit kan du læse om forskellige situationer, hvor et afslag kan komme på tale.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Dobbelt strafbarhed</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Eftersom vi på retshjælpsområdet anvender retsplejeloven analogt, betyder det også, at der i tilfælde af et indgribende efterforskningsskridt – f.eks. beslaglæggelse, ransagning eller edition – stilles krav om, at det udenlandske strafbare forhold som Danmark er bedt om retshjælp til at efterforske, også er strafbart efter dansk ret, og at de almindelige strafbarhedsbetingelser i straffeloven er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>I den forbindelse kan også indgå spørgsmålet om forældelse efter dansk ret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Er der dødsstraf for den pågældende forbrydelse?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Danske myndigheder kan ikke efterkomme en udenlandsk myndigheds anmodning om retshjælp, hvis den udenlandske strafbestemmelse for den forbrydelse, der søges opklaret, hjemler dødsstraf, medmindre det anmodende land afgiver en erklæring om, at der ikke i den konkrete sag vil blive nedlagt påstand om dødsstraf, eller at en eventuel dødsstraf ikke vil blive eksekveret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3" />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Politiske/militære forbrydelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De danske myndigheder kan endvidere afslå at yde retshjælp i forbindelse med efterforskning af forbrydelser efter den militære straffelovgivning og forbrydelser der anses for at være politiske forbrydelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Ne bis in idem</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Flere lande, herunder Danmark, har forbeholdt sig retten til at afslå at imødekomme en retsanmodning under henvisning til forbuddet mod dobbelt strafforfølgning (ne bis in idem), dvs. hvis den pågældende allerede er dømt eller frifundet for det forhold, som aktuelt efterforskes, idet en sådan strafforfølgning anses for at stride mod almindelige retsprincipper.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Ressourcebetragtninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Særligt omfattende/omkostningstunge efterforskningsskridt bør drøftes med den anmodende, udenlandske myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan måske findes en aftale i forhold til fordeling af omkostninger, idet udgangspunktet ved almindelige former for retshjælp er, at det er det fuldbyrdende land der betaler udgifter forbundet med ydelsen af retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se nærmere om omkostninger generelt under </Char>
+          <Char formaChar="Underline">afsnit 3.2.4.2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.2.7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Kriminalitetskravet er ikke opfyldt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis et land anmoder om efterforskningsskridt, der vil være i strid med retsplejelovens regler, f.eks. hvis der anmodes om aflytning i en simpel tyveri-sag, hvor kriminalitetskravet i retsplejeloven ikke er opfyldt, kan anmodningen ikke imødekommes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan overvejes, om vi i stedet kan hjælpe med andre indgreb, som kan tillades efter dansk ret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indgreb der kræver retskendelse i Danmark</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.3.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Danske regler gælder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når der ydes retshjælp til en udenlandsk myndighed i form af efterforskning i Danmark er det vigtigt, at dette sker i overensstemmelse med retsplejelovens regler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det betyder, at selvom det efter de udenlandske regler f.eks. kan være anklagemyndigheden der kan beslutte, at der skal ske aflytning eller andre indgreb, vil det stadig kræve en kendelse afsagt af de danske domstole for at udføre aflytningen i Danmark, idet indgrebets foretagelse skal være lovligt efter de danske regler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Enkelte regler i retsplejeloven er indsat alene til anvendelse i sager om anmodning om retshjælp fra udlandet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det drejer sig om § 190 og § 191 om afhøring af vidner og § 783, stk. 5, og § 806, stk. 7 for så vidt angår indgreb i meddelelseshemmeligheden og edition.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af relevant praksis kan henvises til U 1972.600 H og U 1988.203 V, omhandlende beslaglæggelse i henholdsvis Tyskland og USA ud fra en analog anvendelse af retsplejelovens regler, U.</Char>
+        </Linea>
+        <Linea>
+          <Char>2006.3094 ”anklagemyndighedens anmodning om edition af dokumenter til brug for en straffesag i Rusland imødekommet” og U.</Char>
+        </Linea>
+        <Linea>
+          <Char>2005.3108 ”Dansk anklagemyndigheds afhøring i England gennemført i strid med retsplejelovens § 750”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.3.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Bistandsadvokater, forsvarer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I forhold til afhøringer m.v. af mistænkte, sigtede og vidner/forurettede er det de danske regler om beskikkelse af forsvarer eller bistandsadvokat, der finder anvendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en tilsvarende dansk sag således ville have givet anledning til beskikkelse af en advokat for den person, der skal afhøres, vil dette også være udgangspunktet når afhøringen foretages på foranledning af en udenlandsk myndighed, der anmoder om retshjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du kan læse mere om retsstillingen for forurettede i udenlandske straffesager i Rigsadvokatmeddelelsen, afsnittet om </Char>
+          <Char formaChar="Underline">Vejledning af forurettede mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Selve besvarelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Det er juristens ansvar</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Besvarelsen af en retsanmodning skal foretages af en judiciel myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Politikredsene er en judiciel myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>I praksis bør det være anklagemyndigheden, således at anmodningen underskrives af en jurist.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke noget til hinder for, at der vedlægges rapportmateriale udarbejdet af politiet, som belyser de oplysninger den udenlandske myndighed ønsker, og der kan i vidt omfang henvises til det vedlagte materiale i det brev, der skal sendes til den udenlandske myndighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Formen på besvarelsen, oversættelse og bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt at notere sig, at ikke alle lande har samme direkte tilgang til kommunikation, som vi har herhjemme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Husk også, at det skal være nemt at oversætte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Besvarelsen bør derfor skrives i et høfligt, simpelt og let oversætteligt sprog.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Selve besvarelsen bør fremsendes på et sprog, som accepteres af det anmodende land, mens eventuelle bilag som f.eks. politirapporter og retsbøger ikke skal oversættes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se nærmere om oversættelse under </Char>
+          <Char formaChar="Underline">afsnit 3.2.4.2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Svares der direkte eller via Rigsadvokaten</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgangspunktet indenfor Norden, EU og Schengen er, at en besvarelse af en udenlandsk retshjælpsanmodning skal sendes direkte til den anmodende myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Adressen vil ofte fremgå af det fremsendte materiale.</Char>
+        </Linea>
+        <Linea>
+          <Char>Rigsadvokaten vil, hvis retsanmodningen fra den udenlandske myndighed er sendt herigennem, i kvitteringsbrevet til den udenlandske myndighed skrive, at svaret vil blive sendt direkte fra politikredsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Anmodninger fra andre lande skal besvares via Rigsadvokaten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Dialog med udlandet/myndigheden/anklageren</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis man er i tvivl om, hvad den udenlandske myndighed ønsker at opnå med retsanmodningen, er det en god idé at tage direkte kontakt til den pågældende myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>På den måde sikrer man sig, at tvivlsspørgsmål bliver afklaret på forhånd, så det ikke bliver nødvendigt at besvare en opfølgende retsanmodning om samme sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.1.4.5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Kommunikationsformen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgangspunktet er, at korrespondance om retshjælp foregår per brev eller fax i de tilfælde, hvor sikker kommunikation via e-mail ikke kan lade sig gøre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Korrespondance kan dog – i særligt hastende tilfælde – </Char>
+          <Char formaChar="Underline">også</Char>
+          <Char> fremsendes via Rigspolitiet, Sektion for International Informationsudveksling eller Eurojust.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Udgående retshjælpsanmodninger (retsanmodninger fra Danmark)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Behov for kendelse?</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Dansk ret gælder!</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Inden der kan anmodes om retshjælp fra udlandet i forbindelse med en dansk efterforskning skal betingelserne for at gennemføre det konkrete efterforskningsskridt efter dansk ret være opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis foretagelsen af det pågældende efterforskningsskridt i Danmark kræver rettens kendelse, er det nødvendigt at indhente en sådan.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil f.eks. gøre sig gældende i forhold til retsanmodninger om hjælp til ransagning, beslaglæggelse, edition, teleoplysninger og aflytning mv. i udlandet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til indhentelse af elektroniske beviser fra udlandet, f.eks. fra Facebook, Google og Microsoft, kan du læse mere i Rigsadvokatmeddelelsen, afsnittet om </Char>
+          <Char formaChar="Underline">Indhentelse af elektroniske beviser fra internationale internetserviceudbydere (Facebook, Google mv.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Behov for deltagelse af dansk repræsentant i forbindelse med efterforskningsskridtet?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis politiet finder det særligt hensigtsmæssigt, at der deltager en repræsentant for Danmark når det pågældende efterforskningsskridt gennemføres i udlandet, skal dette fremgå tydeligt af retsanmodning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Eventuelle praktiske detaljer kan herefter aftales direkte med den myndighed, som skal udføre den ønskede retshjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Anmodningens indhold</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er en række standardkoncepter for retshjælpsanmodninger til brug i de mest almindelige sager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vigtigt at holde sig for øje, at koncepterne er til inspiration og ikke nødvendigvis den eneste eller bedste måde at bygge alle retsanmodninger op på.</Char>
+        </Linea>
+        <Linea>
+          <Char>Koncepterne findes i anklagemyndighedens konceptsamling på AMNET og kan trækkes fra POL-SAS.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En retsanmodning skal altid indeholde følgende elementer:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="705" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" style="column-width: 34pt 495pt;border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000; grid-H: 1pt none #000000; grid-V: 1pt none #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char>-</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Adressat</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Retsanmodningen skal indeholde en adressat.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Det vil inden for EU, Norden og Schengen-landene være den myndighed, der i sidste ende skal yde den begærede retshjælp.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Du kan finde rette modtager på det Europæiske Retlige Netværks hjemmeside (</Char>
+                  <Char formaChar="Underline">https://www.ejn-crimjust.europa.eu/ejn/</Char>
+                  <Char>) (se nærmere under </Char>
+                  <Char formaChar="Underline">pkt. 3.3.3</Char>
+                  <Char>).</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Anderledes forholder det sig, når der skal sendes en retsanmodning til lande udenfor EU, Schengen og Norden – de såkaldte tredjelande.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis efterforskningen viser, at der er behov for retshjælp fra et tredjeland, skal anmodningen som altovervejende hovedregel fremsættes mellem de centrale myndigheder.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I Danmark er Rigsadvokaten udpeget som Central Myndighed, men i de fleste andre lande er den centrale myndighed det pågældende lands justitsministerium.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Retsanmodninger til tredjelande skal derfor stiles til det pågældende lands kompetente myndigheder (”til de kompetente judicielle myndigheder i …”) og sendes til Rigsadvokaten, der vil forestå den videre fremsendelse, enten til det pågældende lands centrale myndighed eller via Udenrigsministeriets diplomatiske kanaler.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char>-</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Afsender</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Det skal tydeligt fremgå i starten af retsanmodningen, at det er en judiciel myndighed, som fremsætter anmodningen.</Char>
+                </Linea>
+                <Linea>
+                  <Char>De judicielle myndigheder i Danmark er Rigsadvokaten, statsadvokaterne, politidirektørerne, Politimesteren i Grønland og på Færøerne samt domstolene.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char>-</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Retsgrundlag</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Det skal anføres i retsanmodningen, hvilket retsgrundlag, der danner hjemmel for at fremsætte den pågældende retsanmodning.</Char>
+                </Linea>
+                <Linea>
+                  <Char>De mest brugte aftaler og konventioner findes inden for EU og Europarådet, men der kan være specifikke bi- eller multilaterale aftaler, der finder bedre anvendelse i den konkrete sag f.eks. pga.</Char>
+                </Linea>
+                <Linea>
+                  <Char>efterforskningsskridtets specifikke karakter.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Du kan læse mere om det juridiske grundlag i </Char>
+                  <Char formaChar="Underline">afsnit 4</Char>
+                  <Char>, og du kan finde de enkelte instrumenter under </Char>
+                  <Char formaChar="Underline">afsnit 8</Char>
+                  <Char>.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char>-</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Sagsfremstilling</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Retsanmodningen skal indeholde alle de informationer, som modtageren skal bruge for at udføre den ønskede retshjælp.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der skal således som udgangspunkt ikke medsendes bilag i form af politirapporter, retsbøger eller lignende.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>I sagsfremstillingen skal de vigtigste punkter i efterforskningen samles for at godtgøre, at der er mistanke om et strafbart forhold, og at den retshjælp, der anmodes om, er nødvendig for sagen.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Vær opmærksom på, at nogle lande stiller særlige krav til sagsfremstillingen (f.eks. kræver USA, at der er en særligt bestyrket mistanke (”probable cause”) rettet mod den mistænkte).</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus formaEx="Center">
+                <Linea>
+                  <Char>-</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Kontaktpersoner</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Ved fremsendelse af retsanmodninger bør der påføres en eller flere kontaktpersoner, som den udenlandske myndighed let kan komme i kontakt med, såfremt dette måtte blive nødvendigt.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Det er i den forbindelse hensigtsmæssigt, at der både opgives kontaktoplysninger på repræsentanter for politiet og anklagemyndigheden.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Praktiske forhold</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Antal eksemplarer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis anmodningen om retshjælp skal til et nordisk land, vil det være tilstrækkeligt at fremsende 1 enkelt eksemplar.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Skal anmodningen til et EU-medlemsland eller Schengen-land, skal der fremsendes 1 original og 1 oversættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis det er et tredje land, som anmodningen om retshjælp skal sendes til, skal Rigsadvokaten modtage 1 original og 2 oversættelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Sprog/oversættelser/udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når anmodningen om retshjælp er udfærdiget, skal den, inklusiv relevante bilag, fx rapportmateriale eller kendelser, oversættes til et sprog, som det fuldbyrdende land modtager.</Char>
+        </Linea>
+        <Linea>
+          <Char>I medfør af 1959-konventionen art.</Char>
+        </Linea>
+        <Linea>
+          <Char>16, har landene afgivet erklæringer om, hvilke sprog de accepterer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På dette link kan man se, hvilke sprog de forskellige lande accepterer (brug ikke Internet Explorer men fx Microsoft Edge):</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Underline">http://www.coe.int/en/web/conventions/full-list/-conventions/treaty/030/declarations?</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Underline">p_auth=sIUwjg8W</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Er man i tvivl om det rent indholdsmæssige af retsanmodningen, kan denne sendes til den Internationale Enhed for sparring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette bør gøres før oversættelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Er det uklart hvilket sprog det anmodede land accepterer, kan den Internationale Enhed kontaktes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vær opmærksom på, at anmodninger - inklusiv relevante bilag - der skal sendes til tredjelande, som </Char>
+          <Char formaChar="Underline">ikke</Char>
+          <Char> har tiltrådt Europarådets konvention af 20. april 1959 om retshjælp, skal påtegnes af en notar i retten (notarpåtegning).</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvorvidt tredjelandet har tiltrådt retshjælpskonventionen fra 1959 fremgår </Char>
+          <Char formaChar="Underline">her</Char>
+          <Char> (brug ikke Internet Explorer men fx Microsoft Edge).</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er oversætteren, der sørger for at få oversættelsen notarpåtegnet ved retten, når politikredsen beder om det, i forbindelse med at materialet sendes til oversættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er kredsen selv, der afholder udgifterne til oversættelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gør sig ligeledes gældende ved indkomne anmodninger om retshjælp, hvis der synes at være behov for oversættelse af dem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Underskrifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er anklageren, der skal underskrive anmodningen om retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gøres alene på det originale (danske) dokument og ikke på oversættelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Kopi af relevante paragraffer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Man skal altid vedlægge udskrift af de relevante bestemmelser i straffeloven eller retsplejeloven sammen med anmodningens øvrige materiale.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestemmelserne skal både være på dansk og oversat til det accepterede sprog.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Fremsendelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I Norden, EU og Schengen kan der ske fremsendelse direkte mellem de judicielle myndigheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som nævnt ovenfor under 3.2.3. skal anmodninger til tredjelande gå via Rigsadvokaten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.2.4.6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indberetning til Rigsadvokaten</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De lokale anklagemyndigheder i politikredsene og NSK, samt Statsadvokaterne skal orientere Rigsadvokaten om: ¬</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Alle retshjælpsanmodninger, både modtagne og afsendte, i sager, hvor </Char>
+                <Char formaChar="Underline">mindst tre stater</Char>
+                <Char> (både EU-stater og tredjelandsstater) er involveret.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Alle afslag på retshjælp – både modtagne og afsendte.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Gentagende udfordringer med samarbejdet med myndigheder i andre EU-lande.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Orienteringen efter punkt 1 og 2 foretages ved at fremsende en kopi af anmodningen eller afslaget til Rigsadvokaten, mens orienteringen efter punkt 3 foretages ved at fremsende en kort beskrivelse af problematikken til Rigsadvokaten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Orienteringen sendes pr. e-mail til </Char>
+          <Char formaChar="Underline">rigsadvokaten@ankl.dk</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>I emnefeltet anføres: Indberetning til Eurojust.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der henvises i den forbindelse til Rigsadvokatmeddelelsen om</Char>
+          <Char formaChar="Underline"> Indberetningsordning vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Underline">international retshjælp og samarbejde</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">3.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Hvor kan jeg få hjælp?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.3.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Rigsadvokatens Internationale Enhed</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Rigsadvokatens internationale enhed kan kontaktes i dagtimerne på vagttelefonen på nummer 72689082.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.3.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">AMnet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På International Enheds fagside på </Char>
+          <Char formaChar="Underline">Anklagemyndighedens Vidensbase</Char>
+          <Char> er der tilgængelig information om retshjælpsområdet under ”Internationale sager” (kræver login).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.3.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">EJN hjemmeside (European Judicial Network)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På EJN’s hjemmeside kan man bl.a. finde andre EU-landes kompetente judicielle myndigheder indenfor forskellige områder, herunder retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>I de tilfælde hvor man skal sende en retsanmodning direkte fra kredsen til en anden judiciel myndighed inden for EU, kan man benytte EJN’s atlas til at finde rette myndighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fungerer på den måde, at man klikker på det pågældende land, og så klikker man sig ind på, hvilket område man søger retshjælp i, for eksempel edition (order to produce documents) eller andet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herefter skal man igennem et par skridt yderligere og så kommer den rette myndighed frem med adresse og kontaktoplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bemærk at Danmark ikke er med i EIO’en, så det skal ikke krydses af, hvis der spørges til det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Bold Italic">3.3.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Eurojust</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I Eurojust kan man få hjælp til at kontakte et andet lands myndigheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den danske repræsentant i Eurojust kan være behjælpelig med koordineringsmøder med andre lande, med JIT’s og med kontakt til andre landes myndigheder, hvis der er behov for at få en lidt mere direkte dialog om en konkret sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Jura</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">4.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Indgående retsanmodninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Helt overordnet gælder det, at der ikke er gennemført særlig lovgivning i dansk ret, som regulerer danske myndigheders muligheder for at yde retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>International retshjælp ydes på baggrund af det såkaldte gensidighedsprincip, også selvom der ikke findes bi- eller multilaterale aftaler, der udtrykkeligt regulerer retshjælp mellem Danmark og et andet land.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Retshjælp ydes på baggrund af en analog anvendelse af de relevante bestemmelser i retsplejeloven og udgangspunktet er, at hvis det i en tilsvarende national efterforskning er muligt at bruge et bestemt efterforskningsskridt, så vil det også kunne foretages i forbindelse med en anmodning om international retshjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Retsplejelovens regler skal altid iagttages.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der skal således indhentes en dansk retskendelse til gennemførelse af et efterforskningsskridt i Danmark på vegne af en udenlandsk myndighed, hvis retsplejeloven stiller krav herom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">4.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Udgående retsanmodninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Mange lande har ikke samme mulighed for at yde retshjælp til udlandet som vi har i Danmark, og flere lande kræver, at der henvises til et regelgrundlag, der hjemler ydelsen af retshjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er i den forbindelse væsentligt at anføre den korrekte internationale hjemmel, når en retsanmodning udfærdiges, ligesom det kan være særdeles hensigtsmæssigt at anføre flere retsgrundlag, for at højne chancen for succes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>De internationale regler om retshjælp kan inddeles i to grupper.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nogle instrumenter er baseret på et geografisk område og finder derfor kun anvendelse for nogle bestemte lande, hvorimod andre instrumenter vedtaget under f.eks. De Forenede Nationer, vedrører et bestemt emne og finder derfor anvendelse for langt flere lande, men kun særlige typer kriminalitet, f.eks. terrorbombekonventionen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nedenfor under </Char>
+          <Char formaChar="Underline">afsnit 7</Char>
+          <Char> kan du finde alle de internationale instrumenter om retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er opdelt efter geografi inden for Norden, EU, Schengen og Europarådet, samt indenfor emner som f.eks. terrorisme, organiseret kriminalitet, cybercrime, hvidvask og narkotika.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Husk, at du højst sandsynligt kan anføre flere instrumenter, som hjemmel for din retsanmodning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold Italic">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Straf og andre retsfølger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Efter dom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Har man i en dansk straffesag modtaget retshjælp fra udlandet bør det kontrolleres, om den udenlandske myndighed har anmodet om at blive orienteret om sagens udfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>En sådan orientering sendes via de samme kanaler som den oprindelige retsanmodning jf. </Char>
+          <Char formaChar="Underline">afsnit 3.2.3.</Char>
+          <Char> og </Char>
+          <Char formaChar="Underline">3.2.4.5.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Øvrige oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Politiet og Anklagemyndigheden skal til enhver tid kunne tilvejebringe statistiske oplysninger, om antallet af ind- og udgående retshjælpsanmodninger til og fra EU og Norden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">7.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">EIO – European Investigation Order</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Danmark er ikke med i European Investigation Order (EIO).</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er imidlertid Rigsadvokatens opfattelse, at en EIO såvidt muligt bør behandles som en almindelig anmodning om retshjælp.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forudsættes, at EIO’en indeholder de fornødne oplysninger/materiale.</Char>
+        </Linea>
+        <Linea>
+          <Char>Anmodningen bør altså ikke afvises blot pga.</Char>
+        </Linea>
+        <Linea>
+          <Char>formen.</Char>
+        </Linea>
+        <Linea>
+          <Char>I fald der ikke er de fornødne oplysninger/materiale, er det op til den enkelte sagsbehandler at vurdere, om det er mest hensigtsmæssigt at bede om supplerende oplysninger eller anmode om en egentlig traditionel retsanmodning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">8.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Love og forarbejder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Europarådet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Retshjælpskonventionen af 20/04/1959</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">European Convention on Mutual Assistance in Criminal Matters</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Tillægsprotokol af 17/03/1978 til retshjælpskonventionen </Char>
+                      <Char formaChar="Underline">Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>2. tillægsprotokol af 08/11/2001 til retshjælpskonventionen </Char>
+                      <Char formaChar="Underline">Second Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Cybercrimekonventionen af 23/11/2001</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">Convention on Cybercrime</Char>
+                      <Char>Tillægsprotokol af 15/05/2003 til cybercrimekonventionen </Char>
+                      <Char formaChar="Underline">Additional Protocol to the Convention on Cybercrime</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvidvaskkonventionen af 08/11/1990</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Underline">Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Terrorforebyggelseskonventionen af 16/05/2005</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Pind">
+                        <Explicatus>-</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Underline">Convention on the Prevention of Terrorism</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvidvask- og terrorfinansieringskonventionen af 16/05/2005</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Pind">
+                        <Explicatus>-</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Underline">Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Menneskehandelskonventionen af 16/05/2005</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Pind">
+                        <Explicatus>-</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Underline">Convention on Action against Trafficking in Human Beings</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug</Char>
+                    </Linea>
+                  </Exitus>
+                  <Exitus>
+                    <Index>
+                      <Indentatio formaInd="Pind">
+                        <Explicatus>-</Explicatus>
+                        <Exitus>
+                          <Linea>
+                            <Char formaChar="Underline">Convention on the Protection of Children against Sexual Exploitation and Sexual Abuse</Char>
+                          </Linea>
+                        </Exitus>
+                      </Indentatio>
+                    </Index>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">EU</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>EU-Retshjælpskonventionen af 29/05/2000</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">Konvention om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemstater</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">Protokol af 21/11/2001 til konventionen om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>EU-USA retshjælpsaftale</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">Agreement with the United States on mutual legal assistance</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Dansk-amerikanske bilaterale aftaler</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>EU-Japan aftalen af 7. oktober 2010</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char formaChar="Underline">Aftale mellem Den Europæiske Union og Japan om gensidig retshjælp i straffesager</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov 2004-12-22 nr. 1434 om fuldbyrdelse af visse strafferetlige afgørelser i Den Europæiske Union.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>RÅDETS RAMMEAFGØRELSE 2006/783/RIA af 6. oktober 2006 om anvendelse af princippet om gensidig anerkendelse på afgørelser om konfiskation.</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Justitsministeriets cirkulæreskrivelse af 19. november 2009 om ikrafttræden af Rådets rammeafgørelse af 6. oktober 2006 om anvendelse af princippet om gensidig anerkendelse på afgørelser om konfiskation.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>RÅDETS RAMMEAFGØRELSE 2005/214/RIA af 24. februar 2005 om anvendelse af princippet om gensidig anerkendelse på bødestraffe.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>RÅDETS RAMMEAFGØRELSE 2003/577/RIA af 22. juli 2003 om fuldbyrdelse i Den Europæiske Union af kendelser om indefrysning af formuegoder eller bevismateriale.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aftale mellem EU og Norge/Island om delvis anvendelse af EU-retshjælpskonventionen og protokollen dertil (Rådets afgørelse af 17. december 2003 (2004/79/EF)).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Norden</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse af nordisk overenskomst af 26. april 1974 om gensidig retshjælp (BKI nr. 100 af 15. september 1975).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">FN</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Psykotrope stoffer</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Transnational organiseret kriminalitet</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idf50f9d98-56f9-4506-bc5e-9f688fa26d50">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

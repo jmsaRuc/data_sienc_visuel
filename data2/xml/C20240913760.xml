@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idcdb2e11a-fe47-4ed8-97c2-0efbf35a3d2a" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id8ea8f998-6250-41fc-ae15-b19e610f8273">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240913760</AccessionNumber>
+    <DocumentId>DH001777</DocumentId>
+    <UniqueDocumentId>242295</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til koloniophold mv. for børn og unge med handicap og deres forældre og søskende (Handicap-puljen)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-07</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-12</EndDate>
+    <Status>Valid</Status>
+    <Number>9137</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240023505</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-07</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til koloniophold m.v. for børn og unge med handicap og deres forældre og søskende</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2023-12197</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id141b1e4f-3dc1-4da7-92ae-0c85e39e8666">
+    <Titel id="id57b6ea5a-b1e4-47eb-a7b8-d21918795699">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til koloniophold mv. for børn og unge med handicap og deres forældre og søskende (Handicap-puljen)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id0573c7c7-64fe-4496-a0d0-6a35aec12d8c">
+    <TekstGruppe id="id4900463d-deb8-45e8-8a13-a98060eb7651">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 23. april 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12:00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Indholdsfortegnelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">5 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">6 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8 Beregning af tilskud (fordelingsnøgle)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">10 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">12 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">13 Ved opnåelse af støtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen udmønter årligt ansøgningspuljen til koloniophold mv. for børn og unge med handicap og deres forældre og søskende (Handicappuljen).</Char>
+        </Linea>
+        <Linea>
+          <Char>I finansloven for 2024 er der afsat 14.5 mio. kr. på § 15.64.07.10. til udmøntning af Handicappuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskuddet anvendes til støtte til koloniophold, familieferier i ind- og udland, samt kursusvirksomhed for børn og unge med handicap og deres forældre og søskende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For at tilgodese så mange projekter som muligt fordeles tilskuddet blandt alle tilskudsberettigede ansøgere på baggrund af en fordelingsnøgle.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet udmøntes med inddragelse af et bevillingsudvalg, som består af repræsentanter fra Danske Handicaporganisationer og Sjældne Diagnoser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">2 Formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde tilskud til støtte til koloniophold, familieferier i ind- og udland og kursusvirksomhed, for børn og unge med handicap og deres forældre og søskende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er landsdækkende handicaporganisationer og –foreninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er børn og unge med handicap og deres forældre og søskende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1" />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">5 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet anvendes i perioden fra 1. juli 2024 til 30. juni 2025.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">6 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="684" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" style="column-width: 204pt 309pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Vurdering</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Tildelingskriterier</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Formål, ansøgerkreds og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets formål, ansøgerkreds og målgruppe ligger inden for ansøgningspuljens formål, ansøgerkreds og målgruppe.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Aktiviteter</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Tilskuddet anvendes til koloniophold, familieferier i ind- og udland og/eller kursusvirksomhed for børn og unge med handicap og deres forældre og søskende.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Ansøgningen indeholder en kort beskrivelse af aktiviteter, der kan forventes at bidrage til opfyldelse af formålet.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Budget</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er overensstemmelse mellem budgettet og aktivitet og lign.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Sammenhæng</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, organisering, budget mv.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 1) Formål, ansøgerkreds og målgruppe:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Formål:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets formål ligger inden for ansøgningspuljens formål.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets formål skal følgende indgå:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse af hvordan projektet har til formål at yde støtte til koloniophold, familieferier i ind- og udland og kursusvirksomhed for børn og unge med handicap og deres forældre og søskende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En sandsynliggørelse af at projektet medvirker til at fremme ansøgningspuljens formål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ansøgerkreds:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets ansøger ligger inden for ansøgningspuljens ansøgerkreds.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der skal være tale om landsdækkende organisationer eller foreninger, hvis primære formål er at repræsentere mennesker med et eller flere handicaps (fx autisme eller sklerose), og som arbejder for, at de kan leve et aktivt liv på lige fod med mennesker uden handicap.</Char>
+        </Linea>
+        <Linea>
+          <Char>Organisationer eller foreninger, hvis primære formål ikke alene relaterer sig til en målgruppe af mennesker med handicap, men i stedet har et bredt målgruppefokus, anses ikke for at være omfattet af ansøgerkredsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Landsdækkende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal være landsdækkende for at være tilskudsberettiget.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved landsdækkende forstås at foreningen eller organisationen skal være landsdækkende i sit virke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan fx være at ansøger har medlemmer eller afholder aktiviteter i tre eller flere regioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan også godtgøres ved organisationens eller foreningens indsendte vedtægter, hvis ansøgers landsdækkende virke fremgår af vedtægterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Handicap:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved handicap forstås, i overensstemmelse med Handicapkonventionen, personer der har en langvarig fysisk, psykisk, intellektuel eller sensorisk funktionsnedsættelse, som i samspil med forskellige barrierer kan hindre dem i fuldt og effektivt at deltage i samfundslivet på lige fod med andre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Organisationer og foreninger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved handicaporganisationer og -foreninger forstås traditionelle medlemsbaserede handicaporganisationer og –foreninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Organisationerne/foreningerne er åbne for medlemmer, der støtter op om deres formål, og de har en demokratisk opbygning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Deres vedtægter indeholder en klar tilkendegivelse af deres område og formål inden for handicapområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det kan også være handicaporganisationer eller –foreninger, hvor medlemmer er andre handicaporganisationer eller -foreninger (paraplyorganisationer).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er således ikke muligt for private virksomheder at søge puljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den private virksomhed defineres ved, at den har til formål at skabe et overskud til sig selv og sine eventuelle aktionærer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ungdomsorganisation og hovedorganisationer:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ungdomsorganisationer eller -foreninger og hovedorganisationer eller -foreninger kan modtage tilskud fra ansøgningspuljen, hvis der er tale om to skarpt adskilte og selvstændige organisationer eller foreninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det skal tilkendegives i ansøgningsskemaet og dokumenteres af vedtægter, at ungdomsorganisationen eller -foreningen og hovedorganisationen eller -foreningen reelt er adskilt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan fx være ved, at de har forskellige vedtægter, forskellig ledelse og aflægger separate regnskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt en ungdomsorganisation og en hovedorganisation begge søger tilskud fra puljen, skal det ligeledes tilkendegives i ansøgningsskemaet, at der ikke søges om tilskud til samme aktiviteter for de samme medlemmer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets ansøgerkreds skal følgende indgå:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Organisationens/foreningens overordnede formål inden for handicapområdet beskrives, og det skal sandsynliggøres, at ansøger er en handicaporganisation eller -forening, der arbejder for, at mennesker med handicap kan leve et aktivt liv på lige fod med mennesker uden handicap.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse og sandsynliggørelse af at organisationen/foreningen er landsdækkende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse af at organisationen/foreningen består af medlemmer, der tilslutter sig organisationens/foreningens formål inden for handicapområdet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse af hvordan organisationen er organiseret, fx antal medlemmer, type af medlemskaber, bestyrelse, hovedforening og evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>lokalforeninger mv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Organisationens/foreningens vedtægter skal medsendes ansøgningen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Målgruppe:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets målgruppe ligger inden for ansøgningspuljens målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Børn og unge med handicap er defineret som unge under 25 år, der har en langvarig fysisk, psykisk, intellektuel eller sensorisk funktionsnedsættelse, som i samspil med forskellige barrierer kan hindre dem i fuldt og effektivt at deltage i samfundslivet på lige fod med andre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets målgruppe skal følgende indgå:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse af hvem der indgår i målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En beskrivelse af hvad der kendetegner de borgere, som indgår i målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En tilkendegivelse ved afkrydsning at målgruppen er børn og unge under 25 år med handicap og deres forældre og søskende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En angivelse af hvor mange borgere fra målgruppen, der forventes at deltage i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at der gives et realistisk bud på, hvor mange der indgår i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis målgruppen er forskellig i aktiviteterne skal dette fremgå.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>For hver aktivitet skal det angives i tabellen i ansøgningsskemaet, hvor mange deltagere der er fra målgruppen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det vil sige udelukkende børn og unge under 25 år med handicap, deres forældre og søskende.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der skal ligeledes angives antal deltagere i alt.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det vil sige antal deltagere fra målgruppen plus andre tilskudsberettigede deltagere fx frivillige, hjælpere, børnepassere mv. For at kunne vurdere om øvrige deltagere er tilskudsberettigede, er det vigtigt, at de specificeres i tabellen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 2) Aktiviteter:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet om aktiviteten/aktiviteterne i projektet er tilskudsberettigede fra ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsberettigede aktiviteter er:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Koloniophold i Danmark for børn og unge med handicap.</Char>
+              </Linea>
+              <Linea>
+                <Char>Ved koloniophold forstås overnatning for børn og unge fra målgruppen, uden medfølgende familie.</Char>
+              </Linea>
+              <Linea>
+                <Char formaChar="Bold">Koloniopholdet skal finde sted i Danmark.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Familieferier i ind- og udland for børn og unge med handicap, og deres nærmeste familie.</Char>
+              </Linea>
+              <Linea>
+                <Char>Ved familieferie forstås et ferieophold for børn og unge fra målgruppen, sammen med deres nærmeste familie, i form af forældre og søskende, herunder også evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>plejefamilier.</Char>
+              </Linea>
+              <Linea>
+                <Char formaChar="Bold">Familieferien kan finde sted i Danmark eller udlandet</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Kursusvirksomhed i Danmark for børn og unge med handicap og deres nærmeste familier.</Char>
+              </Linea>
+              <Linea>
+                <Char>Ved kursusvirksomhed forstås en aktivitet, hvor hovedfokus er på, at børn og unge fra målgruppen og deres nærmeste familie opnår større viden om handicappet, og hvordan de lever med dette i hverdagen.</Char>
+              </Linea>
+              <Linea>
+                <Char formaChar="Bold">Kursusvirksomhed er ikke at sidestille med et ferieophold</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det vil sige, at der skal være et klart formål, der omhandler at opnå viden.</Char>
+              </Linea>
+              <Linea>
+                <Char>Den nærmeste familie forstås som forældre og søskende, herunder også evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>plejefamilier.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Aktiviteter der primært har et behandlingsmæssigt sigte, er ikke tilskudsberettigede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan søges om tilskud til en eller flere aktiviteter inden for en eller flere af ovenstående aktivitetskategorier.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan dog ikke ydes tilskud til aktiviteter, såfremt udgiften er dækket af anden lovgivning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets aktiviteter skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilke(n) aktivitetstype(r) der søges tilskud til.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En kort beskrivelse af aktiviteten.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor mange dage aktiviteten/aktiviteterne strækker sig over.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor mange børn og unge fra målgruppen der deltager.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor mange der deltager i alt.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der gøres opmærksom på, at retten til hjælp efter §§ 96, 97, 98, 100, 112, 113, 114 og 118 i lov om social service og §§ 86, 87 og 89 og § 90, nr. 4, 5, 7 og 10, i barnets lov kan bevares under midlertidige ophold i udlandet, herunder når modtageren holder ferie i udlandet, jf. § 1 i bekendtgørelse nr. 1368 af 28. november 2023 om ydelser efter lov om social service og barnets lov under midlertidige ophold i udlandet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 3) Budget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af den samlede ansøgning, budget samt eventuelle budgetnoter vil følgende blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er sammenhæng mellem de beskrevne aktiviteter og de udgiftstyper, som fremgår af budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om projektafgrænsede udgifter rettet mod at yde støtte til koloniophold, familieferier i ind- og udland og kursusvirksomhed for børn og unge med handicap og deres forældre og søskende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet er realistisk, og udelukkende indeholder tilskudsberettigede og nødvendige udgifter, som direkte kan henføres til det konkrete projekts gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der må således ikke budgetteres med udgifter, som ikke direkte kan henføres til det konkrete projekt, eller udgifter der ikke kan gives tilskud til.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om udgifter er specificeret i budgettet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter kan således ikke samles i overordnede budgetposter som overhead, administrationsbidrag og diverse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan ikke budgetteres med uforudsete udgifter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet udviser sparsommelighed ved fastlæggelse af niveauerne i budgetposterne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun i særlige tilfælde ydes tilskud til udgifter, som er afholdt, før der blev ydet tilskud, hvis udgifterne har en klar tilknytning til projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 4) Sammenhæng:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, organisering, budget mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingen foretages på baggrund af ansøgers samlede beskrivelse af projektet under ovenstående tildelingskriterier samt budgettet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">7 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indtastes i Excel-dokumentet ”Budgetskema”, som kan hentes på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved indsendelse af ansøgningen vedlægges budgetskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at følgende oplysninger angives i budgettet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Organisationens navn</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets titel</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers identifikation (CVR-nummer)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers navn og adresse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal udgøre en fyldestgørende og sandfærdig beskrivelse af projektets forventede udgifter i forhold til det ansøgte projekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal oplyses, hvis der er en økonomisk interesse mellem ansøger og projektets samarbejdspartnere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil fx være tilfældet, hvis der er personsammenfald mellem projektets medarbejdere og leverandører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Periodiserede budgetter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgifterne skal periodiseres, således at udgiften budgetteres i det kvartal, den forventes afholdt i det pågældende projektår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Gennemsnitstal kan således ikke anvendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Enhedspriser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle udgiftsposter skal så vidt muligt udspecificeres i antal enheder og pris pr. enhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis projektet fx indebærer afholdelse af to ens aktiviteter inden for det samme kvartal, og hver af aktiviteterne koster 10.000 kr., anføres to enheder á 10.000 kr. de kvartaler, hvor aktiviteten og dermed udgifterne forventes afholdt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved angivelsen af flere hjælpere eller børnepassere skrives samlet antal timer og timeløn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Antal medarbejdere specificeres i en note, så der kan laves en beregning af timepris.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Noter til budgettet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved behov skal der udarbejdes forklarende noter til de udgiftsposter, som anføres i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en af budgetposterne fx er ”Seminar”, kan noten indeholde oplysninger om forventet antal deltagere, seminarets varighed (antal dage, med eller uden overnatning), pris pr. deltager, honorar til oplægsholder mv. Noten skal således dels klarlægge indholdet af den enkelte aktivitet og dels klarlægge forudsætningerne for udgiftens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Forklarende noter kan indføres i budgetskemaet i kolonne C – Kommentar eller i arket under fanen Budgetnoter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved eventulle arrangementer der holdes for børn, mens deres forældre deltager i kursusvirksomhed, skal dette specificeres i budgettet som note.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">8 Beregning af tilskud (fordelingsnøgle)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet i ansøgningspuljen fordeles blandt alle tilskudsberettigede ansøgere ud fra en fordelingsnøgle, som skal medvirke til at sikre, at tilskuddene fordeles nogenlunde ligeligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fordelingsnøglen tager udgangspunkt i antallet af tilskudsberettigede ansøgninger samt det samlede ansøgte beløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover er der fastlagt et bevillingsloft på max.</Char>
+        </Linea>
+        <Linea>
+          <Char>300.000 kr. pr. ansøgning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at der ikke ydes tilskud på mere end 300.000 kr. Dette beløb kan dog reduceres yderligere ved mange tilskudsberettigede ansøgninger og et stort samlet ansøgt beløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøger skal være opmærksom på, at der kan gives afslag, hvis der søges et tilskud på over 300.000 kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Alle tilskudsberettigede ansøgninger er som udgangspunkt sikret et grundtilskud på min.</Char>
+        </Linea>
+        <Linea>
+          <Char>100.000 kr., med mindre der søges om mindre, eller ansøgningen indeholder ikke-tilskudsberettigede udgifter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">9 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der er tilskudsberettigede i forhold til tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til koloniophold, familieferie i ind- og udland og kursusvirksomhed for børn og unge med handicap og deres forældre og søskende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lønudgifter der afholdes i forbindelse med, at medarbejdere deltager i projektet, herunder merudgifter til hjælpere der ikke er dækket af anden lovgivning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Konsulenthonorarer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til revisor.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige forsikringer, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til transport.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter til transport i egen bil kan højst udgøre statens lave takst pr. km.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til lokaler.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Småanskaffelser, herunder kontorhold.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til børnepasning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til ophold og forplejning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til arrangementer for børn der afholdes i forbindelse med kursusvirksomhed for forældrene.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>12)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Andre relevante udgifter til projektets gennemførelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">10 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der ikke kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Materielanskaffelser for over 50.000 kr. pr. år.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Anskaffelse af fast ejendom.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Anlægsudgifter, herunder ombygning og renovering.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af underskud.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilskud til enkeltpersoners underhold.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter der fuldt ud er finansieret fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Generelle uddannelses- og kursusaktiviteter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det vil sige, kurser der ikke er rettet puljens målgruppe.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter for personer uden lovligt ophold i Danmark.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til projekter forankret i udlandet samt Grønland og Færøerne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Drift.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Organisationers deltagelse i internationale kongresser og konferencer, generalforsamlingsaktiviteter mv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>12)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>PR og annoncering.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>13)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Behandlingstilbud.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>14)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter der dækkes af anden lovgivning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">11 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den 23. april 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>12:00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, budgetskema og eventuelle bilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgere </Char>
+          <Char formaChar="Bold">kan</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til tilskudsforvaltning@sbst.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle</Char>
+          <Char> ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgives på den ansøgningsblanket og i det budgetskema, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget</Char>
+          <Char> i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede, eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+              <Linea>
+                <Char>Dokumentationen skal bestå af en</Char>
+                <Char formaChar="Bold"> beskrivelse</Char>
+                <Char> af problemet samt af et eller flere </Char>
+                <Char formaChar="Bold">skærmprint</Char>
+                <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever</Char>
+          <Char formaChar="Bold"> it-problemer på egne systemer</Char>
+          <Char>, er det jeres eget ansvar at afhjælpe disse, fx i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningen, at ansøger skal eller kan indsende specifikke bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema eller budgetskema, hvis alle obligatoriske bilag ikke er vedlagt ansøgningen, eller hvis eventuelle anslagsbegrænsninger (anslag inkl.</Char>
+        </Linea>
+        <Linea>
+          <Char>mellemrum) i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">12 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">13 Ved opnåelse af støtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetalingerne vil ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem oprette en Nem-Konto.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside via følgende link: https://sbst.dk/puljer-og-tilskud/tilskudsportal/faq-om-udbetalinger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Forpligtelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis der opnås et tilskud, er der en række forpligtelser, som skal overholdes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Disse fremgår af bekendtgørelse om ansøgningspuljen og afgørelsen (”tilskudsbrevet”).</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er fx tale om pligt til at indsende relevante dokumenter, rapporter og regnskab.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis en tilskudsmodtager ikke overholder forpligtelserne, kan Social- og Boligstyrelsen fx beslutte, at tilskuddet tilbageholdes, bortfalder eller skal tilbagebetales.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ide056e42f-d4a5-4560-9013-9417d194dd9f">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

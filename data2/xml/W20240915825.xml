@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id86fa5f5d-5638-4db3-9cd6-359f61ee8c2b" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id7b9e6a45-5b28-4363-b9ec-f0f32a0acd15">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240915825</AccessionNumber>
+    <DocumentId>AA014145</DocumentId>
+    <UniqueDocumentId>242540</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-08035</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>9158</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-08035</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="ide51a90ae-80d3-429b-8aed-0778b6f7b1a6">
+    <Titel id="ide2c6588b-3df1-467e-b02f-3fd4749229e1">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-08035</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida037b679-c55c-4aae-b7c0-da358ba015d6">
+    <Resume id="id80dbceb3-c965-4226-bdee-858166ffddf4">
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>får B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>får ikke kritik for omtale af konkursikke kritik for omtale af konkurs</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I en artikel bragt i oktober 2023 omtalte B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T., at en tidligere forretningsmands holdingselskab var blevet erklæret konkurs, og at konkursen skyldes, at hans firma ikke kunne overholde en aftale om et byggeprojekt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kort efter offentliggørelsen modtog B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>en indsigelse fra forretningsmanden om, at oplysningen var ukorrekt, idet det var en kundes firma, der ikke kunne overholde en aftale om et byggeprojekt.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte straks herefter en rettelse i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den omtalte forretningsmand klagede til Pressenævnet blandt andet over, at artiklen indeholdt ukorrekte oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt, at den ukorrekte oplysning om årsagen til konkursen af holdingselskabet kunne virke agtelsesforringende for forretningsmanden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter en samlet vurdering fandt nævnet imidlertid, at der ikke var grundlag for at kritisere, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte den ukorrekte oplysning, og nævnet lagde i den forbindelse vægt på den korte tid, der forløb før rettelsen blev bragt.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id36098c14-3318-45ef-a408-770f0c458d9e">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget til Pressenævnet over artiklen </Char>
+          <Char formaChar="Italic">”Dømt for svindel – nu er han erklæret personlig konkurs”</Char>
+          <Char>, som blev</Char>
+          <Char formaChar="Italic"></Char>
+          <Char>bragt af B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>den 25. oktober 2023 på bt.dk, idet han mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklen indeholder ukorrekte oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den påklagede artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>18.57 artiklen ”</Char>
+          <Char formaChar="Italic">Dømt for svindel – nu er han erklæret personlig konkurs</Char>
+          <Char>” på bt.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Artiklen har følgende underrubrik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Klager], der blev dømt for økonomisk svindel og dokumentfalsk ved retten i Helsingør i august, er løbet ind i nye retslige vanskeligheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgik følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Finans kan nemlig beskrive, at den svindeldømte forretningsmand er gået personligt konkurs.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>tidligere har beskrevet, har [Klager] ikke altid været hans kaldenavn, og han har gennem sin finansielle karriere også skiftet navn et par gange.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En gennemgang af CVR-registret, som Finans har lavet, viser, at den dømte svindler under tre forskellige navne har haft direktørposter i 14 danske selskaber, og at 12 af de selskaber enten er under opløsning, konkursbehandling eller allerede er blevet opløst efter konkurs.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I juli erklærede skifteretten [Klager] personligt konkurs på baggrund af en gæld på 1,1 millioner kroner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge Finans er der tale om skattegæld, parkeringsbøder, inkassoomkostninger, renter og gebyrer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den 18. september blev hans ejendomsselskab [Ejendomsselskabet] sendt i opløsning af Erhvervsstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dagen efter erklærede skifteretten hans holdingselskab [Holdingselskabet] konkurs.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed kunne [Holdingselskabet] ikke overholde sine forpligtelser og gik konkurs, fortæller [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han skylder ifølge konkursbegæringen mere end én million kroner i selskabsskat og ubetalte rykkergebyrer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selvom der er tale om et højt beløb, tager [Klager] det ikke så tungt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>»Jeg tager det skam helt roligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så snart boet er afsluttet, bliver skattegælden afviklet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt jeg ønsker at afvikle den nu, så skal jeg også betale omkostninger til kurator, og det agter jeg på ingen måder at gøre,« lyder det til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Kan betale hurtigt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Til Finans har han udtalt, at beløbet er ’småpenge’ for ham, og at han allerede har tilbudt skat at afvikle gælden på 3-6 måneder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Da [Klager] er dømt personlig konkurs, er det nærliggende at spørge, hvor pengene til skattegælden skal komme fra.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men det ønsker han ikke at gå ind i, da der er tale om investorer, som han angiveligt har fortrolighedsaftaler med.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>»Der bliver ikke sagt yderligere til dette,« lyder det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har overfor B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>gjort det klart, at han gerne vil have nævnt, at der tidligere er blevet afvist en sag om konkurskarantæne mod ham ved retten i Holstebro.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Planlægger at flytte fra Danmark</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I retsbogen fra den personlige konkurs fremgår det også, at [Klager] planlagde at flytte til Dubai, men at det ikke er en mulighed, fordi skifteretten skal give lov, når man er under konkursbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Og hvis han får lov, er [Klager] da også på vej mod varmere himmelstrøg for 6 måneder hvert år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>»Absolut, har fået oprettet mine selskaber og bankforbindelser dernede og kigger efter boliger,« fortæller han.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tidligere er [Klager] dømt for økonomisk svindel i 2008 og 2014.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Begge gange fik han behandlingsdomme, men i dommen fra Helsingør i august var der tale om en dom på tre års fængsel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han har anket dommen.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Efter offentliggørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>rettede den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.22 sætningen ”Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger” til ”Konkursen af [Holdingselskabet] skyldes, at en kundes firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger” i artiklens brødtekst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage er modtaget i Pressenævnet den 25. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at artiklen indeholder ukorrekte oplysninger, og at hans kommentarer til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>er bevidst manipuleret og udeladt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har henvist til følgende afsnit fra artiklen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Konkursen skyldes, at [Klager]s kunde, som han havde en købsaftale med, og som manglede at betale selskabets honorar for et byggeprojekt, ikke kunne overholde aftalen og dermed ikke kunne betale [Holdingselskabet].</Char>
+        </Linea>
+        <Linea>
+          <Char>Det var således ikke [Klager], som ikke kunne overholde en aftale om et byggeprojekt, men hans kunde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har gentagne gange og udtrykkeligt forklaret dette til den pågældende journalist og fremvist dokumentation herfor, blandt andet en meget detaljeret redegørelse for baggrunden for konkursen samt en skrivelse, som Skattestyrelsen havde fået.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var meget materiale, som med lethed redegjorde for baggrunden for konkursen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afslutningsvis har [Klager] bemærket, at der er ytringsfrihed i Danmark, og at det ikke som anført af B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>er chikane eller trusler, at han taler grimt til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s journalist og siger sin mening om personer, der bevidst lyver, ”spinner” en historie til deres fordel, eller prøver bevidst at glemme bagvedliggende detaljer, for at tegne et så grimt billede som muligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">T.s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har indledningsvis bemærket, at klagen er problematisk, idet B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>ikke har haft behandlingstid til at vurdere, besvare og tage aktion på [Klager]s henvendelse til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T., før han sendte en klage til Pressenævnet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] skrev første gang til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.01:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Så du valgte at lyve igen igen din lille usle løgneriske møgkost :)))</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvem fuck tror du egentligt at du er din latterlige so?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tror du at du kan lyve og fylde folk med pis og er Gud ?</Char>
+        </Linea>
+        <Linea>
+          <Char>?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det har jeg ikk sagt din fuckin lille løgner</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Så få styr på det pis omgående og få det ændret nu din lille kost, ved ikke hvem fuck du tror du er din klamme løgner”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] skrev igen til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.20:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Det er bevidst falsk det du skriver og det skal ændres omgående.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det var ikke [Holdingselskabet] der ikke kunne overholde en aftale om et byggeprojekt men en kunde der skyldte [Holdingselskabet] 3 mio for et byggeprojekt, som ikke kunne overholde aftalen og ikke betale mig og dermed led jeg et tab.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>At du et snot hamrende dum og en klam løgner, der egentlig helst burde ligge og rådne i grav til alles glæde er en ting, men lad vær med at lyv om ting du har fået forklaret detaljeret din klamme løgner Få det ændret nu, som i nu, fattet?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>svarede [Klager] den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.22, at artiklens ordlyd, som han klagede over, stemte overens med, hvad B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>modtog af ham selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>skrev ligeledes, at [Klager]s tone ikke vil tolereres.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>tilrettede herefter, uden ugrundet ophold, artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s opfattelse, at der er bragt orden i uoverensstemmelsen i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har således reageret hurtigt og tilrettet artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>erfarede herefter, at [Klager] sendte en klage til Pressenævnet den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at [Klager] gav B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>en behandlingstid på 15 minutter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er efter B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s opfattelse problematisk og på ingen måde retvisende for mediers ageren i forhold til god presseskik i dialog med involverede parter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afslutningsvis har B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bemærket, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har haft en længere korrespondance med [Klager], som B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har valgt at politianmelde ham for chikane og trusler.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har anset det som nødvendigt at påpege for Pressenævnet, at [Klager]s metode er uhørt, og at [Klager]s ageren er yderst ukonstruktiv i dialogen om god presseskik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Karl Erik Stougaard, Lene Sarup og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklen indeholder ukorrekte oplysninger, og at hans kommentarer til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>er bevidst manipuleret og udeladt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der gives eller gengives, er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berigtigelse af urigtige meddelelser skal finde sted på redaktionens eget initiativ, hvis og så snart kendskab til fejl af betydning i de bragte meddelelser indgår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berigtigelsen skal foretages i en sådan form, at læserne, lytterne eller seerne får klar mulighed for at blive opmærksom på berigtigelsen, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1 og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 12, at redaktøren er ansvarlig for indholdet af en artikel eller udtalelse, som har været bragt navngiven i et andet massemedie, og som gengives i redaktørens skrift.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at en artikel er offentliggjort af Finans, ændrer således ikke B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s ansvar for at overholde god presseskik.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>skal stille samme krav til korrektheden i formidlingen af andres nyheder, som de stiller til deres egne nyheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker endvidere, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe de samlede indtryk giver et retvisende billede.</Char>
+        </Linea>
+        <Linea>
+          <Char>Citater og meningstilkendegivelser må imidlertid ikke bringes i en form, så det forvansker det fremførte synspunkt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at følgende afsnit fra artiklen er ukorrekt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har henvist til, at konkursen skyldes, at hans kunde, som han havde en købsaftale med, og som manglede at betale selskabets honorar for et byggeprojekt, ikke kunne overholde aftalen og dermed ikke kunne betale [Holdingselskabet].</Char>
+        </Linea>
+        <Linea>
+          <Char>Det var således ikke [Klager], som ikke kunne overholde en aftale om et byggeprojekt, men hans kunde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>18.57 artiklen ”</Char>
+          <Char formaChar="Italic">Dømt for svindel – nu er han erklæret personlig konkurs</Char>
+          <Char>” på bt.dk, hvori følgende påklagede afsnit fremgik af artiklens brødtekst:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge [Klager] skyldes konkursen af [Holdingselskabet], at hans firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af sagens oplysninger lægger Pressenævnet til grund, at [Klager] den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.01 og 20.20 rettede henvendelse til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>med anmodning om rettelse af ovenstående afsnit, idet han oplyste, at det ikke var [Holdingselskabet], som ikke kunne overholde en aftale om et byggeprojekt, men en kunde, der skyldte [Holdingselskabet] 3 mio. kr. for et byggeprojekt, som ikke kunne overholde aftalen og ikke betale [Klager], som dermed led et tab.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger endvidere til grund, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.22 svarede [Klager], at afsnittet, som han klagede over, stemte overens med, hvad B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>modtog af ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>rettede samtidig i artiklens brødtekst, hvor det påklagede afsnit blev erstattet af følgende afsnit:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Konkursen af [Holdingselskabet] skyldes, at en kundes firma ikke kunne overholde en aftale om et byggeprojekt efter stigende renter og omkostninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at medier som udgangspunkt bør bringe en særskilt nyhed om en rettelse, så læsere af en oprindelig artikel med fejl bliver gjort opmærksom på en rettelse, da oprindelige læsere ikke kan forventes på ny at klikke ind på en artikel og på den måde blive gjort bekendt med en rettelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Under hensyn til, at artiklen blev offentliggjort den 25. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>18.57, og at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>– efter at have modtaget [Klager]s indsigelser samme dag kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.01 og 20.20 – allerede samme dag kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>20.22 rettede den ukorrekte gengivelse af [Klager]s citat til journalisten, finder nævnet, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har foretaget en behørig berigtigelse af forholdet, så snart B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>fik kendskab hertil.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder på den ene side, at den ukorrekte oplysning om, at konkursen af [Klager]s holdingselskab [Holdingselskabet] skyldes, at hans firma ikke kunne overholde en aftale om et byggeprojekt, der relaterer sig til [Klager]s omdømme og hverv som direktør for en række virksomheder, kan virke agtelsesforringende for ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>På anden side finder nævnet, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>meget hurtigt efter offentliggørelsen rettede oplysningen, der er af erhvervsmæssig karakter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter en samlet vurdering finder nævnet, henset til den korte tid, der forløb før rettelsen blev bragt, at der ikke er grundlag for at kritisere, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte den ukorrekte oplysning om årsagen til konkursen af [Holdingselskabet].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id5a0147c5-f163-4065-a75f-668fa34fa9b6" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idf048d6a1-a924-4442-806a-e7bad80d205b">
+    <DocumentType>CIR1Æ#LOKDOK13</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240914009</AccessionNumber>
+    <DocumentId>AA014112</DocumentId>
+    <UniqueDocumentId>242251</UniqueDocumentId>
+    <DocumentTitle>Cirkulære om ændring af cirkulære om landsretternes, Sø- og Handelsrettens og byretternes åbningstider</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-15</EndDate>
+    <Status>Valid</Status>
+    <Number>9140</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Subject>Åbningstider</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">KRISTIAN HERTZ</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Laila Lindemark</Signature>
+    <PlaceOfSignature>Domstolsstyrelsen</PlaceOfSignature>
+    <JournalNumber>Justitsmin.,\nDomstolsstyrelsen, j.nr. 24/03113 </JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Domstolsstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="ided6ca1fc-0bcc-49f7-864c-2653400aa2b6">
+    <Titel id="id722d53c0-650c-4e3e-945a-1aa2ef197199">
+      <Linea>
+        <Char>Cirkulære om ændring af cirkulære om landsretternes, Sø- og Handelsrettens og byretternes åbningstider</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idf1d37ff5-b40b-433b-b826-be28e96d1d9f">
+    <AendringCentreretParagraf id="idcd1ef5e5-5b10-44d9-8753-a58021bff08e">
+      <Explicatus>§ 1</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I cirkulære nr. 9652 af 31. august 2021 om landsretternes, Sø- og Handelsrettens og byretternes åbningstider, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id55e307cf-a0d2-40ef-a5c9-1d68fbaf55c1">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id1540a46b-dba2-4d8d-9d9d-1fe5a0083716">
+          <AendringDefinition id="id97338a45-7bd1-4200-a8b8-7ff5b4d0a16f">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2,</Char>
+                <Char> affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6ab7f6b5-d5f7-4ce7-8cbc-cf5e8854f097">
+            <AendringNyTekst>
+              <Stk id="idf8355466-7eff-4eda-ad45-9bad4b8d647c">
+                <Explicatus>Stk. 2.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Byretterne kan undtagelsesvis for en kortere tid beslutte at begrænse åbningstiden for telefonisk betjening i en afdeling, hvis der er behov for det.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char>Den ændrede telefonbetjening skal annonceres tydeligt på retternes hjemmeside.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="id9ba3fc25-ae7d-41d0-84a2-8a7ccf0251a0">
+      <Explicatus>§ 2</Explicatus>
+      <Stk id="id75a1d6d5-9c3a-46f7-ac1d-78613b3eeb57">
+        <Exitus>
+          <Linea>
+            <Char>Bekendtgørelsen skal træde i kraft den 15. marts 2024.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id92e8efa8-f06e-4450-a3ee-d9e0f52997e1">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

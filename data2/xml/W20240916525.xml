@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id40e46e82-9a68-48d6-a8c9-d16ca1e701e7" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id734cf71c-31c7-476c-8512-25a84043e8fd">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240916525</AccessionNumber>
+    <DocumentId>AA014147</DocumentId>
+    <UniqueDocumentId>242564</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-08019</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-23</EndDate>
+    <Status>Valid</Status>
+    <Number>9165</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-08019</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id601e5a37-c2fe-4ca4-9174-375fc344dcb4">
+    <Titel id="idd712e8e5-5a30-4d5c-a188-77b925da771d">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-08019</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id32f0f57a-7a1c-48de-9460-0dda4e1de3b3">
+    <Resume id="idad55f965-4247-43b7-9c39-2eae4052473a">
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad får ikke kritik for omtale af en tiltale mod en navngiven person</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I oktober 2023 omtalte Vejle Amts Folkeblad i en artikel og i et Facebook-opslag en tiltale mod en navngiven person.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vejle Amts Folkeblad opdaterede løbende artiklens overskrift og brødtekst.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den tiltalte klagede til Pressenævnet blandt andet over, at han ikke var kommet til orde i forbindelse med omtalen, og at artiklens oprindelige overskrift ikke blev opdateret i Facebook-opslaget.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt ikke grundlag for at udtale kritik af Vejle Amts Folkeblad.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lagde blandt andet vægt på, at den tiltalte var kommet til orde i artiklen gennem sin advokat, og at artiklens oprindelige overskrift havde dækning i de faktiske forhold.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id6037c4bb-1f1f-4202-b919-8c9ec84ab6dc">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] ved [Person 1] har klaget til Pressenævnet over artiklen ”</Char>
+          <Char formaChar="Italic">[Person 2]s onkel skal for retten på mandag: Han sagde angiveligt 'jeg knepper dig, din mor og din datter' til en politibetjent</Char>
+          <Char>”, bragt på vafo.dk den 20. oktober 2023, idet [Klager] mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har blandt andet klaget over, at han ikke er kommet til orde, og at overskriften ikke har dækning i artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Påklaget artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad bragte den 20. oktober 2023 artiklen ”</Char>
+          <Char formaChar="Italic">[Person 2]s onkel skal for retten på mandag: Han sagde angiveligt 'jeg knepper dig, din mor og din datter' til en politibetjent”</Char>
+          <Char> vafo.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er øverst i artiklen indsat et billede af [Klager] til et fakkeltog.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgik ”Fakkeltog i [Bynavn 1] efter omtale af [Nationalitet] familie mfl der har trælse oplevelser med Sydøstjyllands Politi.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fredag 13. oktober 2023.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklens underrubrik fremgik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Verbalt overfald af politiet, forstyrrelse af den offentlige orden og modsætte sig anholdelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er [Klager] tiltalt for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det oplyser radiostationen 24syv, der har fået indsigt i to anklageskrifter.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn 1]: En af den forsvundne teenager [Person 2]s onkler, [Klager], skal i næste uge møde i Retten i [Bynavn 2].</Char>
+        </Linea>
+        <Linea>
+          <Char>Af sagens to anklageskrifter fremgår det, at [Klager] er tiltalt for i alt fem lovovertrædelser med mulig bødestraf.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det fortæller radiostationen "24syv", der har fået indsigt i anklageskrifterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] er kendt som onkel til den nu 17-årige forsvundne [Person 2] fra DR-dokumentaren “[Dokumentaren]”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge det ene anklageskrift er [Klager] blandt andet tiltalt for 2. november 2022 at “have overfaldet tjenestegørende politiassistent med hån, skældsord eller anden fornærmelig tiltale ved at udtale: ‘du er en hund og en idiot’ og ‘jeg knepper dig, din mor og din datter,’ eller lignende.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er ved samme lejlighed tiltalt for “at have modsat sig anholdelse, idet tiltalte fysisk spændte op i kroppen i forbindelse med, at de tilstedeværende politibetjente foretog anholdelse og forsøgte at ilægge ham håndjern samt flytte ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Derudover er [Klager] ifølge 24syv også tiltalt for 5. august 2022 at “have optrådt støjende og fornærmeligt ved højt at sige: ‘[Bynavn 1] Politi er korrupt’, og ‘[Bynavn 1] politi har kidnappet min nevø’, eller lignende”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge anklageskriftet var disse udråb “egnet til at forstyrre den offentlige orden.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I det andet anklageskrift er der to tiltalepunkter, som daterer sig tilbage til 2021.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her fremgår det, at [Klager] er tiltalt for at have “forhindret” en anholdelse, og at han har optrådt støjende ved at råbe: “Hjælp, politiet angriber os.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>24syv har talt med familiens advokat, [Advokaten], der fortæller, at [Klager] nægter sig skyldig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Han siger, han ikke har begået de ting, som politiet klandrer ham for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han siger, at der ikke er nogen saglig begrundelse for anklagerne, og at det er chikane fra politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så må retten tage stilling til, om han har begået det eller ej, fortæller [Advokaten] til 24syv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s retsmøder er ifølge 24 syv berammet 23. og 24. oktober.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Omtale på Vejle Amts Folkeblads Facebook-sode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad bragte den 20. oktober 2023 et opslag på mediets Facebook-side, facebook.com/vejleamtsfolkeblad/, med omtale af den påklagede artikel.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af opslaget fremgår et billede af [Klager] med link til artiklen og teksten: ”Onklen nægter sig skyldig, oplyser familiens advokat [Advokaten]”.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Efter offentliggørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Artiklens overskrift blev den 20. oktober 2023 ændret til ”</Char>
+          <Char formaChar="Italic">[Person 2]s onkel skal for retten for at have sagt til betjent ’jeg knepper dig, din mor og din datter.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">’ Onklen vil bevise, at det ikke er sandt</Char>
+          <Char>”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Artiklens brødtekst blev endvidere af flere omgange samme dag opdateret med mindre tilføjelser og har senest følgende ordlyd:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn 1]: En af den forsvundne teenager [Person 2]s onkler, [Klager], skal i næste uge møde i Retten i [Bynavn 2].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af sagens to anklageskrifter fremgår det, at [Klager] er tiltalt for i alt fem lovovertrædelser med mulig bødestraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fortæller radiostationen "24syv", der har fået indsigt i anklageskrifterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er kendt som onkel til den nu 17-årige forsvundne [Person 2] fra DR-dokumentaren "[Dokumentaren]", der har vakt voldsom opsigt og debat, siden den blev vist forrige mandag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge det ene anklageskrift er [Klager] blandt andet tiltalt for 2. november 2022 at "have overfaldet tjenestegørende politiassistent med hån, skældsord eller anden fornærmelig tiltale ved at udtale: 'du er en hund og en idiot' og 'jeg knepper dig, din mor og din datter,' eller lignende."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">"[Bynavn 1] Politi har kidnappet min nevø"</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er ved samme lejlighed tiltalt for "at have modsat sig anholdelse ved fysisk at spænde op i kroppen i forbindelse med, at de tilstedeværende politibetjente foretog anholdelse og forsøgte at ilægge ham håndjern samt flytte ham."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selv siger sagens hovedperson, [Klager], at han tager retssagerne mod ham helt roligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg er uskyldig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Min familie har nu været trukket i retten utallige gange i næsten tre år, så vi er vant til det.</Char>
+        </Linea>
+        <Linea>
+          <Char>De pågældende sager har også allerede været i retten tidligere, hvor vi har hørt politiets forklaring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derefter blev sagerne udskudt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så nu ser jeg frem til at fremlægge mine beviser, der siger det modsatte, og så må dommeren jo afgøre sagen, siger [Klager] til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udover anklagerne vedrørende anholdelsen den 2. november 2022 er [Klager], ifølge 24syv, også tiltalt for 5. august 2022 at "have optrådt støjende og fornærmeligt ved højt at sige: '[Bynavn 1] Politi er korrupt', og '[Bynavn 1] Politi har kidnappet min nevø', eller lignende."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge anklageskriftet var disse udråb "egnet til at forstyrre den offentlige orden" og dermed ulovlige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">'Ja, politiet angreb os og slog mine brødre'</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Anklageskriftet har også to tiltalepunkter, som daterer sig tilbage til 2021.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her fremgår det, at [Klager] er tiltalt for at have "forhindret" en anholdelse, og at han har optrådt støjende ved at råbe: "Hjælp, politiet angriber os."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ja, jeg kender godt sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og ja, politiet angreb os jo.</Char>
+        </Linea>
+        <Linea>
+          <Char>De slog to af mine brødre, og det var en ulovlig politiforretning, Det har vi allerede fået fastslået, ligesom vi har oplevet, at politimændene har løjet i retten gang på gang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så det er godt, at vi har vores beviser, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg har i øvrigt fået oplyst, at betjentene ikke ønsker at møde op i retten fysisk.</Char>
+        </Linea>
+        <Linea>
+          <Char>I stedet vil de ifølge, hvad anklagemyndigheden har sagt til min advokat, kun deltage i retsmødet på mandag på video.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis det er rigtigt, vil jeg også kræve, at jeg ikke behøver at møde op i retten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der bør gælde de samme regler for os alle, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Chikane fra politiet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>24syv har talt med familiens advokat, [Advokaten], der bekræfter, at [Klager] nægter sig skyldig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Han siger, han ikke har begået de ting, som politiet klandrer ham for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han siger, at der ikke er nogen saglig begrundelse for anklagerne, og at det er chikane fra politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så må retten tage stilling til, om han har begået det eller ej, udtaler [Advokaten] til 24syv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s retsmøder er berammet til 23. og 24. oktober.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad indsatte den 30. oktober 2023 følgende passus øverst i artiklen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”OPDATERET DEN 20.</Char>
+        </Linea>
+        <Linea>
+          <Char>OKTOBER MED KOMMENTAR FRA [KLAGER]:”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage er modtaget i Pressenævnet den 20. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Retsreportage</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">- Objektivitet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Vejle Amts Folkeblad ikke har indhentet hans kommentar inden offentliggørelse af den påklagede artikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hertil har [Klager] anført, at han først kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>17.25 blev kontaktet af Vejle Amts Folkeblad vedrørende hans kommentar til anklagerne i anklageskriftet, det vil sige cirka en time efter offentliggørelsen af artiklen kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>15.54.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere klaget over, at Vejle Amts Folkeblad ikke har gjort opmærksom på, at der er foretaget ændringer i artiklen efter offentliggørelsen, herunder at artiklen er blevet opdateret med hans kommentar.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har [Klager] bemærket, at der ikke af artiklen fremgår et opdateringstidspunkt, men alene artiklens offentliggørelsestidspunkt, hvilket er misvisende, og det hører ingen steder hjemme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har desuden afvist, at mediet har gjort opmærksom på, at artiklen er opdateret med hans kommentar, før mediet blev bekendt med hans klage herom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Overskrifters dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklens oprindelige overskrift ”</Char>
+          <Char formaChar="Italic">[Person 2]s onkel skal for retten på mandag: Han sagde angiveligt 'jeg knepper dig, din mor og din datter' til en politibetjent”</Char>
+          <Char> fortsat fremgår af Vejle Amts Folkeblads Facebook-opslag, selv om overskriften er blevet opdateret i selve artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forlængelse heraf har [Klager] anført, at Vejle Amts Folkeblad både opdaterede artiklens brødtekst med hans kommentar og artiklens overskrift, men at den oprindelige overskrift fortsat fremgår af mediets Facebook-opslag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har hertil anført, at Vejle Amts Folkeblad bevidst har undladt at opdatere artiklens overskrift i deres Facebook-opslag, idet de gentagne gange har bragt urigtige oplysninger, og at den manglende opdatering gør sagen værre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 Vejle Amts Folkeblads synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har indledningsvist bemærket, at de modtog en citathistorie bragt af 24syv ved mail fra Ritzau Monitor den 20. oktober 2023 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>15.42, og at de har videreformidlet historien på deres hjemmeside vafo.dk, da de har vurderet, at den er væsentlig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hertil har Vejle Amts Folkeblad anført, at dækningen af anklagerne mod [Klager] er af meget væsentlig karakter for offentligheden henset til hans og hans families rolle i dækningen af [Person 2]-sagen, hvor de er i konflikt med det lokale politi.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Retsreportage</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">- Objektivitet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har bemærket, at de gennem et telegram fra Ritzau bragt af 24syv loyalt har videreformidlet oplysninger fra et offentligt tilgængeligt anklageskrift, og at de naturligvis har fået [Klager]s reaktion på anklagerne i anklageskriftet gennem hans advokat [Advokaten], og at reaktionen fremgik af den oprindelige artikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har Vejle Amts Folkeblad henvist til følgende passage i den påklagede artikel:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”24syv har talt med familiens advokat, [Advokaten], der fortæller, at [Klager] nægter sig skyldig: ”Han siger, han ikke har begået de ting, som politiet klandrer ham for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han siger, der ikke er nogen saglig begrundelse for anklagerne, og at det er chikane fra politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så må retten tage stilling til, om han har begået det eller ej,” det fortæller [Advokaten] til 24syv.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har endvidere anført, at selv om [Klager]s reaktion på anklagerne fremgår af artiklen gennem hans advokat, har mediet alligevel valgt at indhente yderligere kommentarer direkte fra [Klager] for at belyse sagen så journalistisk fyldestgørende som muligt, og at artiklen efterfølgende er opdateret med hans kommentarer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har imidlertid bemærket, at mediet ikke i forbindelse med opdateringen af artiklen har tilføjet en passus herom, idet mediet vurderede, at der ikke var tale om afgørende oplysninger, henset til at [Klager] var blevet hørt gennem hans advokat [Advokaten].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har dog bemærket, at mediet efterfølgende har indsat følgende passus øverst i artiklen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”OPDATERET DEN 20.</Char>
+        </Linea>
+        <Linea>
+          <Char>OKTOBER MED KOMMENTAR FRA [KLAGER]</Char>
+          <Char formaChar="Italic">”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Overskrifters dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har afvist, at mediet bevidst har valgt ikke at opdatere artiklens overskrift i deres Facebook-opslag, fordi de gentagne gange har bragt urigtige oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hertil har Vejle Amts Folkeblad anført, at mediet naturligvis ikke har bragt urigtige oplysninger i den aktuelle historie eller i deres øvrige dækning af [Klager]s og hans families konflikt med politiet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Hans Peter Blicher, James Kristoffer Miles og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Retsreportage</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">- Objektivitet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Vejle Amts Folkeblad ikke har indhentet hans kommentar inden offentliggørelsen af artiklen, og at det ikke fremgår tilstrækkeligt, at hans kommentar er tilføjet til artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at retsreportagen skal være objektiv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så længe en straffesag ikke er endeligt afgjort eller bortfaldet, må der ikke offentliggøres meddelelser, der kan lægge hindringer i vejen for sagens opklaring, eller tilkendegivelser om, at en sigtet eller tiltalt er skyldig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved omtale af en straffesag skal det klart fremgå, om sigtede/tiltalte har erklæret sig skyldig eller ikke-skyldig, jf. punkt C.</Char>
+        </Linea>
+        <Linea>
+          <Char>3 og C.</Char>
+        </Linea>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 12, at redaktøren er ansvarlig for indholdet af en artikel eller udtalelse, som har været bragt navngiven i et andet massemedie, og som gengives i redaktørens skrift.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at en omtale er offentliggjort af 24syv, ændrer således ikke Vejle Amts Folkeblads ansvar for at overholde god presseskik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vejle Amts Folkeblad skal stille samme krav til korrektheden i formidlingen af andres nyheder, som de stiller til deres egne nyheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker herefter generelt, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe det samlede indtryk giver et retvisende billede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af den påklagede artikel fremgik blandt andet følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn 1]: En af den forsvundne teenager [Person 2]s onkler, [Klager], skal i næste uge møde i Retten i [Bynavn 2].</Char>
+        </Linea>
+        <Linea>
+          <Char>Af sagens to anklageskrifter fremgår det, at [Klager] er tiltalt for i alt fem lovovertrædelser med mulig bødestraf.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det fortæller radiostationen "24syv", der har fået indsigt i anklageskrifterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] er kendt som onkel til den nu 17-årige forsvundne [Person 2] fra DR-dokumentaren “[Dokumentaren]”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge det ene anklageskrift er [Klager] blandt andet tiltalt for 2. november 2022 at “have overfaldet tjenestegørende politiassistent med hån, skældsord eller anden fornærmelig tiltale ved at udtale: ‘du er en hund og en idiot’ og ‘jeg knepper dig, din mor og din datter,’ eller lignende.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er ved samme lejlighed tiltalt for “at have modsat sig anholdelse, idet tiltalte fysisk spændte op i kroppen i forbindelse med, at de tilstedeværende politibetjente foretog anholdelse og forsøgte at ilægge ham håndjern samt flytte ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Derudover er [Klager] ifølge 24syv også tiltalt for 5. august 2022 at “have optrådt støjende og fornærmeligt ved højt at sige: ‘[Bynavn 1] Politi er korrupt’, og ‘[Bynavn 1] politi har kidnappet min nevø’, eller lignende”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge anklageskriftet var disse udråb “egnet til at forstyrre den offentlige orden.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I det andet anklageskrift er der to tiltalepunkter, som daterer sig tilbage til 2021.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her fremgår det, at [Klager] er tiltalt for at have “forhindret” en anholdelse, og at han har optrådt støjende ved at råbe: “Hjælp, politiet angriber os.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>24syv har talt med familiens advokat, [Advokaten], der fortæller, at [Klager] nægter sig skyldig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Han siger, han ikke har begået de ting, som politiet klandrer ham for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han siger, at der ikke er nogen saglig begrundelse for anklagerne, og at det er chikane fra politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så må retten tage stilling til, om han har begået det eller ej, fortæller [Advokaten] til 24syv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s retsmøder er ifølge 24 syv berammet 23. og 24. oktober.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af den opdaterede artikel fremgår blandt andet følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”OPDATERET DEN 20.</Char>
+        </Linea>
+        <Linea>
+          <Char>OKTOBER MED KOMMENTAR FRA [KLAGER]:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Bynavn 1]: En af den forsvundne teenager [Person 2]s onkler, [Klager], skal i næste uge møde i Retten i [Bynavn 2].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af sagens to anklageskrifter fremgår det, at [Klager] er tiltalt for i alt fem lovovertrædelser med mulig bødestraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fortæller radiostationen "24syv", der har fået indsigt i anklageskrifterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er kendt som onkel til den nu 17-årige forsvundne [Person 2] fra DR-dokumentaren "[Dokumentaren]", der har vakt voldsom opsigt og debat, siden den blev vist forrige mandag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge det ene anklageskrift er [Klager] blandt andet tiltalt for 2. november 2022 at "have overfaldet tjenestegørende politiassistent med hån, skældsord eller anden fornærmelig tiltale ved at udtale: 'du er en hund og en idiot' og 'jeg knepper dig, din mor og din datter,' eller lignende."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">"[Bynavn 1] Politi har kidnappet min nevø"</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] er ved samme lejlighed tiltalt for "at have modsat sig anholdelse ved fysisk at spænde op i kroppen i forbindelse med, at de tilstedeværende politibetjente foretog anholdelse og forsøgte at ilægge ham håndjern samt flytte ham."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selv siger sagens hovedperson, [Klager], at han tager retssagerne mod ham helt roligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg er uskyldig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Min familie har nu været trukket i retten utallige gange i næsten tre år, så vi er vant til det.</Char>
+        </Linea>
+        <Linea>
+          <Char>De pågældende sager har også allerede været i retten tidligere, hvor vi har hørt politiets forklaring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derefter blev sagerne udskudt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så nu ser jeg frem til at fremlægge mine beviser, der siger det modsatte, og så må dommeren jo afgøre sagen, siger [Klager] til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udover anklagerne vedrørende anholdelsen den 2. november 2022 er [Klager], ifølge 24syv, også tiltalt for 5. august 2022 at "have optrådt støjende og fornærmeligt ved højt at sige: '[Bynavn 1] Politi er korrupt', og '[Bynavn 1] Politi har kidnappet min nevø', eller lignende."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge anklageskriftet var disse udråb "egnet til at forstyrre den offentlige orden" og dermed ulovlige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">'Ja, politiet angreb os og slog mine brødre'</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Anklageskriftet har også to tiltalepunkter, som daterer sig tilbage til 2021.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her fremgår det, at [Klager] er tiltalt for at have "forhindret" en anholdelse, og at han har optrådt støjende ved at råbe: "Hjælp, politiet angriber os."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ja, jeg kender godt sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og ja, politiet angreb os jo.</Char>
+        </Linea>
+        <Linea>
+          <Char>De slog to af mine brødre, og det var en ulovlig politiforretning, Det har vi allerede fået fastslået, ligesom vi har oplevet, at politimændene har løjet i retten gang på gang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så det er godt, at vi har vores beviser, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg har i øvrigt fået oplyst, at betjentene ikke ønsker at møde op i retten fysisk.</Char>
+        </Linea>
+        <Linea>
+          <Char>I stedet vil de ifølge, hvad anklagemyndigheden har sagt til min advokat, kun deltage i retsmødet på mandag på video.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis det er rigtigt, vil jeg også kræve, at jeg ikke behøver at møde op i retten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der bør gælde de samme regler for os alle, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Chikane fra politiet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>24syv har talt med familiens advokat, [Advokaten], der bekræfter, at [Klager] nægter sig skyldig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Han siger, han ikke har begået de ting, som politiet klandrer ham for.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han siger, at der ikke er nogen saglig begrundelse for anklagerne, og at det er chikane fra politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så må retten tage stilling til, om han har begået det eller ej, udtaler [Advokaten] til 24syv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s retsmøder er berammet til 23. og 24. oktober.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af sagens oplysninger lægger Pressenævnet til grund, at [Klager] var tiltalt for at have overfaldet en politiassistent i tjeneste med hån, skældsord eller anden fornærmelig tiltale, og at han nægter sig skyldig i tiltalen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at [Klager] er kommet til orde gennem sin advokat [Advokaten], hvis kommentar med klagers stillingtagen til tiltalen er gengivet i den påklagede artikel, hvor det fremgik klart, at [Klager] nægter sig skyldig, og at sagen mod ham forventes behandlet i november 2023.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder herefter, at retsreportagen var objektiv, og nævnet udtaler derfor ikke kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at Vejle Amts Folkeblad efter offentliggørelsen endvidere har indhentet en kommentar direkte fra [Klager] og opdateret artiklen med denne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet finder endvidere, at det ligger inden for redaktørens redigeringsret, at Vejle Amts Folkeblad undlod at tilføje en redaktionel passus om, at artiklen var opdateret med [Klager]s kommentar.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at Vejle Amts Folkeblad efterfølgende har opdateret den påklagede artikel med en redaktionel note om, at [Klager]s kommentar er blevet tilføjet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler herefter ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Overskrifters dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Vejle Amts Folkeblad ikke har opdateret det påklagede Facebook-opslag med den opdaterede overskrift på artiklen, således at den oprindelige overskrift fortsat fremgår af Facebook-opslaget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at overskrifter og mellemrubrikker skal i form og indhold have dækning i den pågældende artikel eller udsendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De under A og B anførte almindelige presseetiske regler gælder også for retsreportagen, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>6 og C.</Char>
+        </Linea>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af den oprindelige overskrift fremgik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Person 2]s onkel skal for retten på mandag: Han sagde angiveligt ’jeg knepper dig, din mor og din datter’ til en politibetjent”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af den opdaterede overskrift fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Person 2]s onkel skal for retten for at have sagt til betjent ’jeg knepper dig, din mor og din datter’.</Char>
+        </Linea>
+        <Linea>
+          <Char>Onklen vil bevise, at det ikke er sandt”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af det påklagede Facebook-opslag fremgår et billede af [Klager] med et link til artiklen med den oprindelige overskrift og teksten: ”Onklen nægter sig skyldig, oplyser familiens advokat [Advokaten]”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at formuleringen om, at ”[Person 2]s onkel skal for retten på mandag” og ”Han sagde angiveligt ’jeg knepper dig, din mor og din datter’ til en politibetjent” har dækning i de faktiske forhold, som angivet i anklageskrifterne, og som er nærmere beskrevet i artiklens brødtekst.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder herefter ikke grundlag for at udtale kritik af overskriften.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder herefter heller ikke grundlag for at kritisere Vejle Amts Folkeblad for ikke at opdatere overskriften i det påklagede Facebook-opslag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at Vejle Amts Folkeblad har opdateret artiklens overskrift i selve artiklen, kan ikke føre til et andet resultat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

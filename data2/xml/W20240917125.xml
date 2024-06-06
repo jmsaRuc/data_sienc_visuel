@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idf89d14ce-faef-48ad-b231-e67524eb04c1" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="iddeb866fc-1ccd-4888-83c8-fff79c393eea">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240917125</AccessionNumber>
+    <DocumentId>AA014151</DocumentId>
+    <UniqueDocumentId>242610</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-05638</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-27</EndDate>
+    <Status>Valid</Status>
+    <Number>9171</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-05638</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id44bbdc30-f16d-471d-81e4-17a5b88a09a5">
+    <Titel id="id9edbfdd9-5ba9-48a9-b684-7b6bbdb07410">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-05638</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbaaf5a2a-56e0-4ec4-891f-329741139da2">
+    <Resume id="id772346c2-d65b-49bd-823f-bc8af87cf75c">
+      <Exitus>
+        <Linea>
+          <Char>Ej kritik af Fyens Stiftstidende for kun at forelægge for udlejningsfirma</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Fyens Stiftstidende bragte i september 2023 en artikel om en familie, der havde lejet en feriebolig gennem et udlejningsbureau.</Char>
+        </Linea>
+        <Linea>
+          <Char>I artiklen rettede familien en kritik mod blandt andet den rengøringsmæssige stand, som de havde modtaget ferieboligen i.</Char>
+        </Linea>
+        <Linea>
+          <Char>Avisen havde forelagt beskyldningerne for udlejningsbureauet, som var kommet til orde i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ejerne af den omtalte feriebolig klagede til Pressenævnet over, at artiklen indeholdt ukorrekt information og beskyldninger, de som ejere ikke var blevet forelagt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet fandt, at kritikken i det væsentlige rettede sig mod udlejningsbureauets håndtering af udlejningsopgaven og fandt ikke anledning til at kritisere mediet for manglende forelæggelse.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="idb04706eb-a3f6-4e17-ac9c-657c8350a39b">
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1] og [Klager 2] har klaget til Pressenævnet over artiklen: ”</Char>
+          <Char formaChar="Italic">Møgbeskidt feriebolig: Familie kørte hjem igen efter halvanden time og fik regning på 1000 liters vandforbrug</Char>
+          <Char>”, bragt den 5. september 2023 af Fyens Stiftstidende på fyens.dk, idet [Klager 1] og [Klager 2] mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1] og [Klager 2] har klaget over, at artiklen omtaler deres ejendom på en nedsættende måde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Påklaget artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Fyens Stiftstidende bragte den 5. september 2023 artiklen ”</Char>
+          <Char formaChar="Italic">Møgbeskidt feriebolig: Familie kørte hjem igen efter halvanden time og fik regning på 1000 liters vandforbrug</Char>
+          <Char>” på Fyens.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede af facaden af et ældre byhus.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Det gamle hus i [Bynavn 1], som familien fra [Bynavn 2] havde glædet sig til at holde sommerferie i, var så beskidt og misligholdt, at de nægtede at overnatte der.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklens underrubrik fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Familien [Familienavn] var nødt til at køre hjem igen blot halvanden time efter, de var ankommet til en feriebolig i [Bynavn 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var så beskidt, at de nægtede at sove der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Siden har de fået afslag på refundering og modtaget opkrævning for en uges vandforbrug.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu kæmper de for at få deres penge igen fra udlejningsfirmaet DanCenter, som er kommet med et skriftligt svar til avisen.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn 1]: Det, der skulle have været en hyggelig uges ferie på [Område 1], endte som en kort og skuffende oplevelse for en lille jysk familie.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Person 1] var sammen med sin hustru [Person 2] og deres 20-årige søn kørt cirka 250 kilometer fra bopælen i [Bynavn 2] til [Bynavn 1], hvor de havde lejet et feriehus gennem udlejningsfirmaet DanCenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her var det meningen, at familien skulle bo i en uge midt i juli og nyde sommerferien sammen på [Område 1] og [Område 2].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Da de ankom til huset 14. juli klokken 16.30, indså de imidlertid til deres store frustration, at det på ingen måde levede op til hverken forventningerne eller beskrivelserne på lejebeviset - tværtimod.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede af et smilende par, en mand og en kvinde, der står på en udkigspost med udsigt til et grønt område med havet i baggrunden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Person 2] og [Person 1] får svært ved at stole på et udlejningsfirma igen.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Der var møgbeskidt, og flere ting var i stykker og misligholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det var tydeligt, at ingen havde gjort rent.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var edderkopper og spindelvæv i alle hjørner, fedtede fingre, vand på gulvet på badeværelset, og der lugtede jordslået.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tøjskabet var også ved at falde fra hinanden, sengetøjet var beskidt, og et trappetrin havde forskudt sig, så det var decideret livsfarligt, beretter [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Nægtede at sove i beskidt sengetøj</Char>
+          <Char>¬Fyns Amts Avis har gentagende gange forsøgt at få et interview i stand med DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er i stedet vendt tilbage med en skriftlig udtalelse, hvori de blandt andet skriver, at familien ikke har forsøgt at række ud til DanCenter, men blot er kørt hjem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En opkaldsoversigt og en række mails, som avisen er i besiddelse af, viser dog, at familien [Familienavn] faktisk forsøgte med det samme efter ankomsten at få kontakt til firmaet for at få hjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der var dog ingen hjælp at hente hos DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Personalet var gået hjem, fortæller [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sengetæpper, puder og dyner var så beskidte, at vi simpelthen nægtede at sove med det.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det var for ulækkert.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi kunne ikke komme igennem til DanCenter, selvom vi ringede og skrev gentagne gange.</Char>
+        </Linea>
+        <Linea>
+          <Char>De havde meget belejligt lukket deres kundeservice og lokalkontor klokken 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det eneste vi kunne komme igennem til, var en chatfunktion, som kom med robotsvar.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede, som er delt i to billeder – et billede af et stykke stof med en plet på og et nærbillede af området hvor væg og gulv mødes, hvor der ses 2 edderkopper.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Sengetøjet havde tydelige pletter og virkede ikke til at være blevet vasket.</Char>
+        </Linea>
+        <Linea>
+          <Char>Edderkopper havde også fået frit spil til at indtage de fleste hjørner i boligen.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår videre:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge lejebeviset kunne familien først afhente nøglen til feriehuset fra klokken 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samtidig oplyser DanCenter på deres hjemmeside, at de kun kan kontaktes mellem klokken 10 og 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed var der ingen, som greb telefonen i den anden ende, da [Person 1] og familien forsøgte at få hjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi fik jo hverken mulighed for at annullere lejeaftalen med det samme eller få nogen til at komme og gøre rent, så vi kunne blive boende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men det er jo meget smart af dem, at lukke telefonen efter folk tjekker ind.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så er man nødt til at blive, selvom tingene ikke er i orden, konstaterer han.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Familien nægtede dog at blive, når der var så beskidt.</Char>
+        </Linea>
+        <Linea>
+          <Char>De så ingen anden udvej, end at køre den lange vej hjem til [Bynavn 2] igen blot halvanden time efter ankomst og give afkald på en uges ferie i det [Område 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi kunne ikke bare leje et nyt sted med det samme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg er sygemeldt pt, og min kone har et flexjob, hvor hun kører skolebus.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor kunne vi altså ikke bare lægge yderligere otte tusind kroner for at leje en anden feriebolig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det havde vi ikke råd til, siger [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Afslag på refundering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sommeren er nu slut, og mens de fleste ser tilbage ferien med gode minder med grillaftener og hyggelige ture til stranden, står [Person 1] og hans hustru tilbage og kæmper for at få pengene for lejen refunderet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Indtil videre uden held.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De havde booket en uge for 8300 kroner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derudover havde de bestilt slutrengøring og leje af sengelinned for 1500 kroner.</Char>
+        </Linea>
+        <Linea>
+          <Char>De 1500 kroner har de fået retur, mens de har fået afslag på at få for pengene for leje tilbage.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede af tre trappetrin, hvoraf det midterste trin ses at være sunket lidt i højre side.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Et af trappetrinene havde forskudt sig, og [Person 1] beskriver det som direkte farligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Person 1] kan ikke forstå, at DanCenter opfører sig, som de gør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- De siger, at vi ikke har forsøgt at tale med nogen.</Char>
+        </Linea>
+        <Linea>
+          <Char>De skriver også, at fordi vi bare tog hjem, så havde de ikke mulighed for at hjælpe os.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er jo fuldstændig grotesk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan godt være, det står et eller andet sted med småt i betingelserne, men der var jo så beskidt, at vi ikke kunne være der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg synes, vi bør få vores penge igen, siger han.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han oplyser desuden, at de ikke har været i kontakt med DanCenter efter afslaget.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">1000 liter vand på ét skyl</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selvom familien kun nåede at være i feriehuset i godt og vel halvanden time, modtog de på bagkant af lejeperioden også en opkrævning for vandforbrug, der svarer til en hel uge.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg skyllede ud i toilettet en enkelt gang i den korte tid, vi var i huset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alligevel står der, at vi skal betale for en kubikmeter vand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er jo 1000 liter, hvilket er et rimelig voldsomt toiletskyl.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan jo ikke passe og virker som decideret svindel, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede af en lille baggård med en trappe.</Char>
+        </Linea>
+        <Linea>
+          <Char>Under trappen er der en stabel hvide plastikstole.</Char>
+        </Linea>
+        <Linea>
+          <Char>Underlaget af beton i området er gået i stykker, og der ligger blade, jord og mos.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Heller ikke terrassen var i særlig god stand.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Han fortæller, at de efter at have klaget sidenhen har fået medhold i, at de ikke skal betale opkrævningen for forbrug.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hele forløbet omkring refundering har til gengæld været yderst kritisabelt, mener [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg er flere gange kommet igennem på telefonen for at klage, hvor de bare har lagt røret på.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når jeg har sendt mails, er de enten ikke blevet besvaret, eller også er jeg bare blevet sendt videre i deres system, siger han og fortæller, at han er meget skeptisk, om de nogensinde får de 8300 kroner refunderet.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Familien kan anke</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hos Forbrugerrådet Tænk mener seniorjurist [Person 3], at familien har handlet helt efter bogen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- De har gjort det helt rigtige ved straks at dokumentere, hvad der har været galt, og derefter forsøge at kontakte udlejer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udgangspunktet er, at man skal give udlejer en chance for at rette op på problemerne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Familien i den her sag har prøvet at komme igennem med de kontaktoplysninger, de havde til rådighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desværre uden held, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Flere med lignende oplevelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Et hurtigt blik på siden Trustpilot afslører, at familien fra [Bynavn 2] ikke står alene med deres dårlige oplevelse med at leje feriebolig gennem DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Flere brugere giver firmaet enstjernede anmeldelser og melder ind om beskidte boliger med ødelagte møbler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et andet kritikpunkt er, at det er svært – hvis ikke umuligt – at komme i kontakt med firmaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Én skriver for eksempel:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg kommer frem til et hus, der lugter af bræk og skimmel, og der er møgbeskidt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Badeværelset har ikke været gjort ordentlig rent længe.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det værste er, at man ikke kan komme i kontakt med DanCenter før 40 timer efter indflytningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Og en anden skriver:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Der var skimmel på badeværelse og tydeligt beskidt, der var snavs i køkkenskuffer, gulvtæppet var trævlet op, huller i døren, beskidte vinduer og møgbeskidte køkkenting.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden var mere af inventaret, puder og stole gået i stykker.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Person 1] fortæller, at han ikke havde undersøgt DanCenter godt nok på forhånd.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det ærgrer ham, for så havde de aldrig lejet huset i [Bynavn 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Han holder fast i, at det var det rigtige at køre hjem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Selvom vi har fået et afslag, så mener jeg, vi har ret til pengene.</Char>
+        </Linea>
+        <Linea>
+          <Char>De leverede jo ikke et hus i en stand, som vi kunne bo i.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når man lejer noget, så skal det bare være i orden, siger han.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">25 besøg uden klager</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En PR-ansvarlig fra DanCenter, der underskriver sig med navnet "[Person 4]", har i et skriftligt svar skrevet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>"Det er ærgerligt, at familiens seneste ophold hos os ikke levede op til deres forventninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er værd at bemærke, at denne ejendom er blevet udlejet næsten 25 gange denne sommer – alle uden nogen klager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette specifikke feriehus har konsekvent fået høje bedømmelser, og de problemer, der er rejst i denne sag, er atypiske.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I dette tilfælde forlod familien huset efter kun et par timer uden at underrette vores lokale kontor eller kontakte os, hvilket forhindrede os i hurtigt at tage fat på og løse deres problemer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I betragtning af omstændighederne er det i øjeblikket en udfordring at behandle en tilbagebetaling, og det ville også være uretfærdigt over for husejeren, som har opretholdt en fremragende historik med os.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi anerkender, at der kan opstå uenigheder fra tid til anden, og vi opfordrer kunden til at kontakte Ankenævnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi vil fuldt ud respektere enhver beslutning, som nævnet træffer i denne sag."”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Efter offentliggørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1] og [Klager 2] har til Pressenævnet indsendt den korrespondance, de havde med mediet efter offentliggørelsen af artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den 6. september 2023 sendte klagerne følgende mail:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Hej [Journalisten]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>(vil du videresende denne mail til din redaktør)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi er blevet gjort opmærksomme på din artikel den 5.9 om en klage fra lejere af en feriebolig ved Dancenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er os, der ejer ejendommen, og vi benytter Dancenter til at varetage udlejning mv. for os.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er umuligt for os at kende alle detaljer i den konkrete sag, men vi kan læse at fremstillingen ikke er rimelig – og det må du tage medansvar for.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Klagerne fremstiller sagen på en måde som ikke kan afspejle faktiske forhold, og som du ukritisk viderebringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fx omtales et sengetæppe, med en plet på, som om der var tale om et lagen – en lille, men væsentlig forskel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi har ingen grund til at tro at rengøring er mangelfuld – og du kunne fx have gjort dig klogere på det ved at læse andre lejeres bedømmelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men du vælger desværre blot at være ”mikrofonholder” for én part i sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fra at være et læserbrev gør du det til en redaktionel artikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Klagerne undrer sig over at blive opkrævet for forbrug af 1000 liter vand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi har set på forbrugsafregningen for det aktuelle lejemål, og kan se at der af lejer er rapporteret en aflæsning fra 316 til 317 (uden decimaler).</Char>
+        </Linea>
+        <Linea>
+          <Char>Så lejer har selv opgivet at have forbrugt 1 kbm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det ville være klædeligt om I fik berigtiget fremstillingen af de mange forkerte detaljer om den ejendom vi ejer og udlejer gennem Dancenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Har I lov til at bringe billeder indefra i en privat ejendom?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Måtte vi høre jeres kommentarer hertil.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Venlig hilsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager 2]&amp; [Klager 1]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mediet besvarede mailen samme dag:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Kære [Klager 2]og [Klager 1]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jeg har modtaget jeres mail fra journalist [Journalisten].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jeg vil forsøge at svare på jeres spørgsmål og anbringender:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi skriver ikke, at der var pletter på et "lagen", men på sengetøjet, hvilket sengetæppet må være omfattet af.</Char>
+        </Linea>
+        <Linea>
+          <Char>Under alle omstændigheder er det min vurdering, at dette må betegnes som en petitesse, da det ikke ændrer ved artiklens indhold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som det fremgår af billeddokumentationen var der jo sengetøj med pletter på.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor jeg ikke noget grundlag for at bringe en rettelse om dette forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jeg noterer mig, at I ikke finder grund til at tro på lejers udtalelser om mangelfuld rengøring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Over for det står den meget tydelige billeddokumentation, som vi bringer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvad angår aflæsning af vandmåler, har lejer som beskrevet i artiklen fået medhold fra Dancenter i, at forbruget var mindre end 1000 liter og har derfor ikke skullet betale.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor er aflæsningen reelt ikke af nogen betydning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg ser intet grundlag for at bringe en rettelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Journalisten har ikke været "mikrofonholder for en part i sagen", som I skriver i jeres mail.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som det fremgår af artiklen, har vi givet Dancenter, som er den ansvarlige for lejlighedens stand i forbindelse med udlejningen, rig mulighed for at kommentere, og det gør de også på den måde, de selv har valgt – nemlig skriftligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi ville meget gerne have haft mulighed for at interviewe en ansvarlig fra Dancenter, men</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>selskabet tog ikke imod vores tilbud om et interview.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er selskabets eget valg, og I må rette henvendelse til Dancenter for at få svar på, hvorfor de ikke ville stille op.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Slutteligt kan jeg oplyse, at vi i henhold til medieansvarsloven gerne må bringe fotos fra private hjem – og her er der endda tale om et hus, der offentligt er sat til ferieudlejning – medmindre der optræder personer på billederne, og at disse opholder sig på privat område.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ikke tilfældet i den aktuelle artikel.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg skal oplyse, at I kan klage over min afgørelse til Pressenævnet via dette link: https://www.pressenaevnet.dk/hvordan-klager-man/.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Med venlig hilsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Chefredaktøren]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Chefredaktør”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klagerne besvarede herefter mailen samme dag:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Kære chefredaktør</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi bliver nødt til at give et par duplikker til din fremstilling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I artiklens overskrift/billedtekst skriver I:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Det gamle hus i [Bynavn 1], som familien fra [Bynavn 2] havde glædet sig til at holde sommerferie i, var så beskidt og misligholdt…”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er ganske enkelt ikke rigtigt, og er en stødende påstand i forhold til os som ejere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Huset er – og var – bestemt ikke beskidt og misligholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du omtaler den ”tydelige billeddokumentation” I bringer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Altså et billede med et sengetæppe (noget man lægger over sengen for at holde sengetøjet rent, men ikke noget man sover i – ikke ”sengetøj”), og med to stankelben;</Char>
+        </Linea>
+        <Linea>
+          <Char>det er ikke et alment udtryk for at der er beskidt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi finder slet ikke belæg for jeres fortælling om ”beskidt og misligholdt”, eller for en anden billedtekst:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Sengetæpper, puder og dyner var så beskidte….</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er en udokumenteret og forkert påstand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Lejere før og efter har givet direkte modsigende udsagn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Artiklen fremstår som en objektiv, generel fortælling, men er nok mere et udtryk for klagernes subjektive oplevelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ja, ejer er sluppet for regningen for 1000 l vand, men det bygger på konduite og rimelighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det står fast, at det er lejer som selv har indberette et – åbenbart forkert – forbrug.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ikke mener at den faktiske aflæsning har nogen betydning, bekræfter du at I ikke er optaget af at give en retvisende fremstilling af sagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I har muligvis ret rent juridisk til at bringe billeder fra privat ejendom, men det er i hvert fald uetisk i artiklens sammenhæng at fremvise et billede af et gårdparti, som slet ikke indgår i det udlejede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Billedet viser ikke terrassen (altanen), som er ud for udestuen på 1. sals niveau (se husets præsentation på Dancenters fremvisningsside, hvis det faktuelle ønskes)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Billedet der skal vise at ”et af trappetrinene havde forskudt sig” viser noget andet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ikke at et trappetrin var forskudt, men at en tæppebelægning af en trin var løst.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså noget helt andet!</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi går ikke ind hvorvidt Dancenters betjening mv. er tilfredsstillende eller ej;</Char>
+        </Linea>
+        <Linea>
+          <Char>vi er dog enige i at det er blevet sværere at få kontakt med dem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her er vi optaget af den tilsværtning vi får som ejere af huset – efter vores opfattelse urimelig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Netop fordi I bringer billeder af og fra vores hus, flytter sagen sig fra at være noget som skal fortælle noget om Dancenter, til at vi bliver forulempet af urigtige påstande om vores ejendom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Til sagens belysning kunne I have nøjes med billedet af ”den manglende rengøring”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det tilfører ikke noget at I viser hvilket hus det påstås at foregå i.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Venlig hilsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1] og [Klager 2]s</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>klage er modtaget i Pressenævnet den 12. september 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager 1] og [Klager 2]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Klagerne anført, at artiklen både i overskrift, billedtekster og brødtekst omtaler deres ejendom på en nedsættende måde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Klagerne føler sig uberettiget udstillet, og omtalen har forringet deres fremtidige muligheder for udlejning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sammen med billedmaterialet udstiller omtalen ejerne som ejere af en misligholdt ejendom, og omtalen er derfor injurierende for dem som ejere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klagerne har videre anført, at artiklen indeholder flere ukorrekte påstande, som ikke er tilstrækkeligt dokumenterede, og at mediet har ageret som mikrofonholder for en enkeltstående lejer, hvis oplevelser står i modstrid med de tilkendegivelser, klagerne har modtaget fra talrige andre lejere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover fremgår det ikke tydeligt af artiklen, at DanCenter straks på stedet tilbød at udbedre det, der blev opfattet som utilstrækkelig rengøring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Klagerne har hertil bemærket, at situationer som den omtalte altid kan ske undtagelsesvist, hvad der måske har været tilfældet i denne omtalte situation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Omtalen generaliserer således ud fra et enkelt tilfælde, som tilmed kan være præget af den specifikke lejers humør eller forventninger, og mediet kunne således have undersøgt, om der var tale om et sædvanligt forhold eller en oplevelse, der stod i direkte modstrid med andre tidligere og efterfølgende lejeres oplevelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til det i artiklen omtalte vandforbrug har klagerne anført, at lejerne selv har indberettet dette, hvorfor de ikke burde være overraskede over det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Formuleringen af overskriften indeholder herudover også faktuelle fejl og misvisende formuleringer, idet det ikke er godtgjort, at boligen var ”møgbeskidt”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Klagerne har hertil bemærket, at et billede af to stankelben ikke kan være dokumentation for, at der skulle være møgbeskidt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klagerne har med henvisning til mediets indlæg for Pressenævnet, hvor mediet har anført, at omtalen alene retter en kritik af DanCenter, hvorfor mediet har forelagt for udlejningsselskabet, anført, at omtalen i billedteksten om, at ”Det gamle hus i [Bynavn 1], som familien fra [Bynavn 2] havde glædet sig til at holde sommerferie i, var så beskidt og misligholdt […]” som er ledsaget af et billede af husets letgenkendelige facade udstiller dem som ejere af en ”beskidt og misligholdt” ejendom.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er derfor blevet involveret i sagen på en måde, så den ikke alene vedrører en kritik af DanCenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klagerne har herudover anført, at mediet kunne have bragt en rimelig berigtigelse ved at bringe samme facadebillede af huset med en bemærkning om, at huset er velholdt, og at lejere normalt anpriser rengøringen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 Fyens Stiftstidendes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Fyens Stiftstidende har indledningsvist anført, at artiklen er udarbejdet af en journalist på Fyns Amts Avis, og at artiklen blev bragt digitalt af både Fyens Stiftstidende og Fyens Amtsavis samme dag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mediet har videre anført, at artiklen omtaler de oplevelser, som et ægtepar havde i forbindelse med leje af en feriebolig i [Bynavn 1] på [Område 1] i sommeren 2023.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ferieboligen blev administreret af udlejningsselskabet DanCenter, som også havde ansvaret for, at ferieboligen levede op til udlejningsaftalen, herunder boligens rengøringsstand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mediet har videre anført, at lejerne alene havde kontakt med udlejningsselskabet, da ejerne af huset havde overdraget ansvaret for udlejning til selskabet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Artiklen er bygget på et interview med lejerne, der var utilfredse med særligt rengøringen af ferieboligen, og deres kritik handler om, at det lejede ikke levede op til det aftalte i lejeaftalen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er dermed tale om en kritik af den ansvarlige for udlejningsaftalen, DanCenter, og ikke ejerne af ejendommen, da</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>ansvaret for udlejningen i forretningsmæssigt øjemed er overdraget til udlejningsselskabet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I artiklen omtales det, at lejlighedens stand efter lejernes opfattelse ikke levede op til det aftalte i lejeaftalen, og der er dermed tale om en kritik af den ansvarlige for denne, nemlig DanCenter, og ikke ejerne af ejendommen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kritikken blev af Fyens Amtsavis efterprøvet, og mediet bad lejer om at fremlægge fotodokumentation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne dokumentation er bragt som en del af artiklen, da den understøtter lejers kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>I artiklen bringes endvidere en ekspertudtalelse fra en jurist ved Forbrugerrådet, som bekræfter, at lejerne handlede korrekt ved at kontakte den ansvarlige part for udlejningen, nemlig DanCenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mediet har videre anført, at kritikken er blevet forelagt for den ansvarlige for udlejningen, nemlig DanCenter, der valgte at svare skriftligt på spørgsmålene, og svarene er gengivet i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Mediet kan således ikke kritiseres for ikke at have kontaktet ejer af ejendommen, da ejer ikke er en del af den aftale, som lejer har indgået med udlejningsselskabet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til det af klager anførte om, at omtalen forringer ejers fremtidige muligheder for at udleje boligen har mediet anført, at dette i så fald er en sag mellem ejer og udlejningsfirmaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mediet har herover bemærket, at det fremgår af artiklen, at DanCenter trak den omtalte opkrævning for vand tilbage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Hans Peter Blicher, James Kristoffer Miles og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Kompetence</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 34, at </Char>
+          <Char formaChar="Italic">”massemediernes indhold og handlemåde” </Char>
+          <Char>skal være i overensstemmelse med god presseskik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er således mediet og ikke den enkelte journalist, som er part i Pressenævnets sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet bemærker videre, at det følger af medieansvarslovens § 43, at Pressenævnet træffer afgørelse i sager om, hvorvidt der er sket offentliggørelse i strid med god presseskik, jf. § 34, og hvorvidt et massemedie efter reglerne i lovens kapitel 6 er forpligtet til at offentliggøre et genmæle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Spørgsmål om, hvorvidt der er sket overtrædelse af straffelovens bestemmelser om ærekrænkelser hører under domstolene og falder uden for nævnets kompetence.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager 1] og [Klager 2] har klaget over navnlig, at artiklen, herunder overskriften, indeholder flere ukorrekte påstande, som ikke er tilstrækkeligt dokumenterede, og som mediet har afvist at berigtige, at de som ejere af den omtalte ejendom bliver ”udstillet”, og at omtalen er skadelig for dem som ejere af ejendommen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det bør kontrolleres, om de oplysninger, der gives eller gengives, er korrekte, og at kritik bør udvises over for nyhedskilderne, i særdeleshed når disses udsagn kan være farvet af personlig interesse eller skadevoldende hensigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Oplysninger, som kan være skadelige, krænkende eller virke agtelsesforringende for nogen, skal efterprøves i særlig grad, inden de bringes, først og fremmest ved forelæggelse for den pågældende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Overskrifter og mellemrubrikker skal i form og indhold have dækning i den pågældende artikel eller udsendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berigtigelse af urigtige meddelelser skal finde sted på redaktionens eget initiativ, hvis og så snart kendskab til fejl af betydning i de bragte meddelelser indgår, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1, A.</Char>
+        </Linea>
+        <Linea>
+          <Char>2, A.</Char>
+        </Linea>
+        <Linea>
+          <Char>3, A.</Char>
+        </Linea>
+        <Linea>
+          <Char>6 og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker generelt, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe de indholdsmæssige krav til den bragte information iagttages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet skal indledningsvis bemærke, at nævnet har forstået klagen som en klage over artiklen, som blev bragt i Fyens Stiftstidende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklens overskrift fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Møgbeskidt feriebolig: Familie kørte hjem igen efter halvanden time og fik regning på 1000 liters vandforbrug</Char>
+          <Char>”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af billedteksten, der er bragt sammen med et billede af facaden på den omtalte ejendom, fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Det gamle hus i [Bynavn 1], som familien fra [Bynavn 2] havde glædet sig til at holde sommerferie i, var så beskidt og misligholdt, at de nægtede at overnatte der.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn 1]: Det, der skulle have været en hyggelig uges ferie på [Område 1], endte som en kort og skuffende oplevelse for en lille jysk familie.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Person 1] var sammen med sin hustru [Person 2] og deres 20-årige søn kørt cirka 250 kilometer fra bopælen i [Bynavn 2] til [Bynavn 1], hvor de havde lejet et feriehus gennem udlejningsfirmaet DanCenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der var møgbeskidt, og flere ting var i stykker og misligholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det var tydeligt, at ingen havde gjort rent.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var edderkopper og spindelvæv i alle hjørner, fedtede fingre, vand på gulvet på badeværelset, og der lugtede jordslået.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tøjskabet var også ved at falde fra hinanden, sengetøjet var beskidt, og et trappetrin havde forskudt sig, så det var decideret livsfarligt, beretter [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Nægtede at sove i beskidt sengetøj</Char>
+          <Char>¬Fyns Amts Avis har gentagende gange forsøgt at få et interview i stand med DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er i stedet vendt tilbage med en skriftlig udtalelse, hvori de blandt andet skriver, at familien ikke har forsøgt at række ud til DanCenter, men blot er kørt hjem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En opkaldsoversigt og en række mails, som avisen er i besiddelse af, viser dog, at familien [Familienavn] faktisk forsøgte med det samme efter ankomsten at få kontakt til firmaet for at få hjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der var dog ingen hjælp at hente hos DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Personalet var gået hjem, fortæller [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sengetæpper, puder og dyner var så beskidte, at vi simpelthen nægtede at sove med det.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det var for ulækkert.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi kunne ikke komme igennem til DanCenter, selvom vi ringede og skrev gentagne gange.</Char>
+        </Linea>
+        <Linea>
+          <Char>De havde meget belejligt lukket deres kundeservice og lokalkontor klokken 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det eneste vi kunne komme igennem til, var en chatfunktion, som kom med robotsvar.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Ifølge lejebeviset kunne familien først afhente nøglen til feriehuset fra klokken 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samtidig oplyser DanCenter på deres hjemmeside, at de kun kan kontaktes mellem klokken 10 og 16.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed var der ingen, som greb telefonen i den anden ende, da [Person 1] og familien forsøgte at få hjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Person 1] kan ikke forstå, at DanCenter opfører sig, som de gør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- De siger, at vi ikke har forsøgt at tale med nogen.</Char>
+        </Linea>
+        <Linea>
+          <Char>De skriver også, at fordi vi bare tog hjem, så havde de ikke mulighed for at hjælpe os.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er jo fuldstændig grotesk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan godt være, det står et eller andet sted med småt i betingelserne, men der var jo så beskidt, at vi ikke kunne være der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg synes, vi bør få vores penge igen, siger han.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han oplyser desuden, at de ikke har været i kontakt med DanCenter efter afslaget.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬</Char>
+          <Char formaChar="Italic">1000 liter vand på ét skyl</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selvom familien kun nåede at være i feriehuset i godt og vel halvanden time, modtog de på bagkant af lejeperioden også en opkrævning for vandforbrug, der svarer til en hel uge.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg skyllede ud i toilettet en enkelt gang i den korte tid, vi var i huset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alligevel står der, at vi skal betale for en kubikmeter vand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er jo 1000 liter, hvilket er et rimelig voldsomt toiletskyl.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan jo ikke passe og virker som decideret svindel, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han fortæller, at de efter at have klaget sidenhen har fået medhold i, at de ikke skal betale opkrævningen for forbrug.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hele forløbet omkring refundering har til gengæld været yderst kritisabelt, mener [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg er flere gange kommet igennem på telefonen for at klage, hvor de bare har lagt røret på.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når jeg har sendt mails, er de enten ikke blevet besvaret, eller også er jeg bare blevet sendt videre i deres system, siger han og fortæller, at han er meget skeptisk, om de nogensinde får de 8300 kroner refunderet.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Flere med lignende oplevelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Et hurtigt blik på siden Trustpilot afslører, at familien fra [Bynavn 2] ikke står alene med deres dårlige oplevelse med at leje feriebolig gennem DanCenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Flere brugere giver firmaet enstjernede anmeldelser og melder ind om beskidte boliger med ødelagte møbler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et andet kritikpunkt er, at det er svært - hvis ikke umuligt - at komme i kontakt med firmaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">25 besøg uden klager</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En PR-ansvarlig fra DanCenter, der underskriver sig med navnet "[Person 4]", har i et skriftligt svar skrevet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>"Det er ærgerligt, at familiens seneste ophold hos os ikke levede op til deres forventninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er værd at bemærke, at denne ejendom er blevet udlejet næsten 25 gange denne sommer - alle uden nogen klager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette specifikke feriehus har konsekvent fået høje bedømmelser, og de problemer, der er rejst i denne sag, er atypiske.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I dette tilfælde forlod familien huset efter kun et par timer uden at underrette vores lokale kontor eller kontakte os, hvilket forhindrede os i hurtigt at tage fat på og løse deres problemer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I betragtning af omstændighederne er det i øjeblikket en udfordring at behandle en tilbagebetaling, og det ville også være uretfærdigt over for husejeren, som har opretholdt en fremragende historik med os.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi anerkender, at der kan opstå uenigheder fra tid til anden, og vi opfordrer kunden til at kontakte Ankenævnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi vil fuldt ud respektere enhver beslutning, som nævnet træffer i denne sag."”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet lægger til grund, at [Klager 1] og [Klager 2] er ejerne af den omtalte ejendom, og at de har indgået en aftale med DanCenter om udlejning af denne, og at det således er DanCenter, der formidler og varetager kontakten med lejere af ferieboligen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet skal indledningsvis bemærke, at nævnet ikke kan tage stilling til, hvorvidt lejernes omtalte beskrivelser af det lejedes stand er korrekt eller ej.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder imidlertid, at beskrivelserne af ejendommens stand og rengøring fremstår som lejernes subjektive vurderinger, der har en sådan faktisk karakter, at de kan være skadelige, krænkende eller virke agtelsesforringende for udlejer, og at der derfor er tale om beskyldninger, der skal forelægges.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker i den forbindelse, at forelæggelse skal ske over for den, som beskyldningerne er rettet mod.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uanset, at der i artiklen er bragt et billede af facaden af huset, og at ejerne af huset dermed måtte kunne identificeres, er det Pressenævnets opfattelse, at den kritiske omtale i artiklen i det væsentlige retter sig mod DanCenters håndtering af en udlejningsopgave i henhold til aftalen om udlejning af klagernes omtalte hus, og det er DanCenter, der i artiklen er omtalt som udlejer i den konkrete situation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nævnet finder på den baggrund ikke anledning til at kritisere omtalen, herunder mediets valg og fravalg af materiale og billeder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker i den forbindelse, at kritikken er blevet forelagt for udlejer, som også ses at være kommet til orde i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024.</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

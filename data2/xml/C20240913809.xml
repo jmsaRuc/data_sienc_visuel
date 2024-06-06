@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="iddb7d3deb-80f3-4e3b-a336-ff84fce9b160" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id4c2d9d53-6365-48ca-9b03-4418a3520b4f">
+    <DocumentType>CIR1H#LOKDOK11</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240913809</AccessionNumber>
+    <DocumentId>AE003137</DocumentId>
+    <UniqueDocumentId>242300</UniqueDocumentId>
+    <DocumentTitle>Cirkulære om organisationsaftale for tandplejere i staten</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-13</EndDate>
+    <Status>Valid</Status>
+    <Number>9138</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Frederik S. K. Walther</Signature>
+    <PlaceOfSignature>Finansministeriet, Medarbejder- og Kompetencestyrelsen</PlaceOfSignature>
+    <JournalNumber>Finansministeriet, Medarbejder- og Kompetencestyrelsen, j.nr. 2023-3451</JournalNumber>
+    <Ministry>Finansministeriet</Ministry>
+    <AdministrativeAuthority>Medarbejder- og Kompetencestyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id6d4ebf8f-15f8-4428-8500-83301ff372f8">
+    <Titel id="ida4330dd1-7c53-426a-b241-7511d6a7eef8">
+      <Linea>
+        <Char>Cirkulære om organisationsaftale for tandplejere i staten</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbe26bfc0-7609-479a-9c0b-f2b1cd2f8e05">
+    <Indledning id="idf2558c48-9b84-4765-a681-1cc8a4dbffef">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Generelle bemærkninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Finansministeriet, Medarbejder- og Kompetencestyrelsen, og CO10 – Centralorganisationen af 2010 har indgået vedlagte organisationsaftale af 1. marts 2024 for tandplejere i staten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Organisationsaftalen udgør sammen med den gældende fællesoverenskomst mellem Finansministeriet og Lærernes Centralorganisation og CO10 – Centralorganisationen af 2010 (LC/CO10 fællesoverenskomsten) det samlede overenskomstgrundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char>De gældende aftaler i Forsvarsministeriet og hos Aarhus Universitet ophæves pr. 1. marts 2024, jf. organisationsaftalens § 8, stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Allerede ansatte tandplejere omfattes pr. 1. marts 2024 af organisationsaftalen, jf. § 8, stk. 3-8.</Char>
+        </Linea>
+        <Linea>
+          <Char>I Kriminalforsorgen omfattes dog alene ansatte, der er tiltrådt efter 1. marts 2024, jf. § 8, stk. 9.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ikrafttræden</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Cirkulæret har virkning fra 1. marts 2024.</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Afsnit id="ide7a4ea63-e955-42fd-b414-d58192c55a77" localId="1" />
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id745027e5-2004-4522-b79a-37b6bb5e9f36">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+  <Bilag id="id0b134ff4-9cf5-45c0-928d-7f7ce0d824a1" localId="1">
+    <Explicatus>Bilag 1</Explicatus>
+    <Rubrica id="id6c6b275b-03fc-4b3b-a490-176344fed6db">
+      <Linea>
+        <Char formaChar="Bold">Organisationsaftale for tandplejere i staten</Char>
+      </Linea>
+    </Rubrica>
+    <BilagIndhold id="id83a6a48e-bb14-4cd1-9162-b969a01c33d3">
+      <TekstGruppe id="id3a2d2ab4-e24b-4607-9f31-89e071e1cfaa">
+        <Rubrica id="id18c54741-cee3-42d2-b03c-b2aff473fdbd">
+          <Linea>
+            <Char>-</Char>
+          </Linea>
+        </Rubrica>
+        <Exitus>
+          <Linea>
+            <Char>Nedennævnte bestemmelser supplerer og/eller fraviger fællesoverenskomsten mellem Finansministeriet og Lærernes Centralorganisation og CO10 - Centralorganisationen af 2010.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaEx="Align" />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 1.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Dækningsområde</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Organisationsaftalen omfatter personer, der ansættes som tandplejere ved statslige arbejdspladser og selvejende institutioner, hvor Finansministeriet kan fastsætte løn- og ansættelsesvilkår, hvor uddannelsen som tandplejer er en forudsætning for ansættelsen.</Char>
+          </Linea>
+          <Linea>
+            <Char>Organisationsaftalen omfatter ikke personer, der er omfattet af organisationsaftale for undervisningsassistenter ansat ved Skolen for Klinikassistenter, Tandplejere og Kliniske Tandteknikere (SKT) og Institut for Odontologi og Oral Sundhed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 2.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Lønsystemet</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>De ansatte er omfattet af den til enhver tid gældende rammeaftale om nye lønsystemer.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Lønsystemet består af en basisløn suppleret med en tillægsdel.</Char>
+          </Linea>
+          <Linea>
+            <Char>Tillægsdelen omfatter lokalt aftalte funktionstillæg, kvalifikationstillæg, engangsvederlag og resultatløn.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Ved ansættelse på deltid ydes forholdsmæssig løn.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Alle basislønninger er angivet i årligt grundbeløb (niveau 31. marts 2012).</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Overtidsbetaling beregnes pr. time som 1/1924 af den samlede faste løn, eksklusiv eventuelt rådighedstillæg-/merarbejdstillæg.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 3.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Basisløn</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char formaChar="Bold">Løngruppe 1</Char>
+            <Char> omfatter tandplejere, der ikke henføres til løngruppe 2.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Basisløn 	284.000 kr.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Løngruppe 2 </Char>
+            <Char>omfatter tandplejere, der er ansat til at varetage specialiserede behandlingsopgaver og/eller specialiserede forskningsrelaterede opgaver.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Basisløn	309.000 kr.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaEx="Align" />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 4.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Pension</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Pensionsbidraget udgør 18 pct. af de pensionsgivende løndele.</Char>
+          </Linea>
+          <Linea>
+            <Char>Af pensionsbidraget, der indbetales af ansættelsesmyndigheden, anses 1/3 for at være den ansattes eget bidrag.</Char>
+          </Linea>
+          <Linea>
+            <Char>Lønspecifikationen skal indeholde oplysninger herom.</Char>
+          </Linea>
+          <Linea>
+            <Char>Pensionsbidraget indbetales til PFA Pension.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 5.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Arbejdstid</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>De ansatte er omfattet af den til enhver tid gældende statslige arbejdstidsaftale.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus formaEx="Align" />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 6.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Tjenestedragt</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Der ydes de ansatte fri tjenestedragt.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 7.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Timelønnede</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Tandplejere, der antages som afløsere under ferie, sygdom og lign.</Char>
+          </Linea>
+          <Linea>
+            <Char>eller til anden midlertidig beskæftigelse, kan aflønnes med timeløn, hvis den ansatte ikke er sammenlignelig med en fuldtids- eller tidsubegrænset ansat, eller hvis dette er begrundet i objektive forhold.</Char>
+          </Linea>
+          <Linea>
+            <Char>Timelønnen beregnes som 1/1924 af den ansattes årsløn.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Overgang til månedslønsansættelse sker senest efter 3 måneders uafbrudt ansættelse ved samme ansættelsesmyndighed.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Timelønnede har – hvor ingen anden afregningsform er fastsat – ret til månedlig afregning.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus formaEx="Align">
+          <Linea>
+            <Char formaChar="Bold">§ 8.</Char>
+          </Linea>
+          <Linea>
+            <Char formaChar="Bold">Ikrafttræden mv.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Organisationsaftalen har virkning fra den 1. marts 2024 og kan af hver af parterne opsiges skriftligt med 3 måneders varsel til en 31. marts, dog tidligst 31. marts 2024.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 2.</Char>
+          </Linea>
+          <Linea>
+            <Char>Samtidig ophæves organisationsaftale af 5. marts 2015 mellem Forsvarsministeriets Personalestyrelse, CO10 – Centralorganisationen af 2010 og Dansk Tandplejerforening for tandplejere i Forsvaret samt aftale af 11. november 2008 mellem Aarhus Universitet og Dansk Tandplejerforening for tandplejere ansat ved Aarhus Universitet.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 3.</Char>
+          </Linea>
+          <Linea>
+            <Char>Allerede ansatte overgår til den aftalte basisløn, jf. § 3.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 4.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis den hidtidige samlede faste løn eksklusiv eventuelle funktionstillæg overstiger den nye samlede faste løn eksklusiv eventuelle funktionstillæg, beregnes der et udligningstillæg, der består af forskellen mellem den hidtidige samlede faste løn eksklusiv eventuelle funktionstillæg og den nye samlede faste løn eksklusiv eventuelle funktionstillæg.</Char>
+          </Linea>
+          <Linea>
+            <Char>Udligningstillægget er ureguleret og pensionsgivende i samme omfang og med samme pensionsbidragsprocent som den del af den hidtidige samlede faste løn, der overstiger den nye samlede faste løn.</Char>
+          </Linea>
+          <Linea>
+            <Char>Udligningstillægget aftrappes med enhver fremtidig stigning i basisløn, centrale tillæg samt kvalifikationstillæg, inklusiv procentregulering.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 5.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hver af de lokale parter kan anmode om, at der optages lokal forhandling efter rammeaftalen om nye lønsystemer om mulig konvertering af udligningstillægget til et kvalifikationstillæg.</Char>
+          </Linea>
+          <Linea>
+            <Char>Forhandling herom skal ske senest 6 måneder efter overgangen til denne organisationsaftale.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 6.</Char>
+          </Linea>
+          <Linea>
+            <Char>Hvis der ikke indgås aftale om konvertering af udligningstillægget til et kvalifikationstillæg, jf. stk. 5, opretholdes udligningstillægget i overensstemmelse med stk. 4.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 7.</Char>
+          </Linea>
+          <Linea>
+            <Char>Eventuelle midlertidige tillæg videreføres som midlertidige tillæg frem til den ved indgåelsen aftalte ophørsdato og indgår ikke i udligningstillægget, jf. stk. 4-6.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 8</Char>
+            <Char>.</Char>
+          </Linea>
+          <Linea>
+            <Char>For ansatte, hvis basisløn ved overgang til ansættelse efter denne organisationsaftale er højere end den hidtidige basisløn, modregnes forskellen mellem den nye basisløn og den hidtidige basisløn i den ansattes eventuelle kvalifikationstillæg.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char formaChar="Italic">Stk. 9.</Char>
+          </Linea>
+          <Linea>
+            <Char>I Kriminalforsorgen er alene ansatte tiltrådt efter 1. marts 2024 omfattet af organisationsaftalen.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Table width="567" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 213pt 213pt;border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000; grid-H: 1pt none #000000; grid-V: 1pt none #000000;">
+            <Tr height="34">
+              <Td valign="top" colspan="2" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>København, den 1. marts 2024</Char>
+                  </Linea>
+                </Exitus>
+              </Td>
+            </Tr>
+            <Tr>
+              <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>CO10 - Centralorganisationen af 2010</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Bold">Jesper K.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char formaChar="Bold">Hansen</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus />
+                <Exitus>
+                  <Linea>
+                    <Char>Danske Tandplejere</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Bold">Elisabeth Gregersen</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus />
+              </Td>
+              <Td valign="top" style="border-top: 1pt none #000000; border-left: 1pt none #000000; border-bottom: 1pt none #000000; border-right: 1pt none #000000;">
+                <Exitus>
+                  <Linea>
+                    <Char>Finansministeriet,</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char>Medarbejder- og Kompetencestyrelsen</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus>
+                  <Linea>
+                    <Char formaChar="Bold">Frederik S.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char formaChar="Bold">K.</Char>
+                  </Linea>
+                  <Linea>
+                    <Char formaChar="Bold">Walther</Char>
+                  </Linea>
+                </Exitus>
+                <Exitus />
+                <Exitus />
+              </Td>
+            </Tr>
+          </Table>
+        </Exitus>
+        <Exitus />
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

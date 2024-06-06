@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idefbe28af-fca1-4097-abcb-358d587e5f7e" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idf7da3e2d-69f5-4e73-88af-8ea7ae2b4c76">
+    <DocumentType>CIR1H#LOKDOK11</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240914709</AccessionNumber>
+    <DocumentId>AA014131</DocumentId>
+    <UniqueDocumentId>242399</UniqueDocumentId>
+    <DocumentTitle>Rigsadvokatmeddelelsen, afsnittet: Beredskabslovens § 71 samt bekendtgørelse om brandværnsforanstaltninger ved afbrænding, brug af ild, lys, varmekilder m.v.</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-16</EndDate>
+    <Status>Valid</Status>
+    <Number>9147</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Rigsadvokaten</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rigsadvokaten</Signature>
+    <PlaceOfSignature>Rigsadvokaten</PlaceOfSignature>
+    <JournalNumber>CMS VB 9993</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Rigsadvokaten</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idac85d168-faf7-4894-a99c-54c8df9fdc14">
+    <Titel id="id52fbc5a1-cd96-455e-8ef1-4080762c4404">
+      <Linea>
+        <Char>Rigsadvokatmeddelelsen, afsnittet: Beredskabslovens § 71 samt bekendtgørelse om brandværnsforanstaltninger ved afbrænding, brug af ild, lys, varmekilder m.v.</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idfa6d367e-dc81-45e9-9f63-43ff0c473a6c">
+    <TekstGruppe id="id7f7add2a-df09-4934-bbf6-77ae0a001a9b">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Overblik og tjekliste</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Før tiltalerejsning skal du være opmærksom på:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvornår der skal sigtes for overtrædelse af beredskabslovens § 71, og hvornår der skal sigtes for uagtsom brandstiftelse efter straffelovens § 182.</Char>
+              </Linea>
+              <Linea>
+                <Char>Se </Char>
+                <Char formaChar="Underline">pkt. 2.1.</Char>
+                <Char> og </Char>
+                <Char formaChar="Underline">pkt. 4.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Efter dom skal du huske:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>indsendelse af dom til Vidensbasen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Se </Char>
+                <Char formaChar="Underline">pkt. 6.1.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Politiets efterforskning og sagsbehandling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Hvornår sigtes der for overtrædelse af beredskabslovens § 71</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De fleste sager om overtrædelse af beredskabslovens § 71 er tilfælde, hvor der ikke er udvist tilbørlig forsigtighed i forbindelse med madlavning, hvorved kogeplader, gryder med olie eller lignende har forårsaget brand samt tilfælde, hvor der ikke er udvist tilbørlig forsigtighed med stearinlys/fyrfadslys eller cigaretter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Uagtsom ildspåsættelse kan efter omstændighederne udgøre en overtrædelse af straffelovens § 182.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se eksempelvis U 1970.930/1Ø og </Char>
+          <Char formaChar="Underline">pkt. 4.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold Italic">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Forberedelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Jura</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Uagtsom ildspåsættelse kan efter omstændighederne udgøre en overtrædelse af straffelovens § 182, jf. f.eks. afgørelsen i U 1970.930/1Ø.</Char>
+        </Linea>
+        <Linea>
+          <Char>I denne sag kastede tiltalte, der var spirituspåvirket, en nylig afrevet tændstik fra sig i sit lejede værelse og forlod værelset et øjeblik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der opstod som følge heraf ildebrand og ejendommen led skade for ca. 10.700 kr. Tiltalte blev straffet for overtrædelse af straffelovens § 182 med 20 dagbøder á 15 kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Straf og andre retsfølger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">5.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Bødepåstanden ved overtrædelse af beredskabslovens § 71</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Efter bestemmelsen i beredskabslovens § 71 er det strafbart ikke at udvise tilbørlig forsigtighed med ild, lys, tændstikker, aske, brandfarlige stoffer, og hvad der i øvrigt kan fremkalde eller befordre brand, eller at undlade at påse, at personer, der hører til den pågældendes husstand eller virksomhed, udviser sådan forsigtighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Endvidere straffes den, der som ejer eller bruger af elektriske anlæg eller andre lys-, varme-, kraft- eller maskinanlæg, som kan fremkalde eller befordre brand, benytter sådanne anlæg eller lader dem benytte, uanset at de ikke er i forsvarlig stand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Følgende bødetakster / sanktionspåstande anvendes som udgangspunkt i sager om overtrædelse af beredskabslovens § 71:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bøde på</Char>
+                <Char formaChar="Bold"> 1.500 kr.</Char>
+                <Char> i tilfælde, hvor der kun er forvoldt mindre skader</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bøde på </Char>
+                <Char formaChar="Bold">3.000 kr. </Char>
+                <Char>ved større skader</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Retningslinjerne for bødetaksterne bygger på lokale retningslinjer for bødetakster, der har været anvendt i bødeforelæg, udeblivelsesdomme mv., idet der dog i retningslinjerne er sket en forhøjelse, der efter Rigsadvokatens opfattelse bringer bødeniveauet i overensstemmelse med løn- og prisudviklingen samt overtrædelsens karakter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bødepåstanden bør forhøjes, når der er forvoldt større skader, og fastsættes under hensyn til skadernes omfang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se til eksempel </Char>
+          <Char formaChar="Underline">AM2023.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Underline">08.24B</Char>
+          <Char> hvor tiltalte ikke havde udvist tilbørlig forsigtighed med ild, idet han afbrændte ukrudt ved brug af en ukrudtsbrænder med den følge, at ilden bredte sig fra vegetation til en ejendoms nordlige og vestlige længe, der nedbrændte henholdsvis delvist og fuldstændigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Henset til skadens omfang blev tiltalte idømt en bøde på 10.000 kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bøderne nedsættes for unge under 18 år og for personer med særlig lav indtægt i overensstemmelse med ordningen på færdselslovens område.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er alderen og indtægtsforholdene på gerningstidspunktet, der er afgørende for spørgsmålet om bødenedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nærmere retningslinjer, herunder indtægtsgrænser for bødenedsættelse, kan findes i Rigsadvokatmeddelelsen afsnittet om </Char>
+          <Char formaChar="Underline">Straffens fastsættelse</Char>
+          <Char> under punktet straf og andre retsfølger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I tilfælde, hvor der foreligger flere overtrædelser til samtidig pådømmelse, må den samlede bødepåstand bero på en konkret vurdering, hvor bødepåstanden bør fastsættes ved modereret kumulation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">5.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Bødepåstanden ved overtrædelse af bekendtgørelse om brandværnsforanstaltninger ved afbrænding, brug af ild, lys, varmekilder m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Efter bekendtgørelsens § 5, stk. 1, kan kommunalbestyrelsen forbyde eller fastsætte nærmere vilkår for enhver påtænkt eller påbegyndt afbrænding, brug af apparater, anvendelse af åben ild og lys m.v., når brandsikkerhedsmæssige forhold taler herfor, f.eks. på grund af tørke eller andre særlige forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved overtrædelse af bekendtgørelsens § 17, stk. 1, nr. 2, jf. § 5, stk. 1, (afbrænding mv. i et område med afbrændingsforbud) skal der som udgangspunkt anvendes en bødetakst på 5.000 kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bødepåstanden bør forhøjes, når der er forvoldt større skader, og fastsættes under hensyn til skadernes omfang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bøderne nedsættes for unge under 18 år og for personer med særlig lav indtægt i overensstemmelse med ordningen på færdselslovens område.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er alderen og indtægtsforholdene på gerningstidspunktet, der er afgørende for spørgsmålet om bødenedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nærmere retningslinjer, herunder indtægtsgrænser for bødenedsættelse, kan findes i Rigsadvokatmeddelelsen afsnittet om</Char>
+          <Char formaChar="Underline"> Strafudmåling (§ 80)</Char>
+          <Char> under punktet straf og andre retsfølger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I tilfælde, hvor der foreligger flere overtrædelser til samtidig pådømmelse, må den samlede bødepåstand bero på en konkret vurdering, hvor bødepåstanden bør fastsættes ved modereret kumulation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Efter dom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Bold Italic">6.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Domme til Vidensbasen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Anklageren skal overveje, om dommen er egnet til at indgå i Anklagemyndighedens Vidensbase.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vidensbasen skal dels indeholde afgørelser, som afspejler strafniveauet, praksis for rettighedsfrakendelse og andre retsfølger mv., dels afgørelser af mere principiel karakter, hvor der er taget stilling til et eller flere uafklarede spørgsmål i relation til bestemmelsernes anvendelsesområde, fortolkning mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En afgørelse kan også have generel betydning, hvis den f.eks. indeholder en sagkyndig erklæring eller anden faglig udtalelse, som vil være anvendelig i andre sager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Domme til Vidensbasen sendes på mail til </Char>
+          <Char formaChar="Underline">vidensenheden@ankl.dk</Char>
+          <Char> med en kort begrundelse for indstillingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Domme til Vidensbasen skal være endelige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Love og forarbejder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Seneste hovedlov og lovbekendtgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Underline">Lovbekendtgørelse nr. 314 af 3. april 2017</Char>
+                <Char> - Beredskabsloven</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 1054 af 23. december 1992 - Beredskabsloven</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse om brandværnsforanstaltninger ved afbrænding, brug af ild, lys varmekilder m.v (</Char>
+                <Char formaChar="Underline">BEK nr. 1339 af 10. december 2014</Char>
+                <Char>).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id281dd36d-3193-4ee8-b463-80049a3e548c">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idac451778-75eb-4f73-8c9d-a469229931b5" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/BEKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id553f8349-6230-4099-a748-e202072da3ee">
+    <DocumentType>BEK H#LOKDOK04</DocumentType>
+    <Rank>B</Rank>
+    <AccessionNumber>B20240913905</AccessionNumber>
+    <DocumentId>DC001541</DocumentId>
+    <UniqueDocumentId>242303</UniqueDocumentId>
+    <DocumentTitle>Straksregulering nr. 13  - 2024 Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2408</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-13</EndDate>
+    <Status>Valid</Status>
+    <Number>9139</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <EuReferences>32010R0724</EuReferences>
+    <EuReferences>32011R0783</EuReferences>
+    <ExceptedFromPublication id="excepted_1" />
+    <Ref_Accn REFid="excepted_1">B20230165905</Ref_Accn>
+    <Ref_Af REFid="excepted_1">2023-12-11</Ref_Af>
+    <Ref_Text REFid="excepted_1">Bekendtgørelse om regulering af fiskeriet</Ref_Text>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20230165905</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2023-12-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om regulering af fiskeriet</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Kenneth Joensen </Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mads Røddik Christensen </Signature>
+    <PlaceOfSignature>Fiskeristyrelsen</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Fødevarer, Landbrug og Fiskeri,\nFiskeristyrelsen,j.nr.24-42420-000009</JournalNumber>
+    <Ministry>Ministeriet for Fødevarer, Landbrug og Fiskeri</Ministry>
+    <AdministrativeAuthority>Fiskeristyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id5d9f09b7-a9ec-4be1-8250-395be8c66008">
+    <TitelPrefiks id="id0c4b13f3-51c0-43a3-9dd8-b408ea6d21d7">
+      <Linea>
+        <Char>Straksregulering nr. 13  - 2024</Char>
+      </Linea>
+    </TitelPrefiks>
+    <Titel id="id723ef74c-f30a-45b4-b8b2-c1c264d36f11">
+      <Linea>
+        <Char>Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2408</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida689ba44-19f3-4ef5-8eb8-d2a01eb228e6">
+    <Indledning id="idb04da30f-c424-486a-a2d2-25c3ca67edc7">
+      <Exitus>
+        <Linea>
+          <Char>I medfør af bekendtgørelse nr. 1659 af 11. december 2023 om regulering af fiskeriet § 17, jf. bilag 4, fastsættes:</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Afsnit id="idb1255c61-8c9c-4e32-ae0d-45e0dda239cb" localId="1">
+      <Kapitel id="id0094fe2f-e311-4bc9-ab42-736245403d4a" localId="1">
+        <ParagrafGruppe>
+          <Paragraf id="id6efecf15-88f9-4ddd-8022-0e54fefe9764" localId="MidlertidiglukningafetområdeiSkagerrakpåbaggrundafprøvenrRTCDNK2408">
+            <Explicatus>1. Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2408 </Explicatus>
+            <Stk id="id1dd38694-dd7e-4c5d-963d-15070f017843">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>I perioden fra og med onsdag den 13. marts 2024 og 21 dage frem, til og med tirsdag den 2. april 2024 er det forbudt at fiske inden for et område i den danske del af Skagerrak, der afgrænses af geodætiske linjer mellem følgende punkter målt efter WGS84-koordinatsystemet:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Område prøve nr. RTCDNK2408</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>1) 57° 52,5 N  010° 19,5 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>2) 57° 54,0 N  010° 23,7 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>3) 57° 51,3 N  010° 33,6 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>4) 57° 47,2 N  010° 20,7 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="ida7c9161f-87f8-4c6f-8a12-aedae068442e" localId="Fortsattilladteredskaber">
+            <Explicatus>2. Fortsat tilladte redskaber </Explicatus>
+            <Stk id="idd0b2a214-bac3-45c6-b93a-5d14e31592c8">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Uanset forbuddet, er det fortsat tilladt at fiske i det midlertidigt lukkede område med følgende redskaber:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>- flydetrawl, snurpenot, drivgarn og pilke til fiskeri efter sild, makrel og hestemakrel.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- tejner</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- kammuslingeskraber</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- hildingsgarn</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id37caa5f5-df34-44f2-a7e0-72ba89a05d8f" localId="Baggrundforlukningen">
+            <Explicatus>3. Baggrund for lukningen </Explicatus>
+            <Stk id="id2bad226b-d4da-4fed-b21a-668f9446aabb">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Baggrunden for lukningen er, at det er konstateret, at forekomsten af ungfisk af arterne torsk, kuller, hvilling og sej overskrider det tilladte niveau, jf. Kommissionens forordning (EU) Nr. 724/2010 af 12. august 2010 om gennemførelsesbestemmelser for realtidslukninger af fiskerier i Nordsøen og Skagerrak, som ændret ved Kommissionens forordning (EU) nr. 783/2011 af 5. august 2011.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id05fe11af-375c-4a2a-8c2e-ad953d4dd6d2" localId="Ikrafttræden">
+            <Explicatus>4. Ikrafttræden</Explicatus>
+            <Stk id="ida3886f78-53b8-445e-915a-bd74e62ef0fd">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Meddelelsen træder i kraft den 13. marts 2024 og er gældende til og med den 2. april 2024.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+      </Kapitel>
+    </Afsnit>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id68d4d7dd-bdfd-4bc0-883e-6399ee62009c">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

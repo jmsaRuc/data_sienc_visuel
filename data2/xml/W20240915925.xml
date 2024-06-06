@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id1df1537a-beee-4374-a3c1-e2bafaa94091" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id24c41363-e6a4-493b-a3b8-0b4decab2127">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240915925</AccessionNumber>
+    <DocumentId>AA014146</DocumentId>
+    <UniqueDocumentId>242541</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-07709</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>9159</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-07709</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id581eb0ba-cf7a-4855-9441-3ca5c3680287">
+    <Titel id="id40c30938-63bc-4643-8f99-bc8fd8e7d447">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-07709</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ideaa44ebc-fbc8-4726-97a7-39b04101756e">
+    <Resume id="id493f684a-f21c-496c-a8a4-8026d4cb01da">
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>får ikke kritik for omtale af bedrageridom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I en artikel bragt i oktober 2023 omtalte B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>en straffesag, hvor en person blev idømt fængselsstraf for bedrageri.</Char>
+        </Linea>
+        <Linea>
+          <Char>Personen klagede til Pressenævnet blandt andet over, at artiklens indhold om sagen var misvisende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt ikke grundlag for at udtale kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lagde blandt andet vægt på, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>havde gengivet retssagen med angivelse af sagens parter og sagens tvist, herunder personens forklaringer for retten, og at det fremgik klart af omtalen, at personen havde anket dommen.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="idcb304fd7-84aa-4e73-b0df-1ecd4e4ca05f">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget til Pressenævnet over artiklen </Char>
+          <Char formaChar="Italic">”Kendt jetset-konge dømt for svindel: Fuppede færøske forretningsmænd for 9 millioner kroner”</Char>
+          <Char>, som blev bragt af B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>den 9. oktober 2023 på bt.dk, idet han mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklen indeholder ukorrekte og misvisende oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den påklagede artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>bragte den 9. oktober 2023 artiklen </Char>
+          <Char formaChar="Italic">”Kendt jetset-konge dømt for svindel: Fuppede færøske forretningsmænd for 9 millioner kroner”</Char>
+          <Char> på bt.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Artiklen har følgende underrubrik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Under navnet [Tidligere navn 1] blev han dømt for økonomisk bedrageri, han er kendt fra det københavnske natteliv som en klubkonge, der nemt smed 30.000 kroner for en aften i byen.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Og han er idémanden bag [Filmproducenten]s film ’[Titlen]’.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nu er han for tredje gang dømt for økonomisk svindel for ni millioner kroner, men under et helt nyt navn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han anerkender ikke dommen, og han har da også allerede anket den.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det skriver Frihedsbrevet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>’Tiltalte [Klager] straffes med fængsel i tre år,’ lyder det afslutningsvist i den 29 sider retsbog om sagen, som B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har gennemgået.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den svindeldømte forretningsmand er dømt for at fuppe færøske forretningsmænd ved at forfalske den enes underskrift og ifølge dommen at have fået et personligt udbytte af de ni millioner kroner på 2,3 millioner kroner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men hvis du sidder og tænker, at navnet ikke siger dig noget, og du ikke husker sagerne, der blev dækket intenst i medierne, hvor den tidligere rocker og klubkonge er dømt for økonomisk svindel, er der måske en god grund til det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har nemlig haft mange navne og efternavne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tidligere gik han under navnet [Tidligere navn 1], og hans fødenavn er [Tidligere navn 2].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den falske jetset-konge fra Whiskeybæltet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Under navnet [Tidligere navn 1] solgte han i 2006 historien om sin opvækst til [Filmproducenten], der lavede filmen ’[Titlen]’, som [Klager] skulle have haft hovedrollen i.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her havde [Tidligere navn 1] sammen med et slæng af venner taget produktionen med på en helt normal bytur på [Natklubben], hvor prisen for en aften havde været 30.000 kroner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Instruktøren [Instruktøren] fulgte [Klager] og vennerne i flere måneder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her fortalte [Tidligere navn 1] om sin vilde opvækst i Whiskeybæltet i Nordsjælland, hvor rige forældre og fonde i Schweiz havde været med til at finansiere de store byture.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I virkeligheden var [Tidligere navn 2] fra [Bynavn A] og søn af en pizzabager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Under indspilningen af filmen dukkede politiet dog op på settet, og den såkaldte jetset-konge blev varetægtsfængslet for millionbedrageri.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han blev tiltalt for svindel for cirka 8,5 millioner kroner, men han slap for fængsel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge lægerne under retssagen var han nemlig psykisk syg og skulle derfor have en behandlingsdom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Under retssagen i 2008 indrømmede [Klager] en del af bedragerierne, men han nægtede sagens mest betændte punkt, at han havde snydt en ældre kvinde for syv millioner kroner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kvinden havde belånt sin villa på [Vejnavn] og havde givet pengene til [Klager]s firma, så selskabet kunne indrette en såkaldt country club i villaen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den blev dog aldrig til noget, og villaen måtte på tvangsauktion, fordi kvinden ikke kunne betale lånene, og hun mistede de syv millioner kroner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han blev ikke dømt for at have snydt kvinden, da retten fandt, at kvinden selv havde et ansvar for at undersøge, hvad pengene gik til.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Efterfølgende tog [Tidligere navn 1]s liv endnu en spektakulær drejning, da flere medier på daværende tidspunkt kunne berette, at jetsetteren havde fået endnu en tilføjelse til cv’et.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nu var han også rocker og medlem af [Rockergrupperingen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det blev dog kun til to år, hvor han var knyttet til klubben, inden han forlod dem igen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Dømt for anden gang: ’En fejltagelse’</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Igen i maj 2014 blev den daværende 34-årige mand dømt for bedragerier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her erkendte han få forhold i en større sag omkring forfalskning af identifikationspapirer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sagen startede, da en ansat i [Forsikringsselskabet] fire år før blev anholdt for at have stjålet navne, adresser og cpr-numre i kundedatabasen hos [Forsikringsselskabet].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De blev brugt til at lave falske kørekort, sygesikringsbeviser og pas, der siden blev taget i brug for at optage lån, der aldrig blev betalt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På daværende tidspunkt udtalte [Tidligere navn 1], at det var en ’fejltagelse’, at han blev trukket ind i sagen, og at han kun havde anerkendt nogle af forholdene for at få ’sagen ud af verden’.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han endte med at skulle betale erstatning på en lille million og fik derudover en behandlingsdom igen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">En troværdig forklaring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men tredje gang i Retten i Helsingør, august 2023 blev det altså ikke til en behandlingsdom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her konkluderede dommeren, at forklaringerne fra færøske forretningsmænd havde været troværdige nok til, at der ikke kunne herske tvivl om, at de var blevet snydt bevidst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sagen handler om, at [Klager] og forretningsfolkene alle var involveret i selskabet [Selskabet], der skulle være med i et boligprojekt kaldet [Projektet].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De færøske mænd var med som investorer i projektet, mens [Klager] var direktør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Angiveligt gik det galt mellem parterne, da projektet i [Bynavn B] begyndte at gå skævt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her blev en af forretningsmændene gjort opmærksom på, at der var flere på byggepladsen, der ikke havde modtaget betaling for deres arbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Da der skulle findes betaling til en leverandør afviste folkene fra Færøerne at betale, men bad i stedet [Klager] om at finde ud af betalingen i kraft af hans virke som direktør, da de mente, det var den aftale, der var lavet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Herefter begyndte [Klager] ifølge vidnet at underskrive sig som den ene af forretningsmændene på flere dokumenter om aftaler med leverandører, der ifølge dommen endte med at give ham 2,3 millioner til egen lomme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] forklarede i retten, at han havde tilladelse til at bruge underskriften.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han refererede til en samtale på Messenger-appen, hvor han havde skrevet, at han var ’ekspert i at lave din underskrift nu’.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I chatten kaldte han sig selv Harvey Specter, der er en fiktiv virksomhedsadvokat i serien ’Suits’, og han kaldte den færøske forretningsmand Trump.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I retten gjorde vidnet det klart, at han på intet tidspunkt hverken mundtligt eller skriftligt havde givet tilladelse til, at [Klager] kunne underskrive sig med hans navn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Dommeren fandt da heller ikke forklaringen fra [Klager] troværdig og dømte ham til tre års fængsel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er dog ikke noget, der lader til at slå [Klager] ud af kurs.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Selvom hans firmaer i CVR-registret ser ud til at være gået konkurs, har han fortalt til Frihedsbrevet, at han har ’masser af penge’, og at han betaler 30.000 kroner i husleje.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Og hvad angår sagens videre forløb, lader han heller ikke til at være bekymret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>»Den falske dom baseret på løgne skal jeg nok få banket ned,« lyder det i en besked til mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage er modtaget i Pressenævnet den 17. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at artiklens indhold om sagen er misvisende og ikke i tråd med dommen, og at oplysningerne om sagens parter er misvisende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har [Klager] bemærket, at risiko for tab og tab er to meget forskellige ting.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>skrev om, hvilke erstatningsbeløb der er refereret til, og at disse er henvist til civile søgsmål, ville historien få en anden vinkel.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis tabet gøres op, vil det være langt mindre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at færingerne tabte penge, er deres egen sag, idet de ikke blev bedt om at indgå forlig og underskrive.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Overskriftens dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at artiklens overskrift </Char>
+          <Char formaChar="Italic">”Kendt jetset-konge dømt for svindel: Fuppede færøske forretningsmænd for 9 millioner kroner”</Char>
+          <Char> er misvisende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har henvist til, at det fremgår klart af dommen, at:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Sagen samlet vedrører tab og risiko for tab på ca. 9 mio. kr. og et personligt udbytte for tiltalte på ikke under 2,3 til 2,4 mio.”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har [Klager] bemærket, at han ejede 50 % af selskabet [Selskabet] og havde investeret sammenlagt 700.000 kr. i det selv, hvor de 500.000 kr. blandt andet var grundkøb af en grund i [Bynavn B].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">T.s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har indledningsvis oplyst, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>indgik i dialog med [Klager] straks efter hans oprindelige henvendelse til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dialogen var dog kortvarig, eftersom [Klager], da B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>ikke efterlevede hans ønsker med det samme, sendte først en trussel til journalist [Journalisten], som har skrevet artiklen, og siden en klage til Pressenævnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har på det kraftigste taget skarp afstand fra [Klager]s kommunikation med skriftlige trusler til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s journalist.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] skrev den 17. oktober 2023 til B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Sagen vil få retslig spil såfremt de korrekte oplysninger ikke kommer frem og du er jo venner med en del venner jeg har [Journalisten], så opfør dig lidt professionelt, kbh er en lille by og man skal kunne se hinanden i øjnene og se det hele som business i fremtiden.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har afvist at have handlet i strid med reglerne om god presseskik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har oplyst, at oplysningerne i artiklen er bygget på information fra retsbogen i sagen, og B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har derfor fulgt de presseetiske regler om retsreportage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s vurdering, at oplysningerne om sagens parter ikke er misvisende, ligesom der ikke er tale om misvisende indhold om sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har citeret fra dommen, og der er derfor heller ikke er tale om oplysninger, der ikke er i tråd med, hvad dommen frembringer af detaljer og oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Overskriftens dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har afvist, at artiklens overskrift er misvisende.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har henvist til, at der i dommen står skrevet følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Idet sagen samlet vedrører tab og risiko for tab på ca. 9 mio.”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s vurdering, at der er belæg for at nævne de 9 mio. kr. i overskriften, idet retten selv beskriver tabet på 9 mio. kr. Der er derudover tale om en dømt person, og der er tale om færøske forretningsmænd.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Detaljer om dommen og beløbene er også velbeskrevet i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har blandt andet skrevet, at [Klager]s personlige udbytte af de 9 mio. kr. er på 2,3 mio. kr. Det ændrer dog ikke på, at det samlede beløb, som retten dømte [Klager] for, er 9 mio. kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Karl Erik Stougaard, Lene Sarup og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og overskriftens dækning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklens indhold om sagen er misvisende og ikke i tråd med dommen, og at oplysningerne om sagens parter er misvisende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere klaget over, at artiklens overskrift </Char>
+          <Char formaChar="Italic">”Kendt jetset-konge dømt for svindel: Fuppede færøske forretningsmænd for 9 millioner kroner”</Char>
+          <Char> er misvisende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der gives eller gengives, er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Overskrifter og mellemrubrikker skal i form og indhold have dækning i den pågældende artikel eller udsendelse, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1 og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger videre af de vejledende regler for god presseskik, at de under A og B anførte almindelige presseetiske regler også gælder for retsreportagen, jf. punkt C.</Char>
+        </Linea>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 12, at redaktøren er ansvarlig for indholdet af en artikel eller udtalelse, som har været bragt navngiven i et andet massemedie, og som gengives i redaktørens skrift.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at en artikel er offentliggjort af Frihedsbrevet, ændrer således ikke B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s ansvar for at overholde god presseskik.</Char>
+        </Linea>
+        <Linea>
+          <Char>B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>skal stille samme krav til korrektheden i formidlingen af andres nyheder, som de stiller til deres egne nyheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker endvidere, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe det samlede indtryk giver et retvisende billede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af sagens oplysninger lægger Pressenævnet til grund, at [Klager] i august 2023 ved Retten i Helsingør blev idømt en fængselsstraf på tre år for bedrageri.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lægger endvidere til grund, at [Klager] har anket dommen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s omtale ligger inden for rammerne af, hvad mediet kan tilkendegive, mens en retssag verserer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.</Char>
+        </Linea>
+        <Linea>
+          <Char>har gengivet retssagen med angivelse af sagens parter og sagens tvist, herunder [Klager]s forklaringer for retten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har også lagt vægt på, at det fremgår klart af omtalen, at [Klager] har anket dommen, ligesom det fremgår, at det er hans opfattelse, at dommen er ”falsk” og ”baseret på løgne”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler derfor ikke kritik af B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s omtale og vinkling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til artiklens overskrift finder Pressenævnet, at anvendelsen af formuleringen ”fuppede færøske forretningsmænd for 9 millioner kroner”, som henviser til den foregående del af sætningen ”kendt jetset-konge dømt for svindel”, fremstår som B.</Char>
+        </Linea>
+        <Linea>
+          <Char>T.s vurdering og sammenfatning på baggrund af dommen mod [Klager], som har dækning i de faktiske forhold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder, at formuleringen i det konkrete tilfælde ligger inden for rammerne af, hvad mediet kan tilkendegive, mens en retssag verserer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at det fremgår af artiklen, at [Klager] har anket dommen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder herefter ikke grundlag for at udtale kritik af overskriftens formulering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

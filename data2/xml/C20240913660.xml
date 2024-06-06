@@ -1,0 +1,3474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id1d992aef-fd64-4f1e-9518-949fa8808577" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id1578b2eb-f16c-4e97-acba-63d23aa63e27">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240913660</AccessionNumber>
+    <DocumentId>DC001539</DocumentId>
+    <UniqueDocumentId>242293</UniqueDocumentId>
+    <DocumentTitle>Vejledning om tilskud til biodiversitetsskov 2024</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-06</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-12</EndDate>
+    <Status>Valid</Status>
+    <Number>9136</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20230040730</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2023-04-25</Ref_Af>
+    <Ref_Text REFid="concerns_1">Lov om administration af den fælles landbrugspolitik m.v.</Ref_Text>
+    <Concerns id="concerns_2" />
+    <Ref_Accn REFid="concerns_2">B20240021405</Ref_Accn>
+    <Ref_Af REFid="concerns_2">2024-03-01</Ref_Af>
+    <Ref_Text REFid="concerns_2">Bekendtgørelse om tilskud til biodiversitetsskov 2024 og 2025</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Anna de Klauman</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Asger Petersen</Signature>
+    <PlaceOfSignature>Ministeriet for Fødevarer, Landbrug og Fiskeri</PlaceOfSignature>
+    <JournalNumber>23-11-000045</JournalNumber>
+    <Ministry>Ministeriet for Fødevarer, Landbrug og Fiskeri</Ministry>
+  </Meta>
+  <TitelGruppe id="id5a35c7d2-b3ad-4e7f-9c3b-0849339ac05c">
+    <Titel id="id4dc3321d-4681-4ce5-bee7-f66a9144efce">
+      <Linea>
+        <Char>Vejledning om tilskud til biodiversitetsskov 2024</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id22b53651-45e5-43af-bead-0388459370a3">
+    <TekstGruppe id="id205f3fdf-c1a9-437b-92e5-28638d967c6a">
+      <Exitus>
+        <Linea>
+          <Char>Biodiversitetsskov,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejledning om tilskud til biodiversitetsskov 2024</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Denne vejledning er udarbejdet af</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen i 2024</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ministeriet for Fødevare, Landbrug og Fiskeri</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nyropsgade 30</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1780 København V</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tlf.</Char>
+        </Linea>
+        <Linea>
+          <Char>: 33 95 80 00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>E-mail: lbst@lbst.dk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>www.lbst.dk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>ISSN: 978-87-7120-822-1</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="idcae20d70-ab6a-488f-a86e-e69a85295a90">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Indhold</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Velkommen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Om ordningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.1 Formålet med ordningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.2 Afsatte midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.3 Hvordan finansieres tilsagnet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Er ordningen relevant for dig?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.1 Hvem kan søge om tilskud til biodiversitetsskov?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.2 Kriterier og forpligtelser for tilskud til biodiversitetsskov</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.3 Hvad kan du få tilskud til?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sådan søger du om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.1 Hvem udfylder ansøgningsskemaet?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.2 Hvad skal din ansøgning indeholde?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.2.1 Hvad er et ansøgt areal?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.2.2 Sådan indtegner du det ansøgte areal i IMK</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.3 Sådan prioriterer vi ansøgningerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.4 Svarproces</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.5 Årsager til at du vil få afslag på din ansøgning:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.6 Godt at vide om din ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du får tilsagn</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.1 Besked om afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.2 Kriterier for støtteberettigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.3 Dine forpligtigelser efter tilsagn om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.4 Sådan foregår tinglysningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.4.1 Mere information om servitutten</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.5 Særligt vedrørende fortidsminder og jagt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.6 Pålæggelse af fredskovspligt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.7 Du har oplysningspligt til os</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgning om udbetaling samt hvilke forpligtelser du skal opfylde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.1 Hvordan anmoder du om udbetaling af tilskud?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.1.1 Ansøgning om udbetaling af tilskud skal indeholde:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.2 Indberetning af tilskud til SKAT</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.3 Registrering i statsstøtteregistret</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.4 Du skal indberette hvert år i den 5-årige tilsagnsperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6.5 Fastholdelse fra år 6 – 20</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+        <Linea>
+          <Char>Overdragelse af tilsagn om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1 Hvad skal erhverver være opmærksom på?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2 Hvilke konsekvenser er der?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontrolbesøg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.1 Arealstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.2 Konditionalitetskrav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bortfald af tilsagn, tilbagebetaling, nedsættelse af tilskud og administrative sanktioner</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.1 Ved manglende opfyldelse af kriterier</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.2 Ved manglende opfyldelse af forpligtelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.2.1 For sen indsendelse af ansøgning om udbetaling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.2.2 For sen indsendelse af ansøgning om årlig indberetning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.2.3 For sen underskrift af tekst til servitut</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.3 Nedsættelse, administrative sanktioner og tilbagebetaling ved manglende opfyldelse af servitutbestemmelserne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.3.1 Bevaring af træer til naturligt henfald</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.3.2 Ekstensiv skovdrift</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.4 Revision af tilsagn</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.4.1 Tilsagn om tilskud revideres, hvis hele eller dele af tilsagnsarealet omfattes af anden regulering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9.4.2 Hvis dit tilsagn om tilskud skal revideres, kan du indgive erklæring om, at du ikke accepterer revisionen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.</Char>
+        </Linea>
+        <Linea>
+          <Char>Yderligere oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.1 Lovgrundlag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.1.1 Danske regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.1.2 EU - regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.2 Sådan indhenter og behandler vi dine personoplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.2.1 Så længe beholder styrelsen oplysningerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.2.2 Retsgrundlag for behandling af personoplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.2.3 Dine rettigheder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.3 Straffebestemmelser og svig</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.3.1 Falsk bevismateriale og svindel med EU-midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.4 Force majeure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.5 Kontakt til Landbrugsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10.5.1 Hvis du vil klage over en afgørelse fra os</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ordforklaring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bilag 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hjemmehørende arter - løvtræer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bilag 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hjemmehørende arter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bilag 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Regneeksempel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id35afbc01-38ca-48f4-ac4a-026d2829d0d8">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 1</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Velkommen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Denne vejledning skal du bruge, når du ønsker at søge om tilsagn om tilskud og udbetaling af tilskud under ordningen biodiversitetsskov.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her finder du oplysninger om ordningens formål, hvem der kan søge, hvad du kan søge til, hvordan du søger, og om de forskellige krav der er for at få tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du kan finde yderligere information og vejledning på Landbrugsstyrelsens tilskudsguide vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char>biodiversitetsskov 2024 på dette link (https://lbst.dk/tilskud-selvbetjening/tilskudsguide/biodiversitetsskov-2024).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Biodiversitetsskov er en del af den fælles europæiske landbrugspolitik (CAP) for perioden 2023-2027.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den danske implementering af CAP’en er nedskrevet i en CAP-plan.</Char>
+        </Linea>
+        <Linea>
+          <Char>CAP-planen skal understøtte EU-fælles målsætninger om en økonomisk bæredygtig landbrugssektor, fremme den grønne dagsorden indenfor miljø, klima og natur samt styrke udviklingen i landdistrikterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Denne vejledning hører til bekendtgørelse nr. 214 af 1. marts 2024 om tilskud til biodiversitetsskov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id78d3a153-c8c1-4279-a1f7-f1b44155d3ca">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 2</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Om ordningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen administrerer ordningen og træffer afgørelse om tilskud og udbetaling og foretager kontrol.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi modtager ansøgninger om tilskud til biodiversitetsskov, prioriterer ansøgningerne og træffer afgørelse om tildeling af tilskud (tilsagn eller afslag), modtager ansøgning om udbetaling, foretager kontrol og udbetaler tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">2.1 Formålet med ordningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det primære formål med tilskud til biodiversitetsskov er at bidrage til at fremme og bevare biodiversiteten samt sikre og fremme stabile levesteder for de arter, som er tilknyttet skov.</Char>
+        </Linea>
+        <Linea>
+          <Char>Danmark har en forpligtelse til at beskytte truede dyre- og plantearter, og mange af disse arter er knyttet til levesteder i skove.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er nødvendigt at tage særlige hensyn i skovdriften, for at sikre biodiversiteten i gennem levesteder for særlige arter.</Char>
+        </Linea>
+        <Linea>
+          <Char>I tilskudsordningen biodiversitetsskov gives der tilskud til at ekstensiv skovdrift og bevaring af træer til naturligt henfald.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">2.2 Afsatte midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Til ansøgningsrunden på ordningen i 2024 er der afsat i alt 31,25 mio. kr. til biodiversitetsskov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">2.3 Hvordan finansieres tilsagnet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsordningen biodiversitetsskov 2024 er en del af den fælles europæiske landbrugspolitik (CAP) for perioden 2023-2027 og er 80 % finansieret af EU-midler og 20 % af nationalmidler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan læse mere om tilskuddet i afsnit 3.3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id6450b240-be7e-41fe-875d-d99c06eb8480">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 3</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Er ordningen relevant for dig?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I dette kapitel kan du læse om, hvem der kan søge tilskudsordningen, og hvad du kan få tilskud til.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi anbefaler, at du læser dette kapitel grundigt og sætter dig ind i, om ordningen er relevant for dig, inden du går i gang med at udarbejde en ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_0.png" alt=" -" name="8965e64e-5e96-4c99-a843-7c7d277ec924" height="2.87cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vi behandler ansøgninger og sender tilsagn eller afslag når ansøgningsrunden slutter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det bemærkes, at styrelsen planlægger at gennemføre årlige ansøgningsrunder frem til 2027.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ske ændringer af rammer for tilskud forud for de kommende års ansøgningsrunder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">3.1 Hvem kan søge om tilskud til biodiversitetsskov?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan give tilskud til arealer med skov, herunder arealer med Natura 2000-skov, som ejes af private ejere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskud til kommuner kan ydes til kommunalt ejet Natura 2000-skov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En privat ejer kan både være en person, et selskab, en fond, forening eller lignende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er kun den ejer, der står som ejer af skovarealet i Tingbogen eller dokumenteret via skøde, der kan søge om tilskud i henhold til denne tilskudsordning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis skovarealet ejes af flere personer, et selskab, en fond, en forening eller lignende, skal der søges af en tegningsberettiget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den private ejer eller kommunen må ikke i forvejen være forpligtiget overfor offentlig myndighed til at have ekstensiv skovdrift eller at bevare de samme træer til naturligt henfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der må heller ikke modtages andre EU-tilskud eller tilskud fra en anden offentlig myndighed til ekstensiv skovdrift eller til at bevare de samme træer til naturligt henfald.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan ikke søges om tilskud til kriseramte virksomheder, som defineret i EU-retningslinjerne for statsstøtte til landbrugs- og skovbrugssektoren og i landdistrikter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver er den der:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• modtager tilsagn om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• er ansvarlig for, at tilsagnet gennemføres</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• søger om udbetaling af tilskuddet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• modtager tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">3.2 Kriterier og forpligtelser for tilskud til biodiversitetsskov</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen skelner mellem kriterier for støtteberettigelse og forpligtelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan læse mere detaljeret om disse i kapitel 5 under oversigt over kriterier for støtteberettigelse og forpligtigelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Kriterier:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Kriterier for støtteberettigelse er grundlæggende betingelser, der skal være opfyldt for, at en ansøger kan opnå tilsagn om tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det kan være kriterier, som skal være opfyldt ved ansøgning om tilsagn til tilskud og ved anmodning om udbetaling af tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ved manglende opfyldelse af et eller flere kriterier for støtteberettigelse, træffer vi afgørelse om helt eller delvist bortfald af tilsagn og tilbagebetaling af tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Forpligtelser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Nogle af forpligtelserne er betingelser, der skal være opfyldt, inden du sender udbetalingsansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Landbrugsstyrelsen kontrollerer, at forpligtelserne bliver overholdt, når vi behandler din ansøgning om udbetaling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Andre forpligtelser kan først opfyldes efter udbetalingen og kontrolleres derfor i forbindelse med den 5-årige kontrol efter udbetaling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved manglende opfyldelse af en forpligtelse, kan vi træffe afgørelse om hel eller delvis nedsættelse af tilskud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis tilskuddet nedsættes helt, træffer vi samtidig afgørelse om bortfald af tilsagnet om tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">3.3 Hvad kan du få tilskud til?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_1.png" alt="-" name="f58d7a0a-f513-4e8b-8e22-29f505699daa" height="1.63cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der gives tilskud til et bestemt areal.</Char>
+        </Linea>
+        <Linea>
+          <Char>I tilskuddet indgår det, at der skal bevares og markeres 12 hjemmehørende løvtræer pr. ha. til naturligt henfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan godt bevares færre eller flere træer end 12 inden for en hektar i projektet, så længe der i gennemsnit bevares 12 træer per hektar inden for projektets delarealer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se nærmere herom i afsnit 6.1.</Char>
+        </Linea>
+        <Linea>
+          <Char>I tilskudssatsen er der indregnet tilskud til ekstensiv skovdrift af tilsagnsarealet i 20 år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudssatsen varierer på baggrund af træernes stammediameter og dets antal, samt om det er egetræer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan kun medregnes træer som har en stammediameter på minimum 25 cm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet betales som en engangsudbetaling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Image border="no" src="DC1539_1_2.png" alt="-" name="b3fef633-46f6-4944-93af-53c2ef367ebe" height="12.30cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>• Ved tilskud til stammediameter 25-50 cm er indregnet tilskud til ekstensiv skovdrift på 3.000 kr. pr. ha.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Ved tilskud til stammediameter 50-75 cm er indregnet tilskud til ekstensiv skovdrift på 6.500 kr. pr. ha</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Ved tilskud til stammediameter &gt;75 cm er indregnet tilskud til ekstensiv skovdrift på 10.000 kr. pr. ha.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du kan finde vores regneeksempel i denne vejlednings bilag 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis du modtager anden støtte fra enten offentlig myndighed eller et EU-tilskud til midlertidig ekstensivering af skoven, vil vi foretage en konkret vurdering af, hvor meget du samtidig kan få i tilskud til biodiversitetsskov, og vi kan på baggrund deraf evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>reducere i satsen for ekstensiv skovdrift.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="idb372ccf4-ed9d-496e-a6b6-9cc90b231c5f">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 4</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Sådan søger du om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du skal sende din ansøgning om tilskud til biodiversitetsskov via Landbrugsstyrelsens digitale ansøgningsskema Tast selv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du kan også finde link til Tast selv på Landbrugsstyrelsens hjemmeside under tilskudsguiden til tilskud til biodiversitetsskov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du udfylder ansøgningsskemaet direkte i Tast selv og vil trin for trin blive ledt igennem, hvordan du udfylder ansøgningsskemaet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samtidig skal du sørge for at der er en indtegning af arealet, du søger tilskud til, i Internet Markkort (IMK) og vedhæfte eventuelle bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan læse mere om, hvad et tilsagnsareal er i afsnit 4.2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvad er et ansøgt areal?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.1 Hvem udfylder ansøgningsskemaet?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den digitale ansøgning kan udfyldes på to forskellige måder:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Du udfylder som ansøger selv ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du logger på Tast selv med digital signatur (MitID), udfylder ansøgningen med de påkrævede oplysninger og indsender de nødvendige bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis ansøger er bosat udenfor Danmark bedes man rette henvendelse til Landbrugsstyrelsen for yderligere vejledning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• En konsulent, som du giver fuldmagt, udfylder ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du skal selv oprette en fuldmagt til konsulenten i Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan kun give fuldmagt til en konsulentvirksomhed, ikke til en enkeltperson ansat i virksomheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når konsulenten logger på Tast selv med sin virksomheds MitID, kan konsulenten ansøge på dine vegne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du bærer selv ansvaret for anskaffelse af MitID.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du alene på grund af manglende MitID ikke kan indsende din ansøgning inden ansøgningsfristen, anser vi det ikke som et særligt tilfælde, der kan begrunde en dispensation fra ansøgningsfristen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.2 Hvad skal din ansøgning indeholde?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Din ansøgning skal indeholde oplysninger om:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger og ejendom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Yderligere skal der angives oplysninger om ejerforhold, ejendommens samlede skovareal og informationer om evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>konsulent.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arealet og det ansøgte tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Informationer om det indtegnede areal og den søgte sats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Om arealet er fredskovspligtigt og i så fald hvor mange ha.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Informationer om der er anden offentlig finansiering eller binding på det ansøgte areal som kan sidestilles med denne tilskudsordning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Eventuelle bemærkninger til din ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Data til EU</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Om ansøger er landbruger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Ansøgers køn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Hvor mange ha Natura 2000 - areal der indgår i det ansøgte areal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Eventuelle bilag:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>o Det kan være en fordel at vedhæfte en biotopregistrering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der på grund af de bevillingsmæssige rammer skal ske en prioritering af ansøgningerne, vil en vedhæftet biotopregistrering i visse tilfælde indgå i prioriteringen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.2.1 Hvad er et ansøgt areal?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det ansøgte areal er de samlede delarealer, som indtegnes i IMK i forbindelse med ansøgning om tilskud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der stilles ikke krav til de mellemliggende arealer som er beliggende imellem de ansøgte delarealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Billede 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her ses et eksempel på et ansøgt areal med et enkelt areal indtegnet med rød stiplet linje i IMK.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_3.png" alt="-" name="252ad815-60c1-479e-99df-a8fd9f1a1c34" height="7.55cm" width="9.91cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Billede 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her ses et eksempel på et ansøgt areal med flere delarealer indtegnet med rød stiplet linje i IMK.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_4.png" alt="-" name="c5cc20a1-639d-4a49-b5d1-99eea0b88164" height="6.40cm" width="9.88cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.2.2 Sådan indtegner du det ansøgte areal i IMK</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Din ansøgning skal have et digitalt kort (markkort) i IMK tilknyttet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved indtegning i IMK, kan man enten tegne direkte i IMK eller importerer en GIS fil til IMK.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du skal ved din indtegning sikre, at det kun er støtteberettigede arealer der indtegnes.</Char>
+        </Linea>
+        <Linea>
+          <Char>I forbindelse med opmåling af areal og tilpasning af polygon skal du således være opmærksom på følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Indtegningen må ikke gå udover de digitale matrikulære grænser til anden persons ejendom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Huse, haver, befæstede veje, matrikulære veje, bygninger, søer mv, må ikke indgå i tegningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Indtegningen må ikke overlappe med eksisterende markblokke, da Landbrugsstyrelsen skal sikre, at der ikke forekommer dobbeltfinansiering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du skal være opmærksom på, at der ikke forekommer dobbelt indtegning af delarealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at det indtegnede areal følger de ovennævnte kriterier.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vigtigt at du sørger for at dine indtegninger er retvisende, da vi regner med en nøjagtighed på 0,01 ha.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskud til bevaring af træer til naturligt henfald og ekstensiv skovdrift er arealbaserede, dvs. at der udbetales støtte på grundlag af arealets størrelse og dens sats.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er derfor vigtigt, at du sørger for en præcis indtegning af det areal, du søger tilskud til.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.3 Sådan prioriterer vi ansøgningerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi sagsbehandler ansøgningerne om tilsagn eller afslag på ansøgning om tilsagn om tilskud på grundlag af prioritering af de tilskudsberettigede ansøgninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi prioriterer ansøgninger om tilskud efter pointsystemet i bekendtgørelsens bilag 4, så ansøgninger med højere pointscore går forud for ansøgninger med lavere pointscore.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der gives tilskud til alle ansøgninger, der overholder ordningens kriterier for tilsagn (se afsnit 5.2 for kriterier).</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan dermed godt få tilskud, selvom dit projekt ikke får en høj prioriteringsscore, så længe alle midler afsat til ordningen ikke er brugt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Prioriteringskriterier:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Arealer, hvori der indgår Natura 2000 skovnaturtyper (4 point)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Skov med kortlagt HNV, som har en naturværdiscore på 8 eller mere (2 point).</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du ikke har HNV registrerede arealer med en naturværdiscore på 8 eller mere, kan en vedlagt biotopregistrering* ligestilles.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Anden skov (0 point)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>* Ved vurdering af, om der er registreret særlige værdier, tillægges forekomsten af arter i artsgrupper dyr, planter og svampe på den danske rødliste væsentlig betydning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan finde den her på dette link: redlist.au.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis der er ansøgt for mere end de afsatte bevillingsmæssige rammer, vil vi give tilsagn til den højest prioriterede ansøgning først og derefter i prioriteret rækkefølge, til alle midler er anvendt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil så gives afslag til de resterende projekter, der måtte være tilbage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis der skal gives afslag til ansøgninger med Natura 2000-skovnaturtyper prioriteres ansøgninger med størst areal andel i pct. med Natura 2000-skovnaturtyper forud for ansøgninger med mindre areal andel i pct. med Natura 2000-skovnaturtyper.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I tilfælde af fortsat lighed prioriterer vi ansøgninger med størst areal andel i pct. med naturmæssigt værdifuld skov på det ansøgte areal forud for ansøgninger med mindre areal i andel i pct. med naturmæssigt værdifuld skov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved pointlighed mellem to eller flere ansøgninger prioriterer vi ansøgninger på fredskovsarealer forud for ansøgninger på ikke-fredskovsarealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I tilfælde af fortsat lighed prioriterer vi ansøgningerne så, større ansøgte arealer går forud for mindre ansøgte arealer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der efter prioriteringen fortsat er lighed mellem ansøgninger, bliver de resterende ansøgninger udvalgt på baggrund af en lodtrækning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.4 Svarproces</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når vi har behandlet din ansøgning og truffet afgørelse om tilsagn eller afslag på det ansøgte areal, sender vi afgørelsen til dig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du vil kunne finde alle vores afgørelser vedrørende din ansøgning i Tast selv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Hvis du får tilsagn om tilskud, får du et tilsagnsbrev.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilsagnet indeholder det godkendte tilskud og vilkår.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Hvis du får afslag på ansøgningen om tilskud, får du et afslagsbrev med begrundelse inkl.</Char>
+        </Linea>
+        <Linea>
+          <Char>henvisning til lovgrundlag og en klagevejledning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.5 Årsager til at du vil få afslag på din ansøgning:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Det ansøgte areal kan ikke prioriteres inden for de bevillingsmæssige rammer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Det ansøgte areal opfylder ikke kriterierne for tilsagn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Du har givet urigtige eller vildledende oplysninger eller har fortiet oplysninger, der har betydning for sagens afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">4.6 Godt at vide om din ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Vi anbefaler, at du indsender din ansøgning i god tid, da du har mulighed for at foretage ændringer i din ansøgning i Tast selv i hele ansøgningsperioden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når ansøgningsfristen er udløbet, kan du ikke længere indsende ændringer til din ansøgning, medmindre vi sender en høring til dig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Opfylder din ansøgning ikke alle kriterier for tilskud, f.eks. fordi der mangler en oplysning eller et bilag, vil du få en høring fra os med opfordring til at sende os det manglende materiale inden 14 dage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Svarer du ikke eller kun delvist på spørgsmålene i høringen, vil du ikke få yderligere høringer på samme spørgsmål.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi vil derefter træffe afgørelse ud fra det foreliggende materiale.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du skal være opmærksom på, at det vil kunne resultere i et afslag på din ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Den sidst indsendte version af ansøgningsskemaet, som er modtaget inden ansøgningsfristens udløb, er den ansøgning, vi bruger til sagsbehandling, og som vi lægger til grund for vores afgørelse af, om du kan få tilsagn om tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Opfylder din ansøgning alle kriterier, vil du som udgangspunkt få tilsagn om tilskud til det antal træer og det ansøgte areal, som du har oplyst i din ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Efter ansøgningsfristens udløb kan du ikke udvide din ansøgning til et højere tilskudsbeløb.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Vi anbefaler, at når du indtegner dine arealer i IMK, at du zoomer ind til f.eks. 1:200, og kontrollerer, at det ansøgte areal udelukkende ligger på egne matrikler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Tast selv kan nogle gange være lukket.</Char>
+        </Linea>
+        <Linea>
+          <Char>På vores hjemmeside under driftsstatus kan du finde mere information om lukning af Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden kan du se den aktuelle driftsstatus i Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fra tid til anden opstår fejl og uhensigtsmæssigheder i Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan sende en fejlmelding via vores hjemmeside lbst.dk/driftsstatus/.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Når ansøgningen er indsendt, er det en god ide at sørge for, at antal delarealer (marker) og tilhørende navne forbliver ens, hvis du ønsker at lave en ændringsansøgning på et senere tidspunkt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Når du sender din ansøgning via Tast selv, bliver kvitteringsbrevet efterfølgende sendt automatisk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="ide471a174-c570-4aa1-b4ec-ff97f3ad807c">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 5</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Hvis du får tilsagn</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.1 Besked om afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når vi har behandlet din ansøgning og truffet afgørelse om, at du får tilsagn om tilskud eller afslag på din ansøgning, sender vi afgørelsen til dig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis du modtager et tilsagn om tilskud, vil der stå følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Fastsættelse af tilsagnsperioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Tilsagnsperioden begynder den 1. januar i det år, hvor der søges om udbetaling, og slutter den 31. december fem år senere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.2 Kriterier for støtteberettigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagn om tilskud, er betinget af følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøger ejer det ansøgte areal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det ansøgte areal er minimum 0,50 ha skov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>De ansøgte delarealer er hver for sig mindst 0,25 ha skov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det ansøgte areal indeholder ikke huse, have, veje eller andre ubevoksede arealer, med undtagelse af midlertidigt ubevoksede driftsarealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Engangsbeløbet er minimum 30.000 kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagn om tilskud er endvidere betinget af, at ansøger ikke modtager andre EU-tilskud eller tilskud fra en anden offentlig myndighed til ekstensiv skovdrift på det ansøgte areal eller til bevaring af de ansøgte træer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis ansøger modtager andre tilskud til det ansøgte areal eller har forpligtelser vedrørende det ansøgte areal og tilskuddet eller forpligtelsen efter en konkret vurdering delvist kan sidestilles med denne ordning, kan der meddeles tilsagn om tilskud med reduceret tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagn om tilskud er desuden betinget af, at ansøger ikke er forpligtet til have ekstensiv skovdrift eller at bevare de ansøgte træer til naturligt henfald på det ansøgte areal i medfør af anden lovgivning eller tinglyste servitutter eller andre bindinger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis ansøger kun har en forpligtelse til ekstensivering eller bevaring af træer, der delvist kan sidestilles med denne tilskudsordnings krav, kan vi nedsætte tilskuddet delvist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.3 Dine forpligtigelser efter tilsagn om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver er forpligtet til følgende, når tilsagn om tilskud er opnået:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Indsende udbetalingsansøgning rettidigt (se afsnit 6.1).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Indsende de årlige indberetninger rettidigt (se afsnit 6.4).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Lade en servitut tinglyse om bevaring af træer til naturligt henfald og ekstensiv skovdrift på hele tilsagns-arealet (se afsnit 5.4).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Sikre, at kontrolmyndigheden har adgang til tilsagnsarealet i forbindelse med kontrol.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Tilsagnshaver er desuden forpligtet til at sikre, at tilsagnsarealet bliver pålagt fredskovspligt efter skovloven, inden udbetalingsansøgningen indsendes – med mindre arealet allerede er underlagt fredskovs-pligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver er forpligtet til at sikre følgende for så vidt angår de træer, som skal bevares til naturligt henfald:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Træerne skal være hjemmehørende og udgøre en del af kronetaget i bevoksningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan se listen med tilskudsberettigede træer i bilag 1 i denne vejledning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Træerne skal markeres fysisk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Højst 50 % træerne må stå i de yderste 20 meter af skoven (ydre skovbryn).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver skal opfylde de bestemmelser, der skal tinglyses som servitut som følge af tilsagn om tilskud i hele tilsagnsperioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver skal forud for ansøgning om udbetaling, i IMK indberette følgende om de træer, som bevares til naturligt henfald:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Træarter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• GPS-positioner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• De endelige diameterklasser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.4 Sådan foregår tinglysningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Træer til naturligt henfald på ejendommen er en varig binding, imens ekstensiv skovdrift er en 20-årig binding.</Char>
+        </Linea>
+        <Linea>
+          <Char>Begge skal være tinglyst på ejendommen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tinglysningsprocessen igangsættes først når Landbrugsstyrelsen modtager din anmodningen om udbetaling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Landbrugsstyrelsen anmelder en servitut til tinglysning på hele tilsagnsarealet, inden udbetaling af tilskud finder sted.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du skal dermed ikke selv stå for tinglysningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du vil igennem Tast selv modtage besked med angivelse af en frist for underskrift, når servitutten er klar til underskrift i Det Digitale Tinglysningssystem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vi afholder udgifterne til tinglysningen og er påtaleberettiget.</Char>
+        </Linea>
+        <Linea>
+          <Char>Servitutten indeholder desuden en bestemmelse om, at kontrolmyndigheden skal have adgang til arealet i forbindelse med kontrol, og derudover bestemmelser om følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.4.1 Mere information om servitutten</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Servitutten skal indeholde flg.</Char>
+        </Linea>
+        <Linea>
+          <Char>om bevaring af træer til naturligt henfald:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>De udpegede træer skal bevares på voksestedet til de naturligt forgår.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den fysiske markering af træerne skal vedligeholdes, så træerne kan genfindes i skovene.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kan bestemmelserne i punkt 1 og 2 ikke opfyldes som følge af force majeure eller usædvanlige omstændigheder, skal du som ejer af arealet give Landbrugsstyrelsen skriftlig meddelelse sammen med dokumentation for force majeure eller usædvanlige omstændigheder senest 15 arbejdsdage fra det tidspunkt, hvor du er i stand til at give meddelelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis bestemmelserne i punkt 1 og 2 ikke kan opfyldes, skal der bevares hvad der svarer til 12 tilsvarende træer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Træerne må ikke skades forsætligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis træerne falder ned over hegn, stier, veje, fortidsminder og lignende, må de dog skæres op i nødvendigt omfang, så de kan skubbes eller trækkes til side.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det opskårne træ skal efterlades på stedet til naturligt henfald.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis et træ eller dele af et træ udgør en sikkerhedsrisiko for mennesker eller bygninger, kan træet efter forudgående tilladelse fra Landbrugsstyrelsen fældes eller beskæres.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis sikkerhedsrisikoen er akut, kan træet fældes eller beskæres uden forudgående tilladelse fra Landbrugsstyrelsen, hvis det ikke at muligt umiddelbart at få kontakt til styrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Landbrugsstyrelsen skal snarest herefter orienteres.</Char>
+        </Linea>
+        <Linea>
+          <Char>Træet skal efterlades på stedet til naturligt henfald.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Servitutten kan aflyses, når alle træer er helt nedbrudte og ikke længere kan erkendes i skovbunden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Generelt bør der ikke udpeges træer til naturligt henfald, som vil kunne udgøre en risiko for færdslen på stærkt befærdede veje og stier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Servitutten skal indeholde flg.</Char>
+        </Linea>
+        <Linea>
+          <Char>om ekstensiv skovdrift i 20 år:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arealet skal forynges ved naturligt frøfald, og der må ikke foretages såning og plantning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis naturlig foryngelse ikke indfinder sig efter 2 år fra frøfald, kan der foretages såning eller plantning med hjemmehørende træarter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan finde listen med hjemmehørende arter på bilag 2 i denne vejledning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>I tilfælde af force majeure eller andre usædvanlige omstændigheder, som har forårsaget omfattende skader på tilsagnsarealet, som f.eks. skovbrand eller stormfald, kan der foretages såning eller plantning, inden der er gået to år fra frøfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du i tilfælde af force majeure eller usædvanlige omstændigheder ønsker at foretage såning eller plantning tidligere end 2 år fra frøfald, skal du som ejer af arealet give Landbrugsstyrelsen skriftlig meddelelse sammen med dokumentation for force majeure eller usædvanlige omstændigheder senest 15 arbejdsdage fra det tidspunkt, hvor ejer er i stand til at give meddelelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jordbunden skal være uforstyrret af maskinel påvirkning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan dog som led i skovdriften foretages jordbearbejdning eller kørsel i skovbunden med maskiner på op til 1/3 del af hvert delareal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der må ikke anvendes gødning, kemisk bekæmpelse eller kalkning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Afvandingen af arealet må ikke øges, herunder må eksisterende grøfter ikke uddybes, og der må ikke etableres nye grøfter og nye dræn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Eksisterende grøfter må dog vedligeholdes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.5 Særligt vedrørende fortidsminder og jagt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Særligt for hensyn til beskyttede og fredede fortidsminder i skov: Plejepligten for fortidsminder tilsidesættes ikke ved tilsagn om tilskud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det præciseres desuden, at muligheden for opskæring og flytning af naturligt henfaldene træer også gælder for henfald af træ på fortidsminder, således at tilskudsordningen ikke forhindrer opfyldelse af plejepligten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Plejepligten er gældende for de kommunalt ejet arealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der må fortsat gerne drives jagt på arealet, hvis dette er lovligt og tilladt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arealet skal fortsat være tilgængeligt for offentligheden i overensstemmelse med naturbeskyttelseslovens bestemmelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.6 Pålæggelse af fredskovspligt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis skoven ikke allerede er pålagt fredskovspligt, skal tilsagnsarealet pålægges fredskovspligt jf. skovloven, inden der søges om udbetaling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at arealet fremover skal opfylde skovlovens bestemmelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fredskovspligten er bindende og det er som udgangspunkt ikke muligt at komme ud af fredskovspligten, selv om tilskud eventuelt opgives eller tilbagebetales.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen om pålæggelse af fredskovspligt sendes til Miljøstyrelsen, som er myndighed efter skovloven.</Char>
+        </Linea>
+        <Linea>
+          <Char>Miljøstyrelsen kan vejlede i, om der er andre arealer end tilsagnsarealet, der skal indgå i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs mere på mst.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">5.7 Du har oplysningspligt til os</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis vi beder om det, skal du – i hele perioden, hvor betingelserne for tilskud skal være opfyldt – afgive en erklæring til os om, hvorvidt betingelserne for tilskud er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden skal du – i hele perioden, hvor betingelserne for tilskud skal være opfyldt - underrette os, hvis betingelserne for tilskud ikke længere er opfyldt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id03fc89f2-4987-466f-970a-0e183b9761b6">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 6</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Ansøgning om udbetaling samt hvilke forpligtelser du skal opfylde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2" />
+      <Exitus>
+        <Linea>
+          <Char>I dette kapitel kan du læse om, hvilke forpligtelser du skal opfylde i henhold til din første indberetning og anmodning om udbetaling, de efterfølgende faste indberetninger og fastholdelsen fra år 6 – 20.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_5.png" alt="-" name="ec4585af-aeed-4026-adb9-167d53ab7223" height="2.87cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.1 Hvordan anmoder du om udbetaling af tilskud?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Din anmodning om udbetaling af tilskud skal indgives på det ansøgningsskema, som er tilgængeligt for ordningen i Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Inden du anmoder om udbetaling af dit tilskud, skal du sørge for, at data af træer til naturligt henfald er hentet ind i skemaet og at det indgår i beregning af det ansøgte tilskudsbeløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se regneeksempel i bilag 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt at være særlig opmærksom på, at der for det enkelte delareal i gennemsnit skal være indberettet 12 træer pr. ha. Hvis antallet af indberettede træer ikke stemmer overens med dit indtegnede areal, skal du sørge for at tilpasse polygonerne i IMK, således at arealet af det enkelte delareal svarer til, at der er 12 træer pr. ha. i gennemsnit for det enkelte delareal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Træerne træernes placering skal være inde i polygonen, for at de kan indgå i tilskudssagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved indberetningen skal du sørge for, at hvert træ har følgende data tilknyttet i IMK:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Træart</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Diameter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- GPS-lokation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På ordningens tilskudsguide vil der ligge en brugerguide til, hvordan du skal udføre processen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.1.1 Ansøgning om udbetaling af tilskud skal indeholde:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det udfyldte udbetalingsskema med data om træer til naturligt henfald.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Miljøstyrelsens afgørelse om fredskovpligt, hvis fredskovspligt ikke fremgår af tingbogen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Eventuelle nødvendige tilladelser og dispensationer fra offentlige myndigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet udbetales som et engangsbeløb til den, som er tilsagnshaver og overføres til tilsagnshaverens NemKonto.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en administrativ kontrol inden der udbetales tilskud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Parallelt med dette foregår der også en tinglysningsproces, læs mere om tinglysningen i afsnit 5.4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arealtilskud kan udtages til kontrolbesøg i forbindelse med den koordinerende arealkontrol.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan læse mere om den koordinerede arealkontrol på vores hjemmeside via.</Char>
+        </Linea>
+        <Linea>
+          <Char>dette link: https://lbst.dk/tvaergaaende/kontrol.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.2 Indberetning af tilskud til SKAT</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Styrelsen indberetter udbetalt tilskud til SKAT.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en ansøger ønsker afklaring om beskatning af et tilskud inden modtagelse af tilskuddet, kan ansøgeren anmode SKAT om at afgive et bindende svar.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det koster et mindre gebyr at få et bindende svar.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs mere på www.skat.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fradragsregler følger de til enhver tid gældende regler i skattelovgivningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.3 Registrering i statsstøtteregistret</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Fra 1. juli 2016 er styrelsen forpligtiget til at registrere statsstøtte i Statsstøtteregistret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vedrører støtte på over 500.000 €, svarende til ca. 3,5 mio. kr. Du skal som støttemodtager være bekendt med denne offentliggørelse i Statsstøtteregisteret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.4 Du skal indberette hvert år i den 5-årige tilsagnsperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Din første indberetning i år 1, er når du indberetter dine træer og anmoder om udbetaling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når du har fået udbetalt dit tilskud er det vigtigt at du husker på at Landbrugsstyrelsen fortsat har brug for en årlig indberetning om, at alle forpligtelser for udbetalingen af tilskud fortsat er overholdt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne årlige indberetning skal foretages hvert år i de næste 4 år (Tilsagnsperioden) og skal foregå gennem et skema i Tast selv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnsperioden begynder den 1. januar i ansøgningsåret om udbetaling og slutter den 31. december fem år senere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du skal overholde følgende i hele tilsagnsperioden:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- I år 2-5 af tilsagnsperioden skal du forsat hvert år indsende en bekræftelse af dit tilsagn.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬Hermed bekræfter du, at du som ejer fortsat er tilsagnshaver og opfylder de betingelser og forpligtelser, det indebærer, uanset om du har fået dit tilskud udbetalt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Fristen for årlig indberetning er den samme som ansøgningsfristen i fællesskemaet det pågældende år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis der sker ændringer i tilsagnet eller et ejerskifte, skal du orientere Landbrugsstyrelsen om det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Image border="no" src="DC1539_1_6.png" alt="-" name="b28ffea5-6400-4be5-8322-4e5a37e13737" height="2.62cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">6.5 Fastholdelse fra år 6 – 20</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnsperioden for biodiversitetsskov er 5-årig, men servitutten strækker sig hhv.</Char>
+        </Linea>
+        <Linea>
+          <Char>over 20 år (for ekstensiveringen) og indtil alle træerne er naturligt forgået.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du skal dermed overholde de bestemmelser for arealanvendelse, der fremgår af den tinglyste servitut, i hele servituttens løbetid på 20 år for ekstensiv skovdrift og indtil alle træerne er naturligt forgået for træer til naturligt henfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan læse mere om hvilke forpligtigelser, der er for de tinglyste servitutter i afsnit 5.4 eller bekendtgørelsens kapitel 4.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id8b13a457-6565-4cc5-a107-27ebb8a464f2">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 7</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Overdragelse af tilsagn om tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis du som tilsagnshaver gerne vil overdrage tilsagnsarealet helt eller delvist med virkning inden tilsagnsperiodens udløb, skal du indgive en ejerskifteerklæring til Landbrugsstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette skal altid gøres, hvis man sælger eller på anden vis overdrager det areal, der er ydet tilskud til, til en anden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du skal være opmærksom på følgende krav til ejerskifteerklæringen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ejerskifteerklæringen skal indgives på den ejerskifteerklæring, der findes i tilskudsguiden på Landbrugsstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ejerskifteerklæringen skal underskrives af tilsagnshaver og erhverver.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis tidspunktet i det pågældende kalenderår for overdragelsen af tilsagnsarealet ligger før udløb af fristen for indgivelse af fællesskema i kalenderåret, skal ejerskifteerklæringen være modtaget i Landbrugsstyrelsen senest ved udløb af fristen for indgivelse af ændringer til fællesskema i kalenderåret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan i særlige tilfælde dispensere fra den anførte frist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis tidspunktet i det pågældende kalenderår for overdragelsen af arealet ligger efter udløb af fristen for indgivelse af fællesskema i kalenderåret, skal ejerskifteerklæringen være modtaget i Landbrugsstyrelsen senest ved udløb af fristen for indgivelse af ændringer til fællesskema i det umiddelbart efterfølgende kalenderår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan i særlige tilfælde dispensere fra den anførte frist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Erhververs underskrift kan dog udelades, hvis erhverver ikke indtræder i tilsagnet for arealet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ejerskifteerklæringen skal i dette tilfælde vedlægges dokumentation for overdragelsen af arealet, herunder tidspunktet for overdragelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">7.1 Hvad skal erhverver være opmærksom på?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Personen, som får tilsagnet om tilskud overdraget, overtager dermed også ansvaret for at leve op til kriterierne og sikre sig at forpligtelserne opfyldes i hele tilsagnsperioden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når vi modtager ejerskifteerklæringen rettidigt, registrerer vi erhverver som nye tilsagnshaver.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er en betingelse for, at tilsagn om tilskud for tilsagnsarealet kan opretholdes, at erhverver indtræder i tilsagnet med virkning fra tidspunktet for overdragelsen af tilsagnsarealet, og at der rettidigt indgives ejerskifteerklæring herom.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved rettidig modtagelse af ejerskifteerklæringen, registrerer Landbrugsstyrelsen erhverver som ny tilsagnshaver.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">7.2 Hvilke konsekvenser er der?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er forskellige konsekvenser du kan støde på, alt efter hvad der sker ved overdragelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis vi ikke modtager ejerskifteerklæringen rettidigt, træffes der afgørelse om tilbagebetaling af tilskuddet ud fra en konkret vurdering af forsinkelsens varighed og eventuel gentagelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis erhverver ikke vil underskrive og indgå i overdragelse af tilsagn, bortfalder tilsagnet med virkning fra begyndelsen af det kalenderår, inden for hvilket overdragelsen har virkning fra.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det betyder at hele eller dele af tilskuddet som er blevet udbetalt, skal tilbagebetales af tilsagnshaver.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilbagebetalingskravet opgøres som engangsbeløbet for arealet, divideret med fem og ganget med det antal kalenderår, hvor tilsagnet bortfalder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id11d0fee5-095d-4439-bf60-7a7c9dec3549">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 8</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Kontrolbesøg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">8.1 Arealstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsens kontrol skal kontrollere om ansøgte arealer er støtteberettigede.</Char>
+        </Linea>
+        <Linea>
+          <Char>Styrelsen foretager som udgangspunkt uvarslet kontrol, da kontrollen af skovarealerne udføres samtidig med den øvrige arealkontrol af dine evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>marker i det år du anmoder om udbetaling eller det indeværende år du indsender din indberetning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du skal sikre, at kontrolmyndigheden har adgang til dit tilsagnsareal i forbindelse med kontrol.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samtidig skal du yde den nødvendige vejledning og hjælp ved kontrollens gennemførelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter kontrollen vil du modtage et brev, om at dine arealer er kontrolleret OK eller et høringsbrev.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved et høringsbrev, sender du dine eventuelle høringsbemærkninger til den kontrollører du har modtaget høringsbrevet fra.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontrolløren vil ikke besvare dine kommentarer til kontrollen, men sender dem sammen med sine egne bemærkninger videre til sagsbehandling, hvor der tages stilling til bemærkningerne, inden der træffes afgørelse, om hvorvidt arealerne fortsat er støtteberettigede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">8.2 Konditionalitetskrav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De ansøgte arealer er omfattet af konditionalitetskravene.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær opmærksom på, at der er tre delkrav som gælder for fredsskovsarealer.</Char>
+        </Linea>
+        <Linea>
+          <Char>De lovgivningsbestemte forvaltningskrav er beskrevet i ”LF 3-4.5 Beskyttelse af fredskovs-pligtige arealer” i vejledningen for konditionalitet på miljøområdet 2024.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vejledningen opdateres årligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved overtrædelse af konditionalitetskravene kan du få nedsat dit tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Du kan læse mere om konditionalitet, samt finde vejledninger om konditionalitet på linket nedenfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>(https://lbst.dk/landbrug/konditionalitet)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id8a98325c-66fc-4bdf-a315-919525c86cb9">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 9</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Bortfald af tilsagn, tilbagebetaling, nedsættelse af tilskud og administrative sanktioner</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I dette kapitel kan du læse nærmere om hvilke regler, der er vedrørende nedsættelse af tilskud, sanktioner og bortfald af tilsagn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.1 Ved manglende opfyldelse af kriterier</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen træffer afgørelse om hel eller delvis bortfald af tilsagn om tilskud og om tilbagebetaling af eventuelt udbetalt tilskud, hvis du enten har:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Givet urigtige eller vildledende oplysninger eller har fortiet oplysninger af betydning for sagens afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ikke opfyldt dine pligter efter §§ 8, 15, stk. 1 og 2, og 16, stk. 1, i lov om administration af den fælles landbrugspolitik m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Eller at du ikke har opfyldt et eller flere kriterier for støtteberettigelse i § 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.2 Ved manglende opfyldelse af forpligtelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet nedsættes efter en konkret vurdering helt eller delvis, hvis forpligtelserne ikke er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden bortfalder tilsagnet, hvis tilskuddet nedsættes helt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetalt tilskud, der er omfattet heraf, skal tilbagebetales.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.2.1 For sen indsendelse af ansøgning om udbetaling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ved for sen indsendelse af ansøgning om udbetaling, nedsættes udbetalingen med 1 pct. af det tilskud, som du ville være berettiget til, hvis indsendelsen var sket rettidigt, pr. arbejdsdag, hvormed fristen overskrides.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nedsættelsen beregnes af en femtedel af tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Er forsinkelsen senere end fristen for indgivelse af ændringer til fællesskemaet, kan der efter påmindelse træffes afgørelse om yderligere nedsættelse af udbetalingen og eventuelt bortfald af tilsagn om tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Medmindre du har fået dispensation fra fristen for indsendelse af ansøgning om udbetaling, skal du følge henvisningerne på den nye frist, der er meddelt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.2.2 For sen indsendelse af ansøgning om årlig indberetning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ved for sen indsendelse af en årlig indberetning, nedsættes tilskuddet med 1 pct. af det tilskud, som til-sagnshaver ved rettidig indsendelse ville være berettiget til, hvis indsendelsen var sket rettidigt, pr. arbejdsdag, hvormed fristen overskrides.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nedsættelsen beregnes af en femtedel af tilskuddet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetalt tilskud, der er omfattet heraf, skal tilbagebetales.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Er forsinkelsen senere end fristen for indgivelse af ændringer til fællesskemaet, kan der efter påmindelse træffes afgørelse om yderligere nedsættelse og eventuelt bortfald af en femtedel af tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.2.3 For sen underskrift af tekst til servitut</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ved for sen underskrift af tekst til servitut, nedsættes udbetalingen med 1 pct. af det tilskudsbeløb, som du ville være berettiget til, hvis der var underskrevet rettidigt, pr. arbejdsdag, hvormed fristen overskrides.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ved forsinkelse på mere end 25 kalenderdage træffes der afgørelse om hel nedsættelse af udbetalingen og bortfald af tilsagn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.3 Nedsættelse, administrative sanktioner og tilbagebetaling ved manglende opfyldelse af servitutbestemmelserne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan foretage tilskudsnedsættelse og administrative sanktioner for manglende opfyldelse af servitutbestemmelserne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt at være opmærksom på at tilskudsnedsættelse og administrative sanktioner beregnes særskilt for hvert delareal eller for de delarealer, som har den samme tilskudssats.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.3.1 Bevaring af træer til naturligt henfald</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsnedsættelse og administrative sanktioner for manglende opfyldelse af servitutbestemmelser om bevaring af træer til naturligt henfald, beregnes for hvert træ på baggrund af 1/12 af den del af tilskudssatsen pr. ha., som vedrører bevaring af træerne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det overtrådte areal udgør 1/12 ha pr. træ.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.3.2 Ekstensiv skovdrift</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsnedsættelse og administrative sanktioner for manglende opfyldelse af servitutbestemmelser om ekstensiv skovdrift beregnes af den del af tilskudssatsen pr. ha., som vedrører ekstensiv skovdrift.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beregningen foretages på grundlag af en femtedel af tilskuddet, svarende til den del af tilskuddet, der forholdsmæssigt kan henregnes til det kalenderår, hvor servitutbestemmelsen ikke er opfyldt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udover den tilskudsnedsættelse og eventuelle administrative sanktion, som pålægges for manglende opfyldelse af servitutbestemmelser, kan der træffes afgørelse om bortfald af tilsagnet med virkning for tilskud for øvrige kalenderår i tilsagnsperioden for så vidt angår det overtrådte areal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Afgørelse om bortfald af tilsagn sker ud fra en konkret vurdering af alvor, omfang og varighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved tilskudsnedsættelse og bortfald skal udbetalt tilskud tilbagebetales.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der beregnes en overtrædelsesprocent ved at dividere det overtrådte areal med tilsagnsarealet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det tilskudsberettigede areal fastsættes som tilsagnsarealet fratrukket det overtrådte areal, der er ganget med den eller de relevante vægtningsfaktorer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis der er forskel mellem det tilskudsberettigede areal og tilsagnsarealet på 0,10 ha eller derunder, betragtes det tilskudsberettigede areal som lig med tilsagnsarealet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Medmindre at forskellen mellem det tilskudsberettigede areal og tilsagnsarealet udgør mere end 20 pct.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Reglerne ovenfor finder anvendelse således, at det tilskudsberettigede areal udgør tilsagnsarealet fratrukket det overtrådte areal, der er ganget med den eller de relevante vægtningsfaktorer og divideret med fem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsnedsættelse og administrative sanktioner fastsættes som følger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis overtrædelsesprocenten højst udgør 10 pct., nedsættes tilskuddet med det overtrådte areal, således at der alene udbetales tilskud for det tilskudsberettigede areal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis overtrædelsesprocenten er på over 10 pct., men ikke over 25 pct., nedsættes tilskuddet med det overtrådte areal, således at der alene betales tilskud for det tilskudsberettigede delareal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover pålægges en sanktion svarende til det overtrådte areal gange med en sanktionsfaktor på 0,2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis ansøgeren i tidligere år i perioden 2025-2029 har haft en overtrædelsesprocent på 10 pct. eller derover under denne ordning, er sanktionen det overtrådte areal gange med en sanktionsfaktor på 0,5.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis overtrædelsesprocenten overstiger 25 pct., nedsættes tilskuddet med det overtrådte areal, således at der alene udbetales tilskud for det tilskudsberettigede areal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover, pålægges en sanktion svarende til det overtrådte areal gange med en sanktionsfaktor på 0,3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis ansøgeren i tidligere år i perioden 2025-2029 har haft en overtrædelsesprocent på over 10 under denne ordning, er sanktionen det overtrådte areal gange med en sanktionsfaktor 1,0.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved fastsættelse af tilskudsnedsættelse, skal det overtrådte areal ganges med den eller de relevante vægtningsfaktorer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved manglende opfyldelse af servitutbestemmelsen nedsættes tilskuddet helt for det eller de delarealer, hvor kontrolmyndigheden ikke har adgang i forbindelse med kontrol.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved manglende opfyldelse af flere servitutbestemmelser på det samme areal beregnes vægtningsfaktoren ved at lægge de relevante vægtningsfaktorer sammen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Summen af vægtningsfaktorerne for det enkelte areal kan højst fastsættes til 1,00.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan højst ske nedsættelse og administrative sanktioner for overtrædelser af forpligtelsen der svarer til 100 pct. af det samlede tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.4 Revision af tilsagn</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.4.1 Tilsagn om tilskud revideres, hvis hele eller dele af tilsagnsarealet omfattes af anden regulering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis der i løbet af den 5-årige tilsagnsperiode fastsættes bindende krav via anden lovgivning, der helt eller delvist svarer til bestemmelserne i servitutten om ekstensiv skovdrift, medfører det revision af den del af tilskudssatsen, som vedrører ekstensiv skovdrift.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette skyldes, at der ikke kan gives tilskud til tiltag, der er obligatoriske efter anden lovgivning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En eventuel ændring af tilskudssatsen vil have virkning fra begyndelsen af det kalenderår i tilsagnsperioden, som den pågældende regulering har virkning fra.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>For meget udbetalt tilskud som følge af, at en eller flere tilskudssatser er ændret, skal tilbagebetales af tilsagnshaver.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilbagebetalingskravet opgøres som engangsbeløbet for det pågældende areal, divideret med fem og ganget med det antal kalenderår, hvor tilsagnet bortfalder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">9.4.2 Hvis dit tilsagn om tilskud skal revideres, kan du indgive erklæring om, at du ikke accepterer revisionen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I tilfælde af at du ikke kan acceptere revisionen, skal du indgive en erklæringen der omfatter alle arealer, der indgår i tilsagnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Erklæringen kan tidligst indgives ved begyndelsen af det kalenderår, inden for hvilket den pågældende regulering har virkning fra.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Erklæringen skal indgives til Landbrugsstyrelsen på et særligt skema, der fås via Landbrugsstyrelsens hjemmeside eller ved henvendelse til Landbrugsstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Erklæringen skal indeholde de oplysninger, der forlanges til brug for sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Erklæringen skal være modtaget i Landbrugsstyrelsen senest ved udløb af fristen for indgivelse af ændringer til fællesskema.</Char>
+        </Linea>
+        <Linea>
+          <Char>Erklæringen anses dog som rettidigt modtaget, hvis erklæringen er modtaget i Landbrugsstyrelsen senest 8 uger efter det tidspunkt, hvor den regulering, der medfører revision af tilsagn, har virkning fra.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis de 8 uger udløber på en helligdag, en lørdag eller en søndag, udløber fristen den første arbejdsdag, der følger herefter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan i særlige tilfælde dispensere fra den anførte frist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved rettidig modtagelse af erklæringen bortfalder det tilsagn, der er omfattet af erklæringen, for så vidt angår ekstensiv skovdrift, hvis erklæringen er i overensstemmelse med de ovenstående punkter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilsagnet bortfalder med virkning fra begyndelsen af det kalenderår, inden for hvilket den pågældende regulering har virkning fra.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskud, der er udbetalt for de kalenderår, hvor tilsagnet bortfalder, skal tilbagebetales af tilsagnshaver.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilbagebetalingskravet opgøres som engangsbeløbet, divideret med fem og ganget med det antal kalenderår, hvor tilsagnet bortfalder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id0fcd3753-8dd3-49f8-9e98-0ba5af282f06">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 10</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Yderligere oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3" />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.1 Lovgrundlag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.1.1 Danske regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Love og bekendtgørelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Lov om administration af den fælles landbrugspolitik, Lov nr. 407 af 25/04/2023</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Bekendtgørelse om tilskud til biodiversitetsskov, bekendtgørelse nr. 214 af 01/03/2024</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Andre generelle danske regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven), lov nr. 502 af 23. maj 2018</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Lov om offentlighed i forvaltningen (offentlighedsloven), lovbekendtgørelse nr. 145 af 24. februar 2020.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Straffeloven, lovbekendtgørelse nr. 1851 af 20. september 2021.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.1.2 EU - regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa-Parlamentets og Rådets Forordning (EU) 2021/2115 af 2. december 2021 om regler for tilskud til strategiske planer, der udarbejdes af medlemsstaterne under den fælles landbrugspolitik og finansieres gennem Den Europæiske Garantifond for Landbruget (EGFL) og Den Europæiske Landbrugsfond for Udvikling af Landdistrikterne (ELFUL), og om ophævelse af forordning (EU) nr. 1305/2013 og (EU) nr. 1307/2013.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa-Parlamentets og Rådets Forordning (EU) 2021/2116 af 2. december 2021 om finansiering, forvaltning og overvågning af den fælles landbrugspolitik og om ophævelse af forordning (EU) nr. 1306/2013.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kommissionens Gennemførelsesforordning (EU) 2021/2289 af 21. december 2021 om regler for anvendelsen af Europa-Parlamentets og Rådets forordning (EU) 2021/2115 om præsentationen af indholdet af de strategiske planer og om det elektroniske system til sikker udveksling af oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kommissionens Gennemførelsesforordning (EU) 2021/2290 af 21. december 2021 om fastlæggelse af regler for metoderne til beregning af de fælles output- og resultatindikatorer som fastsat i bilag I til Europa-Parlamentets og Rådets forordning (EU) 2021/2115.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kommissionens delegerede forordning (EU) 2022/127 af 7. december 2021 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) 2021/2116 for så vidt angår betalingsorganer og andre organer, finansiel forvaltning, regnskabsafslutning, sikkerhedsstillelse og brug af euroen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kommissionens Gennemførelsesforordning (EU) 2022/128 af 21. december 2021 om regler for anvendelsen af Europa-Parlamentets og Rådets forordning (EU) 2021/2116 om betalingsorganer og andre organer, finansiel forvaltning, regnskabsafslutning, kontrol, sikkerhedsstillelse og åbenhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>•Kommissionens Gennemførelsesforordning (EU) 2022/129 af 21. december 2021 om regler for de interventionstyper vedrørende olieafgrøder, bomuld og biprodukter fra vinfremstilling, der er fastsat i Europa-Parlamentets og Rådets forordning (EU) 2021/2115, og for kravene om information, offentlig omtale og synlighed i forbindelse med EU-tilskud og de strategiske planer under den fælles landbrugspolitik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kommissionens forordning (EU) 2022/2472 af 14. december 2022 om forenelighed med det indre marked efter artikel 107 og 108 i traktaten om Den Europæiske Unions funktionsmåde af visse kategorier af støtte i landbrugs- og skovbrugssektoren og i landdistrikterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Rådets forordning nr. 1303/2013 af 17. december 2013 om fælles bestemmelser for den Europæiske Fond for Regional udvikling, Den Europæiske Socialfond, Samhørighedsfonden, Den Europæiske Land-brugsfond for udvikling af Landdistrikterne og Den Europæiske Hav- og Fiskerifond og om generelle bestemmelser for Den Europæiske Fond for Regional udvikling, Den Europæiske Socialfond, Samhørighedsfonden, Den Europæiske Landbrugsfond for udvikling af Landdistrikterne og Den Europæiske Hav- og Fiskerifond og om ophævelse af Rådets forordning (EF) nr. 1083/2006.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.2 Sådan indhenter og behandler vi dine personoplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi behandler dine personoplysninger til følgende formål:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Sagsbehandling af din ansøgning om tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Anmodning om udbetaling af tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Administration.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Kontrol.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>De oplysninger, som du har afgivet, da du udfyldte din ansøgning og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>fællesskeamet, vil blive brugt til at behandle din sag hos os.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi videregiver desuden de afgivne oplysninger til Miljøstyrelsen til brug for skovlovsbehandlingen af dit tilsagn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det drejer sig derfor primært om almindelige personoplysninger som kan inddeles i følgende kategorier:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Navn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• CPR-nr. (hvis du indgivet ansøgning via CPR-nr.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• CVR.</Char>
+        </Linea>
+        <Linea>
+          <Char>-nr. (hvis du indgivet ansøgning via CVR-nr.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Adresse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Regnskabsbilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Andre personoplysninger, som du selv har indsendt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for behandlingen af din sag kan det være nødvendigt at indsamle eller videregive oplysninger til eventuel tredjepart.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen er tillige pålagt at udføre kontrol af de indkomne ansøgninger, betalingsanmodninger m.v., herunder at sikre at de forpligtelser, der er pålagt en ansøger i henhold til reglerne bliver overholdt, og at der ikke sker misbrug af EU- og nationale midler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Til brug for behandlingen af din sag samt udøvelsen af kontrol kan vi, såfremt det er relevant, videregive og/eller indsamle dine personoplysninger blandt følgende tredjeparter:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• CPR-registeret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• CVR- og/eller CHR-registret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Offentlige myndigheder herunder ministerier, styrelser og kommuner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• EU-Kommissionen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Revisionsmyndigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Relevante private aktører, som du har et kontraktmæssigt eller andet juridisk forhold til, herunder leverandører, finansieringsselskaber, fonde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan offentliggøre oplysninger om udbetalt EU og national støtte herunder navn, eventuelt firmanavn og adresse, støtteordning, titel, tilsagnsbeløb samt udbetalt tilskudsbeløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette følger af artikel 111 i forordning 1306/2013.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.2.1 Så længe beholder styrelsen oplysningerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi opbevarer dine personoplysninger og oplysninger om dit tilsagn, så længe det er nødvendigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dog kan det oplyses, at styrelsen lægger vægt på følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Nationale forældelsesregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Sagligt administrativt behov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Risiko for genoptagelse af sager bagud i tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Risiko for revision af Rigsrevisionen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• EU-regler, der opstiller krav om en minimumsopbevaringstid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• EU-forældelsesregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Risiko for underkendelse fra EU.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I øvrigt følges Rigsrevisionens og Rigsarkivarens anvisninger for arkivalier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.2.2 Retsgrundlag for behandling af personoplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Retsgrundlaget for vores behandling af dine personoplysninger følger af:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Databeskyttelsesforordningen, herunder navnlig artikel 6, stk. 1, litra c og e og artikel 10.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa- Parlamentets og Rådets forordning (1303/2013) om fælles bestemmelser for Den Europæiske Fond for Regionaludvikling, Den Europæiske Socialfond, Samhørighedsfonden, Den Europæiske Land-brugsfond for udvikling af Landdistrikterne og Den Europæiske Hav og Fiskerifond m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa-Parlamentets og Rådets forordning (1305/2013) om støtte til udvikling af landdistrikterne fra Den Europæiske Landbrugsfond for Udvikling af Landdistrikterne (ELFUL).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Europa-Parlamentets og Rådets forordning (1306/2013) om finansiering, forvaltning og overvågning af den fælles landbrugspolitik med tilhørende supplerende gennemførelsesforordninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Bekendtgørelse om Landbrugsstyrelsens opgaver og beføjelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Forvaltningslovens §§ 28-32.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Miljøoplysningsloven.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Offentlighedsloven.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.2.3 Dine rettigheder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du har efter databeskyttelsesforordningen en række rettigheder i forhold til vores behandling af oplysninger om dig og dit tilsagn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du vil gøre brug af dine rettigheder, skal du kontakte Landbrugsstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du har ret til at få indsigt i de oplysninger, som vi behandler om dig, samt en række yderligere oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du har ret til at få urigtige oplysninger om dig selv rettet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du har i visse tilfælde ret til at få behandlingen af dine personoplysninger begrænset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du har ret til at få begrænset behandlingen, må vi fremover kun behandle oplysningerne – bortset fra opbevaring – med dit samtykke, eller med henblik på, at retskrav kan fastlægges, gøres gældende eller forsvares eller for at beskytte en person eller vigtige samfundsinteresser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I særlige tilfælde har du ret til at få slettet oplysninger om dig, inden tidspunktet for vores almindelige generelle sletning indtræffer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.3 Straffebestemmelser og svig</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis reglerne i bekendtgørelsen ikke overholdes, kan du straffes med bøde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan pålægges selskaber m.v. (juridiske personer) straffeansvar efter reglerne i straffelovens kapitel 5.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.3.1 Falsk bevismateriale og svindel med EU-midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis det fastslås, at du har leveret falsk bevismateriale med henblik på at opnå støtte eller ikke har sendt de nødvendige oplysninger som følge af forsømmelse, bortfalder tilsagnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derudover udelukkes du fra at søge tilskud under samme foranstaltning i det kalenderår, den manglende opfyldelse fastslås og i det efterfølgende kalenderår.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når vi kontrollerer ansøgninger om udbetaling af tilskud, er vi samtidig opmærksomme på, om der er tegn på svindel med EU-midler, eller svig.</Char>
+        </Linea>
+        <Linea>
+          <Char>’Svig’ er den betegnelse, EU-kommissionen bruger for bevidst misbrug af EU-midler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Mistanke om svig opstår f.eks., hvis vi har modtaget ukorrekte eller falske erklæringer eller dokumenter, eller hvis vi konstaterer, at tilskudsmidlerne eller de støttede investeringer er anvendt til et andet formål, end midlerne var bevilget til.</Char>
+        </Linea>
+        <Linea>
+          <Char>Omgåelse af betingelserne for tilskud – f.eks. kunstig opdeling af en virksomhed eller bedrift for at få adgang til tilskud – giver os også anledning til at mistænke svig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Opstår der mistanke om svig, vil vi anmelde den mistænkte til politiet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis anmeldelsen fører til dom, kan der blive tale om bøde eller fængselsstraf.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.4 Force majeure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan anerkende tilfælde af force majeure og andre ekstraordinære omstændigheder, der forhindrer tilsagnshaver i at gennemføre tilsagnet, og dermed ikke medfører bortfald af tilsagn og tilbagebetaling af tilskud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Force majeure og andre ekstraordinære omstændigheder kan navnlig anerkendes i følgende tilfælde:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Tilsagnshaverens død.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Tilsagnshaverens uarbejdsdygtighed i længere tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• En alvorlig naturkatastrofe der i væsentlig grad berører bedriften.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• En epizooti eller en plantesygdom, der rammer henholdsvis hele tilsagnshaverens besætning eller en del af denne eller alle tilsagnshaverens afgrøder eller en del af disse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>• Ekspropriation af hele eller en væsentlig del af bedriften, hvis ekspropriationen ikke kunne forudses på dagen for indgivelse af ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Landbrugsstyrelsen kan godkende andre omstændigheder end de ovennævnte som force majeure eller andre ekstraordinære omstændigheder efter en konkret vurdering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis tilsagnshaver eller dennes dødsbo ønsker at påberåbe sig force majeure eller andre ekstraordinære omstændigheder, skal dette meddeles Landbrugsstyrelsen skriftligt senest 15 arbejdsdage efter det tidspunkt, hvor tilsagnshaver eller dennes dødsbo konstaterer force majeure.</Char>
+        </Linea>
+        <Linea>
+          <Char>Meddelelsen skal være vedlagt fyldestgørende dokumentationsmateriale.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilsagnshaver kan for egen regning og risiko påbegynde de ønskede tiltag eller afvente styrelsens anerkendelse af force majeure.</Char>
+        </Linea>
+        <Linea>
+          <Char>Styrelsen kan i forbindelse med behandlingen af spørgsmålet bede om yderligere information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis vi ikke modtager det materiale, vi beder om, vil vi træffe afgørelse om, hvorvidt vi kan anerkende af force majeure eller andre ekstraordinære omstændigheder på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er en betingelse for anerkendelse af force majeure eller andre ekstraordinære omstændigheder i konkrete tilfælde, at de indtrufne begivenheder forhindrer tilsagnshaver i at opfylde sine forpligtelser, og at tilsagnshaver ikke ved en forholdsmæssig indsats kunne have sikret sig herimod.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.5 Kontakt til Landbrugsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du skal indsende din ansøgning om tilsagn, ændringsanmodninger, overdragelser i tilsagnsperioden og udbetalingsanmodninger i Landbrugsstyrelsens selvbetjeningsløsning Tast selv, og det er også her du vil modtage vores afgørelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis vi under sagsbehandlingen har behov for yderligere information, vil vi sende dig en høring via Tast selv, og du bedes også besvare din høring i Tast selv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ønsker du at overdrage dit tilsagn i opretholdelsesperioden, kan det ikke ske via Tast selv, da du ikke har et aktivt skema.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du bedes i stedet sende overdragelsesskemaet til os på en mail til projekttilskud@lbst.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I nogle tilfælde vil anmodninger om supplerende oplysninger i forbindelse med sagsbehandlingen blive sendt til den mailadresse du har oplyst ved ansøgning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan også være hensigtsmæssigt at kommunikere per mail når større filer skal fremsendes – benyt i disse tilfælde mailadressen ’projekttilskud@lbst.dk’ og angiv dit journalnummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alternativt, hvis der fremsendes personfølsomme oplysninger, kan fremsendelsen ske via Digital post til Landbrugsstyrelsen med angivelse af ”Til projekttilskud@lbst.dk” i emnefeltet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær dog opmærksom på at du også selv skal sende fra en sikker mail, for at sikre din data.</Char>
+        </Linea>
+        <Linea>
+          <Char>For mere information om hvordan du sender Digital post til Landbrugsstyrelsen se vejledning gennem dette link: https://lbst.dk/om-os/om-styrelsen/kontakt-os.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tast selv kan være lukket på nogle tidspunkter, f.eks. hver nat mellem kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>24 og 02, men også på andre tidspunkter.</Char>
+        </Linea>
+        <Linea>
+          <Char>På vores hjemmeside lbst.dk under Tast selv/Driftsstatus kan du finde mere information om lukninger af Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden kan du se den aktuelle drifts-status i Tast selv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du oplever fejl, kan du sende en fejlmelding via vores hjemmeside lbst.dk/driftsstatus/.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du er velkommen til at kontakte os, hvis du har spørgsmål på tlf.</Char>
+        </Linea>
+        <Linea>
+          <Char>33 95 80 00 eller projekttilskud@lbst.dk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3">
+        <Linea>
+          <Char formaChar="Italic">10.5.1 Hvis du vil klage over en afgørelse fra os</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du vil stort set altid kunne klage over vores afgørelser til Miljø- og Fødevareklagenævnet via deres klageportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil altid stå beskrevet i den enkelte afgørelse fra os, hvordan du skal gøre, hvis du vil klage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En klage skal altid sendes inden 4 uger fra den dag, hvor du fik afgørelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ring eller skriv til os, hvis du er det mindste i tvivl om, hvordan du klager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+    <TekstGruppe id="id6932341b-c15e-4ea4-98d9-749cd14fe239">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 11</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">Ordforklaring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Biotopregistrering:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Dokumentation kan være i form af nøglebiotopsregistrering, registrering efter skovlovens § 15, natur-kvalitetskortlægning, eller registrering af tilstedeværelse af særlige arter og deres habitater.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>HNV-skov:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Københavns Universitet og Aarhus Universitet har udviklet et kort over High Nature Value (HNV) i danske skove.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kortet er lavet ved at samle eksisterende data over arter og indikatorer og viser hvor de mest værdifulde skove for biodiversiteten ligger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Formålet er bl.a. at bruge kortet som prioriteringsværktøj for tilskud til privat skovrejsning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kronetag:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Betegnelse for den del af skoven, som er dækket af træernes kroner (set direkte ovenfra eller nedefra).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Natura 2000-handleplan (Handleplan-myndighed):</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kommunerne og Miljøstyrelsen har udarbejdet handleplaner for Natura 2000-områderne, der følger op på de statslige Natura 2000-planer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Miljøstyrelsen har ansvaret for de dele af handleplanerne, der vedrører de skovbevoksede, fredskovspligtige arealer, mens kommunerne har ansvaret for de øvrige dele af handleplanerne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunerne har ansvaret for handleplanlægning for de skov-bevoksede arealer uden fredskovspligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den første generation af handleplaner beskriver indsatsen i første planperiode fra 2010 til 2015, dog 2010-2021 for skovbevoksede, fredskovspligtige arealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der udgives Natura 2000-handleplaner senest d. 3. juli 2024, som gælder for den kommende 12 års periode for skovbevoksede fredskovsarealer og 6 år for de resterende arealer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Natura 2000-plan:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De statslige Natura 2000-planer fortæller, hvordan hvert af de 246 Natura 2000-områder skal behandles, så tilbagegangen for naturtyper og arter i det enkelte område stoppes.</Char>
+        </Linea>
+        <Linea>
+          <Char>En Natura 2000-plan bygger på en basisanalyse af områdets aktuelle naturtilstand og trusler, mål for naturtilstanden og et indsatsprogram.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Natura 2000:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Natura 2000 er et netværk af områder i EU med særligt værdifuld natur.</Char>
+        </Linea>
+        <Linea>
+          <Char>Natura 2000 er en samlebetegnelse for habitatområder og fuglebeskyttelsesområder.</Char>
+        </Linea>
+        <Linea>
+          <Char>I Danmark tales om internationale naturbeskyttelsesområder, som desuden rummer Ramsarområder og består af et eller flere af disse særligt udpegede områder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Skovnaturtyper:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I Danmark er der 10 skovnaturtyper: 2180 (Skovklit), 9110 (Bøg på mor), 9120 (Bøg på mor med kristtorn), 9130 (Bøg på muld), 9150 (Bøg på kalk), 9160 (Ege-blandskov), 9170 (Vinteregeskov), 9190 (Stilkege-krat), 91D0 (Skovbevokset tørvemose), 91E0 (Elle- og askeskov).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stammediameter:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Diameter målt 1,30 meter over jorden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udpegningsgrundlag:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udpegningsgrundlaget er en fællesbetegnelse for de arter og naturtyper, som findes indenfor et internationalt beskyttelsesområde og som er omfattet af listerne i habitatdirektivet eller fuglebeskyttelsesdirektivet, som forudsætter udpegning af beskyttelsesområder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Urørt skov:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Betegnelse for en skov eller et område i en skov, der fra et bestemt tidspunkt friholdes for træproduktion og aktiviteter som f.eks. plantning og hugst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Engangstilskud:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet er baseret på en arealstørrelse samt nogle forpligtigelser man skal overholde såsom ekstensiv skovdrift og træer til naturligt henfald.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskuddet er henover 5 år, men det udbetales på en gang i år et.</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id9c1249ee-75b7-40a9-86f4-e8b0e39ed1aa">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+  <Bilag id="idd3dba56d-fd94-4f19-9be3-22f8fc7c9fbf" localId="1">
+    <Explicatus>Bilag 1 </Explicatus>
+    <Rubrica id="id1c252c58-9dec-4bd6-b064-bad366c4c7bd">
+      <Linea>
+        <Char>Hjemmehørende arter - løvtræer</Char>
+      </Linea>
+    </Rubrica>
+    <BilagIndhold id="id94b86b37-473a-489c-82af-824363db0f84">
+      <TekstGruppe id="id8c396f80-e3be-40ff-88b2-494b44400869">
+        <Exitus>
+          <Image border="no" src="DC1539_1_7.png" alt="-" name="4b3bff02-f16c-4162-99e0-a4ac1fb32be0" height="8.31cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+  <Bilag id="id4882f898-b346-4f25-8912-da5a6fe17986" localId="2">
+    <Explicatus>Bilag 2</Explicatus>
+    <Rubrica id="idb4bcca4f-3a91-45de-80c0-e54890e2e064">
+      <Linea>
+        <Char>Hjemmehørende arter</Char>
+      </Linea>
+    </Rubrica>
+    <BilagIndhold id="idc1ce5e58-69af-4596-be4b-82a330d14be3">
+      <TekstGruppe id="idf8da1faa-ff81-4d3c-80ab-1d6adeccfc84">
+        <Exitus>
+          <Image border="no" src="DC1539_1_8.png" alt="-" name="b7113538-874c-4488-a4ef-6e1321dc753a" height="11.97cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+        </Exitus>
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+  <Bilag id="idb7184f36-b297-4039-8cd6-801d6f75f500" localId="3">
+    <Explicatus>Bilag 3</Explicatus>
+    <Rubrica id="id94549d77-15fe-4955-aaf5-0bd208a2cfa8">
+      <Linea>
+        <Char>Regneeksempel</Char>
+      </Linea>
+    </Rubrica>
+    <BilagIndhold id="id72baea77-4427-438f-bccc-94d6ef5da6fe">
+      <TekstGruppe id="id27dafcd0-f6a3-466b-b21f-d12e0f156211">
+        <Exitus>
+          <Linea>
+            <Char>Eksempel hvor der ansøges om følgende delarealer:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Delareal A – 3,5 ha 100-årig bøg, hvor der er 7-9 træer pr. ha. med en stammediameter over 75 cm.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Delareal B – 2,0 ha blandet løv, hvor der er 7-9 træer pr. ha. med en stammediameter over 75 cm.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Delareal C – 1,5 ha eg, hvor der er 4-6 egetræer pr. ha. med en stammediameter over 75 cm.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Beregningen ved det første tilsagn:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Image border="no" src="DC1539_1_9.png" alt="-" name="9545d622-a57a-482d-a7b9-ea4b66034b47" height="6.61cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Der indberettes for de 3 delarealer</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>For tilskudsrunden 2024 kan der indberettes med samme frister der gælder for fællesskemaet i 2025 og 2026.</Char>
+          </Linea>
+          <Linea>
+            <Char>Indberetningen af træerne, deres position, dimension og træart foregår i IMK.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Image border="no" src="DC1539_1_10.png" alt="-" name="724cf8f2-746e-4f84-a7b2-72004f6b5002" height="3.61cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Ny beregning efter indberetning af træer:</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>Som følge af indberetningen, kan der på baggrund af de indberettede træer beregnes det præcise tilskud du er berettiget til.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus>
+          <Image border="no" src="DC1539_1_11.png" alt="-" name="aeef2da9-e19b-4aea-8e1f-ada3bd8bc630" height="7.08cm" width="17.46cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" />
+        </Exitus>
+        <Exitus>
+          <Linea>
+            <Char>*Ved delareal C beregnes tilskuddet for de 1,5 ha ud fra 6 løvtræer &gt; 75 cm.</Char>
+          </Linea>
+          <Linea>
+            <Char>i stedet for 4 egetræer&gt;75 cm., opnår man en tilskudssats på 32.800 kr./ha i stedet for 29.000 kr./ha</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+        <Exitus>
+          <Linea>
+            <Char>Du kan søge yderligere information ved at kigge i tilskudsguiden.</Char>
+          </Linea>
+        </Exitus>
+        <Exitus />
+      </TekstGruppe>
+    </BilagIndhold>
+  </Bilag>
+</Dokument>

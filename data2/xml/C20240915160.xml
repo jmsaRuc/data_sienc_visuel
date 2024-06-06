@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id830ff727-ca11-4507-b11a-9dbc357557e9" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id3c90537f-dac2-4650-bda7-840ee0d6baed">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240915160</AccessionNumber>
+    <DocumentId>DH001786</DocumentId>
+    <UniqueDocumentId>242486</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til flere ind i fællesskaber gennem lokale partnerskaber</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-21</EndDate>
+    <Status>Valid</Status>
+    <Number>9151</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240027705</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-18</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til flere ind i fællesskaber gennem lokale partnerskaber</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2024-415</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id1aa71193-54c6-4229-b027-7f19dcb62d52">
+    <Titel id="id39966095-0acc-4412-8e2a-2e5374410efb">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til flere ind i fællesskaber gennem lokale partnerskaber</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idc8bf6abc-d6cf-49f7-abc8-3d0802d398b2">
+    <TekstGruppe id="id3ac06d09-fd17-498b-b8a7-56230c511acc">
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 8. maj 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12.00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">INDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5 Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7 Indholdet i partnerskaberne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1 Partnerskabsprincipper</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.2 Sign-on fees</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.3 Samarbejde med FriSe, Social- og Boligstyrelsen samt ekstern evaluator</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.4 Evaluering og dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.5 Tidsplan for samarbejde med FriSe og Social- og Boligstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>12 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>13 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>15 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>16 Litteraturliste</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som en del af Civilsamfundsstrategi 2022-2025 fra Aftale om udmøntning af reserven til foranstaltninger på social-, sundheds- og arbejdsmarkedsområdet 2022-2025 blev der afsat i alt 14,6 mio. kr. til ansøgningspul-jen til flere ind i fællesskaber gennem lokale partnerskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningspuljen er afsat på finansloven for 2024 på § 15.71.11.10.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I 2022 var der en tilsvarende ansøgningsrunde, hvor der blev udmøntet 9,6 mio. kr. til to projekter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det forventes, at der gives tilskud til tre projekter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at afprøve en model for lokale partnerskaber, der skal øge mennesker i udsatte og sårbare positioners, herunder mennesker med handicaps, deltagelse i sociale fællesskaber, herunder som frivillige, og bl.a. mindske ensomhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er frivilligcentre og andre civilsamfundsorganisationer, der har en lokal infrastruktur, de lokale partnerskaber kan bygge ovenpå.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et frivilligcenter er en selvejende institution eller frivillig forening, som arbejder i et afgrænset lokalområde – typisk en kommune.</Char>
+        </Linea>
+        <Linea>
+          <Char>Frivilligcentrene har til formål at støtte, synliggøre og udvikle den frivillige sociale indsats og frivillige initiativer med et socialt sigte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et frivilligcenter har indblik i lokale foreninger og fællesskaber, synliggør mulighederne og guider borgere, som ønsker at være frivillige eller søger hjælp og støtte.</Char>
+        </Linea>
+        <Linea>
+          <Char>De rådgiver eksisterende og nye foreninger og frivillige initiativer om drift og udvikling og støtter netværk eller samarbejde på tværs af foreninger, kommune og andre relevante aktører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Med formuleringen ’civilsamfundsorganisationer, der har en lokal infrastruktur, de lokale partnerskaber kan bygge ovenpå’ er der tale om frivillige organisationer, der er:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>institutionaliserede (formelle eller uformelle), hvor de har et navn, adresse og jævnlige aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>nonprofit og må derfor ikke tjene penge.</Char>
+              </Linea>
+              <Linea>
+                <Char>Et evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>overskud må ikke gå til medlemmer, bestyrelse eller andre i organisationen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>selvstyrende og private og dermed ikke kontrolleret af den offentlige sektor.</Char>
+              </Linea>
+              <Linea>
+                <Char>De har dermed også retten til at opløse sig selv ved egen beslutning og bestemme over egne aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>ikkeobligatoriske.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er dermed frivilligt at deltage i organisationen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Derudover skal en del af organisationens ressourcegrundlag være baseret på frivilligt arbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er tale om civilsamfundsorganisationer af en vis størrelse, som samtidig har et bredt kendskab og kontakt til det lokale foreningsliv og kan varetage en understøttende funktion over for de lokale foreninger i samme grad som et frivilligcenter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun ydes tilskud til ét projekt pr. kommune.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at idet frivilligcentre i Hillerød og Slagelse kommune har fået tilskud i ansøgningsrunden i 2022, kan et andet frivilligcenter i disse to kommuner ikke opnå tilskud i nærværende ansøgningsrunde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Partnerskaber på tværs af og inden for kommunegrænser kan godkendes – eksempelvis hvis flere frivilligcentre fra et antal mindre kommuner går sammen og etablerer ét fælles partnerskab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan kun være én projektansvarlig tilskudsmodtager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er mennesker i udsatte og sårbare positioner, herunder mennesker med handicap.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den specifikke målgruppe for det lokale partnerskab afgrænses med udgangspunkt i de lokale sociale udfordringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>De lokale partnerskaber kan således arbejde med børn, unge, voksne og/eller ældre mennesker, der er i udsatte og sårbare positioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ligeledes kan de lokale partnerskaber arbejde med mennesker med handicap, der er i en udsat eller sårbar situation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe kan være udsatte borgere, som har forskellige sociale problemstillinger, der griber ind i hinanden og gør hverdagen svær.</Char>
+        </Linea>
+        <Linea>
+          <Char>Eksempelvis socialt udsatte voksne, der har betydelige sociale vanskeligheder, som tydeligt begrænser deres mulighed for at være en del af et socialt fællesskab.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ligeledes kan ansøgningspuljens målgruppe være mennesker, der befinder sig i en svær livssituation, men som ikke nødvendigvis er socialt udsatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Deres livssituation er karakteriseret ved at være vanskelig, hvor de i disse perioder er mere sårbare.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan eksempelvis være svært eller langvarigt ensomme med sociale eller psykologiske vanskeligheder og barrierer, som gør det svært for dem at indgå i fællesskaber eller at skabe og bevare sociale relationer, eller unge med handicap, som oplever at være isoleret fra sociale og inkluderende fællesskaber og med ringe eller ingen tilknytning til uddannelses- og/eller arbejdsmarkedet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">5 Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De forventede resultater for de støttede projekter er at skabe mere inkluderende fællesskaber og derigennem bl.a. mindske ensomhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det forventes, at de lokale partnerskaber skaber mere inkluderende fællesskaber, og at målgruppen derigennem oplever øget velfærd gennem øget trivsel, mental sundhed eller mindre ensomhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>De lokale partnerskabers formål er at øge målgruppens velfærd gennem eksempelvis:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>øget deltagelse i frivillige fælleskaber, herunder understøttelse i at deltage som frivillige.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>inddragelse og indflydelse på udvikling af aktiviteterne og fællesskaberne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>øget adgang til sociale netværk, social støtte eller afhjælpende tilbud, så borgerne bedre kan indgå i almene eller varige fællesskaber eller relationer i fx forenings- eller idrætsliv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det lokale partnerskab kan dermed arbejde med inklusion af målgruppen ved at skabe de nødvendige rammer og mulighed for målgruppens deltagelse i frivillige fællesskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her kan der arbejdes med, at målgruppen øger sin involvering og deltager aktivt og ligeværdigt i gensidig udviklende fællesskaber uanset forskelle i forudsætninger og funktionsevner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Eksempelvis kan en del af indsatsen således være udsattes brug af forskellige tilbud med fokus på deres udsathed og behov, som skridt på vejen til, at de bliver aktive deltagere i frivillige organisationers aktiviteter på lige fod med andre borgere eller bliver frivillige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På organisatorisk niveau forventes det, at der skabes viden og læring om, hvordan det lokale partnerskab kan finde fælles løsninger på lokale sociale udfordringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se mere om principper mm.</Char>
+        </Linea>
+        <Linea>
+          <Char>om partnerskabet i afsnit 7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">6 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I Danmark er der en lang tradition for, at civilsamfundet og den offentlige sektor samarbejder om at løse sociale problemstillinger og gennemføre initiativer til gavn for udsatte borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nogle samfundsudfordringer har vist sig at være svære at løse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er derfor behov for nytænkning og for at blive dygtigere til at samarbejde på tværs af foreninger, frivillige fællesskaber og sektorer, så forskellige ressourcer kommer i spil, og løsninger koordineres.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsgruppen om civilsamfund har udarbejdet en civilsamfundsstrategi med pejlemærker for udmøntningen af reserven i årene 2022-2025 til regeringen og aftalekreds (Civilsamfundsstrategi, 2021).</Char>
+        </Linea>
+        <Linea>
+          <Char>Arbejdsgruppen anbefaler bl.a., at der nedsættes lokale partnerskaber, som kan fremme deltagelse, fælleskab og sociale netværk for at løse velfærdsudfordringer på tværs af civilsamfund og offentlige myndigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Forskning peger på, at inkluderende fællesskaber kan fremme trivsel, øge forbindelsen med resten af sam-fundet samt skabe håb og mening med livet for udsatte mennesker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fællesskabsmålingen fra 2022 (Benjaminsen et al., 2022) viser imidlertid, at socialt udsatte oftere føler sig ensomme og ekskluderet fra samfundets fællesskaber end andre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det skyldes bl.a., at de oftere står uden for de fællesskaber, som mange andre indgår i fx gennem job, uddannelse eller frivilligt engagement.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Fællesskabsmålingen viser en positiv udvikling i andelen af de mest ekskluderede, som deltager i fritidsaktiviteter, men samtidig er livstilfredsheden blandt denne gruppe faldende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette hænger formodentligt sammen med, at målgruppen har komplekse problemer, og derfor bør der tages højde for borgerenes hele liv og helheden i udfordringen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette kræver et tværsektorielt samarbejde, som dette initiativ lægger op til.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mennesker i udsatte og sårbare positioner efterspørger selv flere meningsgivende aktiviteter i deres liv og at være en del af et fællesskab, hvor de kan bidrage med det, de har (Benjaminsen et al., 2019).</Char>
+        </Linea>
+        <Linea>
+          <Char>Her kan inkluderende frivillige fællesskaber i civilsamfundet understøtte, at udsatte borgere i højere grad får mulighed for at indgå i selvvalgte og meningsfulde aktiviteter og bidrage som aktive medborgere med de ressourcer, de har og derigennem øge deres netværk, trivsel og livskvalitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er derfor vigtigt at sætte fokus på, hvordan udsatte borgere har de nødvendige muligheder for at blive en del af relevante lokale fællesskaber som bruger, deltager eller frivillig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7 Indholdet i partnerskaberne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsmodtager indgår i hele projektperioden aktivt i et samarbejde med Frivilligcentre og Selvhjælp Danmark (FriSe) og Social- og Boligstyrelsen for at afprøve en model for lokale partnerskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Modellen har fokus på at mobilisere en bred gruppe aktører for at løse komplekse samfundsudfordringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Modeller for partnerskaber med fokus på bred mobilisering af lokale aktører har kun i mindre omfang været afprøvet på socialområdet i Danmark, men erfaringer fra internationale projekter viser gode erfaringer med samarbejdsmodellen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Samarbejdsformen ønskes afprøvet gennem et bredt etableret partnerskab på tværs af frivillige foreninger og andre lokale aktører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Med andre lokale aktører forstås både offentligt, private, kultur- og uddannelsesinstitutioner, erhvervsliv, regioner mv., der kan inddrages i partnerskabet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Med frivillige foreninger forstås, at der er tale en sammenslutning af personer, organisationer, institutioner, virksomheder og lignende, hvis formål er at dyrke, fremme eller beskytte fælles interesser (CFSA).</Char>
+              </Linea>
+              <Linea>
+                <Char>Desuden skal foreningens grundlag være baseret på frivilligt arbejde.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det kan både være frivillige foreninger på det sociale, kulturelle, fritids- og folkeoplysende område i en given kommune.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det særlige og innovative i projektdesignet er, at partnerskabet involverer flere lokale aktører på tværs af civilsamfundet og det offentlige - og at det er nemt og ubureaukratisk for mange lokale frivillige foreninger og fællesskaber at deltage i partnerskabet (se vejledningens afsnit 7.2 om sign-on fees).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1 Partnerskabsprincipper</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Partnerskabet skal tage udgangspunkt i de fælles principper til etablering og organisering af partnerskaber med mange aktører ud fra tilgangene Collective impact, stedbaserede indsatser og community organizing.</Char>
+        </Linea>
+        <Linea>
+          <Char>Disse er fra en undersøgelse om partnerskaber med mange aktører (Espersen et.</Char>
+        </Linea>
+        <Linea>
+          <Char>al., 2023), som ligeledes undersøger hæmmere og fremmere for inklusion af sårbare borgere i partnerskaber med mange aktører</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Undersøgelsen peger på en række afgørende elementer for, at partnerskaber med mange aktører kan lykkes:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tætte, indbyrdes, tillidsfulde gensidigt afhængige relationer mellem partnerne i stedet for at forblive isoleret i ”siloer”.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hyppig kommunikation og koordinering af indsatser.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Struktureret samarbejde på tværs af sektorer, der kræver partnernes aktive medvirken og kombinerer ressourcer og en organisering, der betyder, at de deltagende 	parter kan nå fælles mål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Facilitering af forhandling af fælles mål og fælles læring.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tids- og opgaveafgrænsede aktiviteter er afgørende for at kunne prioritere tid og ressourcer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Delt magt mellem organisationerne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Borgerinddragelse og deltagelse er et kritisk element for at skabe resultater.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Baseret på frivillig ligeværdig deltagelse fra alle partnere.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Særligt en uafhængig facilitering og backbone-organisering af samarbejdet i partnerskabet er væsentligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>I rapporten fra undersøgelsen gennemgås, hvad faciliteringsrollen og backbone-organiseringen indeholder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er ikke forventet, at partnerskabet på ansøgningstidspunktet er afklaret omkring indhold for ovenstående elementerne, da der løbende vil blive arbejdet med dem i partnerskabet med understøttelse fra FriSe, Social- og Boligstyrelsen og evaluator.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se desuden vejledningens afsnit 7.3 om Samarbejde med FriSe, Social- og Boligstyrelsen samt ekstern evaluator.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2 Sign-on fees</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>For at gøre det nemt og ubureaukratisk for frivillige foreninger at deltage i det lokale partnerskab skal tilskudsmodtager videreformidle dele af tilskudsmidlerne til de deltagende aktører i det lokale partnerskab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hver deltagende frivillig forening kan således modtage op til 30.000 kr. fra tilskudsmodtager i en såkaldt sign-on fee til drift, aktiviteter, indkøb af udstyr, udflugter, transport, PR mv. En sign-on fee på op til 30.000 kr. skal dække hele den fireårige projektperiode, men kan udbetales i rater efter aftale.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Såfremt samme frivillige forening indgår flere partnerskabsaftaler i projektet kan der opnås flere sign-on fees, dog maksimalt op til tre i hele den fireårige projektperiode.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ikke ydes flere sign-on fees til samme frivillige forening til samme formål.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hver partnerskabsaftale skal således dække en ny aktivitet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En betydelig del af hver tilskudsmodtagers tilskud skal videreformidles til de deltagende aktører i det lokale partnerskab.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Sign-on fees udbetales af tilskudsmodtager, når den frivillige forening har skrevet under på en partnerskabsaftale om at ville deltage i det lokale partnerskab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Partnerskabsaftalen bør som minimum indeholde en beskrivelse af</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>formålet med partnerskabet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>fælles mål man som forening bidrager til at indfri.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvad man forpligter sig på, når man modtager en sign-on fee.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen kan på stikprøvebasis indkalde kopi af partnerskabsaftalerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsmodtager er ansvarlig for, at midlerne anvendes inden for formålet, dvs. til aktiviteter der er relevante for partnerskabet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette kan evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>ske i form af en tro- og loveerklæring, som den frivillige forening afleverer til tilskudsmodtager ved projektafslutning.</Char>
+        </Linea>
+        <Linea>
+          <Char>I regnskabsaflæggelse til Social- og Boligstyrelsen skal den samlede udgift til sign-on fees til foreninger fremgå af regnskabet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derudover skal der vedlægges en note til regnskabet med oplysninger om, hvilke frivillig foreninger, der har modtaget tilskud, jf. § 23, stk. 1, nr. 6 i ansøgningspuljens bekendtgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For en nærmere beskrivelse af tilskudsberettigede udgifter se vejledningens afsnit 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3 Samarbejde med FriSe, Social- og Boligstyrelsen samt ekstern evaluator</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsmodtager har via partnerskabet ansvaret for indsatsen lokalt og indgår samtidig i et samarbejde med Frivilligcentre &amp; Selvhjælp Danmark (FriSe), Social- og Boligstyrelsen og evaluator om processtøtte, fælles dokumentation og evaluering.</Char>
+        </Linea>
+        <Linea>
+          <Char>FriSe og Social- og Boligstyrelsen står for koordination og processtøtte til de lokale partnerskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Formålet er dels at facilitere erfarings- og vidensudveksling på tværs af de lokale partnerskaber og sikre fælles rammer og fokus samt relevant kompetenceudvikling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Processtøtten tilpasses de lokale partnerskaber og vil eksempelvis bestå af:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Individuel sparring og konsulentbistand.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Deltagelse i netværk med tilskudsmodtagere fra både første og anden ansøgningsrunde.</Char>
+              </Linea>
+              <Linea>
+                <Char>Dette forventes at være kvartalsvise møder.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Kompetenceudvikling fx inden for brobygning mellem kommuner og civilsamfund, deltagelse og inklusion, dokumentation, projektledelse mv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det forventes også, at tilskudsmodtager deltager i vidensformidling og læringsloops med frivilligcentre og kommuner, der måtte være interesseret i at følge projekterne og selv at etablere brede lokale samarbejder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan eksempelvis være netværksmøder med landets 71 frivilligcentre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil ske sammen med tilskudsmodtagerne fra første ansøgningsrunde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsmodtager forpligter sig til at deltage aktivt i processtøtte og erfarings- og vidensdeling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan søges midler til dette gennem ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.4 Evaluering og dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Modellen for lokale partnerskaber evalueres af ekstern evaluator (VIVE).</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskudsmodtager skal løbende bidrage til evalueringen af afprøvningen af en model for lokale partnerskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det sker fx ved at stå til rådighed for diverse evalueringsaktiviteter, eksempelvis dataindsamling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>VIVE vil understøtte tilskudsmodtagers arbejde med dokumentation og selvevaluering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette har til formål at understøtte det lokale partnerskab i at evaluere den indsats, de udfører.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forventes, at evaluator giver konkret sparring og rådgivning på, hvordan fælles metoder kan bruges til dokumentation og evaluering, og hvordan viden herfra kan bidrage til læring og udvikling af det lokale partnerskabs praksis.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilskudsmodtager skal afsætte den fornødne tid til at deltage aktivt i evalueringen og relevante evalueringsaktiviteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan søges midler til dette gennem ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.5 Tidsplan for samarbejde med FriSe og Social- og Boligstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den overordnede og foreløbige tidsplan for projektet er følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="615" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 168pt 293pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">2024 – 2026</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Frekvens</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Opstartsworkshop</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3. - 4. kvartal 2024</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Individuel processtøtte</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Tilbud om månedlig sparring og rådgivning</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Netværk mellem puljemodtagere</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Hvert kvartal</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Kompetenceudviklingsmoduler</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Halvårligt</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Formidling og sparring til landets frivilligcentre</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Halvårligt og ellers ved efterspørgsel.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Dette aftales nærmere og vil tage hensyn til projekternes ressourcer i den givne periode</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Projekterne vil have en stor grad af mulighed for at påvirke indholdet og frekvensen af processtøtten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Processtøtten ophører i 2026.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet anvendes i perioden 1. september 2024 til 31. december 2028.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ingen processtøtte i 2027-2028.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, og om der er sammenhæng mellem disse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="615" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 185pt 276pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Ansøgerkreds, formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Faglige krav</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal etablere et lokalt partnerskab, der sikrer bred mobilisering af aktører på tværs af fx det sociale, kulturelle og folkeoplysende område samt fritidsområdet.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal indgå en samarbejdsaftale med en eller flere kommuner.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal sandsynliggøre, hvordan det lokale partnerskab vil inddrage relevante aktører inden for regioner, kultur- og uddannelsesinstitutioner, erhvervsliv m.v.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Partnerskabet skal identificere eksisterende sociale fællesskaber og aktiviteter til målgruppen.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal identificere, opsøge og rekruttere målgruppen til de sociale fællesskaber, som partnerskabet tilbyder.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Organisatoriske krav</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal beskrive projektets organisering og governancestruktur.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal indgå i samarbejde med Frivilligcentre &amp; Selvhjælp Danmark, ekstern leverandør og Social- og Boligstyrelsen om processtøtte, fælles dokumentation og evaluering af partnerskabet og indgå i netværk.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>– Ansøger skal videreformidle dele af tilskuddet til de deltagende aktører i partnerskabet.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Tilskudsmodtager er ansvarlig for at midlerne anvendes ind for formålet.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Budget</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er overensstemmelse mellem budget, aktiviteter og lignende.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>5.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Sammenhæng</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, faglige og organisatoriske krav, budget mm.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når ansøgningsskemaet udfyldes, skal ansøger beskrive nedenstående:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 1) Ansøgerkreds, formål og målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Det vil blive vurderet, om projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af ansøgerkreds skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Redegøre for at ansøger er inden for ansøgerkredsen</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Redegøre for sit brede kendskab og kontakt til det lokale foreningsliv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Beskrive hvordan ansøger har erfaring med at varetage en understøttende funktion over for de lokale foreninger i samme omfang som et frivilligcenter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets formål skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan projektet har til formål, at øge mennesker i udsatte og sårbare positioners deltagelse i sociale fællesskaber.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at det sandsynliggøres, at projektet medvirker til at fremme ansøgningspuljens formål og de forventede resultater for ansøgningspuljen, som er opstillet i vejledningens afsnit 5.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af projektets målgruppe skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvem indgår i målgruppen?</Char>
+              </Linea>
+              <Linea>
+                <Char>Det skal beskrives, hvad der kendetegner de borgere, som indgår i målgruppen, herunder om der er særlige kønsmæssige, 	aldersmæssige, handicap, etniske eller andre perspektiver, der skal tages højde for i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan målgruppens udfordringer udgør en lokal social udfordring på tværs af lokale aktører.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Se desuden ad 2) Faglige krav nedenfor om identificering og rekruttering af målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 2) Faglige krav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal etablere et lokalt partnerskab, der sikrer bred mobilisering af aktører på tværs af fx det sociale, kulturelle og folkeoplysende område samt fritidsområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøger skal beskrive sin plan for at etablere det lokale partnerskab og mobiliseringen af de lokale foreninger og fællesskaber.</Char>
+              </Linea>
+              <Linea>
+                <Char>Med formuleringen ’bred mobilisering’ sigtes der til, at det lokale partnerskab skal mobilisere 30 foreninger eller flere.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det lokale partnerskab skal ikke nødvendigvis være fuldt etableret ved ansøgningstidspunktet, men kan løbende udbygges og tilrettes.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er således ikke et krav at have indgået partnerskabsaftale med alle foreninger ved ansøgningstidspunktet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal indgå en samarbejdsaftale med en eller flere kommuner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende vedlægges:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøger skal som minimum vedlægge en tilkendegivelse fra en kommune (eller kommuner, hvis partnerskabet går på tværs af kommunegrænser), der tydeligt indikerer, at kommunen(-erne) vil indgå i partnerskabet (det er ikke et krav, at der er indgået en samarbejdsaftale ved ansøgningstidspunktet).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En underskrevet samarbejdsaftale mellem ansøger og kommunen skal eftersendes til Social- og Boligstyrelsen inden projektstart den 1. september 2024.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samarbejdsaftalen skal som minimum indeholde afsnit om rolle- og ansvarsfordeling mellem partnerskab og kommune, og hvordan kommunen vil understøtte det lokale partnerskabs aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal sandsynliggøre, hvordan det lokale partnerskab vil inddrage relevante aktører inden for regioner, kultur- og uddannelsesinstitutioner, erhvervsliv m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøger skal beskrive, hvordan det lokale partnerskab vil inddrage relevante aktører inden for regioner, kultur- og uddannelsesinstitutioner, erhvervsliv m.v. Valg af aktører afhænger af, hvilken lokal social udfordring, som det lokale partnerskab skal løse for den valgte målgruppe.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Partnerskabet skal identificere eksisterende sociale fællesskaber og aktiviteter til målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan det lokale partnerskab vil identificere eksisterende sociale fællesskaber og aktiviteter til målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilke udfordringer og barrierer der er for at målgruppen deltager i eksisterende sociale fællesskaber.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilke understøttende aktiviteter, som det lokale partnerskab vil sætte i gang for at understøtte målgruppen i at deltage i det eksisterende foreningsliv eller almene kultur- og fritidsliv eller alternativt, hvordan eksisterende aktiviteter tilpasses, så målgruppen bedre kan deltage.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om der er sammenhæng mellem målgruppens udfordringer og det lokale partnerskabs plan for, hvordan målgruppen bliver inkluderet i eksisterende sociale fællesskaber.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal identificere, opsøge og rekruttere målgruppen til de sociale fællesskaber, som partnerskabet tilbyder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Sammenhængen er mellem de lokale sociale udfordringer og valg af målgruppe.</Char>
+              </Linea>
+              <Linea>
+                <Char>Understøt gerne med lokal data og undersøgelser.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Det er afgørende, at det lokale partnerskab formår at rekruttere deltagere inden for den valgte målgruppe.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det skal derfor beskrives, hvordan målgruppen opsøges og rekrutteres til de sociale fællesskaber, som det lokale partnerskab tilbyder, herunder hvordan de relevante aktører i det lokale partnerskab bidrager til dette.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om rekrutteringen fremstår realistisk i forhold til den valgte målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 3) Organisatoriske krav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal beskrive projektets organisering og governancestruktur.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets organisering og governancestruktur har sammenhæng med projektets formål og aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets organisering skal beskrives herunder projektets organisations- og governancestruktur samt opgavefordeling.</Char>
+              </Linea>
+              <Linea>
+                <Char>Dette kan fx gøres ved en beskrivelse af den organisatoriske placering af indsatsen, projektets medarbejdere herunder antallet af medarbejdere og deres faglige baggrund, opgavefordelingen samt eventuelle samarbejdsparter og deres bidrag.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal indgå i samarbejde med Frivilligcentre &amp; Selvhjælp Danmark, ekstern evaluator og Social- og Boligstyrelsen om processtøtte, fælles dokumentation og evaluering af partnerskabet og indgå i netværk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I ansøgningsskemaet skal ansøger ved afkrydsning forpligte sig på at samarbejde med Frivilligcentre &amp; Selvhjælp Danmark, ekstern evaluator og Social- og Boligstyrelsen om processtøtte, fælles dokumentation og evaluering af det lokale partnerskab og indgå i netværk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs mere om understøttelse og evaluering i hhv.</Char>
+        </Linea>
+        <Linea>
+          <Char>vejledningens afsnit 7.3 og 7.4.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Ansøger skal videreformidle dele af tilskuddet til de deltagende aktører i partnerskabet.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Tilskudsmodtager er ansvarlig for, at midlerne anvendes inden for formålet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I ansøgningsskemaet vil ansøger ved afkrydsning forpligte sig på at videreformidle dele af tilskuddet til de deltagende aktører i det lokale partnerskab i form af sign-on fees samt at være ansvarlig for, at midlerne anvendes inden for formålet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs mere om sign-on fees i vejledningens afsnit 7.2</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 4) Budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af den samlede ansøgning, </Char>
+          <Char formaChar="Bold">budget</Char>
+          <Char> samt eventuelle budgetnoter vil følgende blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er sammenhæng mellem de beskrevne aktiviteter og de udgiftstyper, som fremgår af budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om projektafgrænsede udgifter rettet mod at afprøve en model for lokale partnerskaber, der skal øge mennesker i udsatte og sårbare positioners, herunder mennesker med handicaps, deltagelse i sociale fællesskaber, herunder som frivillige, og bl.a. mindske ensomhed.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet er realistisk og udelukkende indeholder tilskudsberettigede og nødvendige udgifter, som direkte kan henføres til det konkrete projekts gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der må således ikke budgetteres med udgifter, som ikke direkte kan henføres til det konkrete projekt, eller udgifter, der ikke kan gives tilskud til.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det kan i særlige tilfælde godkendes, at der for indirekte omkostninger (fx el, vand og varme) udarbejdes en revisorgodkendt fordelingsnøgle, således at disse udgifter kan indgå i regnskabet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om udgifter er specificeret i budgettet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter kan således ikke samles i overordnede budgetposter som overhead, administrationsbidrag og diverse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan ikke budgetteres med uforudsete udgifter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet udviser sparsommelighed ved fastlæggelse af niveauerne i budgetposterne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun i særlige tilfælde ydes tilskud til udgifter, som er afholdt, før der blev ydet tilskud, hvis udgifterne har en klar tilknytning til projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Læs mere om krav til budgettet m.m. i vejledningens afsnit 10-12.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 5) Sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, faglige og organisatoriske krav, budget mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingen foretages på baggrund af ansøgers samlede beskrivelse af projektet under ovenstående tildelingskriterier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">10 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal indtastes i Excel-dokumentet ”Budgetskema”, som kan hentes på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved indsendelse af ansøgningen vedlægges budgetskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at følgende oplysninger angives i budgettet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Projektets titel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ansøgers identifikation (CVR-nummer)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ansøgers navn og adresse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal udgøre en fyldestgørende og sandfærdig beskrivelse af projektets forventede udgifter i forhold til det ansøgte projekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal oplyses, hvis der er en økonomisk interesse mellem ansøger og projektets samarbejdspartnere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil fx være tilfældet, hvis der er personsammenfald mellem projektets medarbejdere og leverandører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Periodiserede budgetter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgifterne skal periodiseres, således at udgiften budgetteres i det kvartal, den forventes afholdt i det pågældende projektår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der fx er en ansat projektleder i projektet, opgøres lønnen, som den afholdes, én gang i kvartalet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Gennemsnitstal kan således ikke anvendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Enhedspriser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle udgiftsposter skal så vidt muligt udspecificeres i antal enheder og pris pr. enhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis projektet fx indebærer afholdelse af to ens aktiviteter inden for det samme kvartal, og hver af aktiviteterne koster 10.000 kr., anføres to enheder á 10.000 kr. i det eller de kvartaler, hvor aktiviteten og dermed udgifterne forventes afholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Noter til budgettet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved behov skal der udarbejdes forklarende noter til de udgiftsposter, som anføres i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en af budgetposterne fx er ”Seminar”, kan noten indeholde oplysninger om forventet antal deltagere, seminarets varighed (antal dage, med eller uden overnatning), pris pr. deltager, honorar til oplægsholder mv. Noten skal således dels klarlægge indholdet af den enkelte aktivitet og dels klarlægge forudsætningerne for udgiftens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke en skabelon for udarbejdelse af forklarende noter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der er tilskudsberettigede i forhold til tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Lønudgifter</Char>
+                <Char> til aflønning af medarbejdere i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter skal budgetteres med antal timer og sats pr. time.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter må ikke inkluderes under andre budgetposter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønniveauet må ikke være højere end det, der er aftalt i overenskomster for arbejdet på området.</Char>
+              </Linea>
+              <Linea>
+                <Char>Yderligere information kan fås ved henvendelse til de relevante fagforeninger.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvis området ikke er dækket af en overenskomst, må lønniveauet ikke være højere end det, der er aftalt i de statslige overenskomster for lignende arbejde.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">honorarer til konsulenter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">revisor</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan løbende afholdes udgifter til revisor til revision af projektregnskab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige </Char>
+                <Char formaChar="Bold">forsikringer</Char>
+                <Char>, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">transport</Char>
+                <Char> i egen bil.</Char>
+              </Linea>
+              <Linea>
+                <Char>Transportudgiften skal beregnes på baggrund af statens lave takst pr. km., jf. Økonomistyrelsens Cirkulære om satsregulering for tjenesterejser.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifterne skal budgetteres med antal kilometer og takst pr. km.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til offentlig</Char>
+                <Char formaChar="Bold"> transport</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">aktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">specifikke uddannelses- og kursusaktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">formidling</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">lokaler til afholdelse af aktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">kontorhold</Char>
+                <Char> (fx mindre kontorartikler, porto mv.).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>12.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til mindre </Char>
+                <Char formaChar="Bold">materielanskaffelser</Char>
+                <Char> indtil 50.000 kr. pr. projektår (fx indkøb af udstyr eller andet inventar).</Char>
+              </Linea>
+              <Linea>
+                <Char>Såfremt der søges om tilskud til materielanskaffelser, skal formålet med anskaffelsen fremgå af ansøgningen eller i en note til budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>13.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Sign-on fee </Char>
+                <Char>til frivillige foreninger, der deltager i partnerskabet med projektrelaterede aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>14.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Moms</Char>
+                <Char>, hvis tilskudsmodtager er endelig bærer af udgiften.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>15.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Andre </Char>
+                <Char formaChar="Bold">relevante udgifter </Char>
+                <Char>til projektets gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Relevansen beskrives i en note til budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">12 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der ikke kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Materielanskaffelser </Char>
+                <Char>for over 50.000 kr. pr. projektår.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Køb af </Char>
+                <Char formaChar="Bold">fast ejendom</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Anlægsudgifter </Char>
+                <Char>(fx ombygning og renovering).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af </Char>
+                <Char formaChar="Bold">underskud </Char>
+                <Char>eller anden gæld.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Støtte til </Char>
+                <Char formaChar="Bold">enkeltpersoners underhold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter, der</Char>
+                <Char formaChar="Bold"> fuldt ud er finansieret</Char>
+                <Char> fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Generelle uddannelses- og kursusaktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter eller tilsvarende til personer </Char>
+                <Char formaChar="Bold">uden lovligt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projekter forankret i </Char>
+                <Char formaChar="Bold">udlandet samt Grønland og Færøerne</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">13 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den </Char>
+          <Char formaChar="Bold">8. maj 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12.00</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, budgetskema og eventuelle bilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgere </Char>
+          <Char formaChar="Bold">kan</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til tilskudsforvaltning@sbst.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgives på den ansøgningsblanket og i det budgetskema, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> være modtaget i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse</Char>
+          <Char> af problemet samt af et eller flere</Char>
+          <Char formaChar="Bold"> skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever</Char>
+          <Char formaChar="Bold"> it-problemer på egne systemer</Char>
+          <Char>, er det jeres eget ansvar at afhjælpe disse, fx i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningen, at ansøger skal eller kan indsende specifikke bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag, som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema eller budgetskema, hvis bilag med tilkendegivelse om samarbejde med kommune(r) ikke er vedlagt ansøgningen, eller hvis eventuelle anslagsbegrænsninger i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: https://em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">15 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">16 Litteraturliste</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Benjaminsen et al., 2019, Bag om fællesskabsmålingen, https://www.vive.dk/da/udgivelser/bag-om-faellesskabsmaalingen-dx3m93vb/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Benjaminsen et al., 2022, Fællesskabsmålingen 2022, https://www.vive.dk/da/udgivelser/faellesskabsmaalingen-2022-rv7dodvn/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>CFSA, Hvad er en forening?</Char>
+        </Linea>
+        <Linea>
+          <Char>, https://frivillighed.dk/foreningsportalen/hvad-er-en-forening</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Civilsamfundsstrategi, 2021, https://frivilligraadet.dk/civilsamfundsstrategi</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Espersen et.</Char>
+        </Linea>
+        <Linea>
+          <Char>al., 2023, Partnerskab med mange aktører, https://www.vive.dk/da/udgivelser/partnerskaber-med-mange-aktoerer-3x877byz/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idd1091f67-b092-4740-bde1-26c7d7a055a5">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,3724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id767a7b9a-5b42-4ec6-ab89-46e958a1d08d" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idc8ab54f8-b849-451a-a3c2-e83977281d0a">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240917225</AccessionNumber>
+    <DocumentId>AA014152</DocumentId>
+    <UniqueDocumentId>242611</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-04749</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-28</EndDate>
+    <Status>Valid</Status>
+    <Number>9172</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-04749</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id731b9d58-ebe7-43dc-be3d-4f2a5b4d890d">
+    <Titel id="idf03c6530-5a8c-4abf-8f2d-430b8410d95b">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-04749</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id6bc5c79e-7990-40a8-a22a-d26e6cb9c3d4">
+    <Resume id="id296536d2-f901-45e2-8831-4ba3667959ef">
+      <Exitus>
+        <Linea>
+          <Char>Berlingske får ikke kritik for podcastudsendelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske bragte i april 2023 en udsendelse i podcastserien ”Pilestræde”, der blandt andet indeholdt kritisk omtale af en tidligere dirigent i forbindelse med hans ansættelse som vært på en tv-kanal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den omtalte tidligere dirigent klagede til Pressenævnet blandt over, at udsendelsen indeholdt ukorrekte og skadelige oplysninger om ham, og at Berlingske havde afvist at bringe et genmæle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt ikke grundlag for at udtale kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lagde blandt andet vægt på, at omtalen måtte anses for at have tilstrækkelig dækning i de faktiske forhold, og at enkelte udsagn var udtryk for Berlingskes subjektive vurderinger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt heller ikke grundlag for at give den tidligere dirigent genmæle.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id1016d909-420a-434f-b55e-7c777afae3ee">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] ved [Fuldmagtshaveren] har klaget til Pressenævnet over podcastudsendelsen ”</Char>
+          <Char formaChar="Italic">De udstødtes kanal</Char>
+          <Char>”, bragt i podcastserien ”Pilestræde” den 13. april 2023 på berlingske.dk, idet han mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har navnlig klaget over, at udsendelsen indeholder ukorrekte og skadelige oplysninger om ham, og at Berlingske har afvist at bringe et genmæle.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den påklagede udsendelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske bragte den 13. april 2023 podcastudsendelsen ”</Char>
+          <Char formaChar="Italic">De udstødtes kanal</Char>
+          <Char>” på berlingske.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af programteksten fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”»Det er på tide at tilgive,« mener [Tv-stationen]s kommunikationsdirektør [Kommunikationsdirektøren], der netop har ansat [Koret]s tidligere chefdirigent [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Dirigenten er ikke den første sexisme-anklagede TV-vært på [Tv-stationen]: De tidligere TV2-værter [Journalist A] og [Journalist B] fik kort efter deres fyringer plads på kanalen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Og de er ikke de eneste udstødte på [Tv-stationen]: [Politikeren] havde et program på kanalen, mens hun afsonede sin straf i rigsretten, og [Forskeren] havde programmet »Hjerneeksperten«, selv om hun er dømt for dokumentfalsk og har mistet sin doktorgrad.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så hvor går grænsen for, hvem [Tv-stationen] vil sætte på skærmen?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af podcastudsendelsen fremgår blandt andet følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode: 00:00-00:57]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Vært:</Char>
+          <Char> Måske ringer der en klokke, når du hører de her navne.</Char>
+        </Linea>
+        <Linea>
+          <Char>De har alle sammen noget tilfælles: [Journalist A], [Politikeren], [Forskeren], [Journalist B] – og [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Alle de her kendte danskere er på et tidspunkt faldet i unåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Politikeren] blev idømt 60 dages fængsel af Rigsretten, hjerneforskeren [Forskeren] blev dømt for dokumentfalsk og frataget sin doktorgrad, og [Journalist A], [Journalist B] og [Klager] mistede alle deres job efter anklager om seksuel chikane og krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men de kendte her har også noget andet tilfælles: De blev alle ansat på tv-kanalen [Tv-stationen] efter deres fald fra tinderne.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Der klippes herefter til forskellige korte sekvenser fra programmer på [Tv-stationen] med flere af de ovenfor nævnte personer, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode 01:20-01:44]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Vært</Char>
+          <Char>: Senest er [Klager], den tidligere chefdirigent for [Koret], dukket op på skærmen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Der klippes til en kort sekvens fra [Tv-stationen]s program ”Så syng da Danmark” med [Klager] som vært, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Er det [Tv-stationen]s vision at rehabilitere kendte danskere med et blakket ry?</Char>
+        </Linea>
+        <Linea>
+          <Char>Og er det godt fjernsyn?</Char>
+        </Linea>
+        <Linea>
+          <Char>Det spørger jeg [Tv-stationen]s kommunikationsdirektør [Kommunikationsdirektøren] om i dag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Velkommen i Pilestræde.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode: 04:20-06:45]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: I har jo [Klager] bag klaveret…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Der klippes til en kort sekvens fra [Tv-stationen]s program ”Så syng da Danmark” med [Klager] som vært, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Og så er der to sangere på skift inde i studiet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Ja</Char>
+          <Char formaChar="Italic">.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært: </Char>
+          <Char>Den ene af dem hedder [Sangeren].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Og jeg tænkte, når man ser [Klager] og [Sangeren] i et studie, de har jo begge en fortid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: I [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: [Sangeren] sang i koret i tolv år.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] var chefdirigent for [Koret] fra 2001-2010.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvad tænker du om det sammentræf?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Øhm ja, men det er [Klager], der har spurgt, om hun ville komme, og hun har sagt ja tak til at komme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så jeg tænker, at det er et klart… En klar dokumentation af, at i hvert fald [Sangeren] har haft det fint i det kor.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ligesom, ligesom størstedelen af alle de andre piger har haft det rigtigt fint.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> [Klager] er et blændende musikalsk talent.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og det er der vist aldrig nogen, der har været i tvivl om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Heller ikke efterfølgende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og derfor tror jeg, at når [Klager] sætter sig til flygelet, så vil man gerne komme og synge med ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og de arbejder rigtig, rigtig fint og smukt og harmonisk sammen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så jeg mener ikke, at, altså jeg synes, at det er en smuk dokumentation af, at noget af det, vi har kunnet læse, måske er mere nuanceret end det, man har kunnet læse i… sort på hvidt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Men kan du forstå, hvis der er nogen af seerne, der måske synes, at det er lidt akavet, at…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Nej.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> [Klager] er vært på et sangprogram, og så står der en tidligere sanger fra [Koret] ved siden af?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Men han… de kender jo hinanden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hun ved, at han kan dirigere, og han ved, at hun kan synge, og så er det jo det, musik handler om.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det er jo at spille sammen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og selvfølgelig stiller man sig ikke op og synger fine, smukke danske sange sammen med et menneske, man afskyr.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så for mig er det et bevis for, at de har haft det fint sammen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Og jeg kan godt forestille mig, at nogen kan blive pikeret.</Char>
+        </Linea>
+        <Linea>
+          <Char>I disse tider bliver vi pikeret over hvad som helst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Vi laver tekster om og tager negerbollesange ud af Pyrus og altså… listen er jo uendelig lang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så jeg er helt bekendt med, at der er nogen, der vil finde anledning til at føle det her som en stor anstødssten, men jeg synes ikke, det er rimeligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Men dem, der gør det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> De vil måske sige, prøv at høre her</Char>
+          <Char formaChar="Italic">:</Char>
+          <Char> ”To meget omtalte advokatundersøgelser fastslår, at [Klager] stod bag seksuel chikane og et seksualiseret miljø i [Koret] og tidligere på [Sangskolen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Han blev sidste år fyret fra [Kulturinstitutionen] i forlængelse af sagerne om seksuelle krænkelser i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Er det passende, tror jeg, de vil tænke, at han nu skal sidde der ved [Tv-stationen]-klaveret som en anden [Komponisten] og få Danmark til at synge?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Altså folk må jo tænke, og i øvrigt tænde for fjernsynet, lige sådan som de vil.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi lever i et fuldstændig frit land i modsætning til nogen af de andre lande rundt om os.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her må man gøre, som man vil, og hvis man synes, at det her er et problem, så skal man selvfølgelig klikke ind på et andet program.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg ser ikke noget problem i det, øhm… på nogen måde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg kan godt se, at man kan problematisere det, og man kan få det til at fremstå som noget… altså som noget som, der i hvert fald ikke er positivt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men jeg synes, at det er ude af konteksten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da jeg læste op undervejs, sagde du: Det er ikke rigtigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvad er det, der ikke er rigtigt?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Det, der ikke er rigtigt, er, at [Klager] blev opsagt fra sin stilling på [Kulturinstitutionen] på grund af en lækket mailkorrespondance, som der sidenhen er faldet dom for, at den var privat – det er da indlysende, at hans fortid og de advokatundersøgelser nok ikke har været en støtte for ham, men der er ikke nogen direkte sammenhæng mellem de to forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Godt – men du anerkender, at der var to advokatundersøgelser, der fastslog, at [Klager] stod bag seksuel chikane og seksualiseret miljø i [Koret]?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det har jeg ikke læst dem godt nok til at kunne indgå i en juridisk diskussion om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det, jeg kan forholde mig til, er, at der under [Klager]s forgænger og under [Klager]s regime er udtalt kritik, og at der er udbetalt erstatning til, så vidt jeg husker 28 kvinder, som alle sammen var i koret under den tidligere leder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke udbetalt erstatning til nogen af de piger, der har… eller kvinder, der har været i koret under [Klager]s regeringstid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Men du siger, du har ikke læst undersøgelserne, eller du har ikke sat dig ind i det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja altså, det er omfattende jura, som jeg som biologistuderende og musiker og kommunikationsmand… [[Kommunikationsdirektøren] griner, </Char>
+          <Char formaChar="Italic">Pressenævnet].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> [Afbryder].</Char>
+        </Linea>
+        <Linea>
+          <Char>Men også som en del af ledelsen på [Tv-stationen], der skal ansætte [Klager], tænker jeg det da er godt at sætte sig ind i?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Vi har læst det, vi har haft vores egen juridiske rådgivere til at kigge på det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Jeg synes, det er vigtigt at holde fast i, at vi lever i et retssamfund.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der har vi nogen helt grundlovssikrede rettigheder, som blandt andet betyder, at man er uskyldig, indtil det modsatte er bevist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Og nu er der gået, jeg havde nært sagt inflation, i at lave advokatundersøgelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og det er sikkert godt, også for advokaterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså vi skal huske på, at advokater er jo jurauddannede forretningsmænd – og -kvinder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øh, vi har tidligere stiftet bekendtskab med juridiske undersøgelser, som sidenhen har vist sig at være dybt kritisable.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu tænker jeg på de jura…, juridiske udredninger, der kom i forbindelse med [Journalist A].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> [Afbryder] Ja, som I også har som vært.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så en ting er, at der er kommet en juridisk udtalelse, som ikke er flatterende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan vi da godt blive enige om, men [Klager] har altså ikke været… der er ikke nogen, der har anmeldt ham.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Nej.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Han har aldrig været anholdt eller sigtet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har ikke været stillet for en dommer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har ikke modtaget en dom.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han er i retsplejelovens forstand fuldstændig lige så uskyldig, som jeg antager, du er, og som jeg i hvert fald er.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Men jeg spurgte dig heller ikke til, om det var ulovligt, at han var vært på [Tv-stationen], jeg spørger dig til, om det er passende, at han er vært på [Tv-stationen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Jeg synes, at han, hvis han har begået noget forkert, så har han for længst syndet sin brøde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og i den sammenhæng, hvor [Klager] optræder på vores kanal, der ser jeg ikke, at der er nogen som helst problemer.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode fra 11:29-14:49]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Politiken har jo dækket de her krænkelser og anklager om krænkelser i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>De sammenfatter en række af [Korsangere]s udtalelser, sådan her: ”Når man som barn trådte ind i Radiohuset, trådte man samtidig ind i en oldboys club og et mega seksualiseret miljø.</Char>
+        </Linea>
+        <Linea>
+          <Char>Man var ”[Klager]s piger”, i anførselstegn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Man følte sig som en del af et harem for voksne gæstemusikere, som udsatte teenagepiger for uopfordret seksuel opmærksomhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>De, der sagde fra, blev mødt med modstand fra ledelsen i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>” Tror du, at de kvinder er enige med dig i, at [Klager] har betalt en alt, alt for høj pris?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det må du spørge dem om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det har jeg ingen mulighed for, at.</Char>
+        </Linea>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> [Afbryder] Nu spørger jeg dig.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja, men hvordan skulle jeg vide det.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det aner jeg ikke.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Øhm…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mit bud er, at de ikke vil synes, at han har betalt en alt, alt for høj pris.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Okay, men hvad skulle prisen så have været?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Jeg tror bare ikke… Jeg ved ikke, hvad den skulle have været.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg tror bare ikke, de synes…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Skulle han sidde og skamme sig resten af livet?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Nej, jeg tror… Ja, det jo et godt spørgsmål, hvad han skal resten af livet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Spørgsmålet er, om han skal være vært på [Tv-stationen]?</Char>
+        </Linea>
+        <Linea>
+          <Char>På et sangprogram?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja, men den beslutning har vi jo truffet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi mener, at [Klager] er fuld kapabel til at løse den opgave.</Char>
+        </Linea>
+        <Linea>
+          <Char>Musikalsk er der ingen som helst ting at udsætte på ham.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Han har en fortid, som når du sammenfatter den på den måde der, så ser det bestemt ikke flatterende ud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men den er mere nuanceret end som så.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mmm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Hvilket jeg også synes, at [Sangeren]s tilstedeværelse vidner så fint om i vores programmer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vært: Da I havde ham inde til ansættelsessamtaler, talte I med ham om sexismesagerne?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Jeg har ikke deltaget i de samtaler, og det mener jeg måske også ligger lige udenfor, hvad vi sådan normalt plejer at offentliggøre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Fair nok.</Char>
+        </Linea>
+        <Linea>
+          <Char>Har I en personalepolitik i forhold til sexisme?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Naturligvis har vi det.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså jeg ved, at du nu om lidt vil spørge, om det står i personalehåndbogen, og sådan en har vi ikke.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Nej.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Så jeg kan ikke trække et eller andet dokument frem og sige, at det står her.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Det er okay, men du… I har en politik, kan du sige lidt om, hvad den… altså… hvad den er?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Den handler om en anstændig tone og en anstændig omgangsform.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det handler om, at vi respekterer hinanden, også når vi holder fester.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Har I gennemgået, altså har I snakket med [Klager] om det?</Char>
+        </Linea>
+        <Linea>
+          <Char>Har I snakket med ham om den her personalepolitik om anstændig opførsel…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Nej, naturligvis har vi ikke det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvorfor har I ikke det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Han er en voksen mand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, det var han også, da han var chefdirigent i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Det mener jeg ligger helt udenfor, hvad der er nødvendigt i den her sammenhæng.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså, vi beder ham om at arbejde på en arbejdsplads, hvor der er udelukkende voksne mennesker.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Grunden til, at jeg spørger dig, er jo netop fordi, at det er en arbejdsplads.</Char>
+        </Linea>
+        <Linea>
+          <Char>I har jo et hensyn til jeres ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu ansætter I en mand, som er anklaget for sexisme og seksuelle krænkelser… er det ikke altafgørende på en eller anden måde at afklare, at han har forstået det, når man ansætter ham?</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså har forstået, at der er en grænse?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Altså, jeg forstår godt, hvor du vil hen… Jeg ved ikke præcis, hvad der er foregået til de samtaler, og hvis jeg vidste det, ville jeg ikke oplyse det her, punkt et.</Char>
+        </Linea>
+        <Linea>
+          <Char>Punkt to, så ved jeg, at der er ingen af vores medarbejdere eller af vores freelanceansatte, som har nogen som helst problemer med, at [Klager] eller andre er på den samme arbejdsplads.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Hvordan ved du det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Fordi det har jeg talt med dem om.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Hvad har I… Fortæl om det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Nej, det har jeg ikke lyst til.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Okay, men mener du, at I har sikret jer, at [Klager] ligesom har forstået det her, og han skal nok opføre sig ordentligt, også i sin tid på [Tv-stationen]?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Det er jeg fuldstændig overbevist om, ja.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode: 15:46-17:36]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Så vi er oppe i nærheden af knap 50 studieværter, som har deres daglige gang på [Tv-stationen]s sendeflade.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og ud af dem er der en to-tre stykker, som tiltrækker sig alle mediernes opmærksomhed, og det synes jeg er en skævvridning, og jeg synes også, at det er tarveligt over for de andre studieværter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Skal vi ikke så efterlade det hos lytterne, at I har en lang række af værter og en lille andel af dem – en lille gruppe af dem…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Seks procent – jeg har regnet på det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, men så er der også nogen af dem, der har været der tidligere, som ikke er der længere, men der er i hvert fald en håndfuld eller deromkring af værter, som I har ansat, som har en eller anden blakket fortid eller i hvert fald er faldet i unåde, enten fordi de har gjort noget strafbart, eller fordi de har gjort sig skyldige i sexismeanklager, eller fordi en advokatundersøgelse har fundet, at de faktisk var skyldige i de anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså værter, som på en eller anden måde har en betændt fortid.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vel okay at sige?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: [[Kommunikationsdirektøren] sukker, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>].</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi kan godt mundhugges om det i lang tid.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg synes, at det er en journalistisk stramning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Nej, for jeg vil gerne anerkende, at I også har en masse andre værter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men jeg vil bare også gerne snakke med dig om, at for mig at se er der et mønster i, at der er en gruppe af kendte mennesker og tidligere tv-værter, som ligesom fortsætter hos jer, efter at de har haft noget problematisk andre steder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ikke det samme som at sige, at det gælder på nogen måde alle jeres værter, men det jeg gerne… det, jeg er nysgerrig på, det er, er der en… hvad skal jeg sige… er der en tanke bag?</Char>
+        </Linea>
+        <Linea>
+          <Char>[Journalist B], [Journalist A] … og nu [Klager] sidder hos jer efter de ligesom er… hvad skal man sige…, er faldet i unåde efter de her sexismeanklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Der er et ganske klart mønster i de tre herrer, du nævner der, og det er, at de er ledige på markedet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi har råd til at ansætte dem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi er en lillebitte tv-station, vi har ganske små honorarer at gøre godt med, ganske lave lønninger, og da [Journalist A] og [Klager] og [Journalist B] var ansat på de store institutioner, hvor de kommer fra, der havde vi ikke en kinamands chance for at komme i nærheden af de lønønsker, og de sådan krav, de i øvrigt havde til et job… […]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Tidskode: 21:42-23:33]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Vi har ingen problemer med, at [Journalist A] og [Journalist B] og [Klager] er på vores sendeflade.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er hver især dygtige kapaciteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi har ansat dem til at lave henholdsvis journalistik og musik, og det gør de fremragende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og det har vi ingen problemer med at stille os bag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi er glade for, at [Klager] spiller smukt, og han har dygtige solister, som synger rent og pænt, så man kan synge med derhjemme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvilket budskab synes du, det sender til ofrene for den chikane, for den seksualiserede adfærd, der har været på de arbejdspladser, de har været på?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det er jeg ikke i tvivl om, at man kan vende til, at det er et meget dårligt signal, der bliver sendt her.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øhm, men jeg tror faktisk, at alle er ofre i den her sag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Også [Klager], hvis det nu er ham, vi skal tale om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og derfor er det… jeg synes det en menneskeret…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> [Afbryder] Alle er… Jeg stopper dig lige her engang… Alle er ofre i den her sag?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja, det synes jeg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Okay.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Jeg synes også, [Klager] er blevet offer i den her sag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har gjort noget, der er blevet… der er kritisabelt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har en anden opfattelse af det.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øhm, hvad siger man, der går sjældent røg af en brand uden, at der også er ild et eller andet sted.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg er sikker på, at det miljø, der har været i Danmarks Radio, som [Klager] i øvrigt ikke har været alene om at skabe, som var der, før han kom der, som er blevet accepteret af en lang række af chefer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis du nogensinde har været på Danmarks Radio, så skal du helt til Forsvaret for at finde flere mellemledere, der er så mange, der har været medvidende og inddraget i den her… i det her forløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og jeg synes ikke det er rimeligt kun at lade én mand skulle bære al byrden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Men når du siger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> [Klager] har lidt virkelig hårdt, han har mistet sit job.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvordan han har kunnet formå at holde sammen på sin familie, det overgår min fatteevne.</Char>
+        </Linea>
+        <Linea>
+          <Char>De piger, der har følt sig krænket og på anden måde udnyttet, deres oplevelse er jo indiskutabel.</Char>
+        </Linea>
+        <Linea>
+          <Char>De har det forfærdeligt med det, og de er ofre, men jeg synes faktisk også, at [Klager] er blevet behandlet… […]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Efter offentliggørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Fuldmagtshaveren] sendte på vegne af [Klager] en anmodning om genmæle den 13. april 2023 til Berlingske, hvilket mediet afslog den 18. april 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage over podcastudsendelsen samt klage over Berlingskes afvisning af at bringe et genmæle er modtaget i Pressenævnet den 6. juli 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har overordnet anført, at den påklagede podcastudsendelse indeholder en lang række ukorrekte oplysninger, og at den baserer sig på forkerte præmisser.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har ligeledes bemærket, at han ikke er blevet kontaktet af Berlingske forud for udsendelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I podcastudsendelsens dækning udtrykkes en række faktuelle fejl og grove beskyldninger, der har medført og er egnet til at medføre yderligere væsentlig skade for [Klager]s ry og omdømme samt egnede til at påføre [Klager] økonomisk skade af betydning.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har i den sammenhæng fremhævet, at han forsøger at finde en ny beskæftigelse, og at det er særdeles skadeligt, at der i medierne fremsættes forkerte oplysninger om ham, som af en ny arbejdsgiver kan tillægges sandhedsværdi, og at hvis man som potentiel ny arbejdsgiver skal forvente at blive genstand for spørgsmål fra medier, som indeholder oplysninger, der er usande, vil dette selvsagt være skadeligt for denne proces.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter udsendelsen rettede [Fuldmagtshaveren] på vegne af [Klager] den 13. april 2023 skriftlig henvendelse til Berlingske og klagede over indholdet af udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske ved chefredaktør [Chefredaktøren] besvarede denne klage den 18. april 2023, hvor Berlingske afviste klagepunkterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Indledende bemærkninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har oplyst, at han er korleder, dirigent og komponist.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har været adjunkt og lektor på [Sangskolen], chefdirigent for [Koret], direktør for [Kulturarrangementet], bestyrelsesleder for [Kunstfonden] og indtil den 19. april 2022 direktør for [Kulturinstitutionen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har oplyst, at han siden 2021 har været genstand for dækning i danske medier, siden DR i foråret 2021 igangsatte en advokatundersøgelse af forhold i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>Politiken bragte blandt andet i juni 2021 en historie om, at medlemmer af [Koret] mente at have været udsat for en seksualiseret kultur, da [Klager] var leder af koret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår advokatundersøgelsen vedrørende [Koret] har [Klager] bemærket, at det af DRs egne advokater i en ikke-uvildig advokatundersøgelse af koret blev vurderet, at 64 episoder beskrevet i indberetningerne var udtryk for krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ud af disse 64 episoder, angik tre [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>De tre episoder var indberettet af to forskellige kvinder, én anonym henvendelse og en navngiven henvendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Heraf angav kun den anonyme indberetter at være blevet krænket.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at han hele tiden har bestridt anklagerne.</Char>
+        </Linea>
+        <Linea>
+          <Char>DR udbetalte tortgodtgørelser til 28 kvinder efter advokatundersøgelsens afslutning, og ingen af disse tortgodtgørelser vedrørte [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>På trods af dette blev [Klager] i medierne billedet på [Koret]s-undersøgelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Som konsekvens af advokatundersøgelsen om [Koret] opstod der et mediepres på [Kommunen] og [Sangskolen], hvor [Klager] var ansat, før han blev chefdirigent for [Koret], hvorefter [Kommunen] iværksatte en ikke-uvildig advokatundersøgelse, som ved sin offentliggørelse medførte stort mediefokus på [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Indberetningerne til advokatundersøgelsen angik perioden 1981-2001.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var 39 indberetninger, hvoraf hovedparten var såkaldte andenhånds-indberetninger, mens 9 indberetninger var fra personer, der selv mente at være blevet krænket.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én af de førstehåndsindberetninger, der af advokaterne blev anset som krænkelser, vedrørte [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Ifølge det indberettede havde [Klager] lagt en hånd på en gymnasieelev for 27 år siden, hvilket han bestrider at have gjort.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har i relation til det ovennævnte anført, at advokatundersøgelser alene er udtryk for partsindlæg, hvorfor der ikke er grundlag for i den påklagede podcastudsendelse at opstille en præmis om, at [Klager] er fundet skyldig i seksuelle krænkelser og handlinger, eller at de objektivt set har fundet sted.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover kan advokatundersøgelser ikke anvendes til at afdække en kultur i en organisation, hvorfor der ikke er grundlag for en præmis, om at [Klager] stod bag seksuel chikane og et seksualiseret miljø i [Koret] eller på [Sangskolen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Konklusionerne i ikke-uvildige advokatundersøgelser, iværksat af institutioner med en klar interesse i at placere et ansvar andre steder end hos dem selv, skal sidestilles med en holdning.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at der er tale om et partsindlæg og ikke et bevis.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har i den forbindelse blandt andet henvist til analysen ”Retssikkerhed og gennemsigtighed i advokatundersøgelser”,</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>som den juridiske tænketank [Tænketanken] den 17. februar 2022 har offentliggjort, herunder, at [Tænketanken] i denne analyse blandt andet har anført:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”En advokat, som gennemfører en advokatundersøgelse, repræsenterer klienten, altså den, som har bestilt undersøgelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at det er klienten, som bestemmer, hvad advokaten skal undersøge (eller undlade at undersøge), og på hvilket grundlag undersøgelsen skal foretages.</Char>
+        </Linea>
+        <Linea>
+          <Char>Advokaten leder undersøgelsen på sin klients vegne og formulerer resultatet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Advokatundersøgelser er altså ikke uvildige i egentlig forstand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tværtimod kan fremgangsmåden i forbindelse med advokatundersøgelser snarere sammenlignes med den gammeldags, inkvisitoriske straffeproces, hvor anklager og dommer er én og samme person, end med de mere tidssvarende partsprocesser med en uvildig og uafhængig dommer eller opmand, som kendes i moderne, vestlig retspleje og inden for voldgiftsretten.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere navnlig henvist til, at Advokatsamfundet efter blandt andet advokatundersøgelserne af [Koret] og [Sangskolen] fandt det nødvendigt at udarbejde en vejledning om advokatundersøgelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har bemærket, at der i indledningen til denne vejledning om advokatundersøgelser fra september 2022 fremgår ”I løbet af 2021 var der debat i medierne og blandt befolkningen om anvendelsen af advokatundersøgelser og advokaternes rolle i de sager, der blev undersøgt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var særligt fokus på advokatundersøgelser, der vedrørte påstande om seksuelle krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Debatten viste, at der mangler viden om, hvad advokatundersøgelser egentlig er.</Char>
+        </Linea>
+        <Linea>
+          <Char>Debatten viste også, at der kan være behov for klarere og mere opdaterede rammer for advokater, når de udfører advokatundersøgelser, og en tydeligere forventningsafstemning for alle berørte og involverede i en advokatundersøgelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>”, og at det i øvrigt fremgår af vejledningen, at ”Advokaten bør desuden fremhæve, at advokatens vurderinger ikke har karakter af en afgørelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at det er et faktum og ikke en holdning, at advokatundersøgelserne omtalt i denne sag er ikke-uvildige.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det følger af de advokatetiske regler, at en advokatundersøgelse kun må betegnes som uvildig, hvis den opfylder visse kriterier, som de to omtalte advokatundersøgelser notorisk ikke opfylder, og de er ej heller betegnet som uvildige af samme årsag.</Char>
+        </Linea>
+        <Linea>
+          <Char>En ikke-uvildig advokatundersøgelse er et stykke arbejde, man som klient bestiller hos en advokat, hvor man som klient selv bestemmer, hvad der skal foretages af opgaver.</Char>
+        </Linea>
+        <Linea>
+          <Char>Man betaler advokaten for det udførte arbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har oplyst, at Ekstra Bladet den 14. april 2022 bragte artikler om ham, hvor Ekstra Bladet blandt andet bragte en privat mail fra 2015 til [Operasangeren], hvor han omtalte en operasangerindes bryster, og at Pressenævnet i sag nr. 2022-80-0879 efterfølgende har kritiseret Ekstra Bladet for publicering af den private korrespondance og for at bringe en række ukorrekte oplysninger om den sammenhæng, hvori mailkorrespondancen var fremkommet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Derudover har [Klager] bemærket, at Københavns Byret ved dom af 9. marts 2023 har fastslået, at den offentliggjorte mailkorrespondance i Ekstra Bladet er privat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at podcasten ”Pilestræde” ikke en direkte udsendelse, og at det interview med [Tv-stationen]s kommunikationsdirektør [Kommunikationsdirektøren], der indgår i udsendelsen, er væsentligt længere end de citater, som er taget med i udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er således foretaget en redaktionel vurdering i forbindelse med udsendelsens produktion.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har bemærket, at store dele af det oprindelige interview med [Kommunikationsdirektøren] ikke er taget med i udsendelsen, hvilket selvsagt er Berlingske bekendt.</Char>
+        </Linea>
+        <Linea>
+          <Char>F.eks. blev [Kommunikationsdirektøren] spurgt til en anden ansat på [Tv-stationen], hvor værten udtalte sig på ukorrekt vis om denne ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her har Berlingske haft mulighed for efterfølgende at undersøge og efterprøve værtens udsagn nærmere samt forelægge indholdet for den pågældende ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uanset årsagen, er disse ukorrekte oplysninger om en anden ansat ikke medtaget i udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er derimod de ukorrekte oplysninger om [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette underbygger kritikken af den manglende forelæggelse i nærværende klage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Forelæggelsen for [Klager] skulle være fundet sted før udsendelsen, og det ville have givet ham mulighed for at svare og dokumentere den rette sammenhæng.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den mulighed gav Berlingske ikke [Klager], og mediet accepterede heller ikke [Kommunikationsdirektøren]s svar og undersøgte ej heller forholdene nærmere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og kildekritik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at der i udsendelsen formidles faktuelt forkerte oplysninger om ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har henvist til, at følgende oplysninger er ukorrekte:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Afskedigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har bemærket, at det ikke er korrekt, når det af podcastudsendelsens introduktion fremgår, at han blev afskediget fra [Kulturinstitutionen] på baggrund af ”anklager om seksuel chikane og krænkelser”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har [Klager] bemærket, at bestyrelsesformanden for [Kulturinstitutionen] tværtimod udtrykte opbakning til [Klager] uanset den negative dækning i medierne, og [Klager] har blandt andet henvist til, at dette f.eks. følger af artiklen ”</Char>
+          <Char formaChar="Italic">Nægter: Vil ikke fyre [Klager]</Char>
+          <Char>”, bragt den 13. april 2022 på eb.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>I Ekstra Bladets artikel, som blev publiceret 311 dage efter publiceringen af de ovennævnte artikler i Politiken, 154 dage efter publiceringen af rapporten om [Koret] og 9 dage efter publicering af rapporten om [Sangskolen], citeres formanden for [Kulturinstitutionen]s for at udtale:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>'”[Kulturinstitutionen] har fortsat tillid til [Klager],' lyder det i mailen, der fortsætter:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>'Han udfører sine opgaver uden anmærkninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har under hele sin tid i [Kulturinstitutionen] arbejdet for at skabe en tryg arbejdsplads for alle, og det mener styrelsen, at han er lykkedes med.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har været helt transparent, og han har løbende informeret os om de to advokatundersøgelser, som gennemføres i Danmark, og om de publiceringer, som følger med disse,' lyder det videre.</Char>
+        </Linea>
+        <Linea>
+          <Char>” [Klager] har anført, at [Kulturinstitutionen]s bestyrelsesformand også i Berlingske kom med en lignende udtalelse den 13. april 2022.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det var således tydeligt, at [Kulturinstitutionen]s bestyrelsesformand ikke mente, at ovenstående skulle have ansættelsesretlige konsekvenser for [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Derimod var baggrunden for afskedigelsen Ekstra Bladets uberettigede publicering af [Klager]s private korrespondance og forkerte oplysninger herom.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dagen efter – den 14. april 2022 – at [Kulturinstitutionen]s bestyrelsesformand havde udtrykt fuld opbakning til [Klager], bragte Ekstra Bladet som nævnt ovenfor således en artikel, hvori der var citeret fra private mails mellem [Klager] og [Operasangeren].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ekstra Bladet skrev – urigtigt – i artiklen, at en publiceret mailkorrespondance vedrørte en castingsituation, at mailkorrespondancen var sket med udgangspunkt i en koncertvideo, at der var tale om en korrespondance i en professionel sammenhæng, og at [Klager] uopfordret drejede samtalen hen på en kvindes bryster.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at dette var årsagen til hans afskedigelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Kulturinstitutionen] valgte således at afskedige [Klager], fordi hans private korrespondance uberettiget i Ekstra Bladet blev fremstillet som at have fundet sted i en professionel sammenhæng.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om Berlingskes henvisning i mediets indlæg for Pressenævnet til [Kulturinstitutionen]s pressemeddelelse i forbindelse med [Klager]s afskedigelse, har [Klager] anført, at han ikke er enig i tolkningen af denne, som har følgende ordlyd:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Bestyrelsen har besluttet at fritstille [Klager] fra sin kontrakt med [Kulturinstitutionen] med øjeblikkelig virkning.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har under sin tid som chef været en stærk, positiv kraft i huset, men det seneste års negative opmærksomhed på hans person har haft stor betydning for forretningen og medarbejderne.</Char>
+        </Linea>
+        <Linea>
+          <Char>” og “Bestyrelsen konstaterer, at tilliden til [Klager] er opbrugt og mener, at der er behov for en ny leder til [Kulturinstitutionen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestyrelsen er enig i dens beslutning, men beklager samtidig dybt, at denne beslutning var nødvendig.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at det ikke fremgår af [Kulturinstitutionen]s pressemeddelelse, at bestyrelsen ikke længere havde tillid til ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår, at tilliden til [Klager] var opbrugt, men ikke hvis tillid, der var opbrugt, idet der lige så vel kan have været tale om en henvisning til den offentlige tillid, som var præget af mediedækningen, tillid fra medarbejderes side eller lignende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har ligeledes henvist til, at han i pressemeddelelsen omtales som en ”stærk, positiv kraft i huset”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere henvist til Ekstra Bladets dækning om hans afskedigelse fra [Kulturinstitutionen], herunder blandt andet følgende uddrag fra artiklen ”Bestyrelsesformand: Mail om bryster blev dråben”, bragt den 19. april 2022 på eb.dk:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Klager] blev tirsdag fyret fra sit job som chef for [Kulturinstitutionen], og det skete på baggrund af den mail, Ekstra Bladet afslørede skærtorsdag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fortæller bestyrelsesformand hos [Kulturinstitutionen] [Formanden] til Ekstra Bladet.</Char>
+        </Linea>
+        <Linea>
+          <Char>- Den mail, som kom frem, accepterer vi ikke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ikke foreneligt med vores praksis på [Kulturinstitutionen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor besluttede vi at afskedige [Klager] med øjeblikkelig virkning, lyder det.</Char>
+        </Linea>
+        <Linea>
+          <Char>I bestyrelsen hos [Kulturinstitutionen] har man ellers holdt hånden over [Klager] gennem hele dækningen af de sager, der har været i henholdsvis [Koret] og [Sangskolen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Men det ændrede sig med torsdagens afsløring.</Char>
+        </Linea>
+        <Linea>
+          <Char>- Hvorfor har I holdt hånden over ham til nu?</Char>
+        </Linea>
+        <Linea>
+          <Char>- Indtil man har en dom eller en anklage, hvor man udpeger eller anklager [Klager] for at have gjort noget konkret, så har han bestyrelsens fulde tillid.</Char>
+        </Linea>
+        <Linea>
+          <Char>- Nu er der kommet en mail frem, hvor han har skrevet noget ufordelagtigt om en sangerinde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan vi ikke stå bag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor har vi taget beslutningen i dag, lyder det fra bestyrelsesformanden.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I relation til artiklen har [Klager] bemærket, at overskriften er udtryk for Ekstra Bladets vurdering og derfor ikke noget, som kan udledes af bestyrelsesformandens udtalelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Derudover har [Klager] henvist til to yderligere artikler i Ekstra Bladet om afskedigelsen samt Sydsvenskans artikel herom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af ovenstående har [Klager] anført, at Berlingske ikke har haft dækning for at udtale, at han blev afskediget fra [Kulturinstitutionen] på grund af anklager om seksuel chikane og krænkelser, og at det er skadeligt for ham, at der i udsendelsen gives en forkert begrundelse for afskedigelsen af ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han blev netop ikke afskediget på grund af advokatundersøgelserne, idet [Kulturinstitutionen]s bestyrelsesformand fastholdt – også efter afskedigelsen – at disse ikke kunne tolkes som en dom eller en anklage om konkrete handlinger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har bemærket, at ved at sætte lighedstegn mellem [Forskeren], [Politikeren] og ham selv, skabes en falsk præmis om, at legitimiteten og ægtheden af anklagerne rettet imod de tre kan sidestilles.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Forskeren] og [Politikeren] har begået kriminelle handlinger og er fundet skyldige ved domstolene.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at han hverken er dømt eller politianmeldt for kriminelle handlinger, og det er krænkende, at indholdet af beskyldninger i offentligheden mod [Klager] fremstilles som værende korrekte og som om, at upassende adfærd rent objektivt har fundet sted i forbindelse med hans professionelle virke, hvilket ingen afgørelser, kendelser, beviser eller lignende underbygger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Med henvisning til det af Berlingske i indlægget for Pressenævnet anførte om omtalen af hans afskedigelse fra [Kulturinstitutionen] i andre medier har [Klager] anført, at det forhold, at øvrige medier, herunder Berlingske selv, har bragt urigtige oplysninger i tidligere artikler, ikke ændrer ved, at der ikke er dækning for udtalelsen, og det forsvarer ikke, at Berlingske ikke rettede denne fejlagtige udtalelse, da de blev gjort bekendt med den.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om det af Berlingske for Pressenævnet anførte vedrørende brugen af ordet anklage har [Klager] anført, at værten ligefrem omtaler, at advokatundersøgelser har fundet nogen ”skyldige” i anklager i podcasten.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] er derfor uforstående over for Berlingskes svar, og der savnes dokumentation for denne påstand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten refererer ikke oplysninger, der er ”kendt i den brede offentlighed”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten omskriver de faktuelle omstændigheder i et forsøg på at få [Klager] til at passe ind i den præmis, han har opstillet for udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har bemærket, at havde han fået forelagt oplysningerne, kunne han have opklaret de faktuelle omstændigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Omtale af advokatundersøgelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at det er ukorrekt, når det af udsendelsen fremgår, at to meget omtalte advokatundersøgelser fastslår, at han stod bag seksuel chikane og et seksualiseret miljø i [Koret] og på [Sangskolen], samt at han blev fyret fra [Kulturinstitutionen] i forlængelse af sagerne om seksuelle krænkelser i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>Med henvisning til følgende udtalelse i den påklagede podcastudsendelse har [Klager] endvidere anført, at følgende uddrag af udsendelsen viser, at værten anser de ikke-uvildige advokatundersøgelser som udtryk for en objektiv sandhed:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det, der ikke er rigtigt, er, at [Klager] blev opsagt fra sin stilling på [Kulturinstitutionen] på grund af en lækket mailkorrespondance, som der sidenhen er faldet dom for, at den var privat – det er da indlysende, at hans fortid og de advokatundersøgelser nok ikke har været en støtte for ham, men der er ikke nogen direkte sammenhæng mellem de to forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Godt – men du anerkender, at der var to advokatundersøgelser, der fastslog, at [Klager] stod bag seksuel chikane og seksualiseret miljø i [Koret]?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Gæsten [Kommunikationsdirektøren] stiller spørgsmålstegn ved de ikke-uvildige advokatundersøgelser, og værten giver advokatundersøgelserne legitimitet ved at bruge ordet ”fastslog”.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at værten dermed vildleder både gæsten og lytterne, og at denne vildledning er krænkende for ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er krænkende for [Klager], som hverken er anholdt, politianmeldt eller er blevet mødt af et civilt søgsmål, ligesom ingen udbetalte erstatninger fra DR til tidligere medlemmer af [Koret] vedrørte [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er særdeles kritisabelt, at Berlingske ikke undersøger og efterprøver værtens opfattelse af baggrunden for [Klager]s fyring i særdeleshed efter, at gæsten [Kommunikationsdirektøren] går i rette med værtens ukorrekte påstand om årsagen til fyringen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Gæsten pointerer således, at [Klager] netop ikke blev fyret fra [Kulturinstitutionen] på grund af to ikke-uvildige advokatundersøgelser, men derimod fordi, at to private mails blev bragt i Ekstra Bladet i følgeskab med en række fejlagtige oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til denne faktuelt korrekte oplysning replicerer værten blot ”godt”, hvorved værten ikke selv korrigerer gæsten.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har bemærket, at værten således må formodes at være vidende om, at det er sagens rigtige sammenhæng, hvilket tydeliggør, at det er en journalistisk fordrejning, vildledning og stramning af det faktiske hændelsesforløb at påstå, at [Klager] blev fyret på grund af anklager om seksuelle krænkelser eller seksuel chikane, som behandles under klagepunktet om baggrunden for [Klager]s afskedigelse ovenfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har i relation til dette klagepunkt henvist til det ovenfor anførte om advokatunderundersøgelser, og at det således ikke er objektivt fastslået, at han stod bag seksuel chikane og et seksualiseret miljø i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Derudover har [Klager] henvist til artiklen </Char>
+          <Char formaChar="Italic">”[Professoren] i forsvar for [Journalist A]s #Metoo-retssag: Advokater skaber »falskt billede«”</Char>
+          <Char> samt podcastudsendelsen </Char>
+          <Char formaChar="Italic">”Østergaards Salon</Char>
+          <Char>”, begge bragt den 3. juni 2023 på berlingske.dk, hvor dr.jur., professor emeritus [Professoren] i artiklen og podcasten pointerer, at advokatundersøgelser blot er partsindlæg, og at de ikke kan danne grundlag for en objektiv vurdering af, hvad der er foregået i konkrete situationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har desuden henvist til, at chefredaktør på Berlingske, [Chefredaktøren], i den ovenfor nævnte podcastudsendelse </Char>
+          <Char formaChar="Italic">”Østergaards Salon” </Char>
+          <Char>bl.a. udtaler, at advokatundersøgelser giver ”en høj grad af legitimitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>De tror nærmest, at det er en retssag i stedet for en advokatundersøgelse”, som svar på gæsterne professor emeritus [Professoren] og kommunikationsekspert [Kommunikationseksperten]s udtalelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Sexismeanklager</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at det er ukorrekt, at han er anklaget for sexisme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har henvist til, at værten i den påklagede podcastudsendelse udtaler følgende: ”</Char>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Da I havde ham inde til ansættelsessamtaler, talte I med ham om sexismesagerne?</Char>
+        </Linea>
+        <Linea>
+          <Char>”, samt følgende passage fra udsendelsen: ”</Char>
+          <Char formaChar="Italic">Vært: </Char>
+          <Char>Nej, for jeg vil gerne anerkende, at I også har en masse andre værter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men jeg vil bare også gerne snakke med dig om, at for mig at se er der et mønster i, at der er en gruppe af kendte mennesker og tidligere tv-værter, som ligesom fortsætter hos jer, efter at de har haft noget problematisk andre steder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ikke det samme som at sige, at det gælder på nogen måde alle jeres værter, men det jeg gerne… det, jeg er nysgerrig på, det er, er der en… hvad skal jeg sige… er der en tanke bag?</Char>
+        </Linea>
+        <Linea>
+          <Char>[Journalist B], [Journalist A] … og nu [Klager] sidder hos jer efter de ligesom er… hvad skal man sige…, er faldet i unåde efter de her sexismeanklager?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at disse kommentarer er krænkende for ham, idet lytteren får det indtryk, at han er anklaget for sexisme, hvilket er ukorrekt.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har endvidere bemærket, at der i det ovenfor anførte første spørgsmål fra værten er en præmis om, at man burde have talt med [Klager] om noget, som [Klager] ikke er anklaget for, hvilket er krænkende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af Berlingskes indlæg for Pressenævnet har [Klager] bemærket, at han fastholder, at anvendelsen af ordet sexisme i ovennævnte sammenhænge ikke er korrekt og er vildledende over for lytteren, da formuleringerne er med til at udbrede udokumenterede anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten er særdeles kritisk over for [Klager] og samtlige af værtens spørgsmål og kommentarer er formuleret, så de fremstiller [Klager] negativt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten går således for langt i sin kritik ved at inddrage anklager, som ikke er korrekte.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Anstændig opførsel og ofre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at der ikke er grundlag for at skabe en præmis om, at man ville kunne forvente, at han vil opføre sig upassende på en arbejdsplads, sådan som det gøres i den påklagede podcastudsendelse, herunder henset til, at hans virke ikke har givet anledning til anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har i forbindelse med dette bemærket, at han afviser de mellem 17 og 27 år gamle anklager fra [Koret] og [Sangskolen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Programmets præmis er i sammenhængen derfor ærekrænkende.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har i den forbindelse henvist til følgende passager fra udsendelsen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Vært:</Char>
+          <Char> Har I gennemgået, altså har I snakket med [Klager] om det?</Char>
+        </Linea>
+        <Linea>
+          <Char>Har I snakket med ham om den her personalepolitik om anstændig opførsel…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Nej, naturligvis har vi ikke det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvorfor har I ikke det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Han er en voksen mand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, det var han også, da han var chefdirigent i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Det mener jeg ligger helt udenfor, hvad der er nødvendigt i den her sammenhæng.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså, vi beder ham om at arbejde på en arbejdsplads, hvor der er udelukkende voksne mennesker.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Grunden til, at jeg spørger dig, er jo netop fordi, at det er en arbejdsplads.</Char>
+        </Linea>
+        <Linea>
+          <Char>I har jo et hensyn til jeres ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu ansætter I en mand, som er anklaget for sexisme og seksuelle krænkelser… er det ikke altafgørende på en eller anden måde at afklare, at han har forstået det, når man ansætter ham?</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså har forstået, at der er en grænse?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har bemærket, at han på alle sine tidligere arbejdspladser har været kendt for at have arbejdet for at skabe en tryg arbejdsplads for alle sine ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>I relation hertil har [Klager] henvist til den ovenfor citerede udtalelse fra bestyrelsesformanden for [Kulturinstitutionen] af 13. april 2022, hvori han udtrykker, at [Klager] arbejder for at skabe en tryg arbejdsplads for alle ansat i [Kulturinstitutionen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at Politiken gennem artiklen ”’Tavshedskultur’ præger [Kulturinstitutionen] efter ansattes grove seksualdomme og sagen i [Koret]”, bragt den 8. december 2021 på politiken.dk, har forsøgt at skabe et indtryk af en dårlig arbejdskultur på [Kulturinstitutionen].</Char>
+        </Linea>
+        <Linea>
+          <Char>På baggrund af artiklen blev der lavet en omfattende undersøgelse af arbejdsmiljøet, forestået af HR i samarbejde med eksterne psykologer.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har henvist til, at konklusionen, som var omtalt i artiklen: ”Rapport: Ingen tystnadskultur på [Kulturinstitutionen]”, bragt den 12. februar 2022 på aftonbladet.se, var tydelig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her genkender man således ikke påstandene fra ovennævnte Politiken artikel, men der står derimod: ””en tydlig irritation över att [Kulturinstitutionen] figurerat negativt i media och att en bild de inte känner igen sig i fått sprida sig”.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om det af Berlingske for Pressenævnet anførte om, at arbejdsmiljøundersøgelsen har samme ”præjudikatsværdi” som de to omtalte advokatundersøgelser, har [Klager] bemærket, at han ikke er enig i denne kritik, idet arbejdsmiljøundersøgelsen på [Kulturinstitutionen] blev foretaget af HR-afdelingen og udefrakommende psykologer, der udførte interviews anonymt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke tale om en juridisk analyse eller vurdering, men ene og alene en kulturundersøgelse udført af fagpersoner med ekspertise inden for netop det område.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] mener derfor ikke, at kulturundersøgelsen på [Kulturinstitutionen] kan eller skal sidestilles med en ikke-uvildig advokatundersøgelse, men at kulturundersøgelsen godt kan understøtte argumentet om, at der ikke er belæg for at nedlægge en præmis om, at man ville kunne forvente, at [Klager] vil opføre sig upassende på en arbejdsplads.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere anført, at værten med spørgsmålet: ”Hvilket budskab synes du, at det sender til ofrene for den chikane, for den seksualiserede adfærd, der har været på de arbejdspladser, de har været på?</Char>
+        </Linea>
+        <Linea>
+          <Char>”, opstiller en præmis om, at indholdet af beskyldningerne mod [Klager] er korrekte, og at han er fundet skyldig i seksuelle krænkelser og handlinger, eller at de objektivt set har fundet sted, jf. ordene ”ofrene for den chikane, for den seksualiserede adfærd”, hvilket der, som allerede nævnt, ikke er grundlag for.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hele udsendelsen bygger på en præmis om, at [Klager] har udvist en adfærd, som medfører, at han ikke kan have nogen ansættelse eller udføre nogen opgave uanset karakteren heraf, herunder som musikvært i et tv-program, på grund af beskyldninger imod ham om forhold, som angiveligt skulle have fundet sted for mellem 17 og 27 år siden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Også beskrivelsen af udsendelsen underbygger den falske præmis om, at [Klager] er en person, hvis adfærd betinger, at man ikke med rimelighed kan have ham ansat, idet der bl.a. står: ”Så hvor går grænsen for hvem, [Tv-stationen] vil sætte på skærmen?</Char>
+        </Linea>
+        <Linea>
+          <Char>”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere bemærket, at for at der kan tales om ofre, må der nødvendigvis også være en forbryder, hvorfor værtens kommentar anses for stærkt ladet og uden belæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>De ikke-uvildige advokatundersøgelser har, som tidligere bemærket, hverken ført til politianmeldelse, civile søgsmål eller uddeling af erstatninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Blakket fortid mv</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at følgende passage fra podcastudsendelsen er ukorrekt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Skal vi ikke så efterlade det hos lytterne, at I har en lang række af værter og en lille andel af dem – en lille gruppe af dem…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Seks procent – jeg har regnet på det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, men så er der også nogen af dem, der har været der tidligere, som ikke er der længere, men der er i hvert fald en håndfuld eller deromkring af værter, som I har ansat, [der] har en eller anden blakket fortid eller i hvert fald er faldet i unåde, enten fordi de har gjort noget strafbart, eller fordi de har gjort sig skyldige i sexismeanklager, eller fordi en advokatundersøgelse har fundet, at de faktisk var skyldige i de anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså værter, som på en eller anden måde har en betændt fortid.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vel okay at sige?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har blandt andet henvist til, at værtens udtalelser meget tydeligt udtrykker, at han opfatter, at der er fældet dom over [Klager], samt at der er personer, der er blevet krænket af [Klager], og at det derfor vil være naturligt at finde det meget stødende, at [Klager] har fået arbejdet på [Tv-stationen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Herved stiller værten sig som dommer over [Klager], og dette i øvrigt over for en kilde, der forsøger at forklare værten, at [Klager] ikke er dømt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette affejes dog af værten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingskes vært anvender ikke udtrykket ”dom”, men skærper ordvalget ved at sige, at ”advokatundersøgelse har fundet, at de faktisk var s</Char>
+          <Char formaChar="Italic">kyldige</Char>
+          <Char> i de anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>” Ordet skyldig er vildledende og ikke korrekt, og det bekræfter værtens præmis om, at en advokatundersøgelse kan sidestilles med en dom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at han forud for udsendelsen ikke blev kontaktet af Berlingske og forelagt de oplysninger, som udsendelsen indeholder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har [Klager] bemærket, at den påklagede podcast bringer både nye og gamle oplysninger om ham, og som det ses af ovenstående klagepunkter bringes der oplysninger, der i den sammenhæng, som de fejlagtigt blev beskrevet i, er særdeles skadelige, krænkende og agtelsesforringende for ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] er ikke blevet forelagt de udsagn og påstande, der frembringes i udsendelsen, på trods af at 19 minutter og 26 sekunder ud af podcastens samlede varighed på 26 minutter og 14 sekunder omhandler [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Berigtigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har bemærket, at da der er formidlet og publiceret faktuelt forkerte oplysninger om ham, som er egnede til at påføre ham skade, har han den 13. april 2023 anmodet Berlingske om at foretage en berigtigelse af oplysningerne, hvilket Berlingske har afvist.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har anført, at Berlingske burde have berigtiget de oplysninger, som han har klaget over, er ukorrekte, og som fremgår ovenfor under punktet om ukorrekt information.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Genmæle</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Medieansvarsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at han – såfremt Berlingske ikke ville berigtige de ukorrekte og skadelige oplysninger om ham – subsidiært har anmodet Berlingske om, at der bringes et genmæle i overensstemmelse med medieansvarslovens §§ 36, 37 og 39, idet Berlingskes rapportering af faktuelle fejl og grove beskyldninger har medført og er egnet til at medføre yderligere væsentlig skade for [Klager]s ry og omdømme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette afviste Berlingske den 18. april 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har henvist til, at følgende oplysninger bragt i den påklagede udsendelse er af faktuel karakter og egnede til at påføre ham skade:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At [Klager] på baggrund af ikke-uvildige advokatundersøgelser skulle være fundet skyldig i seksuelle krænkelser og anklager om sexisme.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At [Klager] skulle være blevet fyret fra sit job på [Kulturinstitutionen] på grund af beskyldninger om krænkelser på [Sangskolen].</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>[Klager] blev ikke forelagt den fulde kritik frembragt i podcasten.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At de krænkelser, som de ikke-uvildige advokatundersøgelser af forhold i [Koret] og [Sangskolen] vurderede kunne have fundet sted, hovedsageligt vedrørte andre personer end [Klager], hvilket ikke fremgik af dækningen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har i klagen for Pressenævnet henvist til, at genmælet bør indeholde følgende oplysninger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Berlingske Media bragte den 13. april 2023 i podcasten Pilestræde et afsnit ”De udstødtes kanal” og en artikel på berlingske.dk, der indeholdt en række forkerte oplysninger om [Klager], og i øvrigt var opbygget på en præmis om, at [Klager] har udvist en adfærd, der betinger, at han ikke med rimelighed kan optræde eller søge ansættelse i nogen sammenhænge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er der ikke grundlag for, idet nedenstående oplysninger fra [Klager] i stedet bringes her:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>- [Klager] er ikke blevet forelagt den fulde kritik frembragt i podcasten og i den tilhørende artikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- At [Klager] ikke er fundet skyldig i seksuelle krænkelser og seksuelle anklager og sexisme, og at advokatundersøgeler er partsindlæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- At de krænkelser, som de ikke-uvildige advokatundersøgelser af forhold i [Koret] og [Sangskolen] vurderede kunne have fundet sted, hovedsageligt vedrørte andre personer end [Klager], hvilket ikke fremgik af dækningen, der gav det modsatte indtryk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- [Klager] blev ikke fyret fra sit job på [Kulturinstitutionen] på grund af beskyldninger om krænkelser på [Sangskolen], men på grund af Ekstra Bladets publicering af private emails og forkerte oplysninger herom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Lov om massemediers informationsdatabaser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at Pressenævnet anmodes om mere subsidiært at give påbud til den ansvarlige for informationsdatabasen om at bringe et genmæle vedrørende de urigtige og vildledende oplysninger i udsendelsen, idet Berlingske ikke i tilstrækkelig grad har dokumenteret deres påstande.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 Berlingskes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har overordnet anført, at mediet ikke har tilsidesat god presseskik i den påklagede podcastudsendelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har indledningsvist bemærket, at [Klager] i forbindelse med klagen for Pressenævnet har indsendt overdreven information til brug for nævnets behandling af sagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information og kildekritik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Afskedigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har bemærket, at mediet fortolker [Klager]s påstand i forhold til dette klagepunkt således, at [Klager] mener, det er fejlagtigt, når Berlingske i den påklagede podcast associerer ham med de andre omtalte danskere, der nu er ansat ved [Tv-stationen], og at Berlingske i udsendelsen har givet udtryk for, at [Klager] blev afskediget på baggrund af en advokatundersøgelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet ikke har udtalt, at en advokatundersøgelse var den eneste grund til [Klager]s afskedigelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som det fremgår af Berlingskes værts indledning – hvilket [Klager] også henviser til – blev han afskediget på baggrund af "anklager om seksuel chikane og krænkelser".</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor har Berlingske ikke, som [Klager] i sit indlæg for Pressenævnet har antydet, i sin podcast hævdet, at han blev afskediget udelukkende på grund af en advokatundersøgelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske påpeger i udsendelsen simpelthen, at sagens kerne drejer sig om seksuel chikane og krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette understøttes af [Klager], som anfører, at der i begge advokatundersøgelser blev identificeret forhold ved både [Koret] og [Sangskolen], der specifikt var anklager rettet mod [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Som det fremgår af Berlingskes svar af 18. april 2023 til [Klager], da han henvendte sig til Berlingske den 13. april 2023 vedrørende ‘Pilestræde’-podcasten, besluttede bestyrelsen for [Kulturinstitutionen] den 19. april 2022 at fritstille [Klager] med øjeblikkelig virkning.</Char>
+        </Linea>
+        <Linea>
+          <Char>I den forbindelse har Berlingske henvist til ordlyden af pressemeddelelsen fra [Kulturinstitutionen]s bestyrelsesformand, som er citeret ovenfor under [Klager]s synspunkter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Formuleringerne i pressemeddelelsen fik flere medier, herunder Berlingske, til at skrive, at fyringen skete efter (historierne om/kritik af) krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske har henvist til artiklerne ”</Char>
+          <Char formaChar="Italic">[Klager] bliver fyret fra [Kulturinstitutionen] efter krænkelsessager”,</Char>
+          <Char> bragt den 19. april 2022 på b.dk, ”</Char>
+          <Char formaChar="Italic">[Klager] fyret fra [Kulturinstitutionen] efter historier om krænkelser og upassende opførsel</Char>
+          <Char>”, bragt den 19. april 2022 på dr.dk, samt ”</Char>
+          <Char formaChar="Italic">[Klager] er blevet fyret</Char>
+          <Char>”, bragt den 19. april 2022 på politiken.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Da vært [Værten]s formulering ligger i tråd med det, finder Berlingske ikke kritikken og klagen berettiget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har desuden anført, at Den Danske Ordbog definerer ordet “anklage” som en 1) “påstand om at nogen har gjort noget forkert og 1A) JURA en “beskyldning som fremsættes for en domstol ved udfærdigelse af anklageskrift”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske anvender ikke ordet i sammenhæng med en afgørelse ved en domstol, men som påstande fremført af tidligere kolleger mod [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Omtale af advokatundersøgelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet forstår [Klager]s klagepunkt således, at han mener, Berlingske har fremstillet det, som om afskedigelsen er sket på baggrund af et objektivt kriterium.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har bemærket, at mediet fastholder udtalelsen fra Berlingskes vært, der specificerer, at [Klager] blev afskediget på grund af "sagerne om krænkelser".</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er ikke baseret på ét enkelt objektivt forhold, men snarere er det kombinationen af advokatundersøgelser, retssager og beskeder (uanset om disse kan betragtes som private), der har ført til, at [Kulturinstitutionen]s bestyrelse besluttede at afskedige [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Advokatundersøgelsen fra [Koret] konkluderer følgende blandt andet om den tidsperiode, hvor [Klager] har været leder: “Der har været “udvist adfærd, "som må anses for at kunne kvalificeres som krænkende adfærd i form af seksuel chikane – herunder seksuel opmærksomhed".</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] bekræftede efterfølgende, at tre af de 64 indberetninger vedrører ham – selv om han bestrider dem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Advokatundersøgelsen fra [Sangskolen] konkluderer, at “Flere af pigerne i [Sangskolekoret] oplevede f.eks. uønskede berøringer, kys og kærtegn, sjofle vittigheder, grænseoverskridende handlinger og opfordring til sex.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var eksempler på lærere, der ikke holdt passende afstand til eller som direkte “lagde an” på elever, og der forekom også kærlighedsforhold mellem lærere og elever.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den efterfølgende mediedækning kom det frem, at én af sagerne drejede sig om [Klager]s forhold til en elev, samt at han skulle have lagt en hånd på en piges lår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uagtet om man måtte betragte en advokatundersøgelse som et partsindlæg eller ej – og uagtet om [Klager] bestrider beskyldningerne – er der intet faktuelt forkert i at referere undersøgelsernes indhold og konklusioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske påstår ikke, at [Klager] er anklaget eller dømt for noget i juridisk forstand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske har bemærket, at mediet beskriver en række fremlagte påstande samt konklusionerne i to advokatundersøgelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om klagen over, at værten bruger ordet ”fastslog”, har Berlingske bemærket, at ordet “fastslå” ifølge Den Danske Ordbog benyttes i en række sammenhænge:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- sige eller hævde som en kendsgerning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- bestemme eller påvise ud fra en undersøgelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- beslutte eller afgøre efter en afvejning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- præcisere og klart understrege som gældende</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet anser det for legitimt at benytte ordet “fastslå” om rapporternes konklusioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da det flere steder fremgår, at der er tale om anklager mod [Klager], ikke domme, og fordi vært [Værten] fremhæver, at fyringen fra [Kulturinstitutionen] sker “i forlængelse af sagerne om seksuelle krænkelser i [Koret]”, finder Berlingske ikke kritikken berettiget.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som nævnt ovenfor fremhæver [Kulturinstitutionen] selv, at “det seneste års negative opmærksomhed på hans person har haft stor betydning for forretningen og medarbejderne”, og “at tilliden til [Klager] er opbrugt”.</Char>
+        </Linea>
+        <Linea>
+          <Char>” Berlingske står ved dette svar og mener ikke, at kritikken og klagen er berettiget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår klagen over, at værten anser de ikke-uvildige advokatundersøgelser som udtryk for en objektiv sandhed, har Berlingske bemærket, at mediet ikke er enig i [Klager]s påstand.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingskes vært fører blot en almindelig journalistisk dialog med en gæst, hvor der stilles spørgsmål, der dækker sagens kerne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan i denne sammenhæng ikke være relevant, hvad der udtales af juraprofessor [Professoren] til Berlingskes chefredaktør [Chefredaktøren] i en helt anden podcast nogle uger senere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Sexismeanklager</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har i relation til klagen over, at ordet ”sexisme” anvendes i forhold til [Klager], anført, at dette er alment brugt om sager vedrørende seksuelt krænkende adfærd fra en person og henvist til Den Store Danskes fortolkning af ordet sexisme: “Ordet sexisme anvendes undertiden i den offentlige debat i en anden betydning, hvor det bliver synonymt med sexchikane og seksuelle krænkelser, omend sexisme i udgangspunktet ikke havde noget med sex og seksuelle overgreb at gøre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ordets nuværende brug i debatten er således blevet bredere i forhold til den oprindelige betydning.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>At Berlingskes vært siger “sexismesager”, er derfor at tolke som en sproglig benyttelse af ordets nuværende brugsmetode.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Anstændig opførsel og ofre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har i relation til dette klagepunkt indledningsvist anført, at Berlingske ønsker at fremhæve, at [Klager]s henvisning til en undersøgelse iværksat af [Kulturinstitutionen] bærer samme præjudikatværdi som den, [Klager] tillægger en advokatundersøgelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er derfor bemærkelsesværdigt, at [Klager] vælger at støtte sin påstand udelukkende på denne basis.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Desuden anser Berlingske det som en del af almindelig praksis ved interviews, at Berlingskes vært stiller spørgsmål i podcasten, hvilket giver gæsten mulighed for at ytre sig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske anser det for legitimt at spørge [Tv-stationen] og dets kommunikationsdirektør som medie og arbejdsplads, hvilke overvejelser de har gjort sig i forhold til at ansætte [Klager] med de påstande og anklager, der er belyst i flere advokatundersøgelser og i medierne, uanset at [Klager] bestrider dem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet finder det bekymrende, at [Klager] tilsyneladende tolker Berlingskes udsagn om ofrene for chikane således, at de personer, der er trådt frem i advokatundersøgelserne, skulle være ukorrekte og ikke uvildige ifølge [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske mener, at det stillede spørgsmål er i tråd med vidnesbyrdene fra flere personer, der er kommet frem med episoder, som de opfatter og føler som krænkende og sexistiske.</Char>
+        </Linea>
+        <Linea>
+          <Char>Selv om en advokatundersøgelse er bestilt af en part, er de givne udsagn stadig formidlet som faktuelle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værtens udtalelse udtrykker på ingen måde en vurdering, hverken negativ eller positiv, fra Berlingskes side af advokatundersøgelserne eller de personer, der er trådt frem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er snarere en beskrivelse af sagens omstændigheder, som objektivt belyses i podcasten, hvor gæsten frit kan svare på de stillede spørgsmål – spørgsmål, der omhandler adskillige personer og ikke kun [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Blakket fortid mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet ikke anser det som et brud på god presseskik, når Berlingskes vært henviser til velkendte omstændigheder i sine spørgsmål: At der er foretaget advokatundersøgelser, og at der er sendt beskeder, som retten har betegnet som krænkende – selv om retten betragter dem som private anliggender.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingskes vært udtaler sig ikke med en "dom", baseret på personlige holdninger om, hvad der er korrekt eller faktisk er sket, som [Klager] i klagen for Pressenævnet har antydet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingskes vært stiller et spørgsmål, der, givet sagens kontekst, er objektivt og journalistisk passende til en gæst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har bemærket, at mediet ikke insinuerer, at [Klager] ikke kan have nogen ansættelse eller opgaver på nogen arbejdsplads fremover.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men Berlingske anser det for legitimt at spørge til, hvilke overvejelser [Tv-stationen] har gjort sig som medie og arbejdsplads omkring at tildele [Klager] og en håndfuld andre værter med en betændt fortid, synlige og profilerede værtsroller på kanalens store sendeflade.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten bruger ikke ordet “skyldig” i juridisk forstand, men i sammenhæng med advokatundersøgelsens konklusioner og vidnesbyrd i medierne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I det fremhævede citat fra værten fremgår det, at han tager en række forbehold med sætninger som “en eller anden blakket fortid”, “eller i hvert fald er faldet i unåde, enten fordi de har gjort noget strafbart, eller fordi de har gjort sig skyldige i sexismeanklager, eller fordi en advokatundersøgelse har fundet, at de faktisk var skyldige i de anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså værter som på en eller anden måde har en betændt fortid.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bestyrelsen i [Kulturinstitutionen] valgte at fritstille [Klager] som følge af det seneste års negative opmærksomhed på hans person og skriver endvidere, at “tilliden til [Klager] er opbrugt”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed må det anses for rimeligt at omtale hans fortid som betændt eller blakket.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Opsummerende har Berlingske bemærket, at mediet anser det for at være legitimt at spørge [Tv-stationen] som medie og arbejdsplads, hvilke overvejelser de har gjort sig i forhold til at ansætte [Klager] med de anklager, han har imod sig, som belyst i advokatundersøgelserne og i medierne, uanset at [Klager] bestrider dem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at det igennem [Klager]s skrivelse til Pressenævnet og allerede i klagens indledning, problematiseres, at Berlingske ikke har forelagt de passager fra podcasten ”Pilestræde”, der klages over, for [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske har i den forbindelse bemærket, at det helt overordnet, og på tværs af de enkelte klagepunkter, er afgørende at slå fast, at [Klager] ikke er den kritiserede part i den pågældende podcast, og at forelæggelse derfor efter Berlingskes vurdering på ingen måde var påkrævet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den kritiserede part i udsendelsen er derimod kanalen [Tv-stationen] og dens kommunikationsdirektør [Kommunikationsdirektøren], som også er personen, der interviewes i studiet i overensstemmelse med konceptet for “Pilestræde”-podcasten, der som oftest indeholder et kritisk interview med en enkelt hovedperson.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uagtet at afsættet til det kritiske interview med [Tv-stationen] er ansættelsen af [Klager] på kanalen, så handler den kritiske journalistiske vinkel om [Tv-stationen]s tilsyneladende systematik med at ansætte værter og medarbejdere, der har en fortid med sexisme-anklager eller andre sager, der har belastet deres navn i offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er en kendsgerning, at [Klager] – sammen med de øvrige nævnte ansatte på [Tv-stationen] – har haft sådanne sager i sin fortid, hvorfor værten af naturlige grunde i sit kritiske interview med kommunikationsdirektøren for [Tv-stationen] er nødt til at referere tilbage til disse sager, herunder dem, der angår [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har bestridt, at der i udsendelsen udtrykkes faktuelle fejl eller grove beskyldninger, der burde have krævet forelæggelse for [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Værten refererer alene til oplysninger, der allerede er kendt af en bred offentlighed, og som det er nødvendigt at nævne, så lytterne forstår den kritiske ramme for interviewet med [Tv-stationen]-kommuniksationsdirektøren.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Berigtigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at udsendelsen ikke indeholder oplysninger, som der er grundlag for at berigtige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Genmæle</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Medieansvarsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har anført, at mediet ikke anser kravet om genmæle for at være berettiget, da [Klager] ikke er kritiseret part, eftersom Berlingskes vært på ‘Pilestræde’-podcasten alene refererer til faktuelle oplysninger om [Klager]s sager, der allerede har været formidlet i offentligheden talrige gange i mange medier, og da [Klager] kun er én af flere personer, der er omtalt i podcasten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Berlingske mener ikke at have bragt falske oplysninger, som beskrevet af [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Podcasten er ikke udelukkende fokuseret på [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Hans sag er blot én blandt flere, der bliver berørt i podcasten, og den behandles på samme niveau som de øvrige personers sager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berlingske har bemærket, at det derfor er vigtigt at gøre Pressenævnet opmærksom på, at [Klager] kun i klagen for nævnet har udvalgt de dele af podcasten, som han finder relevante for sin egen sag, og at Berlingske finder det bekymrende, at [Klager] præsenterer det, som om hele podcasten udelukkende handler om ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er simpelthen ikke korrekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Podcastens ærinde er som nævnt at spørge kritisk ind til stationen [Tv-stationen]s ansættelsespolitik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er dermed [Tv-stationen], som er kritiseret part, og som derfor er inviteret i studiet for at svare på kritikken.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Lov om massemediers informationsdatabaser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Berlingske har ikke selvstændigt kommenteret dette klagepunkt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Karl Erik Stougaard, Lene Sarup og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Kompetence</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at det følger af medieansvarslovens § 43, at nævnet træffer afgørelse i sager om, hvorvidt der er sket offentliggørelse i strid med god presseskik, jf. § 34, og hvorvidt et massemedie efter reglerne i lovens kapitel 6 er forpligtet til at offentliggøre et genmæle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Spørgsmål om, hvorvidt der er sket overtrædelse af straffelovens bestemmelser om ærekrænkelser hører under domstolene og falder uden for nævnets kompetence.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information, kildekritik og vinkling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at udsendelsen indeholder en række ukorrekte oplysninger, og at udsendelsen baserer sig på forkerte præmisser.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har desuden klaget over, at der ikke er udvist den fornødne kildekritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der gives eller gengives er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kritik bør udvises over for nyhedskilderne, i særdeleshed når disse udsagn kan være farvet af personlig interesse eller skadevoldende hensigt, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1. og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker generelt, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe de indholdsmæssige krav til den bragte information iagttages</Char>
+          <Char formaChar="Bold">.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet behandler i det følgende de oplysninger, som [Klager] har anført, er ukorrekte.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Afskedigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at det af podcastudsendelsens introduktion fremgår, at han blev afskediget fra [Kulturinstitutionen] på baggrund af ”anklager om seksuel chikane og krænkelser”, idet dette er ukorrekt.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har navnlig henvist til, at afskedigelsen skyldtes Ekstra Bladets offentliggørelse den 14. april 2022 af to private mails, og at det således ikke skete på baggrund af anklager om seksuel chikane og krænkelser, herunder de to omtalte advokatundersøgelser om [Koret] og [Sangskolen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af udsendelsen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Vært:</Char>
+          <Char> Måske ringer der en klokke, når du hører de her navne.</Char>
+        </Linea>
+        <Linea>
+          <Char>De har alle sammen noget tilfælles: [Journalist A], [Politikeren], [Forskeren], [Journalist B] – og [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Alle de her kendte danskere er på et tidspunkt faldet i unåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Politikeren] blev idømt 60 dages fængsel af Rigsretten, hjerneforskeren [Forskeren] blev dømt for dokumentfalsk og frataget sin doktorgrad, og [Journalist A], [Journalist B] og [Klager] mistede alle deres job efter anklager om seksuel chikane og krænkelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men de kendte her har også noget andet tilfælles: De blev alle ansat på tv-kanalen [Tv-stationen] efter deres fald fra tinderne.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Der klippes herefter til forskellige korte sekvenser fra programmer på [Tv-stationen] med flere af de ovenfor nævnte personer, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet lægger til grund, at [Klager] den 19. april 2022 blev afskediget fra sin stilling som direktør i [Kulturinstitutionen], og at bestyrelsesformanden for [Kulturinstitutionen] i den forbindelse i en pressemeddelelse udtalte følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Bestyrelsen har besluttet at fritstille [Klager] fra sin kontrakt med [Kulturinstitutionen] med øjeblikkelig virkning.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har under sin tid som chef været en stærk, positiv kraft i huset, men det seneste års negative opmærksomhed på hans person har haft stor betydning for forretningen og medarbejderne,” og ”Bestyrelsen konstaterer, at tilliden til [Klager] er opbrugt og mener, at der er behov for en ny leder til [Kulturinstitutionen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestyrelsen er enig i dens beslutning, men beklager samtidig dybt, at denne beslutning var nødvendig.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagens oplysninger, at Politiken i juni 2021 bragte omtale af, at 12 tidligere navngivne [Korsangere] kritiserede et ”seksualiseret og grænseoverskridende miljø” i [Koret] under [Klager]s tid som chefdirigent fra 2001 til 2010.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af sagens oplysninger lægger Pressenævnet til grund, at [Klager] indgik i advokatundersøgelsen vedrørende [Koret] om krænkende adfærd såvel som advokatundersøgelsen om krænkende adfærd på [Sangskolen], der påkaldte sig særdeles stor opmærksomhed i offentligheden, og at [Klager]s rolle i forbindelse med disse advokatundersøgelser har været genstand for massiv mediedækning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Samtidig bemærker Pressenævnet, at de forhold med relation til [Klager], der er fremkommet på baggrund af advokatundersøgelserne, efter det oplyste ikke udgjorde størstedelen af de krænkelser, der blev afdækket i undersøgelserne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet har ikke mulighed for at vurdere, i hvilket omfang [Klager] har indgået i de to advokatundersøgelser, idet de alene er offentliggjort i anonymiseret form.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ubestridt, at [Klager] i et vist omfang har været en del af begge advokatundersøgelser, selv om [Klager] bestrider de konkrete hændelser og konklusioner om kulturen, som har været omtalt i offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold"></Char>
+          <Char>[Klager] har anført, at det ikke er korrekt, at advokatundersøgelserne om [Sangskolen] og [Koret] har slået fast, at han har stået bag seksuel chikane og et seksualiseret miljø på sangskolen [Sangskolen] og i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>Han har henvist til, at han derimod har haft en begrænset rolle i de to undersøgelser, og at Berlingske således ikke har grundlag for at konkludere ovenstående.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet finder for så vidt angår udsendelsens omtale af baggrunden for [Klager]s afskedigelse fra [Kulturinstitutionen] efter en samlet vurdering, at denne har dækning i den pressemeddelelse, som [Kulturinstitutionen] udsendte den 19. april 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udsendelsens omtale må derfor anses for at have tilstrækkelig dækning i de faktiske forhold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har i den forbindelse lagt vægt på, at [Klager] på tidspunktet for afskedigelsen fra [Kulturinstitutionen] i en længere periode havde været genstand for kritisk omtale, herunder påstande om krænkende adfærd og en seksualiseret kultur, og at [Kulturinstitutionen]s bestyrelse i pressemeddelelsen peger på ”det seneste års negative opmærksomhed på hans person.</Char>
+        </Linea>
+        <Linea>
+          <Char>” Nævnet bemærker, at gæsten [Kommunikationsdirektøren] i den påklagede udsendelse over for værten nævner, at [Klager] blev afskediget på baggrund af de mailkorrespondancer, som Ekstra Bladet bragte i april 2022</Char>
+          <Char formaChar="Bold">.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Omtale af advokatundersøgelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at det er ukorrekt, når det af udsendelsen fremgår, at to meget omtalte advokatundersøgelser fastslår, at han stod bag seksuel chikane og et seksualiseret miljø i [Koret] og på [Sangskolen],</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>samt at han blev fyret fra [Kulturinstitutionen] i forlængelse af sagerne om seksuelle krænkelser i [Koret].</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har blandt andet henvist til, at værtens udtalelser viser, at han anser de ikke-uvildige advokatundersøgelser som udtryk for en objektiv sandhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af udsendelsen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> De vil måske sige, prøv at høre her</Char>
+          <Char formaChar="Italic">:</Char>
+          <Char> ”To meget omtalte advokatundersøgelser fastslår, at [Klager] stod bag seksuel chikane og et seksualiseret miljø i [Koret] og tidligere på [Sangskolen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Han blev sidste år fyret fra [Kulturinstitutionen] i forlængelse af sagerne om seksuelle krænkelser i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Nej, det er ikke rigtigt, det er ikke rigtigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Er det passende, tror jeg, de vil tænke, at han nu skal sidde der ved [Tv-stationen] klaveret som en anden [Komponisten] og få Danmark til at synge?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Altså folk må jo tænke, og i øvrigt tænde for fjernsynet, lige sådan som de vil.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi lever i et fuldstændig frit land i modsætning til nogen af de andre lande rundt om os.</Char>
+        </Linea>
+        <Linea>
+          <Char>Her må man gøre, som man vil, og hvis man synes, at det her er et problem, så skal man selvfølgelig klikke ind på et andet program.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg ser ikke noget problem i det, øhm på nogen måde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg kan godt se, at man kan problematisere det, og man kan få det til at fremstå som noget… altså som noget som, der i hvert fald ikke er positivt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men jeg synes, at det er ude af konteksten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Mm.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da jeg læste op undervejs, sagde du: Det er ikke rigtigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Ja.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvad er det, der ikke er rigtigt?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]: </Char>
+          <Char>Det, der ikke er rigtigt, er, at [Klager] blev opsagt fra sin stilling på [Kulturinstitutionen] på grund af en lækket mailkorrespondance, som der sidenhen er faldet dom for, at den var privat – det er da indlysende, at hans fortid og de advokatundersøgelser nok ikke har været en støtte for ham, men der er ikke nogen direkte sammenhæng mellem de to forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Godt – men du anerkender, at der var to advokatundersøgelser, der fastslog, at [Klager] stod bag seksuel chikane og seksualiseret miljø i [Koret]?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det har jeg ikke læst dem godt nok til at kunne indgå i en juridisk diskussion om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det, jeg kan forholde mig til, er, at der under [Klager]s forgænger og under [Klager]s regime er udtalt kritik, og at der er udbetalt erstatning til, så vidt jeg husker 28 kvinder, som alle sammen var i koret under den tidligere leder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke udbetalt erstatning til nogen af de piger, der har, eller kvinder, der har været i koret under [Klager]s regeringstid.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet henviser indledningsvist til de oplysninger om [Klager] og de foretagne advokatundersøgelser om krænkende adfærd vedrørende [Koret] og [Sangskolen], samt den beskrevne omtale i Politiken fra juni 2021, som nævnet har lagt til grund i klagepunktet ovenfor om afskedigelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder ikke grundlag for at kritisere den påklagede omtale af advokatundersøgelsernes konklusioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at det må anses for ubestridt, at [Klager]s adfærd og rolle som chefdirigent i [Koret] samt på [Sangskolen] har været genstand for kritisk omtale, og at flere tidligere sangere i [Koret] har kritiseret et seksualiseret og grænseoverskridende miljø under [Klager]s tid som chefdirigent for [Koret] i perioden 2001-2010.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har endvidere lagt vægt på, at Berlingskes brug af ordet ”fastslår/fastslog” fremstår som udtryk for Berlingskes gengivelse af advokatundersøgelsernes konklusioner, sådan som de har været omtalt i offentligheden og ikke som udtryk for et faktum</Char>
+          <Char formaChar="Bold">, </Char>
+          <Char>ligesom Berlingske flere gange i udsendelsen bemærker, at der er tale om ”anklager”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår endvidere af udsendelsen, at gæsten [Kommunikationsdirektøren] bemærker, at de tortgodtgørelser, som DR udbetalte til 28 kvinder på baggrund af advokatundersøgelsen, ikke vedrørte [Klager], ligesom [Kommunikationsdirektøren] i programmet også bemærker, at [Klager] ikke på noget tidspunkt har været anmeldt, sigtet, tiltalt eller dømt i forhold til de emner, som diskuteres i udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler på denne baggrund ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår klagen over oplysningen om, at [Klager] blev fyret fra [Kulturinstitutionen] i forlængelse af sagerne om seksuelle krænkelser i [Koret], henviser nævnet til begrundelsen ovenfor under klagepunktet om baggrunden for [Klager]s afskedigelse, og nævnet udtaler på denne baggrund ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Sexismeanklager</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at det fremgår af udsendelsen, at han er anklaget for sexisme, hvilket ikke er korrekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af udsendelsen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Da I havde ham inde til ansættelsessamtaler, talte I med ham om sexismesagerne?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Nej, for jeg vil gerne anerkende, at I også har en masse andre værter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men jeg vil bare også gerne snakke med dig om, at for mig at se.</Char>
+        </Linea>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>er der et mønster i, at der er en gruppe af kendte mennesker og tidligere tv-værter, som ligesom fortsætter hos jer, efter at de har haft noget problematisk andre steder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ikke det samme som at sige, at det gælder på nogen måde alle jeres værter, men det jeg gerne… det, jeg er nysgerrig på, det er, er der en… hvad skal jeg sige… er der en tanke bag?</Char>
+        </Linea>
+        <Linea>
+          <Char>[Journalist B], [Journalist A] … og nu [Klager] sidder hos jer efter de ligesom er… hvad skal man sige…, er faldet i unåde efter de her sexismeanklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder ikke grundlag for at udtale kritik af den påklagede omtale vedrørende sexismeanklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at det må anses for ubestridt, at [Klager]s adfærd og rolle som chefdirigent i [Koret] samt på [Sangskolen] har været genstand for kritisk omtale, og at flere tidligere sangere i [Koret] har kritiseret et seksualiseret og grænseoverskridende miljø under [Klager]s tid som chefdirigent for [Koret] i perioden 2001-2010.</Char>
+        </Linea>
+        <Linea>
+          <Char>På denne baggrund finder Pressenævnet, at omtalen må anses for at have tilstrækkelig dækning i de faktiske forhold, idet nævnet bemærker, at brugen af ordet ”anklage” sprogligt kan forstås som en påstand om, at nogen har gjort noget forkert.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Anstændig opførsel og ofre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at der ikke er grundlag for at skabe en præmis om, at man ville kunne forvente, at han vil opføre sig upassende på en arbejdsplads, sådan som det gøres i den påklagede podcastudsendelse, og at værtens spørgsmål opstiller en præmis om, at beskyldningerne mod [Klager] er korrekte, og at han er fundet skyldig i seksuelle krænkelser og handlinger, eller at de objektivt set har fundet sted.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af udsendelsen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">”Vært:</Char>
+          <Char> Har I gennemgået, altså har I snakket med [Klager] om det?</Char>
+        </Linea>
+        <Linea>
+          <Char>Har I snakket med ham om den her personalepolitik om anstændig opførsel…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Nej, naturligvis har vi ikke det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvorfor har I ikke det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Han er en voksen mand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, det var han også, da han var chefdirigent i [Koret].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Det mener jeg ligger helt udenfor, hvad der er nødvendigt i den her sammenhæng.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså, vi beder ham om at arbejde på en arbejdsplads, hvor der er udelukkende voksne mennesker.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært</Char>
+          <Char>: Grunden til, at jeg spørger dig, er jo netop fordi, at det er en arbejdsplads.</Char>
+        </Linea>
+        <Linea>
+          <Char>I har jo et hensyn til jeres ansatte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu ansætter I en mand, som er anklaget for sexisme og seksuelle krænkelser… er det ikke altafgørende på en eller anden måde at afklare, at han har forstået det, når man ansætter ham?</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså har forstået, at der er en grænse?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Vi har ingen problemer med, at [Journalist A] og [Journalist B] og [Klager] er på vores sendeflade.</Char>
+        </Linea>
+        <Linea>
+          <Char>De er hver især dygtige kapaciteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi har ansat dem til at lave henholdsvis journalistik og musik, og det gør de fremragende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og det har vi ingen problemer med at stille os bag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi er glade for, at [Klager] spiller smukt, og han har dygtige solister, som synger rent og pænt, så man kan synge med derhjemme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Hvilket budskab synes du, at det sender til ofrene for den chikane, for den seksualiserede adfærd, der har været på de arbejdspladser, de har været på?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Det er jeg ikke i tvivl om, at man kan vende til, at det er et meget dårligt signal, der bliver sendt her.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øhm, men jeg tror faktisk, at alle er ofre i den her sag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Også [Klager], hvis det nu er ham vi skal tale om.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og derfor er det… jeg synes det en menneskeret…”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet henviser indledningsvist til de oplysninger om [Klager] og de foretagne advokatundersøgelser om krænkende adfærd vedrørende [Koret] og [Sangskolen], samt den beskrevne omtale i Politiken fra juni 2021, som nævnet har lagt til grund i klagepunktet ovenfor om afskedigelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at Berlingske ikke ved de påklagede spørgsmål til gæsten [Kommunikationsdirektøren] har overskredet rammerne for redigering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at det må anses for ubestridt, at [Klager]s adfærd og rolle som chefdirigent i [Koret] samt på [Sangskolen] har været genstand for kritisk omtale, og at flere tidligere sangere i [Koret] har kritiseret et seksualiseret og grænseoverskridende miljø under [Klager]s tid som chefdirigent for [Koret] i perioden 2001-2010.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har endvidere lagt vægt på, at brugen af ordet ”ofre” må anses som Berlingskes subjektive vurdering af de beretninger, som har været fremme i offentligheden, ligesom spørgsmålet ikke alene refererer til [Klager], men også de to øvrige personer, som er omtalt umiddelbart forinden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at [Kommunikationsdirektøren] i programmet også nævner, at [Klager] ikke på noget tidspunkt har været anmeldt, sigtet, tiltalt eller dømt i forhold til de emner, som diskuteres i udsendelsen</Char>
+          <Char formaChar="Bold">.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler på denne baggrund ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Blakket fortid mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at værtens udtalelser meget tydeligt udtrykker, at han opfatter, at der er fældet dom over [Klager], samt at der er personer, der er blevet krænket af [Klager], og at det derfor vil være naturligt at finde det meget stødende, at [Klager] har fået arbejde på [Tv-stationen], hvilket er ukorrekt og krænkende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af udsendelsen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]</Char>
+          <Char>: Så vi er oppe i nærheden af knap 50 studieværter, som har deres daglige gang på [Tv-stationen]’s sendeflade.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og ud af dem er der en to-tre stykker, som tiltrækker sig alle mediernes opmærksomhed, og det synes jeg er en skævvridning, og jeg synes også, at det er tarveligt over for de andre studieværter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> ”Skal vi ikke så efterlade det hos lytterne, at I har en lang række af værter og en lille andel af dem – en lille gruppe af dem…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Kommunikationsdirektøren]:</Char>
+          <Char> Seks procent – jeg har regnet på det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vært:</Char>
+          <Char> Ja, men så er der også nogen af dem, der har været der tidligere, som ikke er der længere, men der er i hvert fald en håndfuld eller deromkring af værter, som I har ansat, [der] har en eller anden blakket fortid eller i hvert fald er faldet i unåde, enten fordi de har gjort noget strafbart, eller fordi de har gjort sig skyldige i sexismeanklager, eller fordi en advokatundersøgelse har fundet, at de faktisk var skyldige i de anklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Altså værter, som på en eller anden måde har en betændt fortid.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vel okay at sige?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet henviser indledningsvist til de oplysninger om [Klager] og de foretagne advokatundersøgelser om krænkende adfærd vedrørende [Koret] og [Sangskolen], samt den beskrevne omtale i Politiken fra juni 2021, som nævnet har lagt til grund i klagepunktet ovenfor om afskedigelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder ikke grundlag for at kritisere den påklagede omtale af advokatundersøgelsernes konklusioner, herunder værtens spørgsmål til gæsten [Kommunikationsdirektøren], som nævnet finder ikke har overskredet rammerne for redigering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at det må anses for ubestridt, at [Klager]s adfærd og rolle som chefdirigent i [Koret] samt på [Sangskolen] har været genstand for kritisk omtale, og at flere tidligere sangere i [Koret] har kritiseret et seksualiseret og grænseoverskridende miljø under [Klager]s tid som chefdirigent for [Koret] i perioden 2001-2010.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har endvidere lagt vægt på, at udtrykket ”blakket fortid” fremstår som udtryk for Berlingskes vurdering af advokatundersøgelsernes konklusioner, sådan som de har været omtalt i offentligheden, ligesom de fremkommer som led i et spørgsmål til gæsten [Kommunikationsdirektøren].</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår endvidere af udsendelsen, at gæsten [Kommunikationsdirektøren] bemærker, at de tortgodtgørelser, som DR udbetalte til 28 kvinder på baggrund af advokatundersøgelsen, ikke vedrørte [Klager].</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder brugen af ordet ”skyldig” uheldig, da det kan fremstå som udtryk for et faktum, og da det kan give et misvisende indtryk af karakteren af advokatundersøgelsernes konklusioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder imidlertid efter en samlet vurdering af den sammenhæng, hvor udtrykket anvendes, ikke fuldt tilstrækkeligt grundlag for at udtrykke kritik heraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker i den forbindelse, at [Kommunikationsdirektøren] i programmet anfører, at [Klager] ikke på noget tidspunkt har været anmeldt, sigtet, tiltalt eller dømt i forhold til de emner, som diskuteres i udsendelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler på denne baggrund ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Berlingske ikke har forelagt de ovennævnte oplysninger, som han finder skadelige, krænkende og agtelsesforringende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at oplysninger, som kan være skadelige, krænkende eller virke agtelsesforringende for nogen, skal efterprøves i særlig grad, inden de bringes, først og fremmest ved forelæggelse for den pågældende, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet finder, at de oplysninger, som er nævnt ovenfor under punktet om korrekt information, ikke kan anses for at være skadelige, krænkende eller virke agtelsesforringende for [Klager], hvorfor nævnet ikke finder grundlag for at kritisere Berlingske for ikke at have forelagt disse oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Berigtigelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Berlingske ikke har berigtiget de oplysninger, som han mener er ukorrekte.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at berigtigelse af urigtige meddelelser skal finde sted på redaktionens eget initiativ, hvis og så snart kendskab til fejl af betydning i de bragte meddelelser indgår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Berigtigelsen skal foretages i en sådan form, at læserne, lytterne eller seerne får klar mulighed for at blive opmærksom på berigtigelsen, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet lægger til grund, at der er tale om berigtigelse af de oplysninger, som er nævnt ovenfor under punktet om korrekt information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da Pressenævnet ikke har fundet grundlag for at kritisere de ovenfor påklagede oplysninger, finder nævnet ikke grundlag for at kritisere Berlingske for manglende berigtigelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Genmæle</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Medieansvarsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] anmodede ved henvendelse af 13. april 2023 med henvisning til medieansvarslovens § 36, § 37 og § 39 Berlingske om at bringe et genmæle over for de oplysninger, som [Klager] havde anført, var ukorrekte.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Anmodningen om genmæle af 13. april 2023 var ledsaget af følgende konkrete genmæletekst:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Berlingske bragte den 13. april i podcasten Pilestræde programmet ’De udstødtes kanal’ og en artikel på Berlingske.dk [Link], der indeholdt en række forkerte oplysninger om [Klager], og i øvrigt var opbygget på en præmis om, at [Klager] har udvist en adfærd, der betinger, at han ikke med rimelighed kan optræde eller søge ansættelse i nogen sammenhænge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er der ikke grundlag for, og Berlingske beklager.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Berlingske har afvist at bringe hans genmæletekst.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Klager] har henvist til, at følgende oplysninger i udsendelsen er af faktuel karakter og egnede til at påføre ham skade:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At [Klager] på baggrund af ikke-uvildige advokatundersøgelser skulle være fundet skyldig i seksuelle krænkelser og anklager om sexisme.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At [Klager] skulle være blevet fyret fra sit job på [Kulturinstitutionen] på grund af beskyldninger om krænkelser på [Sangskolen].</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>[Klager] blev ikke forelagt den fulde kritik frembragt i podcasten.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At de krænkelser, som de ikke-uvildige advokatundersøgelser af forhold i [Koret] og [Sangskolen] vurderede kunne have fundet sted, hovedsageligt vedrørte andre personer end [Klager], hvilket ikke fremgik af dækningen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har i klagen for Pressenævnet henvist til, at genmælet bør indeholde følgende oplysninger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Berlingske Media bragte den 13. april 2023 i podcasten Pilestræde et afsnit ”De udstødtes kanal” og en artikel på berlingske.dk, der indeholdt en række forkerte oplysninger om [Klager], og i øvrigt var opbygget på en præmis om, at [Klager] har udvist en adfærd, der betinger, at han ikke med rimelighed kan optræde eller søge ansættelse i nogen sammenhænge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette er der ikke grundlag for, idet nedenstående oplysninger fra [Klager] i stedet bringes her:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>- [Klager] er ikke blevet forelagt den fulde kritik frembragt i podcasten og i den tilhørende artikel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- At [Klager] ikke er fundet skyldig i seksuelle krænkelser og seksuelle anklager og sexisme og at advokatundersøgeler er partsindlæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- At de krænkelser, som de ikke-uvildige advokatundersøgelser af forhold i [Koret] og [Sangskolen] vurderede kunne have fundet sted, hovedsageligt vedrørte andre personer end [Klager], hvilket ikke fremgik af dækningen, der gav det modsatte indtryk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- [Klager] blev ikke fyret fra sit job på [Kulturinstitutionen] på grund af beskyldninger om krænkelser på [Sangskolen], men på grund af Ekstra Bladets publicering af private mails og forkerte oplysninger herom.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af medieansvarslovens § 36, stk. 1, at en anmodning om genmæle i massemedierne over for oplysninger af faktisk karakter, som er egnet til at påføre nogen økonomisk eller anden skade af betydning, og som er bragt i et massemedie, skal tages til følge, medmindre oplysningernes rigtighed er utvivlsom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger videre af medieansvarslovens § 39, at genmælet skal offentliggøres vederlagsfrit og uden unødig forsinkelse og bringes på en så fremtrædende måde, som det efter omstændighederne med rimelighed kan forlanges.</Char>
+        </Linea>
+        <Linea>
+          <Char>Redaktionelle bemærkninger i umiddelbar tilslutning til offentliggørelsen skal indskrænkes til faktiske oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet finder, at genmælepunkterne om, at advokatundersøgelser har fundet [Klager] ”skyldig” i seksuelle krænkelser og anklager om sexisme, og at [Klager] blev fyret fra sit job på [Kulturinstitutionen] på grund af beskyldninger om krænkelser på [Sangskolen], ikke er gengivet ordret i udsendelsen som anført af klager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder, at den omtale, der relaterer sig til de oplysninger, der er anmodet om genmæle om, må anses som udtryk for programværtens sammenfattende subjektive vurdering i forhold til omstændighederne vedrørende [Klager]s rolle i forhold til advokatundersøgelserne om [Koret] og [Sangskolen] og omstændighederne ved hans fratræden fra [Kulturinstitutionen].</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at gæsten [Kommunikationsdirektøren] i den påklagede udsendelse over for værten nævner, at [Klager] blev afskediget på baggrund af de mailkorrespondancer, som Ekstra Bladet bragte i april 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er på denne baggrund ikke grundlag for genmæle heroverfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvad angår genmæleanmodningen om forelæggelse samt det forhold, at advokatundersøgelserne vedrørende [Koret] og [Sangskolen] primært vedrørte andre personer end [Klager], finder nævnet, at der er tale om oplysninger, som ikke fremgår af den påklagede udsendelse, hvorfor der ikke er grundlag for at give [Klager] genmæle.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">-Lov om massemediers informationsdatabaser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at han mere subsidiært anmoder om, at Pressenævnet pålægger Berlingske at bringe et genmæle efter lov om massemediers informationsdatabaser over for de urigtige og vildledende oplysninger, som fremgår ovenfor under klagen over ukorrekte oplysninger samt punktet om genmæle efter medieansvarsloven.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker indledningsvist, at Berlingske den 16. september 2010 anmeldte siden berlingske.dk til Pressenævnet, og at berlingske.dk ligeledes er anmeldt til Datatilsynet i medfør af § 6, stk. 1, i lov om massemediers informationsdatabaser som en offentligt tilgængelig informationsdatabase.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bestemmelsen i § 9 i lov om massemediers informationsdatabaser har følgende ordlyd:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>§ 9.</Char>
+        </Linea>
+        <Linea>
+          <Char>I informationsdatabaser, der er offentligt tilgængelige, skal der efter anmodning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>fra den, informationerne angår, foretages sletning, rettelse eller ajourføring, når</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1) informationerne er urigtige eller vildledende,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2) en tidligere omtalt retsafgørelse eller</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>administrativ afgørelse er blevet ændret eller</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3) strafforfølgning i en tidligere omtalt sag opgives,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>eller når der i en sådan sag sker frifindelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af lovens § 10 fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>§ 10.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den, oplysningerne vedrører, eller efter dennes død de nærmeste pårørende</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>kan i stedet for at fremsætte anmodning om sletning, rettelse eller ajourføring tage</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>til genmæle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestemmelserne i medieansvarslovens kapitel 6 om genmæle finder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>tilsvarende anvendelse, jf. dog stk. 2-4 og § 12, stk. 2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>De pligter, der efter medieansvarslovens bestemmelser om genmæle påhviler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>redaktøren, påhviler efter denne lov den ansvarlige for informationsdatabasen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Anmodning om genmæle kan fremsættes, så længe de oplysninger, der</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>ønskes imødegået, befinder sig i informationsdatabasen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Genmæle offentliggøres i den informationsdatabase, hvori de oplysninger,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>der begrunder genmælet, er bragt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Er de oplysninger, der begrunder genmælet,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>forinden slettet, berigtiget eller ajourført, bortfalder pligten til at offentliggøre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>genmælet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Endvidere fremgår af lovens § 13:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>§ 13.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet kan efter anmodning give påbud om, at der foretages sletning af</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>informationer, der strider mod bestemmelserne i § 8, stk. 2-4.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet kan efter anmodning give påbud om, at der optages et genmæle</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>i en offentligt tilgængelig informationsdatabase, herunder fastsætte genmælets</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>indhold, form og placering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestemmelserne i medieansvarslovens § 42, § 43, stk. 2 og 3, § 44, stk. 1, §§</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>45-48 og § 52, stk. 3, finder tilsvarende anvendelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagens oplysninger, at [Klager] efter det oplyste ikke forud for klagen til Pressenævnet havde anmodet den ansvarlige for informationsdatabasen om et genmæle efter lov om massemediers informationsdatabaser, ligesom den ansvarlige for informationsdatabasen ikke i sit indlæg for Pressenævnet har forholdt sig til denne anmodning.</Char>
+        </Linea>
+        <Linea>
+          <Char>På denne baggrund finder Pressenævnet ikke grundlag for at behandle dette klagepunkt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sletning – punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">8</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at Berlingske har afvist at slette de dele af udsendelsen, som han har anført, indeholder ukorrekte oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Generelt om punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">8</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at meddelelser, som er offentliggjort i digitale medier, ofte vil være tilgængelige længe efter, at de er publiceret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter anmodning til mediet kan tilgængeligheden af sådanne tidligere offentliggjorte, følsomme eller private oplysninger hindres, i det omfang det er muligt og skønnes rimeligt, jf. punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char>8.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Medier kan afindeksere, dvs. ændre instruksen til søgemaskiner, så søgemaskiner ophører med at henvise til artiklen, anonymisere, dvs. ændre i artikelteksten så eksempelvis et personnavn anonymiseres, eller helt afpublicere en artikel, dvs. fjerne artiklen fra hjemmesiden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er nævnets opfattelse, at anvendelse af punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char>8 i de vejledende regler og muligheden for at meddele et medie kritik for ikke at imødekomme en anmodning om afindeksering, anonymisering eller afpublicering som udgangspunkt kun bør anvendes, når der er tale om oplysninger, som er særligt belastende for den person, der er omtalt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den konkrete sag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Den påklagede podcastudsendelse indeholder kritisk omtale af [Klager] i forbindelse med hans ansættelse som vært på tv-kanalen [Tv-stationen].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er Pressenævnets opfattelse, at omtalen, der relaterer sig til [Klager]s erhvervsmæssige forhold, må anses for belastende for ham.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er imidlertid nævnets opfattelse, at der ikke er tale om private oplysninger eller oplysninger af en sådan karakter, at det i sig selv taler for sletning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er desuden nævnets opfattelse, at omtalen fortsat kan anses at have en vis almen interesse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har i den forbindelse lagt vægt på, at [Klager] har indtaget en offentlig rolle i samfundet, og at hans rolle som dirigent for [Koret] og [Sangskolen] i lyset af advokatundersøgelserne af [Koret] og [Sangskolen] har været forhold, som har påkaldt sig stor offentlig interesse, og at der er tale om dækning af et emne, der har en vis offentlig interesse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter en samlet afvejning finder nævnet herefter, at der ikke er tungtvejende grunde, der taler for, at indholdet af udsendelsen er af en sådan karakter, at det skønnes rimeligt at hindre tilgængeligheden heraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler på denne baggrund ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

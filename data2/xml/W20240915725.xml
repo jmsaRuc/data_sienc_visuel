@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idfa917cb6-8c3a-4592-8896-5c9ddb6e5db6" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id525c3c47-ef4d-4779-ad45-49a39efa7fa8">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240915725</AccessionNumber>
+    <DocumentId>AA014144</DocumentId>
+    <UniqueDocumentId>242538</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-08306</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>9157</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-08306</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idc149da5f-02f5-4ba5-998f-2996cbf07e9a">
+    <Titel id="idf59784ed-75fa-4a63-9d1c-26cab9e49d29">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-08306</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id945b8eb7-a422-46a6-b168-d39c2ce537d1">
+    <Resume id="id40cfc0e1-d437-43ee-8b0a-3df3065cf082">
+      <Exitus>
+        <Linea>
+          <Char>Ikke kritik af Vejle Amts Folkeblad for at bringe oplysninger fra politiet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I oktober 2023 bragte Vejle Amts Folkeblad en artikel med oplysninger fra Sydøstjyllands politi om en familie.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et familiemedlem klagede til Pressenævnet over, at artiklen indeholdt ukorrekte oplysninger, som ikke var efterprøvet tilstrækkeligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet fandt ikke grundlag for at udtale kritik og lagde blandt andet vægt på, at det klart fremgik, hvor oplysningerne stammede fra, og at klageren var både forelagt disse og kommet til orde i artiklen.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id88867a22-6f96-4944-aeaf-e672497d1d41">
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget til Pressenævnet over artiklen ”</Char>
+          <Char formaChar="Italic">Vejle Amts Folkeblad kan nu fortælle politiets forklaring på, hvorfor [Person 1] forsvandt: ’Han blev holdt skjult – familien planlagde det’</Char>
+          <Char>”, bragt den 30. oktober 2023, idet han mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklen indeholder ukorrekte oplysninger, som ikke er blevet efterprøvet tilstrækkeligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Påklaget artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad bragte den 30. oktober 2023 artiklen ”</Char>
+          <Char formaChar="Italic">Vejle Amts Folkeblad kan nu fortælle politiets forklaring på, hvorfor [Person 1] forsvandt: ’Han blev holdt skjult – familien planlagde det’</Char>
+          <Char>” på vafo.dk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er øverst i artiklen indsat to portrætbilleder af [Person 1] fra efter og før hans forsvinden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår ”Nu oplyser politiet om [Person 1]-sagen”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklens underrubrik fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Vejle Amts Folkeblad har i månedsvis forsøgt at få Sydøstjyllands Politi til at fortælle, hvorfor de ikke har været bekymret for [Person 1], der har været efterlyst i et halvandet år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nu svarer politiet og kommer med flere konkrete afsløringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn]: 17-årige [Person 1] blev i sidste uge genforenet med sin familie i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi har hele tiden – under hans forsvinden – meldt ud, at politiet har haft grund til at tro, at [Person 1] var i god behold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dog uden at uddybe hvorfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Mandag åbnede Sydøstjyllands Politi op om efterlysningssagen over for Vejle Amts Folkeblad, der havde stillet otte konkrete spørgsmål til sagen om [Person 1]s forsvinden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Kommunikationschefen], kommunikationschef, fortæller i en mail til avisen, at politiet tidligere har modtaget oplysninger om, at [Person 1]s familie har været i kontakt med ham under hans forsvinden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Familien har ellers gentagne gange over for Vejle Amts Folkeblad benægtet dette.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 26. april 2022 oplysninger om, at [Person 1] blev holdt skjult på en ukendt adresse, at hans mor havde kontakt med ham, samt at grunden til, at [Person 1] blev holdt skjult, var, at familien var bange for, at [Kommunen] ville tvangsfjerne ham, ligesom et familiemedlem ønskede at skade politiets omdømme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi rettede den 27. april 2022 på ny henvendelse til [Kommunen]s familierådgivning med henblik på at høre, om kommunen havde nye oplysninger af betydning for sagen, idet politiet vurderede, at samarbejdet med familien var anstrengt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen oplyste i den forbindelse bl.a., at kommunen havde modtaget flere bekymringer omkring børnene i familien, skriver [Kommunikationschefen] til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Telefonisk korrespondance med [Person 1]?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi efterlyste [Person 1] i Schengenlandene den 19. maj 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 13. oktober 2022 oplysninger om, at det ovenfor nævnte familiemedlem skjulte [Person 1] i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 7. marts 2023 oplysninger om, at der i [Bynavn] spredtes et rygte om, at [Person 1] opholdt sig uden for Danmark, samt at familien havde flyttet ham til Syrien.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Ultimo marts 2023 rettede en kvinde henvendelse til Sydøstjyllands Politi.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kvinden oplyste i den forbindelse, at hendes barn havde fortalt, at barnet ”sidst på året 2022” var gået forbi en gruppe på skolen, der via en telefon havde haft korrespondance med [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Kvinden oplyste endvidere, at det var almindeligt kendt blandt eleverne på skolen, at [Person 1] har det godt, ligesom det var almindelig kendt, at han opholder sig i Tyskland.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Person 1]s familie har i forbindelse med behandlingen af sagen oplyst til politiet, at de ikke har forbindelser i Tyskland.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi vurderede på den baggrund – og henset til oplysningernes ukonkrete karakter – at der ikke var relevante efterforskningsmuligheder, der kunne verificere oplysningerne, skriver politiet til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">[Person 1]s snapchat brugt i familiens hjem?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi besøgte den 10. maj 2023 [Person 1]s klasse på skolen i [Bynavn] med henblik på at afdække, om [Person 1]s klassekammerater havde oplysninger af betydning for sagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi blev i den forbindelse opmærksom på to Snapchat-profiler, der efter det af klassekammeraterne oplyste blev anvendt af [Person 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog efterfølgende oplysninger fra Snapchat, der viste, at profilerne havde været benyttet henholdsvis den 12. juli 2022 og 16. oktober 2022 med en IP-adresse i [Bynavn].</Char>
+        </Linea>
+        <Linea>
+          <Char>TDC har oplyst til Sydøstjyllands Politi, at adressen tilknyttet den pågældende IP-adresse er identisk med en adresse på [Vejnavn] i [Bynavn], hvor flere familiemedlemmer er tilmeldt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politis arbejde i forbindelse med Snapchat-profilerne viste endvidere, at alle kontakter var blevet slettet kort tid efter, at [Person 1] var blevet meldt savnet, samt at der blev registreret aktivitet på de to profiler via IP-adresser i Hamborg og Bad Segeberg i Tyskland på flere tidspunkter medio og ultimo april 2022.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi foreholdt efterfølgende familien denne oplysning, hvortil familiemedlemmerne oplyste, at de ikke kunne forklare aktiviteten eller i øvrigt oplyse brugernavne eller kodeord til [Person 1]s Snapchat-profiler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi har, siden familien modtog denne oplysning, ikke konstateret aktivitet på de to profiler, skriver politiet til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Planlagt af familiemedlemmer?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 16. maj 2023 igen oplysninger om, at [Person 1]s forsvinding var/er planlagt af flere familiemedlemmer med henblik på at skade politiets omdømme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 24. maj 2023 oplysninger om, at familien i løbet af sommeren 2023 skulle deltage i flere familiebegivenheder, samt at familien planlagde, at [Person 1] skulle deltage i disse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 12. juni 2023 oplysninger om, at familien fortsat skjulte [Person 1] uden for Danmark, at [Person 1]s mor havde kontakt til ham, samt at [Person 1] på dette tidspunkt befandt sig i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 22. juni 2023 oplysninger om, at familien ikke turde være sammen med [Person 1], idet familien frygtede, at politiet skulle finde ham.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 3. juli 2023 oplysninger om, at familien skulle deltage i et familiearrangement uden for Danmark, samt at familien i den forbindelse overvejede, om [Person 1] skulle deltage i arrangementet, idet familien var bange for, at politiet skulle finde [Person 1], skriver politiet til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Familien tager afstand fra politiets oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har foreholdt [Klager], onkel til [Person 1], politiets oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han tager skarp afstand fra politiets oplysninger, som han kalder for "bullshit".</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg kan ikke genkende noget af dette.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er en løgn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan for eksempel ikke verificeres, at han skulle fjernes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg bliver træt af at høre sådan noget, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har forgæves forsøgt at få en kommentar fra [Person 1]s mor, [Person 2].</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Øvrige oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har i forbindelse med klagen til Pressenævnet fremsendt en sms-besked, som efter det oplyste er sendt af en journalist fra et andet medie.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af sms-beskeden fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Hej [Person 3].</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg vil meget gerne invitere dig eller en anden fra din familie ind i vores program i dag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg har netop fået en mail fra Sydøstjyllands Politi, hvor der står, at de oplysninger, som står i Vejle Amts Folkeblad, og som er blevet spredt ud over mange medier er oplysninger som ikke er bekræftet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Altså det er oplysninger, som nogen har givet til politiet, som politiet ikke har bekræftet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det synes vi, er ret vildt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil gerne spørge jer, om oplysningerne fra politiet er rigtige.</Char>
+        </Linea>
+        <Linea>
+          <Char>Og hvordan det føles at blive udstillet i hele Danmark som løgnere, på baggrund af ubekræftede oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jeg har også skrevet til [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Du må meget gerne ringe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Mvh [Journalist 1]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har i forbindelse med svar på klagen til Pressenævnet fremsendt en kopi af en mail af 30. oktober 2023 fra [Kommunikationschefen], kommunikationschef ved Sydøstjyllands Politi, med svar på en række spørgsmål vedrørende [Person 1] og hans familie efter henvendelse fra Vejle Amts Folkeblad.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af mailen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Kære [Journalist 2]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jeg indleder med at gentage min beklagelse af, at det ikke har været muligt at besvare din henvendelse tidligere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi har ikke under arbejdet med eftersøgningssagen vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Person 1] kunnet dele informationer fra efterforskningen med offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er helt sædvanligt at efterforskningsresultater og personfølsomme oplysninger ikke deles på grund af tavshedspligt og fordi en offentliggørelse ofte vil være kontraproduktiv for efterforskningens formål, nemlig at finde frem til hvad, der er sket i en sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der har i hele forløbet kun været få henvendelser fra offentligheden på trods af den gentagne offentlige omtale og informationerne har hurtigt kunnet afkræftes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed har det også været begrænset, hvad politiet har haft at arbejde ud fra.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men der er kommet oplysninger fra personer, der gerne har villet dele informationer, men som har ønsket at være anonyme, som betingelse for at dele deres viden med politiet i forhold til [Person 1]s efterlysning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er på baggrund bl.a. af disse oplysninger, som politiets naturligvis har behandlet i henhold til ønsket om at være anonyme, at efterforskningen bl.a. har haft afsæt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Informationerne har imidlertid ikke været tilstrækkeligt konkrete til, at politiet har kunnet lokalisere [Person 1]s opholdssted.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Da efterlysningssagen nu må anses for afsluttet, da [Person 1] har optrådt på billeder i medierne og uagtet familien ikke har ønsket overfor politiet at oplyse/bekræfte genforeningen, så er det nu muligt i meget anonymiseret form, at dele informationer med offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er bl.a. i disse oplysninger, at Sydøstjyllands Politi har fundet belæg for at søge at berolige offentligheden med udtalelser om, at der ikke har været formodning om, at [Person 1] skulle have været udsat for en forbrydelse og at vi ikke har haft grundlag for at antage, at han ikke skulle være i god behold og have det godt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hele sagen vedrørende [Person 1] og oplysningerne om hans forsvinden, hvorfra og hvornår, det efterfølgende langvarige forløb, hans ophold et eller andet sted m.v. er på alle måder ulykkeligt og ubegribeligt, og Sydøstjyllands Politi kan kun have dyb medfølelse med drengen og det han har været igennem.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nedenfor føler et anonymiseret uddrag af relevante oplysninger fra efterforskningssagen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 26. april 2022 oplysninger om, at [Person 1] blev holdt skjult på en ukendt adresse, at hans mor havde kontakt med ham, samt at grunden til, at [Person 1] blev holdt skjult, var, at familien var bange for, at [Kommunen] ville tvangsfjerne ham, ligesom et familiemedlem ønskede at skade politiets omdømme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi rettede den 27. april 2022 på ny henvendelse til [Kommunen]s familierådgivning med henblik på at høre, om kommunen havde nye oplysninger af betydning for sagen, idet politiet vurderede, at samarbejdet med familien var anstrengt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen oplyste i den forbindelse bl.a., at kommunen havde modtaget flere bekymringer omkring børnene i familien.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi efterlyste [Person 1] i Schengenlandene den 19. maj 2022.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 13. oktober 2022 oplysninger om, at det ovenfor nævnte familiemedlem skjulte [Person 1] i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 7. marts 2023 oplysninger om, at der i [Bynavn] spredtes et rygte om, at [Person 1] opholdt sig uden for Danmark, samt at familien havde flyttet ham til Syrien.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ultimo marts 2023 rettede en kvinde henvendelse til Sydøstjyllands Politi.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kvinden oplyste i den forbindelse, at hendes barn havde fortalt, at barnet ”sidst på året 2022” var gået forbi en gruppe på skolen, der via en telefon havde haft korrespondance med [Person 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Kvinden oplyste endvidere, at det var almindeligt kendt blandt eleverne på skolen, at [Person 1] har det godt, ligesom det var almindelig kendt, at han opholder sig i Tyskland.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Person 1]s familie har i forbindelse med behandlingen af sagen oplyst til politiet, at de ikke har forbindelser i Tyskland.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi vurderede på den baggrund – og henset til oplysningernes ukonkrete karakter – at der ikke var relevante efterforskningsmuligheder, der kunne verificere oplysningerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi besøgte den 10. maj 2023 [Person 1]s klasse på skolen i [Bynavn] med henblik på at afdække, om [Person 1]s klassekammerater havde oplysninger af betydning for sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi blev i den forbindelse opmærksom på to Snapchat-profiler, der efter det af klassekammeraterne oplyste blev anvendt af [Person 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog efterfølgende oplysninger fra Snapchat, der viste, at profilerne havde været benyttet henholdsvis den 12. juli 2022 og 16. oktober 2022 med en IP-adresse i [Bynavn].</Char>
+        </Linea>
+        <Linea>
+          <Char>TDC har oplyst til Sydøstjyllands Politi, at adressen tilknyttet den pågældende IP-adresse er identisk med en adresse på [Vejnavn] i [Bynavn], hvor flere familiemedlemmer er tilmeldt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politis arbejde i forbindelse med Snapchat-profilerne viste endvidere, at alle kontakter var blevet slettet kort tid efter, at [Person 1] var blevet meldt savnet, samt at der blev registreret aktivitet på de to profiler via IP-adresser i Hamborg og Bad Segeberg i Tyskland på flere tidspunkter medio og ultimo april 2022.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi foreholdt efterfølgende familien denne oplysning, hvortil familiemedlemmerne oplyste, at de ikke kunne forklare aktiviteten eller i øvrigt oplyse brugernavne eller kodeord til [Person 1]s Snapchat-profiler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sydøstjyllands Politi har, siden familien modtog denne oplysning, ikke konstateret aktivitet på de to profiler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 16. maj 2023 igen oplysninger om, at [Person 1]s forsvinding var/er planlagt af flere familiemedlemmer med henblik på at skade politiets omdømme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 24. maj 2023 oplysninger om, at familien i løbet af sommeren 2023 skulle deltage i flere familiebegivenheder, samt at familien planlagde, at [Person 1] skulle deltage i disse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 12. juni 2023 oplysninger om, at familien fortsat skjulte [Person 1] uden for Danmark, at [Person 1]s mor havde kontakt til ham, samt at [Person 1] på dette tidspunkt befandt sig i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 22. juni 2023 oplysninger om, at familien ikke turde være sammen med [Person 1], idet familien frygtede, at politiet skulle finde ham.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi modtog den 3. juli 2023 oplysninger om, at familien skulle deltage i et familiearrangement uden for Danmark, samt at familien i den forbindelse overvejede, om [Person 1] skulle deltage i arrangementet, idet familien var bange for, at politiet skulle finde [Person 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Oplysninger om eventuelle strafbare forhold, som du beder om under pkt. 5 er undergivet tavshedspligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Medarbejderes eventuelle personlige forhold, som fx aktuelt opholdssted, sygdom m.v. kan vi som arbejdsgiver ikke dele med offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du kan eventuelt søge svar via de pågældendes tillidsrepræsentant.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager]s klage er modtaget i Pressenævnet den 31. oktober 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 [Klager]s synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har anført, at den påklagede artikel indeholder ukorrekte oplysninger, som Vejle Amts Folkeblad ikke har efterprøvet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forlængelse heraf har [Klager] anført, at han har bedt Vejle Amts Folkeblad om at verificere oplysningerne og oplyst dem om, at der ikke har været tale om at tvangsfjerne [Person 1], men at Vejle Amts Folkeblad på trods af dette hverken har kontaktet politiet eller trukket artiklerne tilbage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har endvidere bemærket, at Vejle Amts Folkeblad har for travlt med at være det første medie med historien frem for at efterprøve de oplysninger, de bringer, og har i den forbindelse henvist til Pressenævnets kendelse i sag nr. 2022-80-0889, hvor Vejle Amts Folkeblad blandt andet blev kritiseret for at bringe en ukorrekt oplysning og anført, at det er kritisk, at mediet ikke har lært af sine fejl.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har desuden anført, at det er kritisabelt, at Vejle Amts Folkeblad har bragt en oplysning om, at [Kommunen] havde modtaget flere bekymringer omkring børnene i familien, da oplysningen ikke vedrører [Person 1], men andre børn, der ikke har noget med sagen at gøre, hvilket er i strid med loven og god presseskik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 Vejle Amts Folkeblads synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har anført, at de har modtaget oplysningerne fra politiet, og at de har bragt oplysningerne ud fra en betragtning om, at politiet er en troværdig kilde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forlængelse heraf har Vejle Amts Folkeblad bemærket, at oplysningen i sms-beskeden om, at Sydøstjyllands Politi ikke kan bekræfte oplysningerne, er andenhåndsviden, og at Vejle Amts Folkeblad i øvrigt ikke har haft anledning til at verificere oplysningerne yderligere eller trække artiklerne tilbage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I den forbindelse har Vejle Amts Folkeblad anført, at det ikke fremgår af mailen fra Sydøstjyllands Politi til mediet, at oplysningerne ikke er verificerede, og at Sydøstjyllands Politi ikke efter offentliggørelsen af oplysningerne har oplyst Vejle Amts Folkeblad herom.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har i den forbindelse henvist til følgende passage i Sydøstjyllands Politis mail:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Da efterlysningssagen nu må anses for afsluttet, da [Person 1] har optrådt på billeder i medierne og uagtet familien ikke har ønsket overfor politiet at oplyse/bekræfte genforeningen, så er det nu muligt i meget anonymiseret form, at dele informationer med offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er bl.a. i disse oplysninger, at Sydøstjyllands Politi har fundet belæg for at søge at berolige offentligheden med udtalelser om, at der ikke har været formodning om, at [Person 1] skulle have været udsat for en forbrydelse og at vi ikke har haft grundlag for at antage, at han ikke skulle være i god behold og have det godt.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har hertil bemærket, at Sydøstjyllands Politi tværtimod efterfølgende har begrundet yderligere, hvorfor de har valgt at offentliggøre detaljerede oplysninger om [Person 1] og hans familie, og har i den forbindelse henvist til en pressemeddelelse bragt den 1. november 2023 af DR og to artikler bragt henholdsvis den 1. og 3. november 2023 af Vejle Amts Folkeblad, hvor politiet kommer med følgende begrundelse for offentliggørelsens berettigelse:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Politiet mener, der er foretaget en politifaglig og juridisk vurdering af, at delingen er berettiget.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har endvidere anført, at de har bedt [Klager] og hans familie om en kommentar til Sydøstjyllands Politis oplysninger, og at familien er kommet til orde i artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår klagepunktet vedrørende oplysningen om, at kommunen ville tvangsfjerne [Person 1], har Vejle Amts Folkeblad afvist dette og henvist til følgende passage i Sydøstjyllands Politis mail, som de loyalt har citeret i artiklen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Sydøstjyllands Politi modtog den 26. april 2022 oplysninger om, at [Person 1] blev holdt skjult på en ukendt adresse, at hans mor havde kontakt med ham, samt at grunden til, at [Person 1] blev holdt skjult, var, at familien var bange for, at [Kommunen] ville tvangsfjerne ham, ligesom et familiemedlem ønskede at skade politiets omdømme.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til klagepunktet vedrørende oplysningen om, at kommunen havde modtaget flere bekymringer omkring børnene i familien, har Vejle Amts Folkeblad anført, at det var relevant at bringe oplysningen, da Sydøstjyllands Politi over for mediet har fremhævet, at oplysningen var relevant, og at den blev brugt under efterforskningen af sagen, ligesom Sydøstjyllands Politi efterfølgende har udtalt, at de ud fra en politifaglig og juridisk vurdering har fundet, at offentliggørelsen af oplysningerne var berettiget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jens Kruse Mikkelsen, Hans Peter Blicher, James Kristoffer Miles og Søs Lykke Sloth.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Korrekt information</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Klager] har klaget over, at artiklen indeholder ukorrekte oplysninger, som ikke er blevet efterprøvet tilstrækkeligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der giver, er korrekte, jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker, at redaktøren i overensstemmelse med det almindelige princip om redaktørens ret til at redigere mediet som udgangspunkt er berettiget til at beslutte, hvad man vil bringe i mediet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at det ligger inden for grænserne af redaktørens redigeringsret at undlade at omtale forhold, der for en af parterne eller andre forekommer centrale, ligesom det er op til redaktøren at vælge og fravælge materiale og kilder, så længe det samlede indtryk giver et retvisende billede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår blandt andet følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[Bynavn]: 17-årige [Person 1] blev i sidste uge genforenet med sin familie i Tyskland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sydøstjyllands Politi har hele tiden - under hans forsvinden - meldt ud, at politiet har haft grund til at tro, at [Person 1] var i god behold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dog uden at uddybe hvorfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Mandag åbnede Sydøstjyllands Politi op om efterlysningssagen over for Vejle Amts Folkeblad, der havde stillet otte konkrete spørgsmål til sagen om [Person 1]s forsvinden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Kommunikationschefen], kommunikationschef, fortæller i en mail til avisen, at politiet tidligere har modtaget oplysninger om, at [Person 1]s familie har været i kontakt med ham under hans forsvinden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Familien har ellers gentagne gange over for Vejle Amts Folkeblad benægtet dette.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi modtog den 26. april 2022 oplysninger om, at [Person 1] blev holdt skjult på en ukendt adresse, at hans mor havde kontakt med ham, samt at grunden til, at [Person 1] blev holdt skjult, var, at familien var bange for, at [Kommunen] ville tvangsfjerne ham, ligesom et familiemedlem ønskede at skade politiets omdømme.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Sydøstjyllands Politi rettede den 27. april 2022 på ny henvendelse til [Kommunen]s familierådgivning med henblik på at høre, om kommunen havde nye oplysninger af betydning for sagen, idet politiet vurderede, at samarbejdet med familien var anstrengt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen oplyste i den forbindelse bl.a., at kommunen havde modtaget flere bekymringer omkring børnene i familien, skriver [Kommunikationschefen] til Vejle Amts Folkeblad.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Familien tager afstand fra politiets oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har foreholdt [Klager], onkel til [Person 1], politiets oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Han tager skarp afstand fra politiets oplysninger, som han kalder for "bullshit".</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg kan ikke genkende noget af dette.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er en løgn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan for eksempel ikke verificeres, at han skulle fjernes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Jeg bliver træt af at høre sådan noget, siger [Klager].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vejle Amts Folkeblad har forgæves forsøgt at få en kommentar fra [Person 1]s mor, [Person 2].</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Som sagen er oplyst for Pressenævnet, lægger nævnet til grund, at Vejle Amts Folkeblad har bragt oplysningerne i artiklen på baggrund af oplysninger modtaget ved mailen af 1. november 2023 fra [Kommunikationschefen], som er kommunikationschef ved Sydøstjyllands Politi, hvilket også klart fremgår af artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne mail er fremlagt for Pressenævnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet lægger endvidere til grund, at det klart fremgår af artiklen, at der er tale om oplysninger, som Sydøstjyllands Politi har modtaget fra udenforstående og dermed ikke oplysninger, som Sydøstjyllands Politi har bekræftet er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet bemærker, at [Klager] er blevet forelagt oplysningerne, og at han er kommet til orde i artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På denne baggrund finder nævnet ikke grundlag for at udtale kritik af Vejle Amts Folkeblad for at bringe oplysningerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår oplysningen om, at [Kommunen] har modtaget flere bekymringer omkring børnene i familien, finder nævnet, at redaktørens valg om at bringe oplysningen ikke overskrider rammerne for redigering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har lagt vægt på, at det fremgår klart, hvor oplysningen stammer fra, og at oplysningen relaterer sig til Sydøstjyllands Politis efterforskning af den omtalte sag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet udtaler herefter ikke kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 19. marts 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

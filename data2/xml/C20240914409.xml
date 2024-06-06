@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idab60cfeb-5665-45cc-8bd1-7ccd302bd9a8" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id35aa72e3-a8f0-423f-96c0-b0ae49418da1">
+    <DocumentType>CIR1H#LOKDOK11</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240914409</AccessionNumber>
+    <DocumentId>AA014127</DocumentId>
+    <UniqueDocumentId>242385</UniqueDocumentId>
+    <DocumentTitle>Rigsadvokatmeddelelsen, afsnittet: Indberetningsordning vedr. international retshjælp og samarbejde</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-12</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-15</EndDate>
+    <Status>Valid</Status>
+    <Number>9144</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Rigsadvokaten</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rigsadvokaten</Signature>
+    <PlaceOfSignature>Rigsadvokaten</PlaceOfSignature>
+    <JournalNumber>CMS VB 9997</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Rigsadvokaten</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id7e89a073-0adf-4fb4-9973-ba3e65372b66">
+    <Titel id="ida72188a6-f845-4e05-93a9-f462b0eaebe6">
+      <Linea>
+        <Char>Rigsadvokatmeddelelsen, afsnittet: Indberetningsordning vedr.</Char>
+      </Linea>
+      <Linea>
+        <Char>international retshjælp og samarbejde</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id4c4652e9-32b6-4050-a32e-20dbea937643">
+    <TekstGruppe id="idce4c795a-2e60-42ef-8b11-6d02d04fd918">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Overblik og baggrund</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Efter artikel 13 i EU's Ministerråds afgørelse af 16. december 2008 (2009/426/RIA) om styrkelse af Eurojust skal EU-Medlemsstaterne underrette deres nationale medlemmer i Eurojust om forskellige typer af straffesager med tilknytning til internationalt samarbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ordningen efter denne bestemmelse er videreført i blandt andet EU-Parlamentets og Rådets Forordning af 14.</Char>
+        </Linea>
+        <Linea>
+          <Char>November 2018 (2018/1727), som imidlertid ikke gælder for Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Formålet med ordningen er at øge informationsudvekslingen mellem Eurojust og medlemsstaterne med henblik på at give Eurojust bedre mulighed for at bistå de nationale myndigheder ved bekæmpelsen af grov grænseoverskridende kriminalitet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Rigsadvokaten har på den baggrund fastsat følgende indberetningsordning vedrørende retshjælpsanmodninger, som sendes til andre EU-medlemsstater:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De lokale anklagemyndigheder i politikredsene, herunder i National Enhed for Særlig Kriminalitet (NSK), samt statsadvokaterne skal orientere Rigsadvokaten om:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Alle retshjælpsanmodninger, både modtagne og afsendte, i sager, hvor mindst tre stater (både EU-stater og tredjelandsstater) er involveret.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Alle afslag på retshjælp – både modtagne og afsendte.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Gentagende udfordringer med samarbejdet med myndigheder i andre EU-lande.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Orienteringen efter punkt 1 og 2 foretages ved at fremsende en kopi af anmodningen eller afslaget til Rigsadvokaten, mens orienteringen efter punkt 3 foretages ved at fremsende en kort beskrivelse af problematikken til Rigsadvokaten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Orienteringen sendes pr. e-mail til rigsadvokaten@ankl.dk</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>I emnefeltet anføres: Indberetning til Eurojust</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Rigsadvokaten har tilstræbt, at indberetningsordningen udmøntes på en måde, der er praktisk håndterbar, og som ikke belaster politikredsene, NSK og statsadvokaturerne unødigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved tvivl om, hvordan ordningen nærmere skal forstås, eller om der i en konkret sag skal foretages indberetning, kan Rigsadvokatens internationale enhed kontaktes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Retsgrundlag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Rådets afgørelse 2002/187/RIA af 28. februar 2002 om oprettelse af Eurojust</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Rådets afgørelse 2003/659/RIA af 18. juni 2003 om ændring af Rådets afgørelse om oprettelse af Eurojust</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Rådets afgørelse 2009/426/RIA af 16. december 2008 om styrkelse af Eurojust og ændring af Rådets afgørelse om oprettelse af Eurojust</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Meddelelse nr. 5347/2/09 af 15. juli 2009 fra Rådet for den Europæiske Union om en konsolideret udgave af Rådets afgørelser om Eurojust</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aftale af oktober 2019 om strafferetligt samarbejde mellem Eurojust og Kongeriget Danmark</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id20496e67-3311-46f9-8a84-9035dd3bfbe0">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

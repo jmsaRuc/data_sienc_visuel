@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id166502e4-0fb5-4788-aac3-2244e35b7585" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/BEKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idee36c908-072f-4731-a6fc-abee9c1c53bc">
+    <DocumentType>BEK H#LOKDOK04</DocumentType>
+    <Rank>B</Rank>
+    <AccessionNumber>B20240916405</AccessionNumber>
+    <DocumentId>DC001555</DocumentId>
+    <UniqueDocumentId>242542</UniqueDocumentId>
+    <DocumentTitle>Straksregulering nr. 14 - 2024 Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2410</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-21</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-23</EndDate>
+    <Status>Valid</Status>
+    <Number>9164</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <EuReferences>32010R0724</EuReferences>
+    <EuReferences>32011R0783</EuReferences>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20230165905</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2023-12-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om regulering af fiskeriet</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Kenneth Joensen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Mads Røddik Christensen</Signature>
+    <PlaceOfSignature>Fiskeristyrelsen</PlaceOfSignature>
+    <JournalNumber>Ministeriet for Fødevarer, Landbrug og Fiskeri,\nFiskeristyrelsen,j.nr.24-42420-000011</JournalNumber>
+    <Ministry>Ministeriet for Fødevarer, Landbrug og Fiskeri</Ministry>
+  </Meta>
+  <TitelGruppe id="ide3ce374a-6728-4d8a-bc90-c99e51594448">
+    <TitelPrefiks id="id7518073b-a174-4acc-90df-566d74b25095">
+      <Linea>
+        <Char>Straksregulering nr. 14 - 2024</Char>
+      </Linea>
+    </TitelPrefiks>
+    <Titel id="id59301319-1bf8-42c5-ac8b-318cdb5903b4">
+      <Linea>
+        <Char>Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2410</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idbd9145a7-22c9-426f-b5f9-5374d8f41e76">
+    <Indledning id="ida7e4f465-a3db-45ca-af7f-6db7cf26ed6a">
+      <Exitus>
+        <Linea>
+          <Char>I medfør af bekendtgørelse nr. 1659 af 11. december 2023 om regulering af fiskeriet § 17, jf. bilag 4, fastsættes:</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Afsnit id="id9aa4af31-7d0b-476a-9205-d7d2b4f16377" localId="1">
+      <Kapitel id="id0122c56a-5d2d-4dbc-94a9-66756c3db016" localId="1">
+        <ParagrafGruppe>
+          <Paragraf id="id96fe317d-dca3-4977-a7b0-7f13a3522a38" localId="MidlertidiglukningafetområdeiSkagerrakpåbaggrundafprøvenrRTCDNK2410">
+            <Explicatus>1. Midlertidig lukning af et område i Skagerrak på baggrund af prøve nr.  RTCDNK2410 </Explicatus>
+            <Stk id="id31819bf2-458a-43c2-98d5-7e89c24933fb">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>I perioden fra og med torsdag den 21. marts 2024 til og med onsdag den 10. april 2024 er det forbudt at fiske inden for et område i den danske del af Skagerrak, der afgrænses af geodætiske linjer mellem følgende punkter målt efter WGS84-koordinatsystemet:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Område prøve nr. RTCDNK2410</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>1) 57° 50,4 N  009° 08,5 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>2) 57° 56,8 N  009° 29,2 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>3) 57° 53,3 N  009° 33,2 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>4) 57° 47,2 N  009° 12,8 Ø</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id8a7d98f0-469f-4c46-971f-0934ba1c76d8" localId="Fortsattilladteredskaber">
+            <Explicatus>2. Fortsat tilladte redskaber</Explicatus>
+            <Stk id="id14ccbfb6-284b-4a3c-8c0d-29ae3071d146">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Uanset forbuddet, er det fortsat tilladt at fiske i det midlertidigt lukkede område med følgende redskaber:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>- flydetrawl, snurpenot, drivgarn og pilke til fiskeri efter sild, makrel og hestemakrel</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- tejner</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- kammuslingeskraber</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>- hildingsgarn</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id90dee854-9636-4e3a-8646-c45fa6eab340" localId="Baggrundforlukningen">
+            <Explicatus>3. Baggrund for lukningen</Explicatus>
+            <Stk id="idefcfb8d8-fb8b-4026-9d78-a15ae1b84091">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Baggrunden for lukningen er, at det er konstateret, at forekomsten af ungfisk af arterne torsk, kuller, hvilling og sej overskrider det tilladte niveau, jf. Kommissionens forordning (EU) Nr. 724/2010 af 12. august 2010 om gennemførelsesbestemmelser for realtidslukninger af fiskerier i Nordsøen og Skagerrak, som ændret ved Kommissionens forordning (EU) nr. 783/2011 af 5. august 2011.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+          <Paragraf id="idbe2a232a-2d8b-4f70-a28d-82a339b2b86e" localId="Ikrafttræden">
+            <Explicatus>4. Ikrafttræden</Explicatus>
+            <Stk id="id6ca3c83f-3b46-4b05-9346-a86e4546cd2d">
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Meddelelsen træder i kraft den 21. marts 2024 og er gældende til og med den 10. april 2024.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+      </Kapitel>
+    </Afsnit>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="ide3e07e07-b343-4b22-b8be-801864d77dc3">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

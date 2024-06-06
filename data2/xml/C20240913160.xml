@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id4c8e6d7b-5bf3-4cd9-8c18-78630b596f04" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id95c964ee-0c58-4cb0-9896-b56d2092f25d">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240913160</AccessionNumber>
+    <DocumentId>DH001772</DocumentId>
+    <UniqueDocumentId>242265</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til landsdækkende frivillige sociale organisationer (ULFRI)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-07</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-09</EndDate>
+    <Status>Valid</Status>
+    <Number>9131</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240023405</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-07</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til landsdækkende frivillige sociale organisationer (ULFRI)</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2023-11406</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+    <AdministrativeAuthority>Social- og Boligstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idcfc7acf4-229e-49df-93dd-cfd301a13a89">
+    <Titel id="id5241e472-1cb8-4acd-a4cf-6faf8a18838e">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til landsdækkende frivillige sociale organisationer (ULFRI)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id024244f5-b6cc-438d-992d-124710f5df97">
+    <TekstGruppe id="idaf9c1465-969a-4325-8a56-afbd64f3181e">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 22. april 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12.00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center" />
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>INDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Linea>
+          <Char>1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8 Beregning af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8.1 Udfyldelse af beregningsbilaget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>12 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>13 Statens fleksjobordning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som led i udmøntningen af udlodningsloven (lov nr. 1532 af 19. december om udlodning af overskud fra lotteri) er der på finansloven for 2024 afsat 66,9 mio. kr. til en ansøgningspulje til landsdækkende frivillige sociale organisationer (ULFRI).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det endelige udmøntningsbeløb afhænger dog af størrelsen på overskuddet fra Danske Spil A/S og Det Danske Klasselotteri A/S.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beløbet meddeles fra Økonomistyrelsen, når regnskabet for Danske Spil A/S og Det Danske Klasselotteri A/S er gjort endeligt op i løbet af maj 2024, hvorefter Social-og Boligstyrelsen udmønter ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljen er afsat på finansloven for 2024 på § 07.18.19.40.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde driftstilskud til landsdækkende frivillige sociale organisationer med henblik på at fremme den frivillige sociale indsats i form af konkret støtte til de målgrupper, som organisationen retter sig mod, og i form af generel interessevaretagelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er landsdækkende frivillige sociale organisationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere uddybning af ansøgerkreds henvises til afsnit 7 ”Tildelingskriterier og vurdering af ansøgning”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er borgere inden for det sociale område, der har behov for en social indsats.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det kan eksempelvis være socialt udsatte voksne, udsatte børn og unge eller borgere med psykisk sårbarhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Udlodningsmidlerne hed tidligere Tips- og Lottomidler og består af overskuddet fra Danske Spil A/S og Det Danske Klasselotteri A/S.</Char>
+        </Linea>
+        <Linea>
+          <Char>Midlerne fordeles mellem en række ministerier, som udmønter dem til en bred vifte af almennyttige formål i Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det er udlodningsloven, der bestemmer, hvilke formål og hvilke modtagere de enkelte ministerier skal bruge udlodningsmidlerne på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Social- og Boligstyrelsen udmønter, gennem udlodningsmidlerne, foruden ULFRI også ansøgningspuljer til driftsstøtte til handicaporganisationer og –foreninger (ULHAN) og organisationer inden for ældreområdet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover varetages udmøntningen af en aktivitetspulje til særlige sociale formål (SærligSoc), der gennem tilskud til frivilligt socialt arbejde, skal styrke den samlede sociale indsats i samfundet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Midlerne anvendes i perioden fra den 1. januar 2024 til og med den 31. december 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, jf. tabel 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Tabel 1: Vurdering og tildelingskriterier</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Table width="641" style="column-width: 166pt 315pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">Vurdering</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">Tildelingskriterier</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>1.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Ansøgerkreds</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger er en landsdækkende frivillig social organisation.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger skal have et socialt hovedformål, eller det sociale formål skal udgøre en væsentlig del af organisationens aktiviteter</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger er formaliseret som en juridisk enhed.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger har eksisteret i mindst 2 år og der foreligger 2 afsluttede reviderede årsregnskaber samt årsberetning for 2022.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger har haft en omsætning på mindst 25.000 kr. i 2022.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="36">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>2.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Formål og målgruppe</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøgers formål skal ligge inden for ansøgningspuljens formål.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøgers arbejde skal være målrettet borgere inden for det sociale område.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="51">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>3.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Generel interessevaretagelse og aktiviteter</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger skal varetage målgruppens fælles interesser.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger skal afholde konkrete sociale aktiviteter for målgruppen.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>4.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Frivillig indsats</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøgers frivillige indsats, herunder den  frivillige aktivitet eller frivillige handling, skal udgøre en del af organisationens samlede indsats.</Char>
+                </Linea>
+                <Linea>
+                  <Char>.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>5.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Landsdækkende element</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger skal være landsdækkende og skal kunne dokumentere sit landsdækkende virke.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>6.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Tilskud fra andre udlodningspuljer til drift</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Hvis ansøger samme år har modtaget tilskud til drift fra andre udlodningspuljer, der fordeles efter udlodningsloven, kan der ikke ydes</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>tilskud fra denne ansøgningspulje.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="4">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Nummer">
+                    <Explicatus>7.</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char formaChar="Bold">Bilag</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Ansøger skal medsende:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Index>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Et samlet bestyrelsesgodkendt budget for indeværende år</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Reviderede årsregnskaber for 2021 og 2022</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Dokumentation for organisationens landsdækkende virke</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Vedtægter eller fundats</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Udfyldt bilag til beregning af tilskud</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio formaInd="Pind">
+                    <Explicatus>-</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Årsberetning for 2022</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgere skal leve op til </Char>
+          <Char formaChar="Bold">alle</Char>
+          <Char> tildelingskriterier for at opnå støtte fra ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 1) Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det vil ud fra ansøgers beskrivelse i ansøgningen blive vurderet, om ansøger opfylder betingelserne for at være omfattet af ansøgerkredsen til ULFRI.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Vurderingen af om ansøger er formaliseret som en juridisk enhed vil tage udgangspunkt i, at ansøger er registeret med et CVR-nummer samt har enten vedtægter eller fundats.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Med frivillig social organisation menes, jf. vejledningen til Serviceloven, at organisationen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Er frivilligt grundlagt, dvs. den må ikke være fastlagt i lovgivningen, og organisationen skal kunne beslutte at nedlægge sig selv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dens primære formål er ikke at skabe overskud (organisationen skal være non-profit), og et evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>overskud må ikke udloddes til ”ejerne”, men skal investeres i opfyldelse af organisationens mål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den frivillige indsats er en betydningsfuld del af organisationens grundlag.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Der er frivilligt medlemskab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Organisationen virker inden for det sociale område.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 2) Formål og målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>På baggrund af ansøgers beskrivelse af formålet vil det blive vurderet, hvorvidt organisationens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>ligger inden for ansøgningspuljens formål, som er at fremme den sociale indsats ved at styrke landsdækkende</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>frivillige organisationer, der har et socialt hovedformål, eller hvor den sociale indsats som minimum</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>udgør en væsentlig del af organisationens aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>På baggrund af ansøgers beskrivelse af målgruppen vil det desuden blive vurderet, hvorvidt ansøgers</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>målgruppe ligger inden for ansøgningspuljens målgruppe, som er borgere inden for socialområdet, som</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>har brug for en social indsats.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan eksempelvis være personer med handicap, sociale problemer,</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>psykisk sårbarhed eller lidelser, herunder også udsatte børn og unge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Målgruppen skal have lovligt ophold i</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 3) Generel interessevaretagelse og aktiviteter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>På baggrund af ansøgers beskrivelse af, hvordan organisationen varetager målgruppens/medlemmernes fællesinteresser, vil det blive vurderet, hvorvidt ansøger laver generel interessevaretagelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Generel interessevaretagelse kan ske via medlemsservice, foreningsservice, politisk interessevaretagelse, sekretariatsfunktioner, kommunikation og repræsentation i forskellige sammenhænge, eller ansøger kan på anden vis demonstrere, at de varetager deres medlemmers/målgruppes fælles interesser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>På baggrund af ansøgers beskrivelse af organisationens aktiviteter vil det blive vurderet, hvorvidt ansøger afholder sociale aktiviteter for og med målgruppen/medlemmerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 4) Frivillig indsats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det vil ud fra ansøgers beskrivelse blive vurderet, om organisationens frivillige indsats, herunder den frivillige aktivitet eller frivillige handling, udgør en del af organisationens samlede indsats.</Char>
+        </Linea>
+        <Linea>
+          <Char>I vurderingen anlægges en bred forståelse af frivillighedsbegrebet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Jf. vejledningen til Serviceloven anses en indsats i udgangspunktet som frivillig når indsatsen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udføres uden tvang,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ikke er lønnet,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udføres over for andre end familie og slægt,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Er til gavn for andre end én selv og familien,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Er af formel karakter (til forskel fra almindelig hjælpsomhed).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I denne forbindelse benyttes ”den frivillige sociale indsats” som en samlet betegnelse for "frivillige organisationer" og for de aktiviteter, som frivillige organisationer driver, hvad enten det sker med frivillig eller med lønnet arbejdskraft, og som foregår inden for det sociale område.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 5) Landsdækkende element</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det vil på baggrund af ansøgers beskrivelse samt dokumentation (se nedenfor) blive vurderet, om organisationen er landsdækkende eller har et landsdækkende sigte ved at have haft aktiviteter i mindst tre regioner i de seneste to år eller haft deltagelse af borgere i sine aktiviteter fra mindst tre regioner i de seneste to år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Der skal være tale om reelle, selvstændige og ikke-kommercielle aktiviteter, der relaterer sig til organisationens</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>kerneopgave i alle tre regioner eller et væsentligt antal borgere fra alle tre regioner i aktiviteterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>For landsorganisationer og hovedorganisationer kan aktiviteterne gennemføres på lokalforeningsniveau.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal dermed indsende dokumentation for et af følgende forhold:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dokumentation for gennemførelse af et væsentligt antal ikke-kommercielle aktiviteter i mindst tre regioner i de to seneste år.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dokumentation for deltagelse af et væsentligt antal medlemmer fra mindst tre regioner i ikke-kommercielle aktiviteter i de to seneste år.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Hertil kræves, at:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Minimum 15% af aktiviteterne eller medlemmerne skal være i/fra hver af de tre regioner.</Char>
+              </Linea>
+              <Linea>
+                <Char>Er organisationen aktiv i flere regioner end tre, sammenlægges procentpointene for region 3 og 4 (og evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>5) med de laveste procentpoint.</Char>
+              </Linea>
+              <Linea>
+                <Char>Sammenlægningen skal udgøre minimum 15%.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Fx kan 70% af medlemmerne, der deltager i aktiviteterne, være fra Region Hovedstaden, 15% fra Region Syddanmark og 15% fra Region Midtjylland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Alternativt kan 45% af aktiviteterne være gennemført i Region Nordjylland, 35% i Region Syddanmark, 10% i Region Midtjylland og 10% i Region Sjælland.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>I sidste eksempel vil sammenlægningen se således ud:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Region 1: 45%</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Region 2: 35%</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Region 3 + Region 4: 10% + 10% = 20%</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Herved udgør region 3 + 4 sammenlagt 20% dvs. de to regioner overstiger sammen minimumskravet på 15%.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 6) Tilskud fra andre driftspuljer under udlodningsloven</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Jf. § 6, stk. 3, i ansøgningspuljens bekendtgørelse kan der ikke ydes tilskud fra denne pulje, hvis organisationen har modtaget tilskud til drift fra andre udlodningspuljer, der fordeles efter lov nr. 1532 af 19. december 2017 om udlodning af overskud fra lotteri (Udlodningsloven).</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gælder bl.a.:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Social- og Boligstyrelsens ansøgningspulje ULHAN.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Slots- og Kulturstyrelsens pulje til landsdækkende almennyttige organisationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Indenrigs- og Sundhedsministeriets driftspulje til landsdækkende sygdomsbekæmpende organisationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Bemærk, at såfremt en ansøger skulle opnå tilskud fra flere ansøgningspuljer under udlodningsloven, kan der opstå krav om tilbagebetaling eller bortfald af tilskuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 7) Bilag til ansøgningen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal indsende en række bilag med ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alle bilag skal være indsendt </Char>
+          <Char formaChar="Bold">inden</Char>
+          <Char> ansøgningsfrist:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Budget for 2024.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Reviderede årsregnskaber for 2021 og 2022.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Vedtægter eller fundats.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udfyldt bilag til beregning af tilskud (Beregningsbilag).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Årsberetning for 2022.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dokumentation for organisationens landsdækkende virke.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Bestyrelsesgodkendt budget for 2024</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal indsende et samlet bestyrelsesgodkendt budget for tilskudsåret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Budgettet skal udarbejdes på en sådan måde, at det udgør en fyldestgørende og sandfærdig beskrivelse af de forventede indtægter og udgifter i forhold til organisationen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Reviderede årsregnskaber for 2021 og 2022</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal medsende reviderede årsregnskaber for 2021 og 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Begge årsregnskaber skal være underskrevet af organisationens tegningsberettigede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Vedtægter eller fundats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Som dokumentation for, at organisationen er formaliseret som en juridisk person, skal organisationens vedtægter eller fundats vedhæftes ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>For foreninger skal det fremgå, at de afholder en årlig generalforsamling, repræsentantskabsmøde eller lignende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>For fonde, selvejende institutioner og andre institutioner skal det fremgå, at fonden / den selvejende institution / andre institutioner ledes af et styrelsesorgan, hvor mindst ét medlem er uafhængigt og uvildigt i forhold til stifterne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Udfyldt bilag til beregning af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal medsende et udfyldt skema til beregning af tilskud (Beregningsbilag).</Char>
+        </Linea>
+        <Linea>
+          <Char>For mere om udfyldelse af skemaet se afsnit 8.1.</Char>
+        </Linea>
+        <Linea>
+          <Char>I skemaet skal der være en henvisning til, hvor i årsregnskabet for 2022 de enkelte tal findes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt tallene ikke kan genfindes 1:1 i årsregnskabet skal hjælpebilaget underskrives af revisor.</Char>
+        </Linea>
+        <Linea>
+          <Char>Skemaet skal indsendes i Social- og Boligstyrelsens skabelon herfor, som findes på ansøgningspuljens hjemmeside under fanen Materiale 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Årsberetning for 2022</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal medsende en årsberetning for 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der ikke er udarbejdet årsberetning, vedhæftes en kortfattet redegørelse for organisationens virksomhed underskrevet af bestyrelsen eller de, som tegner bestyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det skal af årsberetningen eller redegørelsen fremgå, at organisationen opfylder de generelle kriterier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Italic">Landsdækkende dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger skal slutteligt indsende dokumentation for, at organisationen er landsdækkende i henhold til operationaliseringen i afsnit 7, ad) 5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dokumentationen skal knytte sig til organisationens sociale indsats eller målgruppen (dvs. ikke støttemedlemmer o.l.) og skal understøtte det, som ansøger ellers skriver i ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Dokumentationen skal indsendes i Social- og Boligstyrelsens skabelon herfor (Skema til landsdækkende dokumentation, og findes på ansøgningspuljens hjemmeside under fanen Materiale 2024.).</Char>
+        </Linea>
+        <Linea>
+          <Char>Det skal fremgå klart, hvad dokumentationen viser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dokumentationen skal være af sådan et omfang, at det er muligt at vurdere, om det reelt opfylder kriteriet om et væsentligt antal aktiviteter i minimum forskellige regioner eller et væsentligt antal deltagere fra minimum forskellige regioner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Nedenfor fremgår, hvad der accepteres som fyldestgørende dokumentation og ikke-fyldestgørende dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="642" style="column-width: 241pt 241pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">Fyldestgørende dokumentation</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">Ikke fyldestgørende dokumentation</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Fuldstændig aktivitetsoversigt for alle afholdte</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>aktiviteter de seneste to år med, stedangivelse, beskrivelse af indhold samt antal deltagere.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Adresselister over lokalafdelinger.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Anonymiseret medlemsliste (målgruppen) opgjort på bopælsregion.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Stikprøve på opkald til telefonrådgivning indeholdende stikprøveperioden, dato for opkald, initialer, fornavn e.l.</Char>
+                </Linea>
+                <Linea>
+                  <Char>på personen, bopælsregion samt et tilstrækkeligt antal opkald.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Udpluk af afholdte aktiviteter.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Organisatoriske aktiviteter (medarbejderes deltagelse i konferencer, mødeaktiviteter o.l.).</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Udflugter.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Liste over støttemedlemmer.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Godkendelse efter Ligningslovens § 8a.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Align" />
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Formålsbestemmelse i vedtægter.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Ingen personoplysninger i bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Der gøres opmærksom på, at evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>personoplysninger i bilagene skal anonymiseres inden fremsendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gælder både almindelige personoplysninger og følsomme oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fremsendelse af personoplysninger kan få konsekvenser for ansøger, idet Social- og Boligstyrelsen i sådanne tilfælde er forpligtet til at oplyse de pågældende personer om, at deres oplysninger er modtaget i Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette kan Social- og Boligstyrelsen udbede ansøgers hjælp til.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">8.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Beregning af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Midlerne i ansøgningspuljen fordeles blandt de tilskudsberettigede ansøgere på baggrund af en fordelingsnøgle:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>33% af midlerne i puljen fordeles efter organisationernes størrelse, udtrykt ved deres samlede omsætning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>67% af midlerne fordeles efter organisationernes egenfinansiering, dvs. størrelsen på deres privatindsamlede midler og private donationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Principperne betyder, at det samlede tilskud, som en organisation modtager, beregnes efter to adskilte beregninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>De to beregninger lægges herefter sammen og udgør tilskuddet til den enkelte organisation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskuddet kan maksimalt udgøre 7,5 mio. kr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>På baggrund af de beskrevne principper for fordelingen er der udarbejdet et matematisk beregningsmodul, som anvendes til beregningen af tilskuddenes størrelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8.1 Udfyldelse af beregningsbilaget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Regnskabsår</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Beregning af tilskud sker på baggrund af regnskabstal fra forrige regnskabsår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilaget skal således udfyldes med baggrund i årsregnskabet for 2022.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis organisationen har forskudt regnskabsår eller et af årene dækker en periode forskellig fra 12 måneder, skal dette udtrykkeligt anføres i dokumentationen fra revisor.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beregningsbilaget kan enten udfyldes som hovedorganisation eller som enkeltstående organisation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis det udfyldes som hovedorganisation, skal det angives, hvilke underorganisationer, der indgår i opgørelsen af tallene i beregningsbilaget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Samlede indtægter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Samlede indtægter er summen af alle organisationens indtægter, der fremgår i årsregnskabet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Værdien af naturalier må ikke medregnes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Privatindsamlede midler og private donationer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Privatindsamlede midler og private donationer er summen af alle organisationens indtægter, </Char>
+          <Char formaChar="Italic">på nær</Char>
+          <Char> indtægter fra det offentlige:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Overskud ved myndighedsgodkendte indsamlinger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Fx lotterier, tombolaer, kollekter og lignende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Underskud sættes til nul.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bemærk, at der anføres overskud og ikke omsætning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Medlemskontingenter:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Abonnementsindtægter og bidrag fra såvel private enkeltpersoner som private fonde, legater, stiftelser og lignende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Indtægt ved arv:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Arv fra boer opgjort som den i årsregnskabet indtægtsførte arv med fradrag af skifteafgift, skifteomkostninger og arveafgift.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Overskud ved arrangementer samt ved salg af handelsartikler:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Fx julekort, julehæfter, postkort, bøger, blade, posters, plakater, aktivitetsmateriale, annoncer og lignende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bemærk, at der anføres overskud og ikke omsætning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bidrag, tilskud og donationer modtaget fra andre organisationer:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bidrag mv., som organisationen har modtaget fra andre private, danske organisationer, herunder gaver.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bidrag, tilskud og donationer, ydet til andre organisationer:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bidrag mv., som den ansøgende organisation har ydet til andre private, danske organisationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bidrag ydet til andre organisationer anføres med et positivt beløb, som fratrækkes, når Social- og Boligstyrelsen udregner den samlede egenfinansiering.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Følgende må </Char>
+          <Char formaChar="Underline">ikke</Char>
+          <Char> medtages ved opgørelsen af privatindsamlede midler og private donationer:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Værdien af naturalier.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Midler modtaget fra stat, region, kommune eller offentlige institutioner i øvrigt, herunder bevillinger i henhold til lovgivning.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilskud fra Danske Spil A/S, totalisator- og brevduespil.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilskud fra offentlige fonde.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilskud modtaget fra EU og tilsvarende internationale organisationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overskudsandele fra spil afholdt i Danmarks Radio og TV2 mv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Kommerciel virksomhed</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis organisationen tillige arbejder ud fra kommercielle interesser afgives kun oplysninger for den del af organisationens virksomhed, der vedrører den ikke-kommercielle del.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommercielle interesser kan fx være salg af konsulentydelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Henvisning til årsregnskabet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I beregningsbilaget skal det angives, hvor i årsregnskabet de enkelte beløb findes.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis sammentællingen af elementerne til den enkelte post ikke kan ses direkte i årsregnskabet, medsendes en specifikation, der uddyber dette underskrevet af revisor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">9.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det fremgår af nedenstående oversigt, hvilke udgifter der kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lønudgifter i organisationen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Konsulenthonorarer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til revisor.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige forsikringer, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til transport.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til uddannelses- og kursusaktiviteter for frivillige.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til formidling.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til lokaler.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Småanskaffelser, herunder kontorhold.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Øvrige aktiviteter inden for puljens formål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">10.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det fremgår af nedenstående oversigt, hvilke udgifter der ikke kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Anskaffelse af fast ejendom.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Anlægsudgifter, herunder ombygning eller renovering.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af underskud.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilskud til enkeltpersoners underhold.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter der fuldt ud er finansieret fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter for personer uden lovligt ophold I Danmark.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til projekter forankret i udlandet samt Grønland og Færøerne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Kommerciel virksomhed.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">11.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgningsfristen er den 22. april 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>12.00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, beregningsbilag, skema til landsdækkende dokumentation samt øvrige opkrævede bilag jf. ansøgningspuljens bekendtgørelse § 6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgere </Char>
+          <Char formaChar="Bold">kan</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgere kan også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til </Char>
+          <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle</Char>
+          <Char> ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgives på den ansøgningsblanket og i det beregningsbilag samt skema til landsdækkende dokumentation, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget</Char>
+          <Char> i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char>, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse</Char>
+          <Char> af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char></Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur eller MitID ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Hvis I oplever</Char>
+          <Char formaChar="Bold"> it-problemer på egne systemer</Char>
+          <Char>,</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>er det jeres eget ansvar at afhjælpe disse, fx</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningens afsnit 7.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag, som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema, skabelon til beregningsbilag, skema til landsdækkende dokumentation, eller hvis alle obligatoriske bilag ikke er vedlagt ansøgningen, eller hvis anslagsbegrænsninger i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">12.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: </Char>
+          <Char formaChar="Underline">www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">13.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Statens fleksjobordning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Organisationer, der modtager driftstilskud efter denne ordning, er omfattet af den statslige refusionsordning vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char>fleksjob, jf. tekstanmærkning nr. 105 ad 07.14.01. og 07.14.38. til § 7 på finansloven for finansåret 2024 og jf. § 1 i bekendtgørelse om den statslige fleksjobordning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette betyder, at Social- og Boligstyrelsen indberetter tilskudsmodtager til Statens Administration, hvorefter Statens Administration meddeler den omfattede organisation om, at denne er omfattet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herefter vil Statens Administration opkræve organisationen et fast bidrag pr. årsværk pr. måned til finansiering af ordningens refusionsudgifter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">14.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="iddbe0085d-bf97-4948-93ad-2e2a721fd3de">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

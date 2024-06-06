@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2b02f600-1abe-4118-8d56-2f49c5f5c7d2" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idda59cd2d-3d39-44b3-abab-b1972ce04072">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240912460</AccessionNumber>
+    <DocumentId>DH001763</DocumentId>
+    <UniqueDocumentId>242235</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til at modvirke ensomhed og funktionstab hos ældre borgere</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-02-28</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-07</EndDate>
+    <Status>Valid</Status>
+    <Number>9124</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240021805</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-02-28</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til at modvirke ensomhed og funktionstab hos ældre borgere</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2023-13228</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id0717d7d8-dfbd-4823-8c6b-ac4e855484aa">
+    <Titel id="id1fbb73e0-910a-422e-ae05-95d48bda7f86">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til at modvirke ensomhed og funktionstab hos ældre borgere</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idc087610f-40ec-4be3-b195-f04585faf03d">
+    <TekstGruppe id="id334be075-5921-474e-836f-078dacd5178f">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 26. april 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold"> 12.00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus>
+        <Linea>
+          <Char>INDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5 Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7 Indhold i projektet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>10 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>11 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>12 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>13 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>14 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>15 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>16 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>17 Bilagsoversigt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som led i aftale om udmøntning af reserven til foranstaltninger på social-, sundheds- og arbejdsmarkedsområdet 2022-2025 blev der afsat i alt 10,8 mio. kr. til ansøgningspuljen til at modvirke ensomhed og funktionstab hos ældre borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningspuljen er afsat på finansloven for 2024 på § 15.85.32.10.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>De fleste ældre borgere har gode sociale relationer, men en andel af de ældre borgere oplever ensomhed og funktionstab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Flere undersøgelser viser, at personer med gode sociale relationer i mindre grad bliver syge end dem med svage sociale relationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derudover kommer de sig hurtigere efter deres sygdom, hvis de bliver syge.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ligeledes har personer med gode sociale relationer mindre risiko for at dø tidligt end personer med svage relationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der ses således en sammenhæng mellem ældre borgers helbredstilstand og sociale relationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Civilsamfundet udbyder en lang række forskellige aktiviteter, fællesskaber og tilbud.</Char>
+        </Linea>
+        <Linea>
+          <Char>Samarbejdet mellem civilsamfundet og de fagprofessionelle medarbejdere findes i alle de danske kommuner</Char>
+        </Linea>
+        <Nota id="id40024649-6232-4893-9ed1-1749df05b5aa">
+          <Explicatus>1</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Center for Frivilligt Socialt Arbejde (2021): Frivilligrapport, Sundhedsstyrelsen (2019): Evaluering af Styrket indsats mod ensomhed blandt ældre mennesker, der modtager meget hjemmehjælp</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Erfaringer fra tidligere puljer viser, at samarbejde mellem forskellige aktører er centralt for at modvirke ensomhed, og at de forskellige perspektiver kan lade sig inspirere af hinanden</Char>
+        </Linea>
+        <Nota id="ida9a890b0-d4ca-44b0-a439-6b24411e2ae1">
+          <Explicatus>2</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sundhedsstyrelsen (2021): Sammenhængende indsatser imod ensomhed og mistrivsel hos ældre, Sundhedsstyrelsen (2022): Tilgange til at motivere og engagere sårbare ældre til at deltage i meningsfulde aktiviteter</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Fra denne ansøgningspulje kan civilsamfundsorganisationer og foreninger søge tilskud til at skabe aktiviteter og sociale relationer for ældre borgere, der er i særlig risiko for at opleve ensomhed og funktionstab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projekterne skal tage udgangspunkt Sundhedsstyrelsens ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’, som modes og videreudvikles i tilskudsperioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde tilskud til at modvirke ensomhed og funktionstab hos ældre borgere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er civilsamfundsorganisationer og foreninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er ældre borgere over 65 år, der oplever eller er i risiko for ensomhed og funktionstab.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ældre mænd skal være en del af projektets samlede målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">5 Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De forventede resultater for de støttede projekter er at skabe aktiviteter og sociale relationer blandt ældre borgere for at modvirke ensomhed og funktionstab i samarbejde med de ældre selv og fagprofessionelle medarbejdere med kendskab til målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der forventes at give tilskud til 5 til 7 projekter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">6 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ensomhed defineres ofte som en oplevet uoverensstemmelse mellem ønskede sociale relationer og faktiske sociale relationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ensomhed kan have betydelige konsekvenser for sundhed og trivsel hos ældre borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Studier viser, at ensomhed er relateret til kortere levetid, nedsat funktionsevne, sundhedsrelateret livskvalitet, mentalt velbefindende og kognitive funktioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ofte vil ældre borgere, som oplever, at de er ensomme, have sværere ved at overvinde sygdom end ældre borgere med stærke sociale relationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Mænd og kvinder, der oplever ensomhed, lever i gennemsnit henholdsvis 8,9 år og 6,3 år kortere end mænd og kvinder, der ikke oplever ensomhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ældreprofilen for 2023 viser, at andelen af ældre, der har tegn på ensomhed, stiger jo ældre man er, og det gælder både for mænd og kvinder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Stigningen er størst mellem aldersgruppen 75 til 84 år og aldersgruppen 85 år eller derover</Char>
+        </Linea>
+        <Nota id="idad48d1ca-a4ca-428f-8ad8-c33ee7f75bcd">
+          <Explicatus>3</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sundhedsstyrelsen (2024): Ældres sundhed og trivsel 2023</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Lysten og muligheden for at deltage i sociale aktiviteter og at mødes med andre mennesker påvirkes af helbredet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Omvendt påvirkes helbredet af sociale relationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår af Ældreprofilen for 2023, at andelen af ældre borgere, som har tegn på ensomhed, er næsten fire gange større blandt ældre borgere, som har dårligt selvvurderet helbred, end blandt ældre borgere, der vurderer eget helbred som godt</Char>
+        </Linea>
+        <Nota id="ide158e989-7631-435e-b0a9-38f4c2c74262">
+          <Explicatus>4</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sundhedsstyrelsen (2024): Ældres sundhed og trivsel 2023</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I litteraturen kan der identificeres tre typer af risikofaktorer og tegn på ensomhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den første risikofaktor er særlige livssituationer, som fx omfatter at ægtefællen bliver alvorligt syg, at miste ægtefællen eller nære relationer eller at få et dårligt helbred.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den anden risikofaktor omfatter strukturelle faktorer, fx en dårlig økonomi, at være uden for arbejdsmarkedet inden pensionsalderen eller at være hjemløs.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den tredje risikofaktor er personlige faktorer, som fx omfatter negative forventninger, oplevelse af magtesløshed og oplevelse af manglende sociale kompetencer</Char>
+        </Linea>
+        <Nota id="id1cfcb6d2-f43d-4bb2-b66e-c4266baa250b">
+          <Explicatus>5</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>Sundhedsstyrelsen (2019): Styrket indsats mod ensomhed hos ældre mennesker med meget hjemmehjælp</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Deltagelse i positive fællesskaber og aktiviteter giver ældre borgere mulighed for at involvere sig aktivt i fællesskaber med andre både i og uden for hjemmet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når aktiviteterne opleves som meningsfulde, kan det samtidig bidrage til, at ældre borgere bevarer trivsel, godt helbred og funktionsevne til at gøre det, der er værdifuldt for den enkelte borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>På den baggrund udmeldes nærværende ansøgningspulje, hvor der kan arbejdes med at modne og udvikle aktiviteter for at modvirke ensomhed og funktionstab hos ældre borgere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">7 Indhold i projektet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Med udgangspunkt i Sundhedsstyrelsens ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’ skal projekter, der modtager tilskud, igangsætte aktiviteter og skabe sociale relationer blandt ældre borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilskudsmodtager skal på baggrund af deres erfaringer og resultater med at anvende principperne i projekterne, bidrage til at justere og konkretisere dem (se bilag for principperne).</Char>
+        </Linea>
+        <Linea>
+          <Char>Principperne har til formål at understøtte civilsamfundsorganisationers og foreningers arbejde med at modvirke ensomhed og funktionstab hos ældre borgere i samarbejde med de ældre borgere selv og fagprofessionelle medarbejdere med kendskab til målgruppen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Principperne for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere er udviklet af Sundhedsstyrelsen i samarbejde med civilsamfundet, kommuner og fagprofessionelle.</Char>
+        </Linea>
+        <Linea>
+          <Char>Principperne er en foreløbig version og vil i projektperioden løbende blive justeret og konkretiseret af Sundhedsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Civilsamfundsorganisationer og foreninger, der modtager tilskud, vil skulle videreudvikle og modne de fire principper i tæt samarbejde med Sundhedsstyrelsen, VIVE og de øvrige tilskudsmodtagere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Igennem hele projektperioden skal der systematisk indsamles data, erfaringer og resultater.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1 Principper for den frivillige indsats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nedenfor gives en kort beskrivelse af de fire principper.</Char>
+        </Linea>
+        <Linea>
+          <Char>Principperne kan læses i sin fulde længe i bilaget og på Sundhedsstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Princip 1: Målret aktiviteterne mod målgruppen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Forskningen viser, at der i arbejdet med en betydelig del af ensomhedsindsatser mangler en klar afgrænsning af målgruppen</Char>
+        </Linea>
+        <Nota id="id7fc872c5-f4ee-4cf8-926e-a062dc173b9a">
+          <Explicatus>6</Explicatus>
+          <Exitus>
+            <Linea>
+              <Char>DEFACTUM (2021): Interventioner, der skal mindske ensomhed - En systematisk litteraturgennemgang af 136 effektstudier, Region Midtjylland</Char>
+            </Linea>
+          </Exitus>
+        </Nota>
+        <Linea>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det gør det svært at sikre, at indsatsen er den rette for deltagerne, og at indsatsen virker efter hensigten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor er det vigtigt at tage stilling til rammerne og tilrettelæggelse af aktiviteter, fx med fokus på borgerens motivation, kommunikation i forbindelse med rekruttering og inklusionskriterier for målgruppen.</Char>
+        </Linea>
+        <Linea>
+          <Char>For at understøtte dette kan der fx udarbejdes enkle oplysningsmaterialer om aktiviteten med klar målgruppeafgrænsning og beskrivelse af faciliteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at projekter, der modtager tilskud, skal målrette aktiviteterne efter målgruppen og vær tydelig om aktiviteternes sigte, og hvem der får mest gavn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dermed er der højere sandsynlighed for, at indsatsen virker efter hensigten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Princip 2: Gør det let for borgeren</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er solid viden om en række barrierer, der kan gøre det svært for ældre borgere at deltage i en aktivitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>De mest almindelige barrierer kan grupperes som følger: Transport, de fysiske rammer, økonomisk tilgængelighed og sociale aspekter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er derfor centralt at indtænke disse aspekter i planlægning af aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er således et krav, at projekter, der modtager tilskud, skal stræbe efter, at gøre det let og trygt for deltagerne at være en del af aktiviteten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det gælder både i forhold til at sørge for de praktiske detaljer og de sociale aspekter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Princip 3: Skab meningsfulde aktiviteter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ensomhedsindsatser, som udelukkende handler om at give deltagerne mulighed for at deltage i socialt netværk, har lille positiv effekt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ensomhedsindsatser har større sandsynlighed for positiv effekt, hvis aktiviteterne tilrettelægges, så de kan være til gavn på forskellige måder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fx at man får ny læring eller kompetencer (det kan fx være at lære et sprog eller madlavning), eller at man får nogle mestringsstrategier, når man mærker ensomheden, eller at man får det bedre fysisk.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at projekter, der modtager tilskud skal afklare målgruppens ønsker og behov ved at inddrage dem i udviklingen og tilrettelæggelsen af aktiviteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Når målgruppen kan se en mening med indsatsen og oplever, at det er relevant for dem, fremmes motivationen for at deltage hos den enkelte og indsatsen bliver mere meningsfuld og relevant.</Char>
+        </Linea>
+        <Linea>
+          <Char>Inddragelse af de ældre borgere er med til at skabe ejerskab samt styrke borgerens ressourcer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Princip 4: Samarbejde med ældreplejen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Foreninger og civilsamfundsorganisationer og fagprofessionelle medarbejdere kan hver især bidrage til og supplere hinanden i arbejdet med at opspore de ældre borgere, udvikle eller henvise til aktiviteter og have kontakten med deltagerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Dette kan fx understøttes ved at udarbejde samarbejdsaftale mellem fagprofessionelle medarbejdere og aktører i foreninger og civilsamfundsorganisationer, have en oversigt over aktiviteter fra kommunens forskellige lokalområder, have en fast kontaktperson samt ved større eller mindre netværksmøder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er således et krav, at projekter, der modtager tilskud, har et tæt samarbejde med fagprofessionelle medarbejdere med kendskab til målgruppen, det kan fx være sygeplejersker, medarbejdere i hjemmeplejen, pårørendevejledere eller lignende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.2 Aktiviteter og sociale relationer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan for ansøgningspuljen ydes tilskud til at skabe aktiviteter og sociale relationer blandt de ældre borgere med lokal forankring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at projekterne skal engagere ældre borgere i fællesskaber.</Char>
+        </Linea>
+        <Linea>
+          <Char>Eksempelvis kan gåture eller aktiviteter i naturen give et godt fællesskab samtidig med, at de kan bidrage til at modvirke funktionstab eller en forbedring af funktioner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Musik og fællessang eller kor giver ligeledes gode muligheder for fællesskab samtidig med, at det kan give liv og noget at glæde sig til, uafhængig om den ældre borger kan bevæge sig eller om man har en mere begrænset tilværelse på plejehjem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fælles madlavning kan støtte at ældre borgere, der oplever modgang, får ernæring, samtidig med de får mulighed for at udveksle erfaringer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Muligheder for fællesskab kan være mange, men aktiviteterne skal være målrettet ældre borgere i målgruppen og have en lokal forankring.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at ældre mænd skal være en del af projektets samlede målgruppe, da erfaringer fra foreningslivet viser, at mænd i mindre grad deltager i aktiviteter end kvinder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at der ikke ydes tilskud til projekter, der udelukkende er målrettet ældre kvinder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Hvad kan der søges om tilskud til?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan fra ansøgningspuljen ydes tilskud til udgifter til projektets aktiviteter i forbindelse med etablering af sociale relationer for ældre borgere samt modning og videreudvikling af de fire principper for at modvirke ensomhed og funktionstab hos ældre borgere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ydes tilskud til afholdelse af aktiviteter for borgere samt lønudgifter, herunder frikøb af medarbejdere til deltagelse i aktiviteter, møder, netværk med andre projekter, tværgående aktiviteter, evalueringsaktiviteter og møder med Sundhedsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan ikke ydes tilskud til at udvikle ensomhedsrelaterede aktiviteter, som ikke har som primære resultat at engagere borgere i fællesskaber, fx kompetenceudvikling i ensomhed eller opmærksomhedskampagner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For en nærmere beskrivelse af tilskudsberettigede udgifter se vejledningens afsnit 12.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">8 Processtøtte, evaluering og tidsplan</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Processtøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Civilsamfundsorganisationer og foreninger, der modtager tilskud, vil gennem projektperioden samarbejde med Sundhedsstyrelsens projektteam.</Char>
+        </Linea>
+        <Linea>
+          <Char>Sundhedsstyrelsen har løbende kontakt med tilskudsmodtagere og kan sparre omkring udvikling og justering af principperne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Omfanget og fokus for denne rådgivning vil tage udgangspunkt i tilskudsmodtagernes lokale forhold og udfordringer, og tilpasses efter behov.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der planlægges ligeledes projektunderstøttelse fra en ekstern leverandør.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil desuden være netværksaktiviteter på tværs af projekterne med fokus på sparring, fælles refleksion/udvikling og modning af ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’.</Char>
+        </Linea>
+        <Linea>
+          <Char>Civilsamfundsorganisationer og foreninger, der modtager tilskud, er forpligtet til at deltage i ovenstående aktiviteter og samarbejde med Sundhedsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Evaluering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljen evalueres med fokus på omsætning af principperne i projekterne og på virkningen af aktiviteterne for ældre borgere, som er en del af målgruppen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det nærmere evalueringsdesign fastlægges i samarbejde med VIVE og Sundhedsstyrelsen og præsenteres i starten af projektperioden.</Char>
+        </Linea>
+        <Linea>
+          <Char>VIVE vil gennemføre evalueringen, og civilsamfundsorganisationer og foreninger, der modtager tilskud, er forpligtet til at deltage i evalueringsaktiviteter og samarbejde med VIVE.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tidsplan</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som en del af ansøgningspuljen vil der være et tæt samarbejde med Sundhedsstyrelsen i forhold til at modne og videreudvikle ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’ samt netværksaktiviteter på tværs af projekterne, jf. afsnit 8.1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Møderne bliver både fysiske heldagsmøder i fællesskab og virtuelle møder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tidsplanen for de forventede aktiviteter er følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Fælles opstartsmøde: 26. august 2024</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>1. workshop med erfaringsudveksling og drøftelse af principper: 11. november 2024</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>2. workshop med erfaringsudveksling og drøftelse af principper: 24. marts 2025</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>3. workshop med erfaringsudveksling og drøftelse af principper: 25. august 2025</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Afslutningsmøde: 8. december 2025</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der vil derudover være ad hoc sparring, som aftales nærmere med tilskudsmodtager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der planlægges desuden projektunderstøttelse fra en ekstern leverandør.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil ligeledes være aktiviteter knyttet til evaluering af ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>De konkrete datoer for dette udmeldes i starten af projektperioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">9 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet anvendes i perioden fra den 1. august 2024 til 31. december 2025.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projektet skal gennemføres i hele perioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, og om der er sammenhæng mellem disse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="673" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" style="column-width: 207pt 298pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">1.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Ansøgerkreds, formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">2.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Principper</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal arbejde ud fra Sundhedsstyrelsens ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">3.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Aktiviteter og målsætninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal skabe aktiviteter og understøtte sociale relationer for målgruppen.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal skabe aktiviteter med lokal forankring ved at inddrage målgruppen i planlægning og udvikling af aktiviteterne.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger opstiller relevante og konkrete målsætninger på borgerniveau for projektet.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">4.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Organisering og samarbejde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets organisering har sammenhæng med projektets formål, målsætninger og aktiviteter samt understøtter modning af principperne.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal samarbejde med fagprofessionelle medarbejdere med kendskab til målgruppen.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal samarbejde med Sundhedsstyrelsen og VIVE samt løbende bidrage til evaluering.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">5.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Budget</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er overensstemmelse mellem budget og de beskrevne aktiviteter og udgiftstyper.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">6.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Sammenhæng</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, organisering, budget mm.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når ansøgningsskemaet udfyldes, skal ansøger beskrive nedenstående:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 1) Ansøgerkreds, formål og målgruppe:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">formål </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan projektet har til formål at modvirke ensomhed og funktionstab hos ældre borgere i målgruppen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at det sandsynliggøres, at projektet medvirker til at fremme ansøgningspuljens formål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af projektets </Char>
+          <Char formaChar="Bold">målgruppe</Char>
+          <Char> skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvem der indgår i målgruppen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er et krav, at der indgår mænd i projektets samlede målgruppe.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan således ikke ydes tilskud til projekter, der udelukkende er målrettet kvinder.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvad der kendetegner de borgere, som indgår i målgruppen og om der er særlige hensyn der skal tages højde for i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne formidles til ældre mænd, så der opnås deltagelse af mænd i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor mange borgere fra målgruppen, der forventes at deltage i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at der gives et realistisk bud på, hvor mange der indgår i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan antal borgere fra målgruppen i projektet bliver opgjort og optalt.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 2) Principper for den frivillige indsats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektet arbejder med at modne og videreudvikle Sundhedsstyrelsens fire </Char>
+          <Char formaChar="Bold">principper</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen med arbejdet med principperne skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan ansøger systematisk vil indhente erfaringer blandt deltagende ældre borgere og fagprofessionelle medarbejdere med kendskab til målgruppen, der kan være med til at justere og konkretisere principperne løbende i projektperioden.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan de løbende justeringer og konkretisering af principperne vil blive omsat/indarbejdet i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 3) Aktiviteter og målsætninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets aktiviteter bidrager til opfyldelse af projektets formål og målsætninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">aktiviteter</Char>
+          <Char> skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilken type aktiviteter er der planlagt og hvordan de understøtter sociale relationer hos ældre borgere.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne er målrettet målgruppen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvordan rammerne og tilrettelæggelse tilgodeser målgruppens interesser, motivation og ressourcer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne hænger sammen med projektets formål.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan arbejdes for at gøre det let og trygt for målgruppen at deltage i aktiviteten i forhold til sociale aspekter og praktiske detaljer.</Char>
+              </Linea>
+              <Linea>
+                <Char>Eksempelvis aktivitetens placering i forhold målgruppens nærmiljø, kørselsordning, økonomisk tilgængelighed eller mulighed for følgesvend.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan der skabes lokal forankring, herunder hvordan målgruppen inddrages i planlægning og udvikling af aktiviteterne.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvordan inddrages de ældre borgeres egen fortælling.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne forventes at gøre en forskel for de ældres ensomhed og funktionstab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets tidsplan, herunder om nogle aktiviteter tidsmæssigt skal placeres før andre, og om der er særlige kritiske betingelser, der skal være opfyldt, før projektet fortsættes.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af projektets </Char>
+          <Char formaChar="Bold">målsætninger</Char>
+          <Char> skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Konkrete målsætninger på borgerniveau</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan målsætninger på borgerniveau afspejler de konkrete resultater eller forandringer, som projektet forventes at opnå i relation til borgerne.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er således ikke tilstrækkeligt kun at opstille mål med fokus på gennemførelse af aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et eksempel på en målsætning på borgerniveau er, at en bestemt andel af deltagerne efter en given periode oplever, at de er blevet taget godt i mod i et nyt fællesskab, at de er blevet inddraget i tilrettelæggelse af aktiviteten, eller at de har fået tilbudt meningsfulde aktiviteter eller oplevelsen af at få ny viden eller bedre sociale kompetencer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forventes ikke, at der måles på effekt, men i stedet på borgerens oplevelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 4) Organisering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Projektets organisering skal have sammenhæng med projektets formål, målsætninger og aktiviteter samt understøtte modning af indsatsene.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøger skal derfor sandsynliggøre, at de organisatoriske forudsætninger for indsatsen er til stede.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen skal projektet </Char>
+          <Char formaChar="Bold">organisering</Char>
+          <Char> beskrives, herunder projektets organisationsstruktur og opgavefordeling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette kan gøres ved en beskrivelse af:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan organiseringen har sammenhæng med projektets formål og aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den organisatoriske placering af indsatsen, projektets medarbejdere og frivillige (antal), ansvar- og opgavefordeling.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan arbejdet forventes organiseret.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan der samarbejdes med fagprofessionelle medarbejdere med kendskab til målgruppen.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvilke fagprofessionelle medarbejdere vil indgå i projektet og hvilket kendskab har de til målgruppen?</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvilken rolle/ansvar forventes de fagprofessionelle medarbejdere at have i projektet?</Char>
+              </Linea>
+              <Linea>
+                <Char>Er der tale om et formelt samarbejde eller mere ad hoc samarbejde?</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan der sikres tydelig ledelse og fremdrift i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger forpligter sig til at samarbejde med Sundhedsstyrelsen, VIVE samt løbende bidrage aktivt til evaluering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 5) Budget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af den samlede ansøgning, </Char>
+          <Char formaChar="Bold">budget</Char>
+          <Char> samt eventuelle budgetnoter vil følgende blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er sammenhæng mellem de beskrevne aktiviteter og de udgiftstyper, som fremgår af budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om projektafgrænsede udgifter rettet mod at modvirke ensomhed og funktionstab hos ældre borgere.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet er realistisk og udelukkende indeholder tilskudsberettigede og nødvendige udgifter, som direkte kan henføres til det konkrete projekts gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der må således ikke budgetteres med udgifter, som ikke direkte kan henføres til det konkrete projekt, eller udgifter, der ikke kan gives tilskud til.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om udgifter er specificeret i budgettet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter kan således ikke samles i overordnede budgetposter som overhead, administrationsbidrag og diverse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan ikke budgetteres med uforudsete udgifter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet udviser sparsommelighed ved fastlæggelse af niveauerne i budgetposterne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun i særlige tilfælde ydes tilskud til udgifter, som er afholdt, før der blev ydet tilskud, hvis udgifterne har en klar tilknytning til projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Læs mere om krav til budgettet m.m. i vejledningens afsnit 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 6) Sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet på baggrund af den samlede beskrivelse af projektet, om der er </Char>
+          <Char formaChar="Bold">sammenhæng</Char>
+          <Char> mellem projektets formål, målgruppe, aktiviteter, organisering, budget mm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">11 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indtastes i Excel-dokumentet ”Budgetskema”, som kan hentes på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved indsendelse af ansøgningen vedlægges budgetskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at følgende oplysninger angives i budgettet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets titel</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers identifikation (CVR-nummer)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers navn og adresse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal udgøre en fyldestgørende og sandfærdig beskrivelse af projektets forventede udgifter i forhold til det ansøgte projekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal oplyses, hvis der er en økonomisk interesse mellem ansøger og projektets samarbejdspartnere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil fx være tilfældet, hvis der er personsammenfald mellem projektets medarbejdere og leverandører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Periodiserede budgetter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgifterne skal periodiseres, således at udgiften budgetteres i det kvartal, den forventes afholdt i det pågældende projektår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der fx er en ansat projektleder i projektet, opgøres lønnen, som den afholdes, én gang i kvartalet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Gennemsnitstal kan således ikke anvendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Enhedspriser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle udgiftsposter skal så vidt muligt udspecificeres i antal enheder og pris pr. enhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis projektet fx indebærer afholdelse af to ens aktiviteter inden for det samme kvartal, og hver af aktiviteterne koster 10.000 kr., anføres to enheder á 10.000 kr. i det eller de kvartaler, hvor aktiviteten og dermed udgifterne forventes afholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Noter til budgettet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved behov skal der udarbejdes forklarende noter til de udgiftsposter, som anføres i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en af budgetposterne fx er ”Seminar”, kan noten indeholde oplysninger om forventet antal deltagere, seminarets varighed (antal dage, med eller uden overnatning), pris pr. deltager, honorar til oplægsholder mv. Noten skal således dels klarlægge indholdet af den enkelte aktivitet og dels klarlægge forudsætningerne for udgiftens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke en skabelon for udarbejdelse af forklarende noter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">12 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der er tilskudsberettigede i forhold til tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Lønudgifter</Char>
+                <Char> til aflønning af medarbejdere i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter skal budgetteres med antal timer og sats pr. time.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter må ikke inkluderes under andre budgetposter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønniveauet må ikke være højere end det, der er aftalt i overenskomster for arbejdet på området.</Char>
+              </Linea>
+              <Linea>
+                <Char>Yderligere information kan fås ved henvendelse til de relevante fagforeninger.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvis området ikke er dækket af en overenskomst, må lønniveauet ikke være højere end det, der er aftalt i de statslige overenskomster for lignende arbejde.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">honorarer til konsulenter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">revisor</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan løbende afholdes udgifter til revisor til revision af projektregnskab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige </Char>
+                <Char formaChar="Bold">forsikringer</Char>
+                <Char>, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">transport</Char>
+                <Char> i egen bil.</Char>
+              </Linea>
+              <Linea>
+                <Char>Transportudgiften skal beregnes på baggrund af statens lave takst pr. km., jf. Økonomistyrelsens Cirkulære om satsregulering for tjenesterejser.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifterne skal budgetteres med antal kilometer og takst pr. km.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til offentlig</Char>
+                <Char formaChar="Bold"> transport</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">aktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">specifikke uddannelses- og kursusaktivitete</Char>
+                <Char>r [af begrænset omfang].</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">formidling</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">lokaler</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">kontorhold</Char>
+                <Char> (fx mindre kontorartikler, porto mv.).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>12)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til den samlede evaluering, der foretages af VIVE</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>13)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til mindre </Char>
+                <Char formaChar="Bold">materielanskaffelser</Char>
+                <Char> indtil 50.000 kr. pr. projektår (fx indkøb af udstyr eller andet inventar).</Char>
+              </Linea>
+              <Linea>
+                <Char>Såfremt der søges om tilskud til materielanskaffelser, skal formålet med anskaffelsen fremgå af ansøgningen eller i en note til budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>14)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Andre </Char>
+                <Char formaChar="Bold">relevante udgifter</Char>
+                <Char> til projektets gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Relevansen beskrives i en note til budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer1" />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">13 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der ikke kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Materielanskaffelser</Char>
+                <Char> for over 50.000 kr. pr. projektår.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Køb af </Char>
+                <Char formaChar="Bold">fast ejendom</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Anlægsudgifter</Char>
+                <Char> (fx ombygning og renovering).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af </Char>
+                <Char formaChar="Bold">underskud</Char>
+                <Char> eller anden gæld.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Støtte til </Char>
+                <Char formaChar="Bold">enkeltpersoners underhold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter, der</Char>
+                <Char formaChar="Bold"> fuldt ud er finansieret</Char>
+                <Char> fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Generelle uddannelses- og kursusaktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter eller tilsvarende til personer </Char>
+                <Char formaChar="Bold">uden lovligt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projekter forankret i </Char>
+                <Char formaChar="Bold">udlandet samt Grønland og Færøerne</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Særskilt evaluering</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">14 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den 26. april 2024, klokken 12:00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, budgetskema og eventuelle bilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Offentlige myndigheder og offentlige institutioner m.v. </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Private ansøgere </Char>
+          <Char formaChar="Bold">kan</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Private ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til tilskudsforvaltning@sbst.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle</Char>
+          <Char> ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgives på den ansøgningsblanket og i det budgetskema, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget</Char>
+          <Char> i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">For offentlige myndigheder og offentlige institutioner m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever fejl på Social- og Boligstyrelsens Tilskudsportal, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I kontakte Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+              <Linea>
+                <Char>Dokumentationen skal bestå af en </Char>
+                <Char formaChar="Bold">beskrivelse</Char>
+                <Char> af problemet samt af et eller flere </Char>
+                <Char formaChar="Bold">skærmprint</Char>
+                <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">For private ansøgere</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+              <Linea>
+                <Char>Dokumentationen skal bestå af en </Char>
+                <Char formaChar="Bold">beskrivelse</Char>
+                <Char> af problemet samt af et eller flere </Char>
+                <Char formaChar="Bold">skærmprint</Char>
+                <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever </Char>
+          <Char formaChar="Bold">it-problemer på egne systemer</Char>
+          <Char>, er det jeres eget ansvar at afhjælpe disse, fx i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningen, at ansøger skal eller kan indsende specifikke bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag, som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema eller budgetskema, hvis alle obligatoriske bilag ikke er vedlagt ansøgningen, eller hvis eventuelle anslagsbegrænsninger i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">15 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">16 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1">
+        <Linea>
+          <Char formaChar="Bold">17 Bilagsoversigt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bilag 1: ’Principper for den frivillige indsats til at modvirke ensomhed og funktionstab hos ældre borgere’</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id7becf16a-f502-4d3a-9b0c-456f9d54a0e9">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id28a61c19-0899-46d6-aa6a-ab12c9d7a817" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="iddb78107a-e5ae-4f2f-b1ea-231d12e86eb7">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240912625</AccessionNumber>
+    <DocumentId>DH001765</DocumentId>
+    <UniqueDocumentId>242237</UniqueDocumentId>
+    <DocumentTitle>Arbejdsmiljøklagenævnet fastholdt påbud om straks at sikre, at unge under 18 år ikke anvendte motordrevne rengøringsmaskiner, som man sad på, for så vidt angik arbejdet som fører eller operatør.  (Unge under 18 år - motordreven rengøringsmaskine)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-02-27</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-07</EndDate>
+    <Status>Valid</Status>
+    <Number>9126</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20210104905</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2021-05-30</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om unges arbejde</Ref_Text>
+    <Concerns id="concerns_2" />
+    <Ref_Accn REFid="concerns_2">A20210206229</Ref_Accn>
+    <Ref_Af REFid="concerns_2">2021-11-16</Ref_Af>
+    <Ref_Text REFid="concerns_2">Bekendtgørelse af lov om arbejdsmiljø</Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>23-99955</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+    <AdministrativeAuthority>Arbejdsmiljøklagenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idc206936e-2099-4f68-a08b-a1d9368bf6b2">
+    <Titel id="id120eb151-8cb7-4940-a4ad-26166f9d9af6">
+      <Linea>
+        <Char>Arbejdsmiljøklagenævnet fastholdt påbud om straks at sikre, at unge under 18 år ikke anvendte motordrevne rengøringsmaskiner, som man sad på, for så vidt angik arbejdet som fører eller operatør.</Char>
+      </Linea>
+      <Linea>
+        <Char>(Unge under 18 år - motordreven rengøringsmaskine)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="idba4f308c-cc46-44b6-9b21-6ef06ee365fc">
+    <Resume id="id7d038efa-93a2-4ed0-88fa-6f018d169c08">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Resume</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af arbejdsmiljøreglerne, at unge under 18 år ikke må udføre arbejde, som fører eller operatør af motoriserede rengøringsmaskiner, man sidder på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde vægt på, at det blev oplyst under tilsynsbesøget, at en 17-årig ansat havde til opgave ugentligt at anvende en motoriseret rengøringsmaskine.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde endvidere vægt på, at rengøringsmaskinen var et motoriseret arbejdsredskab, som man sad på under betjeningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgik af bilag 1 til ungebekendtgørelsen, at en af de tekniske hjælpemidler, som unge under 18 år ikke må beskæftige sig med, er fejemaskiner, som den unge fører og sidder på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet var opmærksom på, at virksomheden mente, at reglerne var opfyldt, når den pågældende unge under 18 år havde et traktorkørekort.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet bemærkede dertil, at strakspåbuddet var givet efter arbejdsmiljøreglerne for unges arbejde, der er en forebyggelseslovgivning, hvor der skal tages hensyn til de risici, arbejdet frembyder for de unge på grund af manglende erfaring, manglende bevidsthed om risici samt det forhold, at de endnu ikke er fuldt udviklede.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det havde i den forbindelse ingen betydning, om den unge havde et traktorkørekort i forhold til fejemaskiner, som den unge førte/opererede og sad på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet tilføjede, at det fremgår af ungebekendtgørelsen, at unge, som er fyldt 16 år, og som ikke er omfattet undervisningspligten, dog må beskæftige sig med de tekniske hjælpemidler og anlæg, der var angivet i bekendtgørelsens bilag 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>I bilag 2 nævnes blandt andet, at traktorer, selvkørende mejetærskere og traktorer med jordfræsere kan anvendes af unge, der har traktorkørekort.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fejemaskiner indgår ikke i bilag 2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgørelsen blev truffet af et enigt nævn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </Resume>
+    <TekstGruppe id="idaff386f9-464d-431c-9657-c1ead7175f8e">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Den konkrete afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Adressat udeladt]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I har klaget over Arbejdstilsynets afgørelse af den 6. oktober 2023 om unge under 18 år og deres brug af motordrevne rengøringsmaskiner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsmiljøklagenævnet har nu afgjort sagen på møde den 27. februar 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Resultatet er:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Arbejdsmiljøklagenævnet fastholder Arbejdstilsynets afgørelse med påbud til jer om straks at sikre, at unge under 18 år ikke anvender motordrevne rengøringsmaskiner, som man sidder på, for så vidt angår arbejdet som fører eller operatør.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det betyder, at nævnet er kommet til samme resultat som Arbejdstilsynet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Begrundelse for afgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sådan vurderer vi sagen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af arbejdsmiljøreglerne, at unge under 18 år ikke må udføre arbejde, som fører eller operatør af motoriserede rengøringsmaskiner, man sidder på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Hvad er afgørende for resultatet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagen, at Arbejdstilsynet den 5. oktober 2023 var på tilsynsbesøg hos [virksomheden].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger vægt på, at det blev oplyst under tilsynsbesøget, at en 17-årig ansat havde til opgave ugentligt at anvende en motoriseret rengøringsmaskine.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger endvidere vægt på, at rengøringsmaskinen er et motoriseret arbejdsredskab, som man sidder på under betjeningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår af bilag 1 til ungebekendtgørelsen, at en af de tekniske hjælpemidler, som unge under 18 år ikke må beskæftige sig med, er fejemaskiner, som den unge fører og sidder på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet er opmærksom på, at I mener, at reglerne er opfyldt, når den pågældende unge under 18 år har et traktorkørekort.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet bemærker dertil, at strakspåbuddet er givet efter arbejdsmiljøreglerne for unges arbejde, der er en forebyggelses-lovgivning, hvor der skal tages hensyn til de risici, arbejdet frembyder for de unge på grund af manglende erfaring, manglende bevidsthed om risici samt det forhold, at de endnu ikke er fuldt udviklede.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det har i den forbindelse ingen betydning, om den unge har et traktorkørekort i forhold til fejemaskiner, som den unge fører/opererer og sidder på.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet kan tilføje, at det fremgår af ungebekendtgørelsen, at unge, som er fyldt 16 år, og som ikke er omfattet undervisningspligten, dog må beskæftige sig med de tekniske hjælpemidler og anlæg, der er angivet i bekendtgørelsens bilag 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>I bilag 2 nævnes blandt andet, at traktorer, selvkørende mejetærskere og traktorer med jordfræsere kan anvendes af unge, der har traktorkørekort.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fejemaskiner indgår ikke i bilag 2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Om reglerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det følger af arbejdsmiljøloven, at ved beskæftigelse af unge under 18 år skal der ved arbejdets planlægning, tilrettelæggelse og udførelse tages hensyn til den unges alder, udvikling og helbredstilstand samt til indvirkningen på skolegang eller anden uddannelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af ungebekendtgørelsen, at unge ikke må beskæftiges med de tekniske hjælpemidler, anlæg eller arbejdsprocesser, der er angivet i bilag 1 til bekendtgørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår af bilag 1, punkt 2, d, at det blandt andet gælder motorredskaber, som man sidder på, fx fejemaskiner, rengøringsmaskiner, for så vidt angår arbejdet som fører eller operatør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Mødebehandling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Sagen er behandlet på møde.</Char>
+        </Linea>
+        <Linea>
+          <Char>På mødet stemmer deltagerne om resultatet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgørelsen er truffet af et enigt nævn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Oplysninger i sagen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet har afgjort sagen ud fra de akter, som nævnet har modtaget fra Arbejdstilsynet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Her er de regler, nævnet har afgjort sagen efter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Love og bekendtgørelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Om Arbejdstilsynets ret til at træffe afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 77, stk. 1, i lov om arbejdsmiljø.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om unges arbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 60, stk. 1 og 3, i lov om arbejdsmiljø</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 10, stk. 1, i bekendtgørelse om unges arbejde</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bilag 1, punkt 2, d, til bekendtgørelse om unges arbejde</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er uddrag af reglerne til sidst i afgørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan finde reglernes fulde ordlyd på </Char>
+          <Char formaChar="Underline">www.retsinformation.dk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Kopi er sendt til:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="494" style="column-width: 370pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Arbejdstilsynet, j.nr. 20230066905/3</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Lovuddrag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Lov om arbejdsmiljø (arbejdsmiljøloven), senest bekendtgjort ved lovbekendtgørelse nr. 2062 af 16. november 2021</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 10</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Unge under 18 år</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 60.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved beskæftigelse af unge under 18 år skal der ved arbejdets planlægning, tilrettelæggelse og udførelse tages hensyn til den unges alder, udvikling og helbredstilstand samt til indvirkningen på skolegang eller anden uddannelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Stk. 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beskæftigelsesministeren fastsætter nærmere regler om unges beskæftigelse, herunder højere aldersgrænser end 15 år for beskæftigelse ved visse former for arbejde, med henblik på at sikre, at arbejdet kan udføres sikkerheds- og sundhedsmæssigt fuldt forsvarligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan fastsættes særlige regler for unge under uddannelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 13</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Arbejdstilsynet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 77.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arbejdstilsynet kan træffe afgørelse om forhold, der strider mod loven eller mod regler eller afgørelser i medfør af loven, og kan herunder påbyde, at forholdene bringes i orden straks eller inden en frist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Bekendtgørelse nr. 1049 af 30. maj 2021 om unges arbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 3</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Visse former for arbejde, som unge under 18 år ikke må udføre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 10.</Char>
+        </Linea>
+        <Linea>
+          <Char>Unge må ikke beskæftiges med de tekniske hjælpemidler, anlæg eller arbejdsprocesser, der er angivet i bilag 1, jf. dog stk. 3 og 4.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬</Char>
+          <Char formaChar="Italic">  Stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Unge må ikke beskæftiges med arbejde af tilsvarende farlighed, som nævnt i bilag 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬</Char>
+          <Char formaChar="Italic">  Stk. 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Unge, som er fyldt 16 år, og som ikke er omfattet af undervisningspligten, må dog beskæftiges med de tekniske hjælpemidler og anlæg, der er angivet i bilag 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬</Char>
+          <Char formaChar="Italic">  Stk. 4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Unge, som er fyldt 15 år, må i familievirksomheder, herunder i landbrugsvirksomheder, beskæftiges med det arbejde, der er angivet i bilag 3, når der er givet grundig oplæring og instruktion, og den unge er under opsyn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Bilag 1</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ikke udtømmende liste over tekniske hjælpemidler, anlæg og arbejdsprocesser, som unge under 18 år ikke må arbejde med</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">d)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Motorredskaber, som man sidder på, fx industritruck, palleløftere, gaffelstablere, gaffeltruck, fejemaskiner, rengøringsmaskiner, jordfræsere, plæneklippere og sneslynger, for så vidt angår arbejdet som fører eller operatør.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

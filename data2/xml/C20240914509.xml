@@ -1,0 +1,2264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id48fa8b61-ede9-4238-894f-d2bc7f6de625" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/CIRH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id586dd9fa-2ac3-4e41-9086-d3c81c9828df">
+    <DocumentType>CIR1H#LOKDOK11</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240914509</AccessionNumber>
+    <DocumentId>AA014128</DocumentId>
+    <UniqueDocumentId>242386</UniqueDocumentId>
+    <DocumentTitle>Rigsadvokatmeddelelsen, afsnittet: Ordensbekendtgørelsen</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-11</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-15</EndDate>
+    <Status>Valid</Status>
+    <Number>9145</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Rigsadvokaten</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Rigsadvokaten</Signature>
+    <PlaceOfSignature>Rigsadvokaten</PlaceOfSignature>
+    <JournalNumber>CMS VB 9994</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Rigsadvokaten</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idba5f3aa6-b230-4944-a8e9-071d95ec8539">
+    <Titel id="id33a5cea6-c256-4421-a89b-9d3b5b88fe0c">
+      <Linea>
+        <Char>Rigsadvokatmeddelelsen, afsnittet: Ordensbekendtgørelsen</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="ida2de1509-0da5-464b-bf68-09af2999a7f4">
+    <TekstGruppe id="idf69d164a-be43-477d-9c6a-df5185e85cbe">
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Overblik og tjekliste</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nedenfor er en tjekliste over de hyppigst forekommende overtrædelser af ordensbekendtgørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>For uddybende bemærkninger se pkt. 5.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="642" style="column-width: 389pt 92pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 1 (gadeuorden/fornærmelig tiltale)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 1 (voldelig optræden/slagsmål)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">3.000 kr. (min.)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 1, jf. § 18, stk. 1, 3. pkt. (+ grov forstyrrelse)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">4.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 2 (uanstændig opførsel, herunder urinering)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 3 (påvirket af spiritus/narkotika)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 4 (etablering og ophold i lejre)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 4, stk. 1 (sammenstimlen)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 4, stk. 1, jf. § 18, stk. 1, 3. pkt. (+ grov forstyrrelse)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">4.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 1, og § 4, stk. 1 (gadeuorden ifm.</Char>
+                </Linea>
+                <Linea>
+                  <Char>sammenstimlen)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 3, stk. 1, og § 4, stk. 1, jf. § 18, stk. 1, 3. pkt. (+ grov forstyrrelse)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">6.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 4, stk. 2 (overtrædelse af påbud mod sammenstimlen)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 6, stk. 1 (overtrædelse af påbud om færden)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 6, stk. 2 (overtrædelse af opholdsforbud)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 6, stk. 3 (overtrædelse af zoneforbud efter overtrædelse af § 3, stk. 4)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">fængsel</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 6, stk. 4 (overtrædelse af zoneforbud udstedt i medfør af § 6, stk. 3)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 6, stk. 5 (øvrige zoneforbud/ zoneforbud, adfærd)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">fængsel</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 7, stk. 1 (ophold på trapper, i porte, opgange, kælderrum mv.)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 7, stk. 2 (banke på døre/ringe på ringeklokker el.</Char>
+                </Linea>
+                <Linea>
+                  <Char>lign.)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 8, stk. 1 (musik til væsentlig ulempe)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 9, stk. 1 (opsætning af plakater)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="8">
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 9, stk. 1 (ombæring af plakater, salg/uddeling af skrifter/billeder)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="8">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>ombæreren eller uddeleren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="8">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 9, stk. 1 (udstilling af anstødelig karakter)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">3.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 9, stk. 2 (aflevering af skrifter/billeder med anstødeligt indhold)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>den, der afleverer</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr. (min.)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 9, stk. 3 (uddeling af reklame til forbipasserende)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>uddeleren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 12, stk. 1 (anvendelse af skydevåben, buer, slangebøsser el.</Char>
+                </Linea>
+                <Linea>
+                  <Char>lign., antændelse af bål, kast med sted, snebolde, vand el.</Char>
+                </Linea>
+                <Linea>
+                  <Char>andet til fare/ulempe)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr. (min.)</Char>
+                </Linea>
+              </Exitus>
+              <Exitus formaEx="Right" />
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>§ 15, stk. 1 (færdsel på is i strid med forbud)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Politiets efterforskning og sagsbehandling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">2.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Bødetilkendegivelser på stedet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Politikredsene kan udstede bødetilkendegivelser på stedet ved de overtrædelser af ordensbekendtgørelsen, hvor der er fast retspraksis for bødens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår af Justitsministeriets cirkulæreskrivelse af 16. december 1996 vedrørende ordning om bødetilkendegivelser på stedet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ordningen og den praktiske fremgangsmåde ved bødetilkendegivelser på stedet er beskrevet i den vejledning, der er knyttet til cirkulæreskrivelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af vejledningen fremgår således bl.a.:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bødetilkendegivelser kan anvendes, selv om den sigtede nægter sig skyldig.</Char>
+              </Linea>
+              <Linea>
+                <Char>Overtrædelsen skal dog være klart konstateret, således at der ikke foreligger nogen bevismæssig tvivl.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det forudsættes, at ordningen ikke anvendes på de områder for overtrædelser af politivedtægten (i dag ordensbekendtgørelsen), der erfaringsmæssigt giver anledning til bevistvivl eller tilspidsede situationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bødetilkendegivelser kan ikke anvendes, hvis der skal fastsættes en fælles bødestraf for flere samtidigt begåede lovovertrædelser.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvis en eller flere af overtrædelserne er af mindre betydning, kan en bødetilkendegivelse dog anvendes.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bøder til personer under 18 år nedsættes som anført under pkt. 5.2. til det halve beløb.</Char>
+              </Linea>
+              <Linea>
+                <Char>Værgens navn og adresse skal anføres på bødetilkendegivelsen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bøder til personer med særlig lav indtægt kan ikke nedsættes ved en bødetilkendegivelse på stedet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Sigtede kan ikke betale bøden på stedet, men må afvente fremsendelse af et giroindbetalingskort.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold Italic">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold Italic">Forberedelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Jura</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Det geografiske anvendelsesområde for ordensbekendtgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Justitsministeriet har i medfør af § 23 i lov nr. 1270 af 29. november 2019 om politiets virksomhed (politiloven) udstedt bekendtgørelse nr. 511 af 20. juni 2005 om politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed mv., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det geografiske anvendelsesområde for ordensbekendtgørelsen er ifølge § 2 veje eller andre steder, hvortil der er almindelig adgang, f.eks. offentligt tilgængelige parker, jernbane- og rutebilstationer, porte, offentlige toiletter, offentlige befordringsmidler, herunder taxier, forlystelsessteder samt (i åbningstiden) butikker, butikscentre og offentlige kontorer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I § 2, stk. 2, defineres en vej som en offentlig eller privat vej, gade, cykelsti, fortov, plads, bro, tunnel, passage, sti eller lignende, som benyttes til almindelig færdsel af en eller flere færdselsarter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Visse bestemmelser i ordensbekendtgørelsen er udformet således, at de kan anvendes på andre steder end dem, der er nævnt i § 2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et eksempel herpå er § 7, stk. 1, om ophold i bl.a. kælder- og loftsrum, haver mv. Det må antages, at også ophold i private trappeopgange mv. er omfattet af § 7, stk. 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved mere alvorlige husfredskrænkelser anvendes bestemmelsen i straffelovens § 264.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Gadeuorden</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Gadeuorden er slagsmål, skrigen, råben eller anden støjende, voldelig, fornærmelig eller lignende optræden, der er egnet til at forstyrre den offentlige orden, jf. ordensbekendtgørelsens § 3, stk. 1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Grov forstyrrelse af ro og orden på offentligt sted</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udtrykket ”grov forstyrrelse af ro og orden på offentligt sted” skal forstås i overensstemmelse med straffelovens § 134 a.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se Rigsadvokatmeddelelsen afsnittet om Offentlig orden – Forbrydelser mod den offentlige orden og fred (§§ 133-143).</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan være tale om uroligheder i forbindelse med fodboldkampe, optøjer i forbindelse med demonstrationer, tumult i større personkredse m.v. Se endvidere forarbejderne til lov nr. 1107 af 1. december 2009 om ændring af straffeloven og lov om politiets virksomhed (L 49 af 29. oktober 2009, de almindelige bemærkninger, pkt. 2.3.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Forbud mod etablering af lejre</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved bekendtgørelse nr. 305 af 31. marts 2017 blev der indsat en ny bestemmelse i ordensbekendtgørelsens § 3, stk. 4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bestemmelsen indeholder et forbud mod at etablere og opholde sig i lejre, som er egnede til at skabe utryghed på steder, hvortil der er almindelig adgang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved bekendtgørelse nr. 1094 af 29. juni 2020, der trådte i kraft den 2. juli 2020, er bestemmelsen ændret, således at forbuddet alene vedrører ”lejre af permanent karakter”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved lov nr. 131 af 27. februar 2018 om ændring af lov om politiets virksomhed (udvidet bemyndigelse til at fastsætte regler om zoneforud) blev der indsat en ny bemyndigelsesbestemmelse i lovens § 23, stk. 3, om zoneforbud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Reglerne om forbud mod etablering af lejre er nærmere beskrevet i bemærkninger til lovforslaget, (L 118 af 13. december 2017, de almindelige bemærkninger, afsnit 2.1.1.4), hvoraf blandt andet fremgår følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>» Det følger af ordensbekendtgørelsens § 3, stk. 4, at det på steder, hvortil der er almindelig adgang, er forbudt at etablere og opholde sig i lejre, som er egnede til at skabe utryghed i nærområdet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ordensbekendtgørelsens § 3, stk. 4, indebærer ikke en kriminalisering af overnatning på steder, hvor der er almindelig adgang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Formålet med bestemmelsen er derimod at kriminalisere utryghedsskabende lejre i de offentlige rum.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved en lejr forstås i overensstemmelse med almindelig sproglig forståelse, jf. eksempelvis Ordbog over det Danske Sprog, bl.a. et sted under åben himmel, hvor (om)rejsende, omflakkende personer indretter sove- eller hvilepladser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der skal således være tale om en vis grad af etablering af soveplads eller lignende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Opstilling af en enkelt madras eller sovepose vil i almindelighed ikke i sig selv være tilstrækkelig til at udgøre en lejr i bekendtgørelsens forstand, men hvis sovestedet efter sin indretning bærer præg af at have en mere varig karakter, f.eks. ved opstilling af telt eller hvis der er sat presenning op, kan det efter omstændighederne få karakter af en lejr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved vurderingen af om en lejr er egnet til at skabe utryghed, kan der bl.a. lægges vægt på antallet af personer i lejren, om lejren er placeret et befærdet sted, og om lejren fører til støjgener, trafikale gener eller andre gener i lokalområdet, f.eks. uhygiejniske sanitære forhold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil endvidere kunne lægges vægt på de tilstedeværende personers generelle adfærd, herunder om de pågældende begår strafbare forhold i området omkring lejren, f.eks. henkastning af affald, eller udviser chikanøs eller truende adfærd.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er ikke efter ordensbekendtgørelsens § 3, stk. 4, et krav, at der konkret skal være givet udtryk for en følelse af utryghed i forhold til en lejr, idet den pågældende lejr alene skal være egnet til at skabe utryghed, men henvendelser eller lignende fra personer, der oplever, at en lejr skaber utryghed, vil dog kunne indgå i den samlede vurdering af, om en lejr er omfattet af bestemmelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er i sagens natur ikke muligt udtømmende at opliste, hvornår der er tale om en lejr, som er egnet til at skabe utryghed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det må imidlertid antages, at en kø foran en butik, ved indgangen til en koncert, festival eller lignende, hvor folk – afhængig af vejret – ligger med soveposer, formentlig sjældent vil have et mere varigt præg og være egnet til at virke utryghedsskabende i nærområdet.</Char>
+        </Linea>
+        <Linea>
+          <Char>«</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af Justitsministeriets vejledning nr. 9410 af 29. juni 2020, at der ved vurderingen af, om der er tale om en lejr af permanent karakter, bl.a. kan lægges vægt på, om sove- og hvilestedet er etableret ved en fysisk indretning, f.eks. overdækning, madrasser, bålplads eller opstilling af telt, og om den fysiske indretning har en sådan karakter eller et sådant omfang, at indretningen giver indtryk af, at lejren forbliver på stedet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ud over den fysiske indretning vil der også kunne lægges vægt på, om der er ejendele og eventuelt madvarer, affald, urin eller afføring i nærheden af sovestedet.</Char>
+        </Linea>
+        <Linea>
+          <Char>I den forbindelse lægges der vægt på karakteren af de pågældende ejendele – om der f.eks. er tale om tykke madrasser og lignende eller almindelige personlige ejendele, som er pakket sammen i poser, tasker eller evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>indkøbsvogne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Genstande som allerede fandtes på stedet, inden personerne tog ophold for natten, indgår ikke i vurderingen af, om en lejr er af permanent karakter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår endvidere, at det er ikke en betingelse for, at lejren kan anses for at have permanent karakter, at lejren faktisk har haft en nærmere bestemt varighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der stilles således ikke krav om, at politiet har observeret lejren flere gange.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Zoneforbud efter § 6, stk. 3</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved bekendtgørelse nr. 427 af 7. maj 2018 er ordensbekendtgørelsens § 6, stk. 3, blevet nyaffattet og ændret.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ændringen, der trådte i kraft den 9. maj 2018, blev zoneforbuddet i forhold til etablering af og ophold i en utryghedsskabende lejr udvidet, sådan at politiet ved første overtrædelse af forbuddet i ordensbekendtgørelsens § 3, stk. 4, kan meddele et zoneforbud i hele den kommune, hvor overtrædelsen af forbuddet mod etablering eller ophold i en utryghedsskabende lejr fandt sted.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved bekendtgørelse nr. 1094 af 29. juni 2020, der trådte i kraft den 2. juli 2020, er bestemmelsen ændret således, at politiet har mulighed for at meddele en advarsel om zoneforbud for overtrædelser af lejrforbuddet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af Justitsministeriets vejledning nr. 9410 af 29. juni 2020, at der ved vurderingen af, om der skal meddeles en advarsel eller et zoneforbud skal lægges vægt på, hvor mange gange den pågældende har overtrådt lejrforbuddet, om den pågældende ved et zoneforbud vil blive forvist fra den kommune, hvor den pågældende har sit daglige liv og omgangskreds, og om den pågældende tidligere er meddelt en advarsel efter bestemmelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det taler således bl.a. for at give en advarsel, hvis zoneforbuddet vil medføre, at den pågældende bliver forvist fra den kommune, hvor den pågældende har sit daglige liv og omgangskreds.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil i den forbindelse kunne lægges vægt på, om den pågældende har bopæl, opholdssted, et arbejde i eller øvrig særlig tilknytning til kommunen, f.eks. hvis den pågældende sælger Hus Forbi i kommunen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Omvendt vil det tale imod at give en advarsel, hvis den pågældende ikke har nogen tilknytning til den kommune, hvor den pågældende har etableret og opholdt sig i en utryghedsskabende lejr.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det vil bero på en konkret vurdering, om den pågældende skal meddeles en advarsel eller et zoneforbud, og politiet kan også efter ændringen af bestemmelsen meddele et zoneforbud første gang lejrforbuddet overtrædes og uden forudgående advarsel.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En advarsel er som udgangspunkt ikke en afgørelse i forvaltningslovens forstand, men de almindelige forvaltningsretlige principper gælder dog uanset, således at der i forbindelse med udstedelsen af en advarsel må tages højde for notatpligten, f.eks. ved en registrering på sagen om overtrædelse af lejrforbuddet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da en advarsel kan have betydning for den efterfølgende vurdering af, om der skal udstedes et zoneforbud, er det nødvendigt, at politiet registrerer eventuelle advarsler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Betingelserne for at meddele zoneforbud, de forvaltningsretlige spørgsmål i forbindelse med zoneforbuddets udstrækning og gyldighed er nærmere beskrevet i forarbejderne til lov nr. 131 af 27. februar 2018 (L 118 af 13. december 2017, de almindelige bemærkninger, pkt. 2.1.1.2. og 2.1.1.6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår endvidere af forarbejderne til lov nr. 131 af 27. februar 2018, at et zoneforbud til en kommune indebærer et forbud mod at færdes frem og tilbage eller ophold i den kommune, hvor den adfærd, der har givet anledning til zoneforbuddet, har fundet sted.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den pågældendes blotte passage af kommunen er ikke omfattet af zoneforbuddet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil sige, at en person, der er blevet meddelt et zoneforbud, godt må gå gennem den kommune, der er omfattet af forbuddet, så længe passagen ikke kan siges at have karakter af færden frem og tilbage eller egentligt ophold i kommunen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår endvidere af forarbejderne, at hvis en person har bopæl eller arbejder i kommunen, vil den pågældende i øvrigt kunne bevæge sig frit til og fra sin bopæl eller arbejdsplads og ud i sit lokalområde, men vil ikke ellers kunne opholde sig i kommunen.</Char>
+        </Linea>
+        <Linea>
+          <Char>I praksis betyder det, at den pågældende – trods et zoneforbud – vil kunne færdes i kommunen med henblik på at foretage almindelige dagligdags gøremål, herunder f.eks. indkøb, lægebesøg, biblioteksbesøg mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der skal fastsættes en frist for et zoneforbud efter § 6, stk. 3, som ikke kan overstige 2 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fristen regnes fra den dag, hvor afgørelsen om zoneforbud blev truffet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Zoneforbuddet kan dog først håndhæves, over for den pågældende, når forbuddet er meddelt eller forkyndt over for den pågældende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forbindelse med ændringen af politiloven, hvorved bemyndigelsen til at meddele zoneforbud, der omfatter en hel kommune blev indsat, blev straffen for overtrædelse af zoneforbud meddelt i medfør af ordensbekendtgørelsens § 6, stk. 3, skærpet, således at overtrædelse af forbuddet nu straffes med fængsel, jf. afsnit 5.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">4.6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Zoneforbud efter § 6, stk. 5</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Betingelser, forvaltningsretlige spørgsmål i forbindelse med meddelelse af zoneforbud samt forbuddets udstrækning og gyldighed fremgår af vejledning nr. 9319 af 31. marts 2017 om meddelelse af zoneforbud efter ordensbekendtgørelsens § 6, stk. 4 (nu § 6, stk. 5).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om udvidelse af et zoneforbuds radius med indtil 1000 meter se endvidere bekendtgørelse nr. 616 af 10. juni 2014 samt forarbejderne til lov nr. 733 af 25. juni 2014 (L 112 af 15. januar 2014, de almindelige bemærkninger, pkt. 5.2.2.).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Straf og andre retsfølger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ordensbekendtgørelsens strafhjemmel er angivet i § 18, stk. 1, hvorefter der kan straffes med bøde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af § 18, stk. 1, 2. pkt., at der ved fastsættelse af straffen skal lægges betydelig vægt på hensynet til sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">5.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Strafpåstande ved visse overtrædelser af ordensbekendtgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nedenstående bødepåstande stammer fra forarbejderne til lov nr. 249 af 30. marts 2011 om ændring af lov om politiets virksomhed samt lov om restaurationsvirksomhed og alkoholbevilling mv. (skærpelse af bødestraffen for overtrædelse af ordensbekendtgørelsen m.v.).</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er således i lovforslag nr. L 102 af 15. december 2010, de almindelige bemærkninger, pkt. 1-2, fastsat vejledende retningslinjer for bøden ved forskellige overtrædelser af ordensbekendtgørelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bestemmelsen i ordensbekendtgørelsens § 3, stk. 4, om forbud mod etablering og ophold i lejre er indsat i ordensbekendtgørelsen ved bekendtgørelse nr. 305 af 31. marts 2017.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bødepåstanden i disse sager fremgår derfor ikke af forarbejderne til lov nr. 249 af 30. marts 2011.</Char>
+        </Linea>
+        <Linea>
+          <Char>Henset til overtrædelsens karakter og de øvrige påstande for overtrædelse af ordensbekendtgørelsen er det Rigsadvokatens opfattelse, at anklagemyndigheden som udgangspunkt skal nedlægge påstand om en bøde på 1.000 kr. i disse sager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.1.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 3 – forstyrrelse af den offentlige orden</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Gadeuorden, jf. § 3, stk. 1 (gælder også ved fornærmelig optræden over for politiet, der ikke er omfattet af straffelovens §§ 119 eller 121)</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>Se </Char>
+                  <Char formaChar="Underline">pkt. 4.2.</Char>
+                  <Char> om gadeuorden</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Gadeuorden samtidig med sammenstimlen, herunder ved fodboldkampe og lignende arrangementer, jf. § 3, stk. 1, og § 4, stk. 1 (begge overtrædelser)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Voldelig optræden/slagsmål, jf. § 3, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">minimum</Char>
+                  <Char></Char>
+                  <Char formaChar="Bold">3.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bødepåstanden skal forhøjes, hvis overtrædelsens karakter og konsekvenser taler for det, herunder hvis der er tale om personskade.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal ved fastsættelse af bødepåstanden for over¬trædelse af § 3, stk. 1, og § 4, stk. 1, indgå som en skærpende omstændighed, hvis for¬holdet er begået mens eller i umiddelbar forlængelse af, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, jf. § 18, stk. 1, 3. pkt. Se pkt. 4.3. om grov forstyrrelse af ro og orden på offentligt sted.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af § 3, stk. 1, mens eller i umiddelbar forlængelse af, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, jf. § 18, stk. 1, 3. pkt., jf. § 3, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">4.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Den pågældende skal have forsæt til, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">4.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af § 3, stk. 1, samtidig med sammenstimlen mens eller i umiddelbar forlængelse af, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, jf. § 18, stk. 1, 3. pkt., jf. § 3, stk. 1, og § 4, stk. 1 (begge overtrædelser).</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Den pågældende skal have forsæt til, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">6.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Uanstændig opførsel, herunder urinering, jf. § 3, stk. 2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Spirituspåvirkethed/narkotikapåvirkethed mv., jf. § 3, stk. 3</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Forbud mod etablering og ophold i lejre, § 3, stk. 4</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.2.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 4 – sammenstimlen m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Sammenstimlen, jf. § 4, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Sammenstimlen samtidig med gadeuorden, herunder ved afholdelse af fodboldkampe eller lignende arrangementer, jf. § 4, stk. 1, og § 3, stk. 1 (begge overtrædelser).</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Se ovenfor vedrørende § 3,</Char>
+                  <Char formaChar="Underline"> pkt. 5.1.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Sammenstimlen mens eller i umiddelbar forlængelse af, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, jf. § 18, stk. 1, 3. pkt., jf. § 4, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Se </Char>
+                  <Char formaChar="Underline">pkt. 4.3.</Char>
+                  <Char> om grov forstyrrelse af ro og orden på offentligt sted.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">4.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Sammenstimlen samtidig med overtrædelse af § 3, stk. 1, mens eller i umiddelbar forlængelse af, at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, jf. § 18, stk. 1, 3. pkt., jf. § 4, stk. 1, og § 3, stk. 1 (begge overtrædelser).</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Se ovenfor vedrørende § 3, </Char>
+                  <Char formaChar="Underline">pkt. 5.1.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">6.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ikke efterkomme anvisning, jf. § 4, stk. 2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.3.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 6 – forbud mod at færdes eller tage ophold bestemte steder</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af påbud efter § 6, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af forbud efter § 6, stk. 2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af § 6, stk. 4</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Overtrædelse af zoneforbud udstedt i medfør af § 6, stk. 3 og 5, straffes med fængsel indtil 1 år og 6 måneder, under særligt formildende omstændigheder dog med bøde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Overtrædelse af zoneforbud efter § 6, stk. 3 (hvis der alene er ét forhold til pådømmelse):</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af zoneforbud efter § 6, stk. 3 (hvis der alene er ét forhold til pådømmelse):</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Førstegangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 7 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Andengangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 14 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Tredjegangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 40 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis der er flere forhold til samtidig pådømmelse, nedlægges påstand om en passende højere samlet straf.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Overtrædelse af zoneforbud efter § 6, stk. 5 (hvis der alene er ét forhold til pådømmelse):</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Førstegangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 14 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Andengangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 30 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Tredjegangstilfælde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">Fængsel i 60 dage</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I fjerdegangstilfælde og derover forudsættes det i forarbejderne til lov nr. 1786 af 28. december 2023 (L 80 af 14. november 2023, de almindelige bemærkninger pkt. 2.2.3.), at der som udgangspunkt fastsættes en passende skærpet straf i forhold til de ovennævnte strafpositioner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis der er flere forhold til samtidig pådømmelse, nedlægges der endvidere påstand om en passende højere samlet straf med udgangspunkt i ovennævnte strafpositioner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Straffen for overtrædelse af zoneforbud udstedt i medfør af ordensbekendtgørelsens § 6, stk. 5, blev skærpet med lov nr. 1786 af 28. december 2023, der trådte i kraft den 1. januar 2024.</Char>
+        </Linea>
+        <Linea>
+          <Char>Er forholdet begået forud for den 1. januar 2024, vil anklagemyndigheden derfor i stedet skulle tage udgangspunkt i de strafpositioner, der er angivet ovenfor vedrørende zoneforbud efter § 6, stk. 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Er overtrædelsen af et zoneforbud udstedt i medfør af ordensbekendtgørelsens § 6, stk. 5, begået i en målrettet skærpet strafzone udpeget i medfør af politilovens § 6 a, stk. 1, 2. pkt., er det udgangspunktet, at straffen i medfør af straffelovens § 81 e, fordobles sammenlignet med straffen for tilsvarende overtrædelser begået uden for en målrettet skærpet strafzone.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der henvises i øvrigt til Rigsadvokatmeddelelsens afsnit om straffens fastsættelse, pkt. 5.8.2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Se i øvrigt vedrørende zoneforbud generelt forarbejderne til lov nr. 733 af 25. juni 2014 (L 112 af 15. januar 2014, de almindelige bemærkninger, pkt. 5.2.) og forarbejderne til lov nr. 131 af 27. februar 2018 (L 118 af 13. december 2017, de almindelige bemærkninger, pkt. 2.1.2.)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Se i øvrigt ovenfor under pkt. 5 og pkt. 4.4 og 4.5. om zoneforbud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.4.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 7 – forbud mod at tage ophold på trapper m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Uberettiget ophold, jf. § 7, stk. 1, herunder i trappeopgange</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Banke på døre/ringe på ringeklokker m.v., jf. § 7, stk. 2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Se i øvrigt ovenfor under pkt. 4.1. om det geografiske anvendelsesområde for ordensbekendtgørelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.5.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 8 – musik til væsentlig ulempe</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Musik til væsentlig ulempe, jf. § 8, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.6.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 9 – opsætning eller ombæring af plakater, uddeling af skrifter og reklamer m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Plakatopsætning, jf. bekendtgørelsens § 9, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.500 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ombæring af plakater og/eller uddeling af skrifter mv., jf. § 9, stk. 1 :</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ombæreren eller uddeleren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Udstilling af anstødelig karakter (f.eks. pornoudstilling), jf. § 9, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">3.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Aflevering/uddeling af skrifter eller billeder med anstødeligt indhold i huse, opgange mv., jf. § 9, stk. 2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Aflevereren/uddeleren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">minimum</Char>
+                  <Char></Char>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" colspan="2" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Bødepåstanden kan i de sidstnævnte tilfælde forhøjes under hensyn til det uddelte materiales karakter og mængde.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" colspan="2" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Uddeling til forbipasserende af reklamemateriale, jf. § 9, stk. 3</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Uddeleren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ejeren</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">2.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.7.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 12 – anvendelse af skydevåben, buer, slangebøsser m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Anvendelse af skydevåben, buer, slangebøsser eller lignende og antændelse af bål eller kast med sten, snebolde, vand eller andet til fare eller ulempe for forbipasserende, jf. § 12, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">minimum</Char>
+                  <Char></Char>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Er der forvoldt fare, kan forholdet være omfattet af straffelovens § 252.</Char>
+        </Linea>
+        <Linea>
+          <Char>Er der tale om et ulovligt våben, henvises til rigsadvokatmeddelelsen afsnittet om Sanktionspåstande i våbensager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bødetaksten på 1.000 kr. skal som udgangspunkt anvendes ved eksempelvis kast med vand eller snebolde, medmindre der foreligger grovere omstændigheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der anvendes højere bøder for overtrædelse af bestemmelsen ved anvendelse af våben, og der bør afhængig af de konkrete omstændigheder i den forbindelse lægges vægt på bødeniveauet i våbenlovgivningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="605" style="column-width: 283pt 170pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Rubrica formaForma="Overskriftstekst3">
+            <Linea>
+              <Char formaChar="Italic">5.1.8.</Char>
+            </Linea>
+            <Linea>
+              <Char formaChar="Italic">§ 15 – færdsel på isen</Char>
+            </Linea>
+          </Rubrica>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Færdsel på isen i strid med forbud, jf. § 15, stk. 1</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="middle" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Right">
+                <Linea>
+                  <Char formaChar="Bold">1.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">5.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Nedsættelsesgrunde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bøderne nedsættes for unge under 18 år og for personer med særlig lav indtægt i overensstemmelse med ordningen på færdselslovens område.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er alderen og indtægtsforholdene på gerningstidspunktet, der er afgørende for spørgsmålet om bødenedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nærmere retningslinjer, herunder indtægtsgrænser for bødenedsættelse, kan findes i Rigsadvokatmeddelelsen afsnittet om straffens fastsættelse under punktet straf og andre retsfølger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det bemærkes, at bøder ikke kan nedsættes ved en bødetilkendegivelse på stedet, jf. pkt. 2.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Efter dom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst2">
+        <Linea>
+          <Char formaChar="Italic">6.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Domme til Vidensbasen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Anklageren skal overveje, om dommen er egnet til at indgå i Anklagemyndighedens Vidensbase.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vidensbasen skal dels indeholde afgørelser, som afspejler strafniveauet, praksis for rettighedsfrakendelse og andre retsfølger mv., dels afgørelser af mere principiel karakter, hvor der er taget stilling til et eller flere uafklarede spørgsmål i relation til bestemmelsernes anvendelsesområde, fortolkning mv.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En afgørelse kan også have generel betydning, hvis den f.eks. indeholder en sagkyndig erklæring eller anden faglig udtalelse, som vil være anvendelig i andre sager.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Domme til Vidensbasen sendes på mail til vidensenheden@ankl.dk med en kort begrundelse for indstillingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Domme til Vidensbasen skal være endelige.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst1">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Love og forarbejder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ordensbekendtgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 511 af 20. juni 2005 om politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Efterfølgende ændringer til ordensbekendtgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr nr. 860 af 30. juni 2017 om ændring af bekendtgørelse om politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 305 af 31. marts 2017 om ændring af bekendtgørelse om politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelse)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 616 af 10. juni 2014 om ændring af politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 373 af 19. april 2011 om ændring af politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 1114 af 30. november 2009 om ændring af politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 540 af 11. juni 2009 om ændring af politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekendtgørelse nr. 373 af 23. maj 2008 om ændring af politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed m.v., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 303 af 19. april 2006 om ændring af færdselsloven (bl.a. om ophævelse af ordensbekendtgørelsens § 11)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bekg.</Char>
+              </Linea>
+              <Linea>
+                <Char>nr. 427 af 7. maj 2018 om ændring af bekendtgørelse om politiets sikring af den offentlige orden og beskyttelse af enkeltpersoners og den offentlige sikkerhed mv., samt politiets adgang til at iværksætte midlertidige foranstaltninger (ordensbekendtgørelsen)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre relevante love og forarbejder</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 1270 af 29. november 2019 om politiets virksomhed (politiloven)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 733 af 25. juni 2014 om ændring af straffeloven, retsplejeloven, lov om våben og eksplosivstoffer, lov om politiets virksomhed og lov om fuldbyrdelse af straf m.v.</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>L 112 af 15. januar 2014 – Forslag til lov om ændring af straffeloven, retsplejeloven, lov om våben og eksplosivstoffer, lov om politiets virksomhed og lov om fuldbyrdelse af straf m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 249 af 30. marts 2011 om ændring af lov om politiets virksomhed og lov om restaurationsvirksomhed og alkoholbevilling m.v.</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>L 102 af 15. december 2010 - Forslag til lov om ændring af lov om politiets virksomhed og lov om restaurationsvirksomhed og alkoholbevilling m.v.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 1107 af 1. december 2009 om ændring af straffeloven og lov om politiets virksomhed</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>L 49 af 29. oktober 2009 – Forslag til lov om ændring af straffeloven og lov om politiets virksomhed</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 501 af 12. juni 2009 om ændring af straffeloven, retsplejeloven, våbenloven, lov om politiets virksomhed, lov om fuldbyrdelse af straf m.v. og forvaltningsloven (styrket indsats mod bandekriminalitet m.v.)</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>L 211 af 29. april 2009 - Forslag til lov om ændring af straffeloven, retsplejeloven, våbenloven, lov om politiets virksomhed, lov om fuldbyrdelse af straf m.v. og forvaltningsloven (styrket indsats mod bandekriminalitet m.v.)</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lov nr. 131 af 27. februar 2018 om ændring af lov om politiets virksomhed (Udvidet bemyndigelse til at fastsætte regler om zoneforbud)</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>L 118 af 13. december 2017 - Forslag til lov om ændring af lov om politiets virksomhed (Udvidet bemyndigelse til at fastsætte regler om zoneforbud)</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Relevante vejledninger og cirkulæreskrivelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Skrivelse af 30. juni 2017 om zoneforbud for overtrædelse af forbuddet mod at etablere og ophold sig i lejre, som er egnede til at skabe utryghed i nærområdet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Vejledning nr. 9319 af 31. marts 2017 om meddelelse af zoneforbud efter ordensbekendtgørelsens § 6, stk. 4.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Cirkulæreskrivelse nr. 9510 af 16. december 1996 vedrørende ordning om bødetilkendegivelser på stedet</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id4e43626f-e84d-4a7a-bcc3-414e8cab9d99">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

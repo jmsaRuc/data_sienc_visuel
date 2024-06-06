@@ -1,0 +1,2502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id2d5b6354-27f9-43b4-a8d4-b51ee14a37f3" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id498c0ff7-0359-4039-b4a0-2d89a0639409">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240915660</AccessionNumber>
+    <DocumentId>DH001791</DocumentId>
+    <UniqueDocumentId>242534</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til udbredelse af familiehuse i hele landet</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-18</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>9156</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240028405</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-18</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til udbredelse af familiehuse i hele landet</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2024-3240</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id091342ff-128c-4d9d-b0bb-ef6399dea69b">
+    <Titel id="id38df3daa-ce57-401d-9137-009bc4158764">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til udbredelse af familiehuse i hele landet</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id769deed1-a88c-4b4b-8790-879e5fe62f1a">
+    <TekstGruppe id="idb3fa1806-f84f-49af-9ac2-591b6b9f2877">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 6. juni 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12.00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">INDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">5 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">6 Indhold i projektet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7 Fordeling af midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">10 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">12 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">13 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">15 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">1 Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som led i Aftale om Børnene Først fra maj 2021 blev der afsat midler til udmøntning for ansøgningspuljen til udbredelse af familiehuse i hele landet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er afsat i alt 91,5 mio. kr. til ansøgningspuljen på finansloven for 2024 på § 15.26.34.10.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ud over denne ansøgningspulje er der afsat yderligere to ansøgningspuljer til at understøtte kommunernes udbredelse af familiehuse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er afsat 38,1 mio. kr. til en ansøgningspulje i 2026 og 29,0 mio. kr. til en ansøgningspulje i 2028.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der blev ligeledes udmøntet en ansøgningspulje til samme formål på 126 mio. kr. i 2022.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Kommuner kan kun opnå tilskud fra én af de i alt fire ansøgningsrunder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommuner, der opnåede tilskud i 2022, kan således ikke søge denne eller de to fremtidige puljer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommuner, der fik afslag fra ansøgningspuljen i 2022, kan søge om tilskud igen ved denne eller senere runder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er mulighed for fleksibel opstart af projekter, der finansieres af ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Således kan kommuner vælge at udskyde projektstart.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil dermed være muligt først at starte projektet senere i 2025 eller 2026, selvom tilskuddet er afgivet i 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved udskudt projektopstart skal kommunen dog fortsat afslutte projektet inden for den fireårige projektperiode, som løber fra1.</Char>
+        </Linea>
+        <Linea>
+          <Char>november 2024 til 31. december 2028.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">2 Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde tilskud til at støtte og vejlede sårbare småbørnsfamilier og kommende forældre gennem udbredelse af familiehuse som en samlet indgang til kommunens tilbud på småbørnsområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et familiehus kan både være en fysisk indgang til kommunens tilbud på småbørnsområdet, men kan også etableres som en samlet organisering i form af formaliseret samarbejde på småbørnsområdet og tværsektorielt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uanset om der er tale om en fysisk eller organisatorisk indgang er hensigten, at et familiehus skal gøre indsatserne fra forskellige faggrupper lettere tilgængelige for småbørnsfamilierne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Et familiehus kan ikke udelukkende tilbyde indsatser efter barnets lov §§ 30 og 32, men skal så vidt muligt tilbyde en samlet indgang til kommunens tilbud på småbørnsområdet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Se også en uddybende beskrivelse af hensigten med familiehuse i afsnit 6.2</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">3 Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er kommuner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Kommuner, der har opnået tilskud fra ansøgningspuljen til udbredelse af familiehuse i hele landet i 2022, kan ikke søge ansøgningspuljen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det forventes at der kan ydes tilskud til omkring 30 kommuner fra denne ansøgningsrunde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">4 Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er kommende forældre og forældre med børn, primært småbørnsforældre til børn i alderen 0-6 år, herunder særligt forældre, som har brug for en mere individuel og håndholdt hjælp til at være familie.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den overordnede målgruppe for familiehuse er alle kommende forældre og familier med børn i alderen 0-6 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der skal være et særligt fokus på de forældre, som har brug for individuel og håndholdt hjælp til at være en familie, herunder forældre og kommende forældre, der selv har været anbragt som barn/ung.</Char>
+        </Linea>
+        <Linea>
+          <Char>Målgruppen inkluderer familier til børn med fysiske eller psykiske funktionsnedsættelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">5 Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Familier med små børn eller kommende familier kan have brug for støtte og vejledning om flere forskellige relaterede emner og problematikker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Mens nogen kan klare sig med universelle tilbud, kan andre have brug for en mere håndholdt og individuelt tilrettelagt indsats.</Char>
+        </Linea>
+        <Linea>
+          <Char>Fælles er dog, at man som ny familie kan have mange kontaktflader i det offentlige, hvor det er vigtigt at sikre sammenhæng og god koordinering mellem fagområder – særligt for familier med mere komplekse problemstillinger i en sårbar eller udsat position.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved at omlægge småbørnsområdet, så indsatser og tilbud fra forskellige fagområder i højere grad samles og koordineres tværfagligt, med brug af familiehuse, styrkes den tidligere forebyggende og helhedsorienterede indsats for kommende forældre og familier med børn i alderen 0-6 år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En samlet tidlig forebyggende og helhedsorienteret indsats med familiehuse skal skabe ét samlingssted for kommende forældre og småbørnsfamilier, hvor der er let adgang til hurtig hjælp og støtte fra relevante faggrupper på området.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">6 Indhold i projektet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">6.1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan ydes tilskud fra ansøgningspuljen til udgifter i forbindelse med etablering eller udvidelse af et eksisterende familiehus, som én samlet indgang til kommunens tidlige, forebyggende tilbud og indsatser til målgruppen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Herudover kan en mindre del af tilskuddet anvendes til at etablere eller udbygge en social døgnvagt i tilknytning til familiehusene og/eller til at tilknytte børnebaser til familiehusene.</Char>
+        </Linea>
+        <Linea>
+          <Char>For at der kan ydes tilskud til social døgnvagt og/eller børnebase skal størstedelen af kommunens tilskud anvendes til udbredelse af familiehus.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan blandt andet ydes tilskud til lønudgifter til projektleder og projektmedarbejdere samt frikøb af medarbejdere og ledere i kommunen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derudover kan der ydes tilskud til, at medarbejdere, ledere og øvrige nøglepersoner kan deltage i møder, rådgivning, kompetenceudvikling mv. Der kan ligeledes ydes tilskud til understøttelse af etablering af samarbejder i projektet, herunder eksempelvis relevante udgifter til at understøtte samarbejdet med civilsamfundsorganisationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ydes tilskud til udgifter, der er relevante for indretning af familievenlige rammer og lokaler i familiehusene.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan ikke ydes tilskud til anlægsudgifter og fast ejendom, herunder heller ikke til ombygning og renovering fx i forbindelse med etablering af et familiehus.</Char>
+        </Linea>
+        <Linea>
+          <Char>For en nærmere beskrivelse af tilskudsberettigede udgifter se vejledningens afsnit 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">6.2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Familiehus</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan søges midler til etablering eller udvidelse af et eksisterende familiehus, som én samlet indgang til kommunens tidlige, forebyggende tilbud og indsatser til målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Familiehusene skal bidrage til et helhedsorienteret løft af indsatsen på småbørnsområdet, så børn, deres familier og kommende forældre sikres tidlig og kvalificeret støtte, når de får behov for det.</Char>
+        </Linea>
+        <Linea>
+          <Char>En helhedsorienteret indsats karakteriseres bl.a. ved, at kommunerne samler de tidlige og forebyggende indsatser i en organisering karakteriseret ved én samlet indgang til hjælp og støtte til familierne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et familiehus kan i denne sammenhæng være et fysisk familiehus eller en samlet organisering, som arbejder på, at indsatserne for målgruppen er let tilgængelige dér, hvor småbørnsfamilierne har deres daglige gang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan være kommuner, hvor det i mindre grad giver mening at etablere ét fysisk familiehus, men i højere grad at arbejde på, at indsatserne for målgruppen er let tilgængelige.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én indgang kan dermed forstås som en fysisk indgang, men kan også være familiens vej ind til et organiseret og formaliseret samarbejde på småbørnsområdet i kommunen og tværsektorielt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis kommunen søger til en organiseringsform, hvor man samler indsatserne i én indgang, skal det fremgå hvordan organiseringen adskiller sig fra de indsatser, som kommunen har på nuværende tidspunkt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Erfaringer fra eksisterende familiehuse viser, at det ofte er familier, som bor i nærheden af familiehusene, som anvender tilbuddet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor kan det i nogle kommuner f.eks. være relevant med en udgående satellitfunktion, som møder familierne der, hvor de har deres daglige gang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan f.eks. være i tilknytning til dagtilbud, legestuer, skoler eller forsamlingshuse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Uanset om der er tale om en fysisk indgang eller en samlet organisering, lægger familiehusinitiativet op til, at indgangen rummer både universelle, forebyggende tilbud, fx jordemoderkonsultationer, fødselsforberedelse og tilbud ved sundhedsplejen, og mere målrettede indsatser, som fx netværksgrupper, forældrekurser og støtte ved fx familieterapeuter eller psykologer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Indsatsen skal bygge bro og sikre sammenhæng til andre indsatser, fx dagtilbud, jobcenter, myndighedsområdet, familieambulatorium, civilsamfundsorganisationer mv. Det er derfor ikke nok, at et familiehus udelukkende tilbyder indsatser, som ydes efter barnets lov §§ 30 og 32.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ligeledes er det med afsæt i førnævnte tilbud og indsatser yderst relevant, at have fokus på samarbejdet mellem kommune, region, praktiserende læge og civilsamfundsaktører for at yde en helhedsorienteret indsats til familierne gennem et familiehus.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">6.3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Social døgnvagt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan søges tilskud til at etablere eller udbygge en social døgnvagt med en særlig tilknytning til familiehusene og dennes målgruppe.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den kommunale sociale døgnvagt yder typisk råd og vejledning samt opfanger og videreformidler akutte sociale problemer der vedrører børn og unge under 18 år.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Akutte opgaver kan fx være:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Råd og vejledning i akutte situationer som involverer børn og unge under 18 år.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Akut anbringelse af børn og unge.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Uafhentede børn i daginstitution.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er endvidere vagtens opgave at sikre, at børn og unge opholder sig under betryggende forhold, og undersøge og handle i sager, hvor der er åbenbar risiko for at barnet/den unges sundhed eller udvikling lider alvorlig skade.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">6.4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Børnebaser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan ligeledes søges tilskud til at tilknytte børnebaser til familiehusene.</Char>
+        </Linea>
+        <Linea>
+          <Char>En børnebase er et fællesskab for anbragte børn og unge, hvori de kan danne relationer til børn og unge i samme situation og skabe faste relationer til voksne.</Char>
+        </Linea>
+        <Linea>
+          <Char>I børnebasen kan anbragte børn og unge få støtte og have et netværk væk fra deres plejefamilie eller døgninstitution.</Char>
+        </Linea>
+        <Linea>
+          <Char>En børnebase er derfor ofte en kombination at et værested for anbragte børn, hvor der også er mulighed for eksempelvis gruppetilbud til målgruppen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">6.5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tilbud om rådgivning og netværk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen tilbyder rådgivning til kommuner, der ønsker at arbejde med familiehuse og udvikling af deres småbørnsområde i retning mod en tidligere, forebyggende og helhedsorienteret indsats.</Char>
+        </Linea>
+        <Linea>
+          <Char>Rådgivningen tager udgangspunkt i Social- og Boligstyrelsens erfaringer fra tidligere initiativer, som berører såvel målgruppen som de organisatoriske rammer for arbejdet med en tidlig forebyggende tilgang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilbuddet om lokal rådgivning er ikke afhængig af, om kommunen søger puljemidler og skal søges særskilt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen kan i ansøgningsskemaet til puljen angive, om de er interesseret i at deltage i rådgivningsaktiviteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen vil herefter blive kontaktet af Social- og Boligstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Rådgivningsaktiviteterne kan således bestå af individuelle forløb tilpasset lokale forhold, deltagelse i regionale netværk med henblik på udveksling af erfaring med andre kommuner eller andre aktiviteter, der understøtter initiativet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i regi af familiehusinitiativet desuden etableret regionale netværk, som alle interesserede kommuner kan deltage i.</Char>
+        </Linea>
+        <Linea>
+          <Char>Deltagelse i de regionale netværk kræver løbende tilmelding via Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Flere oplysninger om rådgivningsforløb og deltagelse i regionale netværk herunder indhold, tidsplan og ansøgningsmateriale kan findes på Social- og Boligstyrelsens hjemmeside: </Char>
+          <Char formaChar="Underline">www.sbst.dk/familiehus</Char>
+          <Char>.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">7 Fordeling af midler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Midlerne i ansøgningspuljen er fordelt i regionale underpuljer for at understøtte en geografisk spredning af udbredelsen af familiehuse i hele landet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen skal søge ind i egen region og kan kun komme i betragtning til de midler, der fordeles til egen region.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De samlede midler fra puljen er fordelt svarende til andelen af kommuner i hver region, som kan opnå tilskud fra ansøgningspuljen, dvs. at kommuner, der opnåede tilskud i 2022, er fraregnet i fordelingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den samlede fordeling mellem regioner fremgår af tabel 1 nedenfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis der ikke er tilstrækkeligt med kvalificerede ansøgninger i de enkelte underpuljer, omfordeles midlerne fra den enkelte underpulje til de andre regionale underpuljer svarende til andelen af kommuner i de resterende regioner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Tabel 1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Regionale underpuljer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="646" style="column-width: 114pt 80pt 97pt 97pt 97pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr height="54">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">Region</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Samlet antal kommuner</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Antal kommuner, der fik tilskud i 2022</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Antal potentielle ansøgere</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Beløb der kan søges om i regionen</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="18">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Region Hovedstaden</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>29</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>8</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>21</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">26.341.479 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="18">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Region Sjælland</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>17</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>6</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>11</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">13.797.917 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="18">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Region Syddanmark</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>22</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>4</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>18</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">22.578.410 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="11">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Region Midtjylland</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>19</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>5</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>14</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">17.560.986 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="18">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>Region Nordjylland</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>11</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>2</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>9</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">11.289.205 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="18">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">I alt</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>98</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>25</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>73</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char>91.568.000 kr.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">8 Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet kan anvendes i en projektperiode på op til fire år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projektperioden varer fra 1. november 2024 til 31. december 2028.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er mulighed for fleksibel opstart af projekterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunerne kan således vælge at påbegynde projektet senere i projektperioden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dog skal projektet fortsat være afsluttet inden for projektperioden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kommunen skal angive dato for projektstart og projektslut i ansøgningen og udfylde budgetskemaet i overensstemmelse hermed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">9 Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, og om der er sammenhæng mellem disse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="641" style="column-width: 209pt 272pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">1.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Ansøgerkreds, formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="36">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">2.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Aktiviteter</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets aktiviteter bidrager til opfyldelse af projektets formål.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">3.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Faglige krav</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Familiehuset skal være en fysisk eller organisatorisk indgang til kommunens tilbud på småbørnsområdet.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Etableringen eller udvidelsen af familiehuset skal styrke den tidlige forebyggende indsats for målgruppen i relation til udfordringer og behov på området.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Hvis kommunen søger om tilskud til en social døgnvagt, skal den sociale døgnvagt have tilknytning til familiehuset.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Hvis kommunen søger om tilskud til en børnebase, skal børnebasen have tilknytning til familiehuset.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">4.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Organisatoriske krav</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal redegøre for, hvordan den vil samarbejde med regionen og almen praksis på området, samt, i det omfang det er relevant, hvordan den vil samarbejde med civilsamfundsorganisationer.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal afsætte ressourcer til projektledelse.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal have en plan for projektets tidsramme og organisering.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal have en plan for forankring af indsatsen efter projektperioden</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">5.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Budget</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er overensstemmelse mellem budgettet og aktiviteter og lign.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr height="4">
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus formaEx="Align">
+                <Linea>
+                  <Char formaChar="Bold">6.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Sammenhæng</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er sammenhæng mellem projektets formål, målgruppe, aktiviteter, tidsplan, organisering mv.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus>
+        <Linea>
+          <Char>Når ansøgningsskemaet udfyldes, skal ansøger beskrive nedenstående:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 1) Formål og målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets formål og målgruppe ligger inden for ansøgningspuljens formål og målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">formål</Char>
+          <Char> skal det beskrives, hvordan projektet har til formål at yde støtte og vejlede sårbare småbørnsfamilier og kommende forældre gennem udbredelse af familiehuse som en samlet indgang til kommunens tilbud på småbørnsområdet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Projektets </Char>
+          <Char formaChar="Bold">målgruppe</Char>
+          <Char> skal beskrives kort og præcist.</Char>
+        </Linea>
+        <Linea>
+          <Char>Beskrivelsen skal indeholde følgende oplysninger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Hvem indgår i målgruppe?</Char>
+              </Linea>
+              <Linea>
+                <Char>Det skal beskrives, hvad der kendetegner de borgere, som indgår i målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Hvor mange fra målgruppen forventes at deltage i projektet?</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at der gives et realistisk bud på, hvor mange der indgår i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Hvordan vil antal deltagere fra målgruppen i projektet bliver opgjort?</Char>
+              </Linea>
+              <Linea>
+                <Char>Det skal beskrives, hvordan antallet af deltagere optælles.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Det skal overvejes, om der er særlige kønsmæssige, aldersmæssige, handicap, etniske eller andre perspektiver, der skal tages højde for i projektet, I så fald skal det beskrives.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 3) Faglige krav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">En samlet indgang</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav at familiehuset skal være en fysisk eller organisatorisk indgang til kommunens tilbud på småbørnsområdet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én indgang kan forstås som et fysisk familiehus, som arbejder på, at indsatserne for målgruppen er let tilgængelige, der hvor familierne har deres daglige gang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én indgang kan også forstås som en samlet organisering, som udgør familiens vej ind til et organiseret og formaliseret samarbejde på småbørnsområdet i kommunen og tværsektorielt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af kravet skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den fremtidige organisering af familiehuset.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om en fysisk eller organisatorisk indgang.</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvis der er tale om en organisatorisk indgang skal det beskrives, hvordan organiseringen adskiller sig fra de indsatser kommunen har på nuværende tidspunkt.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overvejelser omkring, hvordan der sikres let tilgængelighed for borgerne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilke indsatser og tilbud der samles i familiehuset.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>I hvilket omfang universelle tilbud, forebyggende tilbud og servicelovbestemte tilbud indgår.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Universelle tilbud er indsatser, der tilbydes alle gennem tidlig støtte med forebyggende sundhedsydelser, forældrekursser etc. under og efter graviditeten, og frem til barnet begynder i skolen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ydelserne tilbydes gratis for hele befolkningen og skal sikre, at alle familier får tilbud om den nødvendige støtte og vejledning til at udvikle sig som forældre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Styrkelse af den tidlige, forebyggende indsats</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Det vil blive vurderet, om etableringen eller udvidelsen af familiehuset styrker den tidlige forebyggende indsats for målgruppen i relation til udfordringer og behov på området.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char>Til brug for vurdering af kravet skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Nuværende praksis og organisering på området.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Den nuværende og fremtidige faglige tilgang på området.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Hvilke bevæggrunde, herunder udfordringer og behov på området, der ligger til grund for ansøgningen og hvordan etablering/udvidelse af et familiehus vil imødekomme disse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus formaEx="Align">
+              <Linea>
+                <Char>Hvordan etableringen af et familiehus har sammenhæng til et helhedsorienteret løft af kommunens samlede indsats på 0-6 års området.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Social døgnvagt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis kommunen søger om tilskud til social døgnvagt, er det et krav at den sociale døgnvagt skal have tilknytning til familiehuset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan således ikke søges midler til udvidelse af den eksisterende sociale døgnvagt, hvis ikke udvidelsen er relateret til tilknytning af døgnvagten til familiehuset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den fremtidige organisering af den sociale døgnvagt.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilknytningen til familiehuset.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om etablering eller udvidelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Behov og motivation for den ønskede etablering eller udvidelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Estimat på, hvor meget af de ansøgte midler, der anvendes til etablering/udvidelse af den sociale døgnvagt.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Børnebase</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis kommunen søger om tilskud til børnebase, er det et krav at børnebasen skal have tilknytning til familiehuset.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den fremtidige organisering af børnebasen</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Tilknytningen til familiehuset</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvilken type af tilbud børnebasen indeholder.</Char>
+              </Linea>
+              <Linea>
+                <Char>Fx:</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Væresteder for anbragte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Gruppetilbud for anbragte.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Andre tilbud, evt.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>med en kombination af begge.</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Estimat på, hvor meget af de ansøgte midler, der anvendes til etablering af børnebaser.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 4) Organisatoriske krav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Samarbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at kommunen skal redegøre for, hvordan den vil samarbejde med regionen og almen praktiserende læge på området samt, i det omfang det er relevant, hvordan den vil samarbejde med civilsamfundsorganisationer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen har kommunen mulighed for at vedlægge en samarbejdsaftale for samarbejdet med regionen, almen praktiserende læge og, i det omfang det er relevant, civilsamfundsorganisationer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af samarbejde med regionen, skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Formatet for samarbejde med regionen omkring familiehuset.</Char>
+              </Linea>
+              <Linea>
+                <Char>Herunder særligt overvejelser omkring samarbejde omkring afholdelse af jordemoderkonsultationer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Såfremt kommunen ikke har kunnet indgå et samarbejde med regionen omkring familiehuset skal dette begrundes.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af samarbejdet med almen praktiserende læge, skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Formatet for samarbejde med almen praktiserende læge eller lægehus omkring familiehuset.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Såfremt kommunen ikke har kunnet indgå et samarbejde med almen praktiserende læge omkring familiehuset, skal dette begrundes.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af samarbejdet med civilsamfundsorganisationer skal kommunen, i det omfang det er relevant, beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Omfang og format af samarbejde med civilsamfundsorganisationer.</Char>
+              </Linea>
+              <Linea>
+                <Char>Herunder</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvilke/hvilken organisation der samarbejdes med, og hvad deres rolle bliver i familiehuset</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Pind">
+                  <Explicatus>-</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Hvilke/hvilken type af aktiviteter, der fx kan være tale om</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Begrundelse for et evt.</Char>
+              </Linea>
+              <Linea>
+                <Char>fravalg af samarbejde med civilsamfundsorganisationer,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Projektledelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav at kommunen skal afsætte ressourcer til projektledelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Omfang og indhold i projektledelsen for etablering af familiehus.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Tidsramme</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at kommunen skal redegøre for projektets tidsramme.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets tidsplan, herunder om nogle aktiviteter der tidsmæssigt skal placeres før andre, og om der er særlige kritiske betingelser, der skal være opfyldt før projektets fortsættes,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Organisering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at kommunen redegør for projektets organisering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets organisering, herunder opgavefordeling, organisatoriske placering, projektets medarbejdere, herunder antallet af medarbejdere og deres faglige baggrund mv.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Underline">Forankring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er et krav, at kommunen skal have en plan for, hvordan indsatsen forankres efter projektophør.</Char>
+        </Linea>
+        <Linea>
+          <Char>Til brug for vurderingen skal kommunen beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor og hvordan indsatsen forankres organisatorisk efter tilskudsperiodens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overvejelser om, hvordan økonomi understøtter implementering og forankring af indsatsen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overvejelser om, hvordan det strategiske ledelsesniveau løbende kan inddrages i implementeringsforløb og forankring af indsatsen,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overvejelser om, hvordan et tværfagligt og tværsektorielt samarbejde kan etableres, så det understøtter forankring af indsatsen,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Overvejelser om, hvordan viden om den nye indsats formidles i organisationen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 5) Budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af den samlede ansøgning, </Char>
+          <Char formaChar="Bold">budget</Char>
+          <Char> samt eventuelle budgetnoter vil følgende blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er sammenhæng mellem de beskrevne aktiviteter og de udgiftstyper, som fremgår af budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om projektafgrænsede udgifter rettet mod at yde støtte og vejlede sårbare småbørnsfamilier og kommende forældre gennem udbredelse af familiehuse som en samlet indgang til kommunens tilbud på småbørnsområdet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet er realistisk og udelukkende indeholder tilskudsberettigede og nødvendige udgifter, som direkte kan henføres til det konkrete projekts gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der må således ikke budgetteres med udgifter, som ikke direkte kan henføres til det konkrete projekt, eller udgifter, der ikke kan gives tilskud til.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om udgifter er specificeret i budgettet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter kan således ikke samles i overordnede budgetposter som overhead, administrationsbidrag og diverse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan ikke budgetteres med uforudsete udgifter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet udviser sparsommelighed ved fastlæggelse af niveauerne i budgetposterne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun i særlige tilfælde ydes tilskud til udgifter, som er afholdt, før der blev ydet tilskud, hvis udgifterne har en klar tilknytning til projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Læs mere om krav til budgettet m.m. i vejledningens afsnit 10-12.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">Ad 6) Sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet på baggrund af den samlede beskrivelse af projektet, om der er </Char>
+          <Char formaChar="Bold">sammenhæng</Char>
+          <Char> mellem projektets formål, målgruppe, aktiviteter, tidsplan, organisering, budget mm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">10 Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indtastes i Excel-dokumentet ”Budgetskema”, som kan hentes på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved indsendelse af ansøgningen vedlægges budgetskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at følgende oplysninger angives i budgettet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets titel</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers identifikation (CVR-nummer)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Ansøgers navn og adresse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal udgøre en fyldestgørende og sandfærdig beskrivelse af projektets forventede udgifter i forhold til det ansøgte projekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal oplyses, hvis der er en økonomisk interesse mellem ansøger og projektets samarbejdspartnere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil fx være tilfældet, hvis der er personsammenfald mellem projektets medarbejdere og leverandører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Periodiserede budgetter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgifterne skal periodiseres, således at udgiften budgetteres i det kvartal, den forventes afholdt i det pågældende projektår/i det projektår, den forventes afholdt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der fx er en ansat projektleder i projektet, opgøres lønnen, som den afholdes, én gang i kvartalet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Gennemsnitstal kan således ikke anvendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Enhedspriser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle udgiftsposter skal så vidt muligt udspecificeres i antal enheder og pris pr. enhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis projektet fx indebærer afholdelse af to ens aktiviteter inden for det samme kvartal, og hver af aktiviteterne koster 10.000 kr., anføres to enheder á 10.000 kr. i det eller de kvartaler, hvor aktiviteten og dermed udgifterne forventes afholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Noter til budgettet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved behov skal der udarbejdes forklarende noter til de udgiftsposter, som anføres i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en af budgetposterne fx er ”Seminar”, kan noten indeholde oplysninger om forventet antal deltagere, seminarets varighed (antal dage, med eller uden overnatning), pris pr. deltager, honorar til oplægsholder mv. Noten skal således dels klarlægge indholdet af den enkelte aktivitet og dels klarlægge forudsætningerne for udgiftens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke en skabelon for udarbejdelse af forklarende noter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Kommuner og regioner kan ikke få tilskud til dækning af moms, da momsen refunderes af momsudligningsordningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alle udgifter i budgettet skal derfor være ekskl.</Char>
+        </Linea>
+        <Linea>
+          <Char>moms.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">11 Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der er tilskudsberettigede i forhold til tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Lønudgifter</Char>
+                <Char> der afholdes i forbindelse med, at medarbejdere deltager i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter skal budgetteres med antal timer og sats pr. time.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter må ikke inkluderes under andre budgetposter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønniveauet må ikke være højere end det, der er aftalt i overenskomster for arbejdet på området.</Char>
+              </Linea>
+              <Linea>
+                <Char>Yderligere information kan fås ved henvendelse til de relevante fagforeninger.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvis området ikke er dækket af en overenskomst, må lønniveauet ikke være højere end det, der er aftalt i de statslige overenskomster for lignende arbejde.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til etablering af familievenlige rammer i familiehuse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til</Char>
+                <Char formaChar="Bold"> honorarer til konsulenter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">revisor</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan løbende afholdes udgifter til revisor til revision af projektregnskab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige </Char>
+                <Char formaChar="Bold">forsikringer</Char>
+                <Char>, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">transport</Char>
+                <Char> i egen bil eller </Char>
+                <Char formaChar="Bold">offentlig transport</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Transportudgiften skal beregnes på baggrund af statens lave takst pr. km., jf. Økonomistyrelsens Cirkulære om satsregulering for tjenesterejser.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifterne skal budgetteres med antal kilometer og takst pr. km.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">aktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">specifikke uddannelses- og kursusaktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">formidling</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>10.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">lokaler</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>11.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til småanskaffelser, herunder </Char>
+                <Char formaChar="Bold">kontorhold</Char>
+                <Char> (fx mindre kontorartikler, porto mv.).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">12 Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der ikke kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Materielanskaffelser </Char>
+                <Char>for over 50.000 kr. pr. projektår, medmindre der er tale om udgifter til etablering af familievenlige rammer i familiehuse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Anskaffelse af </Char>
+                <Char formaChar="Bold">fast ejendom</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Anlægsudgifter </Char>
+                <Char>(fx ombygning og renovering).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af </Char>
+                <Char formaChar="Bold">underskud</Char>
+                <Char> eller anden gæld.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Støtte til </Char>
+                <Char formaChar="Bold">enkeltpersoners underhold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter, der </Char>
+                <Char formaChar="Bold">fuldt ud er finansieret</Char>
+                <Char> fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>7.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Generelle uddannelses- og kursusaktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>8.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter for personer </Char>
+                <Char formaChar="Bold">uden lovligt ophold i Danmark</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>9.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til projekter forankret i </Char>
+                <Char formaChar="Bold">udlandet samt Grønland og Færøerne</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">13 Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den 6. juni 2024 kl 12.00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, budgetskema og eventuelle bilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Offentlige myndigheder og offentlige institutioner m.v. </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Private ansøgere </Char>
+          <Char formaChar="Bold">kan</Char>
+          <Char> indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Private ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til </Char>
+          <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle</Char>
+          <Char> ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal</Char>
+          <Char> indgives på den ansøgningsblanket og i det budgetskema, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget</Char>
+          <Char> i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold Underline">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">For offentlige myndigheder og offentlige institutioner m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever fejl på Social- og Boligstyrelsens Tilskudsportal, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I kontakte Tilskudsadministration på e-mail </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char> eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse</Char>
+          <Char> af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char></Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">For private ansøgere</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden</Char>
+                <Char> ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char>, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse</Char>
+          <Char> af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til </Char>
+                <Char formaChar="Underline">tilskudsforvaltning@sbst.dk</Char>
+                <Char></Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Align" />
+      <Exitus formaEx="Align">
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever</Char>
+          <Char formaChar="Bold"> it-problemer på egne systemer</Char>
+          <Char>,</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>er det jeres eget ansvar at afhjælpe disse, fx</Char>
+          <Char formaChar="Bold"></Char>
+          <Char>i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningen, at ansøger skal eller kan indsende specifikke bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag, som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema eller budgetskema, hvis alle obligatoriske bilag ikke er vedlagt ansøgningen, eller hvis eventuelle anslagsbegrænsninger (anslag inkl.</Char>
+        </Linea>
+        <Linea>
+          <Char>mellemrum) i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">14 Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">15 Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id23d82748-c3e1-4936-8f6e-3e3808617011">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

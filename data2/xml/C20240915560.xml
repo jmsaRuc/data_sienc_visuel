@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="idb9905f3d-a6a5-4667-901b-12f47c9e82a4" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id313dcb4c-8536-4cb1-8dd4-ef0cf2569fdd">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20240915560</AccessionNumber>
+    <DocumentId>DH001790</DocumentId>
+    <UniqueDocumentId>242533</UniqueDocumentId>
+    <DocumentTitle>Vejledning om ansøgning om tilskud fra ansøgningspuljen til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-19</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-22</EndDate>
+    <Status>Valid</Status>
+    <Number>9155</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20240028505</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-19</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om ansøgningspuljen til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Ellen Klarskov Lauritzen</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Anja Marie Toxværd Rasmussen</Signature>
+    <PlaceOfSignature>Social- og Boligstyrelsen</PlaceOfSignature>
+    <JournalNumber>Social-, Bolig- og Ældremin., Social- og Boligstyrelsen, j.nr. 2024-872</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id7e844589-6857-426e-89cd-d8ae80613d55">
+    <Titel id="id351ced07-3da4-4fe2-9a32-66d2ed0cff72">
+      <Linea>
+        <Char>Vejledning om ansøgning om tilskud fra ansøgningspuljen til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id28386e1c-c814-4f06-858c-a7496ee3b1c7">
+    <TekstGruppe id="id5315b78e-b092-42dc-8c29-821a38e879fa">
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist den 10. maj kl.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">12.00</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">INDHOLDSFORTEGNELSE</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1	Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2	Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3	Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">4	Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">5	Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">6	Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7	Indhold i ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7.1	Hvad kan der søges om tilskud til?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">8	Erfaringsopsamling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">9	Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">10	Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">11	Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">12	Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">13	Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">14	Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">15	Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">16	Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Som led i aftalen om udmøntning af reserven til foranstaltninger på social-, sundheds- og arbejdsmarkedsområdet 2022 er der afsat midler til ansøgningspuljen til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er afsat 11,2 mio. kr. til ansøgningspuljen på finansloven for 2024 på § 15.86.16.10.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Borgere med demens kan have svært ved at opretholde følelsen af identitet og selvforståelse på grund af manglende erindringer om det levede liv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pårørende og medarbejdere kan bidrage til at vække erindringer hos borgere med demens ved at anvende livshistorien aktivt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er med til at skabe øget trivsel for borgere med demens, da det styrker borgerens identitetsfølelse, og samtidig bidrager til at øge dialogen om borgerens ønsker til at skabe en meningsfuld hverdag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Teknologi skaber nye muligheder for at understøtte arbejdet med livshistorien.</Char>
+        </Linea>
+        <Linea>
+          <Char>Digitale løsninger kan på forskellig vis anvendes til at vække erindringer og øge dialogen om borgerens livshistorie og dermed borgerens behov for pleje og omsorg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Virtuelle løsninger kan gøre det lettere at kommunikere, og dermed øge kontakt mellem borgeren og dennes pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontakten kan være med til at styrke borgerens selvforståelse og samtidig give øget nærhed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Denne ansøgningspulje giver således mulighed for at udbrede virtuelle og digitale teknologier, der kan bidrage til at styrke anvendelsen af livshistorier for borgere med demens og deres pårørende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgningspuljens formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens formål er at yde tilskud til at udbrede digitale løsninger og velfærdsteknologi, der kan bidrage til at vække erindring om det levede liv og den enkeltes identitet og livshistorie, øge dialogen om borgerens ønsker til dagligdagen samt understøtte øget trivsel og livskvalitet hos mennesker med demens på plejehjem og deres pårørende ved at styrke anvendelsen af livshistorier i den daglige pleje, omsorg og tilrettelæggelse af aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljen skal også sikre, at medarbejderne i ældreplejen kan få et meningsfuldt og brugbart redskab til at kende og anvende livshistorier i den personcentrerede omsorg for mennesker med demens.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgerkreds</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens ansøgerkreds er kommuner, private leverandører og selvejende institutioner i ældreplejen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved privat leverandører skal her forstås leverandør af plejehjem i ældreplejen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Målgruppe</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens målgruppe er mennesker med demens på plejehjem og deres pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pårørende skal her forstås som den nærtstående familie og/eller sociale netværk, som borgeren opfatter og anser som pårørende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Forventede resultater</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De forventede resultater for de støttede projekter er at:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Øge dialogen om borgerens ønsker til dagligdagen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Understøtte og fremme borgerens adgang til egen livshistorie.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Øge interaktionen og dialogen mellem borgeren, dennes pårørende og personalet som er omkring borgeren.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Understøtte øget trivsel og livskvalitet hos mennesker med demens på plejehjem og deres pårørende</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Øge medarbejdernes kendskab til borgerens livshistorie.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Styrke anvendelsen af livshistorier i den daglige pleje, omsorg og tilrettelæggelse af aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Baggrund om ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle mennesker har et levet liv med sig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et arbejdsliv, et familieliv, et fritidsliv som alle har indeholdt aktiviteter, interesser, roller og vaner.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det levede liv medvirker til at forme os til det menneske, vi er i dag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vores selvforståelse er formet af vores historie, og det er også det, vores måder at handle og agere på udspringer fra.</Char>
+        </Linea>
+        <Linea>
+          <Char>Mennesker har individuelle præferencer og behov, og det kan være vidt forskelligt, hvad der kan bidrage til, at mennesker får øget deres livskvalitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kræver derfor viden om det enkelte menneske og livshistorien for at kunne opfylde behov og sikre trivslen bedst muligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For borgere med demens bliver det ofte gradvist sværere at holde fast i erindringen og fortællingen om sit eget liv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette kan udfordres yderligere, når borgeren flytter på plejehjem, hvor de fysiske omgivelser naturligvis ændres.</Char>
+        </Linea>
+        <Linea>
+          <Char>De pårørende er måske heller ikke længere så tæt på i dagligdagen og kan derfor ikke i samme grad understøtte erindringen om det liv, der er levet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når plejepersonalet omkring borgerne kender borgernes livshistorier og inddrager disse i den daglige interaktion med borgeren, kan de understøtte og fastholde borgernes minder og erindringer, og hermed bidrage til opretholdelsen af borgernes identitet og selvforståelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Viden og borgerens livshistorier kan endvidere understøtte dialogen samt styrke interaktionen og relationen mellem mennesket med demens, dennes pårørende og plejepersonalet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Medarbejdernes kendskab til og inddragelse af borgernes livshistorier er grundlæggende for den personcentrerede omsorg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er et afgørende redskab til at kunne forstå borgerens adfærd og handlinger, så plejen og omsorgen kan målrettes til det enkelte menneske.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan være udgangspunktet for planlægningen af meningsfulde aktiviteter og strukturering af disse på en måde, der er tilpasset borgerens vaner, ønsker og behov.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I ældreplejen findes der forskellige metoder til at indsamle og opbevare borgernes livshistorier.</Char>
+        </Linea>
+        <Linea>
+          <Char>I praksis kan det være udfordrende både at videreformidle livshistorierne til kollegaer og skiftende medarbejdere samt systematisk at inddrage livshistorierne i den daglige omsorg, pleje og aktivitetsplanlægning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nye teknologiske fremskridt betyder, at der findes mange eksisterende teknologiske, digitale og virtuelle muligheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nogle soft- og hardwareløsninger er særligt udviklet til mennesker med kognitive udfordringer, og andre er kendt og brugt af den brede befolkning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Disse kan i sig selv eller kombination med hinanden være potentielle redskaber til at forstærke medarbejderes kendskab til den enkelte borgers livshistorie, understøtte den daglige inddragelse af livshistorier i pleje, omsorg og aktivitetsplanlægning samt bruges i samspil med mennesker med demens til at øge dialogen om borgerens ønsker til dagligdagen, vække erindring om det levede liv, og skabe nærhed, tryghed og meningsfuldt samvær.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan være alt fra en digital billederamme til en digital platform som kan rumme erindringer samt virtuelle løsninger til at øge muligheden for kontakten til de pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>De teknologiske muligheder er mange, og eksisterende digitale og teknologiske løsninger kan måske endda anvendes på nye kreative måder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Indhold i ansøgningspuljen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Teknologierne skal bidrage til at borgeren får vækket erindringen om historier fra sit eget liv.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er essentielt at teknologien i praksis kan bruges af borgeren selv, eller af dennes pårørende og personalet på plejehjemmet i interaktion med borgeren, da dette er med til at styrke borgerens oplevelse af nærhed, omsorg og livskvalitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Målgruppen kan også få udbytte af, at den digitale teknologi anvendes i fællesskab med pårørende eller medarbejdere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbredelse af teknologi forudsætter, at der er en realistisk plan, som kan sikre et klart overblik over de forskellige teknologier, som udbredes i praksis.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>De pårørende spiller en vigtig rolle for at kunne vedligeholde og udbygge livshistorien.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er en praktisk forudsætning, at pårørende kan bruge teknologien til at kommunikere og komme i kontakt med borgeren digitalt og virtuelt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Teknologien skal bidrage til at der skabes livserindringer, så dagligdagen kan tilpasses efter borgerens ønske.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at personalet på plejehjemmene kan bruge og tilpasse teknologierne.</Char>
+        </Linea>
+        <Linea>
+          <Char>En lettilgængelig og velkendt teknologi kan bidrage til at flere medarbejdere aktivt anvender teknologien til at styrke brugen af livshistorier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">7.1	 Hvad kan der søges om tilskud til?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan fra ansøgningspuljen ydes tilskud til projektets aktiviteter i forbindelse med erhvervelse af eksisterende digitale løsninger og teknologier, herunder soft- og hardware, som i sig selv eller i kombination med hinanden muliggør anvendelse af livshistorier i praksis.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ydes tilskud til at implementere og tilpasse eksisterende teknologier og digitale løsninger til det enkelte plejehjem og borgeren med demens.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan ydes tilskud til aktiviteter, som er nødvendige for at kunne implementere og udbrede digitale løsninger virtuel og teknologi, som kan styrke anvendelsen af livshistorier for målgruppen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Endvidere kan der ydes tilskud til lønudgifter, herunder frikøb af medarbejdere til deltagelse i aktiviteter, møder, netværk med andre projekter, tværgående aktiviteter, evalueringsaktiviteter og møder med Sundhedsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan ikke ydes tilskud til at udvikle nye teknologier.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan ikke ydes tilskud til at udbrede teknologi uden for plejehjem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er således uden for ansøgningspuljens formål at udbrede teknologien hos borgere med demens, der modtager hjemmehjælp.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For en nærmere beskrivelse af tilskudsberettigede udgifter se vejledningens afsnit 11.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">8.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Erfaringsopsamling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Sundhedsstyrelsen vil stå for en erfaringsopsamling af projekterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgere, som modtager tilskud fra ansøgningspuljen, er forpligtede til at bidrage til erfaringsopsamlingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette i form af at stille sin viden til rådighed, blandt andet via en årlig faglig status, hvor projektets foreløbige resultater og erfaringer beskrives samt en status i projektopstarten og slutstatus.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forbindelse med erfaringsopsamlingen vil planen for udbredelse blive taget op og I vil blive spurgt ind til jeres erfaringer i puljeprojektet med henblik på at styrke udbredelsen i praksis.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">9.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Projektperiode</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Tilskuddet anvendes i perioden fra 1. september 2024 til 31. december 2025.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projektet skal gennemføres i hele perioden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">10.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tildelingskriterier og vurdering af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen vurderes på baggrund af, om tildelingskriterierne er opfyldt, og om der er sammenhæng mellem disse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De enkelte vurderingsområder uddybes nedenfor efter den skematiske oversigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tabel 1: Tildelingskriterier og vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Table width="652" cellpadding="0.2cm,0.2cm,0.2cm,0.2cm" formaMarginoTop="0cm" formaMarginoBottom="0cm" formaMarginoLeft="0cm" formaMarginoRight="0cm" style="column-width: 165pt 325pt;border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000; grid-H: 1pt solid #000000; grid-V: 1pt solid #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">1.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Ansøgerkreds, formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets ansøger, formål og målgruppe ligger inden for ansøgnings-</Char>
+                </Linea>
+              </Exitus>
+              <Exitus>
+                <Linea>
+                  <Char>puljens ansøgerkreds, formål og målgruppe</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">2.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Aktiviteter og målsætninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøgere skal beskrive de aktiviteter, der skal bidrage til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal opstille relevante og konkrete målsætninger på borgerniveau for projektet.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">3.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Faglige krav</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal have en realistisk plan for udbredelse af livshistorieteknologien i ældreplejen.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I planen skal det beskrive, hvordan teknologierne har potentiale for udbredelse i praksis.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Desuden skal det beskrives, hvordan målgruppen og medarbejderne på plejehjemmene skal kunne anvende teknologierne i praksis.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal beskrive, hvordan teknologierne skal gøre det lettere for mennesker med demens og deres pårørende at kommunikere og komme i kontakt med hinanden digitalt og virtuelt for samtidig at give dem en oplevelse af øget nærhed og tilstedeværelse.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøger skal beskrive, hvordan medarbejderne i ældreplejen aktivt kan bruge livshistorier i deres arbejde med målgruppen, herunder i den daglige pleje, omsorg og tilrettelæggelse af aktiviteter.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">4.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Organisering og vidensdeling</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Projektets organisering har sammenhæng med projektets formål, målsætninger og aktiviteter.</Char>
+                </Linea>
+              </Exitus>
+              <Exitus />
+              <Exitus />
+              <Exitus>
+                <Linea>
+                  <Char>Ansøgere forpligter sig til at bidrage til erfaringsopsamling.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">5.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Budget</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er overensstemmelse mellem budget, aktiviteter og lignende.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">6.</Char>
+                </Linea>
+                <Linea>
+                  <Char formaChar="Bold">Sammenhæng</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" style="border-top: 1pt solid #000000; border-left: 1pt solid #000000; border-bottom: 1pt solid #000000; border-right: 1pt solid #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Der er sammenhæng mellem projektets formål, målgruppe, målsætninger, aktiviteter, organisering, plan for udbredelse, budget mm.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når ansøgningsskemaet udfyldes, skal ansøger beskrive nedenstående:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 1) Ansøgerkreds, formål og målgruppe:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets ansøger, formål og målgruppe ligger inden for ansøgningspuljens ansøgerkreds, formål og målgruppe.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">formål </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan projektet har til formål, at udbrede digitale løsninger og teknologi, der kan bidrage til at vække erindringer om det levede liv og den enkeltes identitet og livshistorie.</Char>
+              </Linea>
+              <Linea>
+                <Char>Derudover skal det beskrives, hvordan digitale løsninger og teknologi bidrager til at øge dialogen om borgerens ønsker til dagligdagen samt understøtte øget trivsel og livskvalitet hos mennesker med demens på plejehjem og deres pårørende.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af projektets </Char>
+          <Char formaChar="Bold">målgruppe </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvem der indgår i målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvad der kendetegner de borgere, som indgår i målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvor mange borgere fra målgruppen, der forventes at deltage i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er vigtigt, at der gives et realistisk bud på, hvor mange der indgår i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan antal borgere fra målgruppen i projektet bliver opgjort og optalt.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis der er særlige hensyn (fx køn, alder, handicap, etnicitet mv.), der skal tages højde for i projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 2) Aktiviteter og målsætninger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om ansøger har beskrevet aktiviteter, der bidrager til udbredelse af livshistorieteknologi til mennesker med demens og deres pårørende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Endvidere vil det blive vurderet om, ansøger har opstillet relevante og konkrete målsætninger på borgerniveau for projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">aktiviteter </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>De planlagte aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne hænger sammen med projektets formål og målsætninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne er målrettet målgruppen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan aktiviteterne tilrettelægges og tilgodeser borgerens ønsker og behov gennem livshistorier, så medarbejderne tilpasser omsorg, pleje og aktiviteter efter borgerens præferencer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan de beskrevne aktiviteter vil føre til opfyldelse af projektets formål og opstillede målsætninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets </Char>
+                <Char formaChar="Bold">tidsplan</Char>
+                <Char>, herunder om nogle aktiviteter tidsmæssigt skal placeres før andre, og om der er særlige kritiske betingelser, der skal være opfyldt, før projektet fortsættes.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurdering af projektets </Char>
+          <Char formaChar="Bold">målsætninger </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Konkrete målsætninger på borgerniveau.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan målsætninger på borgerniveau afspejler de konkrete resultater eller forandringer, som projektet forventes at opnå jf. vejledningens afsnit 5.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det er således ikke tilstrækkeligt kun at opstille mål med fokus på gennemførelse af aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan der følges op på de opstillede målsætninger på borgerniveau.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 3) Faglige krav</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet om projektet arbejder med at udbrede digitale løsninger og teknologi.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af de faglige krav skal følgende beskrive:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En realistisk plan for udbredelsen af teknologien.</Char>
+              </Linea>
+              <Linea>
+                <Char>Planen skal det beskrive, hvordan teknologierne har potentiale for udbredelse i praksis.</Char>
+              </Linea>
+              <Linea>
+                <Char>Desuden skal det beskrives, hvordan målgruppen og medarbejderne på plejehjemmene skal kunne anvende teknologierne i praksis.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hertil skal der være en beskrivelse af den/de teknologier, som skal udbredes, og hvordan de kan anvendes til at understøtte brugen af livshistorier.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan teknologien i praksis kan anvendes af borgeren eller af de pårørende og plejepersonalet i interaktionen med borgeren, så der tages højde for de udfordringer, som målgruppen kan opleve ved at anvende teknologien i praksis.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan teknologien giver mulighed for, at pårørende kan bidrage til livshistorien, og hvordan den digitale og virtuelle kommunikation kan øge borgerens oplevelse af nærvær og tilstedeværelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan medarbejderne i ældreplejen aktivt kan bruge livshistorier i deres arbejde med målgruppen, herunder i den daglige pleje, omsorg og aktiviteter</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 4) Organisering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet, om projektets organisering har sammenhæng med projektets formål, målsætninger og aktiviteter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil blive vurderet, om medarbejderne i ældreplejen aktivt kan bruge livshistorier i deres arbejde med målgruppen, herunder i den daglige pleje, omsorg og aktiviteter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Til brug for vurderingen af projektets </Char>
+          <Char formaChar="Bold">organisering </Char>
+          <Char>skal følgende beskrives:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvordan organiseringen har sammenhæng med projektet formål og aktiviteter.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projektets medarbejdere, opgavefordelingen samt eventuelle samarbejdsparter og deres bidrag.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger forpligter sig på at indsamle viden og erfaringer fra projekt med udbredelse af teknologi til at understøtte livshistorien hos borgere med demens.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette skal bidrage til Sundhedsstyrelsens erfaringsopsamling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 5) Budget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af den samlede ansøgning, </Char>
+          <Char formaChar="Bold">budget </Char>
+          <Char>samt eventuelle budgetnoter vil følgende blive vurderet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er sammenhæng mellem de beskrevne aktiviteter og de udgiftstyper, som fremgår af budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om der er tale om projektafgrænsede udgifter rettet mod at udbrede teknologi til at understøtte brugen af livshistorier samt understøtte trivsel og forbedre kommunikationen mellem borgeren, de pårørende og ansatte i ældreplejen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om det er eksisterende teknologier, som kan styrke brugen livshistorier til at opnå puljens formål, herunder at teknologien er rettet mod den enkelte borger, så dennes præferencer afspejles i pleje og omsorg i dagligdagen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet er realistisk og udelukkende indeholder tilskudsberettigede og nødvendige udgifter, som direkte kan henføres til det konkrete projekts gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der må således ikke budgetteres med udgifter, som ikke direkte kan henføres til det konkrete projekt, eller udgifter, der ikke kan gives tilskud til.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Om udgifter er specificeret i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udgifter kan således ikke samles i overordnede budgetposter som overhead, administrationsbidrag og diverse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan ikke budgetteres med uforudsete udgifter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Om budgettet udviser sparsommelighed ved fastlæggelse af niveauerne i budgetposterne.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der kan kun i særlige tilfælde ydes tilskud til udgifter, som er afholdt, før der blev ydet tilskud, hvis udgifterne har en klar tilknytning til projektet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Læs mere om krav til budgettet m.m. i vejledningens afsnit 11-13.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Ad 6) Sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det vil blive vurderet på baggrund af den samlede beskrivelse af projektet, om der er </Char>
+          <Char formaChar="Bold">sammenhæng </Char>
+          <Char>mellem projektets formål, målgruppe, målsætninger, aktiviteter, organisering, plan for udbredelse, budget mm.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">11.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Udarbejdelse af budget</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Budgettet </Char>
+          <Char formaChar="Bold">skal </Char>
+          <Char>indtastes i Excel-dokumentet ”Budgetskema”, som kan hentes på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved indsendelse af ansøgningen vedlægges budgetskemaet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt, at følgende oplysninger angives i budgettet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Projektets titel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Ansøgers identifikation (CVR-nummer)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3.</Char>
+        </Linea>
+        <Linea>
+          <Char>	Ansøgers navn og adresse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Budgettet skal udgøre en fyldestgørende og sandfærdig beskrivelse af projektets forventede udgifter i forhold til det ansøgte projekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skal oplyses, hvis der er en økonomisk interesse mellem ansøger og projektets samarbejdspartnere.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette vil fx være tilfældet, hvis der er personsammenfald mellem projektets medarbejdere og leverandører.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Periodiserede budgetter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udgifterne skal periodiseres, således at udgiften budgetteres i det kvartal, den forventes afholdt i det pågældende projektår.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis der fx er en ansat projektleder i projektet, opgøres lønnen, som den afholdes, én gang i kvartalet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Gennemsnitstal kan således ikke anvendes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Enhedspriser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Alle udgiftsposter skal så vidt muligt udspecificeres i antal enheder og pris pr. enhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis projektet fx indebærer afholdelse af to ens aktiviteter inden for det samme kvartal, og hver af aktiviteterne koster 10.000 kr., anføres to enheder á 10.000 kr. i det eller de kvartaler, hvor aktiviteten og dermed udgifterne forventes afholdt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Noter til budgettet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved behov skal der udarbejdes forklarende noter til de udgiftsposter, som anføres i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis en af budgetposterne fx er ”Seminar”, kan noten indeholde oplysninger om forventet antal deltagere, seminarets varighed (antal dage, med eller uden overnatning), pris pr. deltager, honorar til oplægsholder mv. Noten skal således dels klarlægge indholdet af den enkelte aktivitet og dels klarlægge forudsætningerne for udgiftens størrelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er ikke en skabelon for udarbejdelse af forklarende noter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Moms</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kommuner og regioner kan ikke få tilskud til dækning af moms, da momsen refunderes af momsudligningsordningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Alle udgifter i budgettet skal derfor være ekskl.</Char>
+        </Linea>
+        <Linea>
+          <Char>moms.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">12.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ansøger skal udvise </Char>
+          <Char formaChar="Bold">sparsommelighed </Char>
+          <Char>ved fastlæggelse af niveauerne i budgetposterne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projektets udgifter skal anføres under specifikke budgetposter i budgettet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der er tilskudsberettigede i forhold til tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Udgifter til eksisterende teknologier</Char>
+                <Char>, herunder materiel og softwareprogrammer.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifter til eksisterende teknologier skal specificeres i en budgetnote.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Lønudgifter </Char>
+                <Char>til aflønning af medarbejdere i projektet.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter skal budgetteres med antal timer og sats pr. time.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønudgifter må ikke inkluderes under andre budgetposter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Lønniveauet må ikke være højere end det, der er aftalt i overenskomster for arbejdet på området.</Char>
+              </Linea>
+              <Linea>
+                <Char>Yderligere information kan fås ved henvendelse til de relevante fagforeninger.</Char>
+              </Linea>
+              <Linea>
+                <Char>Hvis området ikke er dækket af en overenskomst, må lønniveauet ikke være højere end det, der er aftalt i de statslige overenskomster for lignende arbejde.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">honorarer til konsulenter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">revisor</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Der kan løbende afholdes udgifter til revisor til revision af projektregnskab.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lovpligtige </Char>
+                <Char formaChar="Bold">forsikringer</Char>
+                <Char>, herunder arbejdsskadeforsikringer.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">transport </Char>
+                <Char>i egen bil.</Char>
+              </Linea>
+              <Linea>
+                <Char>Transportudgiften skal beregnes på baggrund af statens lave takst pr. km., jf. Økonomistyrelsens Cirkulære om satsregulering for tjenesterejser.</Char>
+              </Linea>
+              <Linea>
+                <Char>Udgifterne skal budgetteres med antal kilometer og takst pr. km.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til offentlig </Char>
+                <Char formaChar="Bold">transport</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">aktiviteter</Char>
+                <Char>, som vedrører tilpasning og implementering af eksisterende teknologier til det enkelte plejehjem og borgeren, som modtager indsatsen.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">specifikke uddannelses- og kursusaktiviteter</Char>
+                <Char> af begrænset omfang.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">formidling</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">lokaler</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til </Char>
+                <Char formaChar="Bold">kontorhold </Char>
+                <Char>(fx mindre kontorartikler, porto mv.).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Andre </Char>
+                <Char formaChar="Bold">relevante udgifte</Char>
+                <Char>r til projektets gennemførelse.</Char>
+              </Linea>
+              <Linea>
+                <Char>Relevansen beskrives i en note til budgettet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">13.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ikke tilskudsberettigede udgifter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af nedenstående oversigt fremgår, hvilke udgifter der </Char>
+          <Char formaChar="Bold">ikke </Char>
+          <Char>kan dækkes gennem tilskud fra ansøgningspuljen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Køb af </Char>
+                <Char formaChar="Bold">fast ejendom</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Anlægsudgifter </Char>
+                <Char>(fx ombygning og renovering).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Dækning af </Char>
+                <Char formaChar="Bold">underskud </Char>
+                <Char>eller anden gæld.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Støtte til </Char>
+                <Char formaChar="Bold">enkeltpersoners underhold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter, der </Char>
+                <Char formaChar="Bold">fuldt ud er finansieret</Char>
+                <Char> fra anden side.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Generelle uddannelses- og kursusaktiviteter</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Aktiviteter eller tilsvarende til personer </Char>
+                <Char formaChar="Bold">uden lovligt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Projekter forankret i </Char>
+                <Char formaChar="Bold">udlandet samt Grønland og Færøerne</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til anden evaluering af projektet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udgifter til udvikling af nye teknologier.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">14.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Ansøgningsfrist og -procedure</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningspuljens frist og formalia er med til at sikre, at alle ansøgere behandles lige, ved at alle ansøgere har den samme tid og det samme materiale til at udarbejde ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningsfristen er den 10. maj 2024 kl.</Char>
+        </Linea>
+        <Linea>
+          <Char>12.00.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter dette tidspunkt kan ansøgninger ikke længere modtages.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning forstås ansøgningsskema, budgetskema og eventuelle bilag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Spørgsmål til ansøgningspuljen kan stilles til Social- og Boligstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Kontaktoplysninger fremgår af ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Offentlige myndigheder og offentlige institutioner m.v. </Char>
+          <Char formaChar="Bold">skal </Char>
+          <Char>indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Private ansøgere </Char>
+          <Char formaChar="Bold">kan </Char>
+          <Char>indgive ansøgning om tilskud fra ansøgningspuljen ved anvendelse af Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+        <Linea>
+          <Char>Private ansøgere kan imidlertid også indsende eller aflevere ansøgningen via andre kanaler end den anviste digitale løsning, fx med post eller via mail til tilskudsforvaltning@sbst.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at afhente ansøgningsmaterialet i Social- og Boligstyrelsen eller få tilsendt papirskabeloner.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For </Char>
+          <Char formaChar="Bold">alle </Char>
+          <Char>ansøgere gælder, at ansøgning om tilskud fra ansøgningspuljen </Char>
+          <Char formaChar="Bold">skal </Char>
+          <Char>indgives på den ansøgningsblanket og i det budgetskema, som Social- og Boligstyrelsen har udarbejdet til ansøgningspuljen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningen skal vedlægges de bilag, der fremgår af ansøgningsmaterialet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ansøgningsmaterialet ligger på ansøgningspuljens side på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgningen skal være </Char>
+          <Char formaChar="Bold">modtaget </Char>
+          <Char>i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er ansøger, der bærer ansvaret for, at ansøgningen er modtaget inden ansøgningsfristens udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vær derfor opmærksom på at påbegynde indsendelse i god tid.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøger kan downloade en kvittering på Tilskudsportalen, såfremt ansøgningen er indgivet der.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der vil blive tilsendt en kvittering, hvis Social- og Boligstyrelsen modtager ansøgningen med post eller via mail.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om ansøgningsprocessen henvises til vejledningen herom på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">It-problemer ved indgivelse af ansøgning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">For offentlige myndigheder og offentlige institutioner m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever fejl på Social- og Boligstyrelsens Tilskudsportal, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden </Char>
+                <Char>ansøgningsfristens udløb skal I kontakte Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse </Char>
+          <Char>af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">For private ansøgere</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis I ansøger via Tilskudsportalen og oplever fejl, fx at Tilskudsportalen er nede eller systemet viser en fejlkode, og fejlen ikke kan løses inden ansøgningsfristens udløb, skal I gøre følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Bold">Inden </Char>
+                <Char>ansøgningsfristens udløb skal I sende ansøgning, tilhørende budget og eventuelle bilag til Tilskudsadministration på e-mail tilskudsforvaltning@sbst.dk, så ansøgningen modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Hvis I på grund af fejl på Tilskudsportalen ikke kan nå at sende ansøgningen via e-mail, så denne modtages i Social- og Boligstyrelsen inden ansøgningsfristens udløb, skal I </Char>
+                <Char formaChar="Bold">inden fristens udløb</Char>
+                <Char> kontakte Tilskudsadministration på e-mail eller telefon 72 42 41 33.</Char>
+              </Linea>
+              <Linea>
+                <Char>I skal kunne dokumentere, at de it-tekniske problemer skyldes fejl på Social- og Boligstyrelsens Tilskudsportal.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal bestå af en </Char>
+          <Char formaChar="Bold">beskrivelse </Char>
+          <Char>af problemet samt af et eller flere </Char>
+          <Char formaChar="Bold">skærmprint</Char>
+          <Char>, der dokumenterer fejlen på Social- og Boligstyrelsens Tilskudsportal.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Efter kontakt til Tilskudsadministration skal ovennævnte dokumentation samt ansøgning med tilhørende budget og eventuelle bilag sendes til tilskudsforvaltning@sbst.dk </Char>
+                <Char formaChar="Bold">uden unødigt ophold</Char>
+                <Char>.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående er en forudsætning for, at jeres ansøgning kan indgå i Social- og Boligstyrelsens sagsbehandling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Andre it-problemer</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der er ikke tale om it-tekniske problemer, hvis fx en digital signatur ikke virker.</Char>
+        </Linea>
+        <Linea>
+          <Char>Som ansøger bærer man selv ansvaret herfor.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis I oplever </Char>
+          <Char formaChar="Bold">it-problemer på egne systemer</Char>
+          <Char>, er det jeres eget ansvar at afhjælpe disse, fx i samarbejde med eventuelle it-leverandører eller it-support.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Vurdering af ansøgningen og evt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">bilag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der foretages en vurdering af projektet ud fra oplysningerne i ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Bilag til ansøgningen indgår alene i vurderingen, såfremt det fremgår af ansøgningsvejledningen, at ansøger skal eller kan indsende specifikke bilag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Øvrige bilag, som fremsendes, vil ikke indgå i sagsbehandlingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Utilstrækkelige oplysninger i ansøgningen eller manglende medvirken kan føre til, at sagen afgøres på det foreliggende grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afvisning af ansøgning ved manglende opfyldelse af formalia</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Social- og Boligstyrelsen har ret til at afvise ansøgninger, som ikke opfylder formalia.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil fx være tilfældet, hvis ansøgningen er modtaget for sent, hvis ansøger ikke har anvendt ansøgningspuljens ansøgningsskema eller budgetskema, hvis alle obligatoriske bilag ikke er vedlagt ansøgningen, eller hvis eventuelle anslagsbegrænsninger (anslag inkl.</Char>
+        </Linea>
+        <Linea>
+          <Char>mellemrum) i tekstfelter i ansøgningsskemaet er overskredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">15.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Statsstøtte</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>EU-retten indeholder et generelt forbud mod statsstøtte, jf. artikel 107, stk. 1, i Traktat om Den Europæiske Unions Funktionsmåde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at tilskud fra en ansøgningspulje kan være uforenelig med EU-retten, hvis tilskuddet gives til et projekt, der indeholder en økonomisk aktivitet, fx i form af et produkt eller en ydelse, hvor tilskuddet fordrejer eller truer med at fordreje konkurrencen på et marked, og hvor tilskuddet potentielt kan påvirke samhandlen i det indre marked.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den enkelte tilskudsmodtager skal således være opmærksom på de EU-retlige statsstøtteregler.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For yderligere information om de EU-retlige statsstøtteregler henvises til Erhvervsministeriets hjemmeside: www.em.dk/ministeriet/arbejdsomraader/erhvervsregulering-og-internationale-forhold/</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">16.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Udbetaling af tilskud</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Såfremt der opnås tilskud fra ansøgningspuljen, vil udbetalingerne ske til den NemKonto, som er tilknyttet organisationens CVR-nummer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis jeres organisation ikke har en NemKonto, skal I således kontakte jeres pengeinstitut og bede dem indberette en NemKonto.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan læse mere om NemKonto samt udbetaling af tilskud på Social- og Boligstyrelsens hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id3772baca-253e-466f-b3f6-ee3fe6f4334f">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

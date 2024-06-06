@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id7b37dac2-4461-4ae2-a576-034469f4399f" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="idead4c61a-5318-4a97-b66f-e22ebb5e6430">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240912325</AccessionNumber>
+    <DocumentId>DH001762</DocumentId>
+    <UniqueDocumentId>242233</UniqueDocumentId>
+    <DocumentTitle>Arbejdsmiljøklagenævnet fastholdt påbud til projekterende virksomhed om at sikre med sine angivelser i projektets SST, at regler i arbejdsmiljølovgivningen kunne overholdes i forbindelse med projektets gennemførelse, herunder sikre, at der var taget hensyn til de generelle forebyggelsesprincipper. Det skulle sikres, at det var muligt for arbejdsgiverne at efterleve arbejdsmiljølovgivningen angående de ergonomiske forhold samt flugt og redning ved arbejde i den projekterede tunnel med en diameter under 2 meter. Den projekterende skulle endvidere oplyse bygherren om dennes forpligtelser efter arbejdsmiljølovgivningen i relation til projektets gennemførelse.  (Byggepladser - projekteringsfasen - ergonomiske forhold - flugt og redning - bygherrens forpligtelser)</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-02-27</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-07</EndDate>
+    <Status>Valid</Status>
+    <Number>9123</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">B20130011005</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2013-02-05</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø</Ref_Text>
+    <Concerns id="concerns_2" />
+    <Ref_Accn REFid="concerns_2">A20210206229</Ref_Accn>
+    <Ref_Af REFid="concerns_2">2021-11-16</Ref_Af>
+    <Ref_Text REFid="concerns_2">Bekendtgørelse af lov om arbejdsmiljø</Ref_Text>
+    <Concerns id="concerns_3" />
+    <Ref_Accn REFid="concerns_3">B20210210705</Ref_Accn>
+    <Ref_Af REFid="concerns_3">2021-11-24</Ref_Af>
+    <Ref_Text REFid="concerns_3">Bekendtgørelse om bygge- og anlægsarbejde</Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>23-106253</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+    <AdministrativeAuthority>Arbejdsmiljøklagenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id81801420-5fef-47da-ac51-94e4f25ad5bb">
+    <Titel id="ide9dd93f1-a2df-4055-99e1-f52afbe9ae11">
+      <Linea>
+        <Char>Arbejdsmiljøklagenævnet fastholdt påbud til projekterende virksomhed om at sikre med sine angivelser i projektets SST, at regler i arbejdsmiljølovgivningen kunne overholdes i forbindelse med projektets gennemførelse, herunder sikre, at der var taget hensyn til de generelle forebyggelsesprincipper.</Char>
+      </Linea>
+      <Linea>
+        <Char>Det skulle sikres, at det var muligt for arbejdsgiverne at efterleve arbejdsmiljølovgivningen angående de ergonomiske forhold samt flugt og redning ved arbejde i den projekterede tunnel med en diameter under 2 meter.</Char>
+      </Linea>
+      <Linea>
+        <Char>Den projekterende skulle endvidere oplyse bygherren om dennes forpligtelser efter arbejdsmiljølovgivningen i relation til projektets gennemførelse.</Char>
+      </Linea>
+      <Linea>
+        <Char>(Byggepladser - projekteringsfasen - ergonomiske forhold - flugt og redning - bygherrens forpligtelser)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id9fc19324-67f8-4512-8786-939da49d5e00">
+    <Resume id="id82afab46-a2b8-4dfb-aa3c-2e75bf0fec64">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Resume</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsmiljøklagenævnet vurderede, at den projekterende virksomhed ikke med sine angivelser i projektet med skybrudstunnel havde sikret, at arbejdsmiljølovgivningen kunne overholdes i forbindelse med projektets gennemførelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet vurderede endvidere, at virksomheden ikke i tilstrækkelig grad havde oplyst bygherrerne om deres forpligtelser efter arbejdsmiljølovgivningen i relation til projektets gennemførelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde vægt på, at det allerede var planlagt, at der for en del af strækningen på ca. 700 meter skulle anvendes rør med en indvendig højde på 1,6 meter, og for en anden del var to strækninger på 225 og 270 meter med en indvendig højde på 1,8 meter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde i den forbindelse vægt på, at der var truffet beslutning mellem den projekterende virksomhed og bygherrerne om dimensioneringen af tunnelrørene.</Char>
+        </Linea>
+        <Linea>
+          <Char>Valget af tunnelrør på 1,6 og 1,8 meter i diameter på de pågældende strækninger var fremsendt til godkendelse hos myndighederne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Projekterende virksomhed havde ikke forud for denne fremsendelse oplyst bygherrerne om deres forpligtelser efter arbejdsmiljøloven i forhold til, om arbejdet i disse tunnelrør kunne udføres sikkerheds- og sundhedsmæssigt fuldt forsvarligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde hertil vægt på, at der ikke var lavet et studie af de ergonomiske forhold i tunnelrørene, hvor der ville blive arbejdet i døgndrift med treholdsskift i 3-4 måneder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var heller ikke i projekteringen taget hensyn til eller beskrevet færdsel ind og ud af rørene, planlagt flugtveje, ligesom mulighed for redning ikke var beskrevet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lagde vægt på, at voksne ansatte ikke kan gå oprejst i et tunnelrør på 1,6 eller 1,8 meter, ligesom der ville være snævre forhold under arbejdet, hvor der blev anvendt maskiner og skulle fjernes jord under byggeprocessen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet var opmærksom på, at projekteringen stadig var i gang og materialet ikke endeligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men nævnet lægger vægt på, at dimensioneringen af tunnelrørene på strækningen var besluttet, hvorfor der også burde foreligge en plan for de ansattes færden i tunnelrørene.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgørelsen blev truffet af et enigt nævn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </Resume>
+    <TekstGruppe id="id99515d27-ee9e-4508-9c9e-b9280da25203">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Den konkrete afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[Adressat udeladt]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I har klaget over Arbejdstilsynets afgørelse af den 20. juli 2023 om påbud (under projektering af skybrudstunnel).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsmiljøklagenævnet har nu afgjort sagen på møde den 27. februar 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Resultatet er:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Arbejdsmiljøklagenævnet fastholder Arbejdstilsynets afgørelse med påbud om, at virksomheden som projekterende skal sikre med sine angivelser i projektet SST, at regler i arbejdsmiljølovgivningen kan overholdes i forbindelse med projektets gennemførelse, herunder sikre, at der er taget hensyn til de generelle forebyggelsesprincipper.</Char>
+              </Linea>
+              <Linea>
+                <Char>Det skal sikres, at det er muligt for arbejdsgiverne at efterleve arbejdsmiljølovgivningen angående de ergonomiske forhold samt flugt og redning ved arbejde i den projekterede tunnel med en diameter under 2 meter.</Char>
+              </Linea>
+              <Linea>
+                <Char>Den projekterende skal endvidere oplyse bygherren om dennes forpligtelser efter arbejdsmiljølovgivningen i relation til projektets gennemførelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det betyder, at nævnet er kommet til samme resultat som Arbejdstilsynet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I skal efterkomme påbuddet senest den 11. juli 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Begrundelse for afgørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sådan vurderer vi sagen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsmiljøklagenævnet vurderer, at I ikke med jeres angivelser i projektet med skybrudstunnel har sikret, at arbejdsmiljølovgivningen kan overholdes i forbindelse med projektets gennemførelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet vurderer endvidere, at I ikke i tilstrækkelig grad har oplyst bygherrerne om deres forpligtelser efter arbejdsmiljølovgivningen i relation til projektets gennemførelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Hvad er afgørende for resultatet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagen, at Arbejdstilsynet havde møder med jer og de tre bygherrer henholdsvis den 14. juni og 3. juli 2023.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilsynet fik efterfølgende tilsendt projektmateriale om arbejdsmiljø og risiko om projektet med at lave skybrudssikring med tunnelrør fra A til B.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af Arbejdstilsynets brev af 15. juni 2023 til jer, at Arbejdstilsynet på det tidspunkt overvejede at afgive et påbud til både bygherrer og rådgiver om at sikre ved projektering, at reglerne i arbejdsmiljøloven kunne overholdes ved arbejde og færdsel i tunnelrør på op til 700 meter med en diameter på ned til 1,6 meter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den 11. juli 2023 sendte Arbejdstilsynet en høring til jer om sagens oplysninger i forbindelse med, at Arbejdstilsynet overvejede at give jer et påbud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagens oplysninger, at projektet med skybrudssikring var under udarbejdelse og skulle sendes i udbud ca. februar 2024.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger vægt på, at det allerede var planlagt, at der for en del af strækningen på ca. 700 meter skulle anvendes rør med en indvendig højde på 1,6 meter, og for en anden del var to strækninger på 225 og 270 meter med en indvendig højde på 1,8 meter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger i den forbindelse vægt på, at der var truffet beslutning mellem [projekterende virksomhed] og bygherrerne om dimensioneringen af tunnelrørene.</Char>
+        </Linea>
+        <Linea>
+          <Char>Valget af tunnelrør på 1,6 og 1,8 meter i diameter på de pågældende strækninger var fremsendt til godkendelse hos myndighederne (Trafikstyrelsen, Kystdirektoratet og Miljøstyrelsen).</Char>
+        </Linea>
+        <Linea>
+          <Char>I havde ikke forud for denne fremsendelse oplyst bygherrerne om deres forpligtelser efter arbejdsmiljøloven i forhold til, om arbejdet i disse tunnelrør kunne udføres sikkerheds- og sundhedsmæssigt fuldt forsvarligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger hertil vægt på, at der ikke var lavet et studie af de ergonomiske forhold i tunnelrørene, hvor der ville blive arbejdet i døgndrift med treholdsskift i 3-4 måneder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der var heller ikke i projekteringen taget hensyn til eller beskrevet færdsel ind og ud af rørene, planlagt flugtveje, ligesom mulighed for redning ikke var beskrevet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet lægger vægt på, at voksne ansatte ikke kan gå oprejst i et tunnelrør på 1,6 eller 1,8 meter, ligesom der vil være snævre forhold under arbejdet, hvor der anvendes maskiner og skal fjernes jord under byggeprocessen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet er opmærksom på, at projekteringen stadig var i gang og materialet ikke endeligt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men nævnet lægger vægt på, at dimensioneringen af tunnelrørene på strækningerne var besluttet, hvorfor der også burde foreligge en (endelig) plan for de ansattes færden i tunnelrørene.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I har klaget over, at Arbejdstilsynet har givet jer påbud efter, at I havde holdt møde om projekteringen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet har ikke kompetence til at tage stilling til, på hvilken måde Arbejdstilsynet tilrettelægger sit arbejde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet skal derfor henvise til, at en eventuel klage over Arbejdstilsynets myndighedsudøvelse skal sendes til Arbejdstilsynets direktør med efterfølgende klageadgang til Beskæftigelsesministeriet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Om reglerne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af arbejdsmiljøloven, at den, der leverer et projekt til et teknisk hjælpemiddel, et produktionsanlæg eller et bygge- eller anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri eller anlæg m.v. Det samme gælder den, der på lignende måde rådgiver om arbejdsmiljømæssige forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af bekendtgørelse om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø, at den projekterende af et bygge- og anlægsarbejde skal med sine angivelser i projektet sikre, at reglerne i arbejdsmiljølovgivningen kan overholdes i forbindelse med projektets gennemførelse og det gennemførte projekts vedligeholdelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den, der leverer et projekt til et bygge- eller anlægsarbejde, oplyser bygherren om dennes forpligtelser efter arbejdsmiljølovgivningen i relation til projektets forventede karakter og omfang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter bekendtgørelse om arbejdets udførelse skal unødige fysiske belastninger samt uhensigtsmæssige arbejdsstillinger eller bevægelser undgås.</Char>
+        </Linea>
+        <Linea>
+          <Char>Belastningen under arbejdet skal derfor være så lille, som det er rimeligt under hensyntagen til den tekniske udvikling, og fastsatte grænser skal overholdes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter bekendtgørelse om bygge- og anlægsarbejde skal flugtveje og nødudgange samt adgangsveje- og døre hertil til enhver tid holdes frit passable og kunne benyttes uhindret og så direkte som muligt føre til et sikkert område.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Mødebehandling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Sagen er behandlet på møde.</Char>
+        </Linea>
+        <Linea>
+          <Char>På mødet stemmer deltagerne om resultatet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgørelsen er truffet af et enigt nævn.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Oplysninger i sagen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Nævnet har afgjort sagen ud fra de akter, som nævnet har modtaget fra Arbejdstilsynet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Regler</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Her er de regler, nævnet har afgjort sagen efter.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Love og bekendtgørelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om Arbejdstilsynets ret til at træffe afgørelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 77, stk. 1, i lov om arbejdsmiljø</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Almindelige pligter for leverandører, installatører, reparatører og planlæggere m.fl.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 33 i lov om arbejdsmiljø</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den projekterendes pligter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 6 og § 11 i bekendtgørelse om projekterendes og rådgiveres pligter mv efter lov om arbejdsmiljø, jf. bilag 2</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om unødige fysiske belastninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 17 i bekendtgørelse om arbejdets udførelse</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Om flugtveje og nødudgange</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 55, stk. 2, i bekendtgørelse om bygge- og anlægsarbejde</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er uddrag af reglerne til sidst i afgørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>I kan finde reglernes fulde ordlyd på </Char>
+          <Char formaChar="Underline">www.retsinformation.dk</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Kopi er sendt til:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Table width="494" style="column-width: 370pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>Arbejdstilsynet, j.nr. 20230056593/6</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Lovuddrag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Lov om arbejdsmiljø (arbejdsmiljøloven), senest bekendtgjort ved lovbekendtgørelse nr. 2062 af 16. november 2021</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 4</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Almindelige pligter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Leverandører, installatører, reparatører og planlæggere m.fl.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 33</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den, der leverer et projekt til et teknisk hjælpemiddel, et produktionsanlæg eller et bygge- eller anlægsarbejde, skal i projektet tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri eller anlæg m.v. Det samme gælder den, der på lignende måde rådgiver om arbejdsmiljømæssige forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 13</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Arbejdstilsynet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 77.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arbejdstilsynet kan træffe afgørelse om forhold, der strider mod loven eller mod regler eller afgørelser i medfør af loven, og kan herunder påbyde, at forholdene bringes i orden straks eller inden en frist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Bekendtgørelse nr. 110 af 5. februar 2013 om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Kapitel 2</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Den projekterendes pligter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 6.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den projekterende af et bygge- og anlægsarbejde skal med sine angivelser i projektet sikre, at reglerne i arbejdsmiljølovgivningen kan overholdes i forbindelse med projektets gennemførelse og det gennemførte projekts vedligeholdelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den projekterende skal i forbindelse med undersøgelse og udarbejdelse af et projekt til et bygge- og anlægsarbejde tage hensyn til de generelle principper for forebyggelse på området sikkerhed og sundhed, som er omhandlet i bilag 2 herunder navnlig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>1) i forbindelse med arkitektoniske, tekniske og/eller organisatoriske valg med henblik på planlægningen af de forskellige arbejder eller arbejdsfaser, som skal udføres samtidigt eller efter hinanden og</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>2) i forbindelse med vurderingen af den periode, som skal afsættes til udførelsen af de forskellige arbejder eller arbejdsfaser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stk. 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>På baggrund af vurderingen i stk. 1 skal den projekterende af et bygge- eller anlægsarbejde angive i projektet, af hensyn til det sikkerheds- og sundhedsmæssige ved de arbejdsprocesser, arbejdsmetoder, materialer, konstruktioner m.v., som foreskrives, eller som forudsættes anvendt, hvorledes de enkelte arbejder eller arbejdsfaser skal tilrettelægges i forhold til hinanden, så arbejdet kan foregå sikkerheds- og sundhedsmæssigt fuldt forsvarligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stk. 4.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den projekterende af et bygge- eller anlægsarbejde skal sørge for, at bygherrens koordinatorer for sikkerhed og sundhed under udarbejdelsen af byggeprojektet, jf. bekendtgørelsen om bygherrens pligter, inddrages i den projekterendes overvejelser og får adgang til de relevante dele af projektmaterialet vedrørende stk. 1 - 3.</Char>
+        </Linea>
+        <Linea>
+          <Char>Koordinator skal inddrages, når projekteringen efter aftale med bygherren igangsættes samt herefter i nødvendigt omfang under projekteringen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stk. 5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den projekterende af et teknisk hjælpemiddel eller et produktionsanlæg, skal med sine angivelser i projektet sikre, at reglerne i arbejdsmiljølovgivningen kan overholdes i forbindelse med projektets gennemførelse, det færdige produkt samt tage højde for forudseelige risici i forbindelse med driften heraf.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Stk. 6.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den projekterende skal ved projekteringen tage hensyn til de anvisninger, der kommer fra bygherrens koordinator.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 11</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den, der leverer et projekt til et bygge- eller anlægsarbejde, oplyser bygherren om dennes forpligtelser efter arbejdsmiljølovgivningen i relation til projektets forventede karakter og omfang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Bilag 2</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Generelle forebyggelsesprincipper</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>(Jf. artikel 6, stk. 2 i Rådets direktiv 89/391/EØF om iværksættelse af foranstaltninger til forbedring af arbejdstagernes sikkerhed og sundhed under arbejdet)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>1) Forhindring af risici.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>2) Evaluering af risici, som ikke kan forhindres.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>3) Bekæmpelse af risici ved kilden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>4) Tilpasning af arbejdet til mennesket, navnlig for så vidt angår udformningen af arbejdspladsen samt valg af arbejdsudstyr og arbejds- og produktionsmetoder, i særdeleshed med henblik på at begrænse monotont arbejde og arbejde i en bestemt rytme og at mindske virkningerne af sådant arbejde på helbredet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>5) Hensyntagen til den tekniske udvikling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>6) Udskiftning af det, der er farligt med noget, der er ufarligt eller mindre farligt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>7) Planlægning af forebyggelsen for at gøre den til en sammenhængende helhed, inden for hvilken forebyggelsen omfatter teknik, tilrettelæggelse af arbejdet, arbejdsforhold, sociale relationer og påvirkninger fra faktorer i arbejdsmiljøet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>8) Vedtagelse af foranstaltninger til kollektiv beskyttelse frem for foranstaltninger til individuel beskyttelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>9) Hensigtsmæssig instruktion af arbejdstagerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Bekendtgørelse nr. 1234 af 29. oktober 2018 om arbejdets udførelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 17</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Unødige fysiske belastninger samt uhensigtsmæssige arbejdsstillinger eller bevægelser skal undgås.</Char>
+        </Linea>
+        <Linea>
+          <Char>Belastningen under arbejdet skal derfor være så lille, som det er rimeligt under hensyntagen til den tekniske udvikling, og fastsatte grænser skal overholdes.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaEx="Center">
+        <Linea>
+          <Char formaChar="Bold">Bekendtgørelse nr. 2107 af 24. november 2021 om bygge- og anlægsarbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaEx="Center" />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">§ 55</Char>
+          <Char>.</Char>
+        </Linea>
+        <Linea>
+          <Char>Afhængig af arbejdets art og forholdene i øvrigt skal der være et tilstrækkeligt antal flugtveje og nødudgange af en sådan beskaffenhed og placering, at alle på arbejdsstedet i en faresituation kan komme i sikkerhed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Elevator accepteres ikke som flugtvej.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Stk. 2.</Char>
+        </Linea>
+        <Linea>
+          <Char>Flugtveje og nødudgange samt adgangsveje- og døre hertil skal til enhver tid holdes frit passable og kunne benyttes uhindret og så direkte som muligt føre til et sikkert område.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>…</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

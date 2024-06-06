@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id8e2f191c-0cb8-4c14-8405-852f6d3d06e2" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id822bbe6b-e852-4657-b717-efb59c4a8357">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240916825</AccessionNumber>
+    <DocumentId>DH001794</DocumentId>
+    <UniqueDocumentId>242600</UniqueDocumentId>
+    <DocumentTitle>SU - SU-lån - Vilkår for tilbagebetaling - tilbageførsel af gæld til Udbetaling Danmark</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-02-28</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-27</EndDate>
+    <Status>Valid</Status>
+    <Number>9168</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20230039529</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2023-04-13</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af lov om statens uddannelsesstøtte (SU-loven)</Ref_Text>
+    <Concerns id="concerns_2" />
+    <Ref_Accn REFid="concerns_2">B20240009705</Ref_Accn>
+    <Ref_Af REFid="concerns_2">2024-01-29</Ref_Af>
+    <Ref_Text REFid="concerns_2">Bekendtgørelse om statens uddannelsesstøtte (SU-bekendtgørelsen)</Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>23-75196</JournalNumber>
+    <Ministry>Social-, Bolig- og Ældreministeriet</Ministry>
+    <AdministrativeAuthority>Ankenævnet for Statens Uddannelsesstøtteordninger</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="idcdf5b83f-b4a6-4523-9770-333b2ea8b5a8">
+    <Titel id="id341a3a55-5db2-4a41-a488-03ec09c003f0">
+      <Linea>
+        <Char>SU - SU-lån - Vilkår for tilbagebetaling - tilbageførsel af gæld til Udbetaling Danmark</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id7c1f6d58-9bf3-4b0b-af53-df2843859453">
+    <Resume id="id577a884a-a0da-46a5-89a4-7dc40058c978">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Resumé:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Tilbagebetaling af SU-lån skal ske til Udbetaling Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis låntager ikke overholder studielånets vilkår, herunder betaler forfaldne ydelser, kan Udbetaling Danmark efter påkrav opsige lånet til skadesløs betaling.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmarks rykkerprocedure udgør påkrav i lovens forstand.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis Udbetaling Danmark gennemfører den sædvanlige rykkerprocedure, og låntager fortsat ikke betaler de forfaldne ydelser, sender Udbetaling Danmark lånet til inddrivelse ved Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Låntager kan anmode om, at lånet tilbageføres til afvikling ved Udbetaling Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis Udbetaling Danmark har gennemført den sædvanlig rykkerprocedure, vil der som udgangspunkt ikke være grundlag for at gælden tilbageføres til Udbetaling Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I særlige tilfælde, hvor låntager kan godtgøre, at han/hun har været ude af stand til at læse og reagere på Udbetaling Danmarks henvendelser i forbindelse med rykkerproceduren, kan gælden dog tilbageføres til afvikling ved Udbetaling Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </Resume>
+    <TekstGruppe id="id03cc02a0-e1c4-42c7-ae30-1adea25c739c">
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Reglerne:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Love og bekendtgørelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Lovbekendtgørelse nr. 395 af 13/04/2023 om statens uddannelsesstøtte (SU-loven)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 35, om tilbagebetaling af SU-lån</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 36 om opsigelse</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bekendtgørelse nr. 97 af 29/01/2024 om statens uddannelsesstøtte (SU-bekendtgørelsen)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 65, om lånebetingelser og tilbagebetalingsperiode</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Lov om inddrivelse af gæld til det offentlige</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>•</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>§ 2, om overdragelse af fordringer til inddrivelse ved Gældsstyrelsen</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Sagsfremstilling:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En låntager havde ikke betalt sine afdrag på SU-lån til Udbetaling Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark havde gennemført sin sædvanlige rykkerprocedure, og da låntager fortsat ikke reagerede, blev SU-gælden overført til inddrivelse ved Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Låntager henvendte sig senere til Udbetaling Danmark og anmodede om, at gælden blev tilbageført til afvikling ved Udbetaling Danmark.</Char>
+        </Linea>
+        <Linea>
+          <Char>Låntager forklarede, at han i en periode havde været tvangsindlagt på grund af svær psykose.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Låntager indsendte en lægeerklæring, hvoraf det fremgik, at låntager var diagnosticeret med paranoid skizofreni, og at han havde været tvangsindlagt på grund af svær psykose i en periode på ca. 2,5 måneder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den periode, hvor låntager havde været indlagt, lå efter, at Udbetaling Danmark havde overført gælden til Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgik imidlertid også af lægeerklæringen, at låntager i en periode på 6-8 måneder forud for indlæggelsen havde været svært psykotisk og derfor ikke havde kunnet reagere adækvat og rettidigt på henvendelser fra offentlige myndigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ankenævnet fandt, at låntager på grund af svær psykose havde været ude af stand til at reagere på Udbetaling Danmarks henvendelser i hele perioden fra opkrævning af afdrag og indtil gælden blev overført til Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark skulle derfor tilbageføre SU-gælden fra Gældsstyrelsen til afvikling ved Udbetaling Danmark.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Afgørelse:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ankenævnet fandt, at Udbetaling Danmark skulle tilbageføre klagers SU-gæld fra Gældsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">Begrundelse for afgørelsen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vi vurderer, at Udbetaling Danmark skal tilbageføre dit SU-lån fra Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vi anerkender, at Udbetaling Danmark har gennemført deres sædvanlige rykkerprocedurer, men finder på baggrund af de indsendte lægeerklæringer, at du har været ude af stand til at reagere på Udbetaling Danmarks henvendelser i hele perioden fra opkrævningen af afdrag og indtil Udbetaling Danmark overfører din gæld til Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vi har herved lagt vægt på, at det fremgår af lægeerklæringen af 24. august 2023, at du er diagnosticeret med paranoid skizofreni.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Det fremgår videre, at du i perioden fra 1. maj 2023 til 17. juli 2023 var tvangsindlagt på grund af svær psykose.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Vi er opmærksomme på, at perioden for indlæggelse ligger efter Udbetaling Danmark opsagde dit lån og overførte gælden til Gældsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Vi har imidlertid lagt afgørende vægt på, at det også fremgår af lægeerklæringen, at du har været svært psykotisk i 6-8 måneder, før du blev indlagt, og at dette har betydet, at du ikke har kunnet reagere adækvat og rettidigt på henvendelser fra offentlige myndigheder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>

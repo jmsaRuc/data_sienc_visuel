@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id0eface19-3112-4ca3-a6aa-a9b1a2dc2b23" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/AFG.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id59ad2062-48fb-49a7-9678-8f448f290121">
+    <DocumentType>KEN#LOKDOK23</DocumentType>
+    <Rank>W</Rank>
+    <AccessionNumber>W20240913025</AccessionNumber>
+    <DocumentId>AA014113</DocumentId>
+    <UniqueDocumentId>242262</UniqueDocumentId>
+    <DocumentTitle>Pressenævnets kendelse i sag nr. 2023-04979</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-02-20</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <EndDate REFid="submit_1">2024-03-08</EndDate>
+    <Status>Valid</Status>
+    <Number>9130</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20140091429</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2014-08-11</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af medieansvarsloven </Ref_Text>
+    <Republished>Nej</Republished>
+    <JournalNumber>2023-04979</JournalNumber>
+    <Ministry>Justitsministeriet</Ministry>
+    <AdministrativeAuthority>Pressenævnet</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id0288c53e-ec3c-4c74-b562-42b145b48c22">
+    <Titel id="ide5941589-ac25-4454-be98-8ed5b7c958d6">
+      <Linea>
+        <Char>Pressenævnets kendelse i sag nr. 2023-04979</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id12bc85b2-9332-4c8a-a363-696196bf7ed8">
+    <Resume id="id24a289d0-0cc2-4313-ad36-ae32f600d0e8">
+      <Exitus>
+        <Linea>
+          <Char>Kritik af DR for utilstrækkelig forelæggelse (dissens)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR omtalte i en artikel i marts 2023, at mediet havde fået afslag på aktindsigt i Vurderingsstyrelsens test af det nye ejendomsvurderingssystem.</Char>
+        </Linea>
+        <Linea>
+          <Char>I artiklen kritiserede to forskere begrundelsen for afslaget på aktindsigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen klagede til Pressenævnet over, at styrelsen ikke var blevet forelagt kritikken fra eksperterne, da DR alene havde forelagt et enkelt citat fra den ene ekspert.</Char>
+        </Linea>
+        <Linea>
+          <Char>To af nævnets medlemmer (herunder formanden) udtalte kritik af DR for utilstrækkelig forelæggelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>De to øvrige nævnsmedlemmer udtalte ikke kritik af DR for utilstrækkelig forlæggelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Da der var stemmelighed, er formandens stemme afgørende, og nævnet udtalte herefter kritik af DR.</Char>
+        </Linea>
+      </Exitus>
+    </Resume>
+    <TekstGruppe id="id46b9ad2d-6c71-4e44-b624-8d044933e107">
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen ved [Medarbejder 1] har klaget til Pressenævnet over artiklen ”</Char>
+          <Char formaChar="Italic">Kaos om nye ejendomsvurderinger mørklægges: Frygter for statens sikkerhed</Char>
+          <Char>”, bragt den 9. marts 2023 på dr.dk, idet Vurderingsstyrelsen mener, at god presseskik er tilsidesat.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har klaget over, at DR ikke har foretaget tilstrækkelig forelæggelse, og at angreb og svar derfor ikke er blevet bragt i sammenhæng.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">1 Sagsfremstilling</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forud for offentliggørelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har til Pressenævnet indsendt den korrespondance, styrelsen havde med DR før offentliggørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det fremgår, at DR den 2. marts 2023 sendte følgende mail til Vurderingsstyrelsen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Kære [Medarbejder 2] og [Medarbejder 3]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR har modtaget afslag om aktindsigt med følgende begrundelse:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Det er Vurderingsstyrelsens opfattelse, at det har væsentlig betydning for Skatteforvaltningens itsikkerhed, at den overvejende del af de ekstraheringspligtige oplysninger ikke udleveres.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ved denne vurdering har vi særligt lagt vægt på, Vurderingsstyrelsen er en del af Skatteforvaltningen at dokumenterne indeholder en beskrivelse af formålet, testforløbet, afvigelser, mm.</Char>
+        </Linea>
+        <Linea>
+          <Char>i testrapporterne vedrørende ICE Release 3.1 og til dels 5.1, som indeholder oplysninger om it-systemernes tekniske og sikkerhedsmæssige indretninger, herunder vurderinger af deres styrker og svagheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi har endvidere lagt vægt på, at Skatteforvaltningen varetager samfundskritiske opgaver, der skaber fundamentet for finansieringen af den offentlige sektor.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil gerne have en forklaring på, hvordan oplysninger om test-resultater af et skattemæssigt it-system kan undtages med § 31?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvordan kan udlevering af oplysningerne have betydning for fundamentet for finansieringen af den offentlige sektor?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvad er begrundelsen for, at offentligheden ikke få lov til at se resultatet af test af de systemer, der skal bruges til at opkræve boligskatter fremover?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jurist og offentlighedsrådgiver [Forsker 1] kalder det forbløffende, at hensynet til statens sikkerhed bruges som begrundelse for helt at mørklægge test af ejendomsvurderingssystemet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvad siger I til det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil gerne anmode om svar til citat inden mandag klokken 12.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bedste hilsner [Journalist 1] og [Journalist 2]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den 6. marts 2023 sendte styrelsen et svar, hvor følgende blandt andet fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[…] Vurderingsstyrelsen oplyser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når Vurderingsstyrelsen afgør en anmodning om aktindsigt, sker det på baggrund af en vurdering i henhold til gældende regler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne afgørelse kan påklages til Skatteankestyrelsen, hvor den kan blive efterprøvet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil derfor understrege, at der er mulighed for at påklage afgørelsen, hvis Danmarks Radio ikke er enige i vores afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I vores afgørelse har vi derfor vejledt om muligheden for at klage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt Danmarks Radio har spørgsmål til, hvordan afgørelsen påklages, står vi naturligvis til rådighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Venlig hilsen [Medarbejder 3]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Påklaget artikel</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR bragte den 9. marts 2023 artiklen ”</Char>
+          <Char formaChar="Italic">Kaos om nye ejendomsvurderinger mørklægges: Frygter for statens sikkerhed</Char>
+          <Char>” under sektionen Penge på dr.dk.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af artiklens underrubrik fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Skattevæsnet misbruger lov til at hemmeligholde trykprøvning af nyt vurderingssystem, mener eksperter.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat et billede over en by, hvor der er indsat følgende tekst på billedet: ”§ 31”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af billedteksten fremgår ”Oplysninger om trykprøvning af det nye ejendomsvurderingssystem kan ikke lægges åbent frem af hensyn statens sikkerhed, lyder det i svar fra skattevæsnet.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Efter store forsinkelser og omfattende problemer med det nye ejendomsvurderingssystem ruller skattevæsnet nu et kulsort mørklægningsgardin ned over sagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsens test af det system, der senere i år skal sende flere millioner ejendomsvurderinger ud til danske boligejere, tåler nemlig ikke at komme frem i offentlighedens lys af hensyn til statens sikkerhed, skriver styrelsen i en afvisning af en aktindsigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR Nyheder har tidligere fået aktindsigt i rapporter om det nye ejendomsvurderingssystem, og to eksperter undrer sig over Vurderingsstyrelsens begrundelse for at afvise anmodningen denne gang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg har ikke set paragraffen om statens sikkerhed brugt i lignende sager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den bliver primært brugt om efterretningsvæsenets arbejde og militærforhold, siger forskningschef emeritus fra Danmarks Medie- og Journalisthøjskole [Forsker 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen fremhævet et citat af [Forsker 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Af citatet fremgår ”Man misbruger offentlighedslovens undtagelser til at hemmeligholde oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Forsker 1], forskningschef emeritus, Danmarks Medie- og Journalisthøjskole”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår videre:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>” - Det har ikke noget med statens sikkerhed og rigets forsvar at gøre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du bruger kun den paragraf, hvis der reelt er grund til at frygte for statens sikkerhed, siger [Forsker 2], der er lektor ved juridisk institut på Syddansk Universitet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis man reelt mener, at den paragraf er nødvendig, så står det da virkeligt slemt til, hvis et ejendomsvurderingssystem kan true statens sikkerhed, fortsætter hun.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen skriver i sit svar til DR Nyheder, at testrapporterne "indeholder oplysninger om it-systemernes tekniske og sikkerhedsmæssige indretninger, herunder vurderinger af deres styrker og svagheder."</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi har endvidere lagt vægt på, at Skatteforvaltningen varetager samfundskritiske opgaver, der skaber fundamentet for finansieringen af den offentlige sektor, skriver Vurderingsstyrelsen videre i sin afvisning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men den begrundelse køber [Forsker 1] ikke.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Min vurdering er, at man misbruger offentlighedslovens undtagelser til at hemmeligholde oplysninger om det nye ejendomsvurderingssystem, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Paragraf handler om statens sikkerhed eller rigets forsvar</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge statens foretrukne advokat, Kammeradvokaten, så er det også i helt andre sager om aktindsigt, at paragraffen om statens sikkerhed tidligere har været i brug.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Her har det nemlig handlet om "PET’s arbejdsmetoder, vurdering af terrortrussel, efterretningsmæssig risikovurdering samt advokaters identitet."”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen fremhævet et citat af [Forsker 2].</Char>
+        </Linea>
+        <Linea>
+          <Char>Af citatet fremgår ”Man løser ikke en møgsag ved at skjule den.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Forsker 2], juralektor, Syddansk Universitet.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen følger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”"Det er en betingelse for, at retten til aktindsigt kan begrænses, at det er af væsentlig betydning for statens sikkerhed eller rigets forsvar", skriver Kammeradvokaten på sin hjemmeside.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan godt være specifikke oplysninger om sikkerheden i skattevæsnets it-systemer, som man kan have ret til at holde hemmelige, men i denne sag holder myndighedernes argumenter ikke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Især ikke når samtlige oplysninger i sagen hemmeligholdes, mener [Forsker 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Man afviser at give oplysninger om resultater af de tests, man foretager af det nye vurderingssystem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men der skal naturligvis være mulighed for at få oplysninger om det nye vurderingssystem, hvordan det virker, og hvor langt man er med at gennemføre det, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">'Løser ikke møgsag ved at skjule den'</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De nye, offentlige ejendomsvurderinger er vigtige, fordi de er med til at bestemme, hvor meget den enkelte boligejer i fremtiden skal betale til stats- og kommunekassen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De gamle vurderinger viste sig i 2011 at være så smækfyldte med fejl, at hele det gamle vurderingssystem blev stoppet i 2013.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Men ifølge juralektor [Forsker 2] risikerer hemmeligholdelse af oplysningerne om test af det nye system at skabe mistillid til skattevæsnet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi har set i de sidste 10 år, hvordan tilliden til skattevæsnet er blevet undergravet, fordi der kommer de her sager, hvor systemerne ikke fungerer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én ting er, at folk brokker sig over at betale skat, men hvis de ikke stoler på, at det er beregnet rigtigt, så begynder de først at blive utilfredse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det her er virkelig en stor møgsag, og det har det været i 10 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men man løser ikke en møgsag ved at skjule den, siger hun.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR Nyheder har forsøgt at få Vurderingsstyrelsen til at forklare, hvorfor styrelsen bruger en paragraf, der handler om statens sikkerhed i sin begrundelse for at afvise aktindsigten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det afviser Vurderingsstyrelsen at svare på og skriver i en mail:”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der er i artiklen indsat en faktaboks, hvoraf svaret fra Vurderingsstyrelsen fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Det skriver Vurderingsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>"Når Vurderingsstyrelsen afgør en anmodning om aktindsigt, sker det på baggrund af en vurdering i henhold til gældende regler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne afgørelse kan påklages til Skatteankestyrelsen, hvor den kan blive efterprøvet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil derfor understrege, at der er mulighed for at påklage afgørelsen, hvis Danmarks Radio ikke er enige i vores afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I vores afgørelse har vi derfor vejledt om muligheden for at klage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt Danmarks Radio har spørgsmål til, hvordan afgørelsen påklages, står vi naturligvis til rådighed."”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen klagede den 31. maj 2023 til DR og anmodede dem om at fjerne artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>DR afviste den 5. juni 2023 klagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsens klage over DRs afvisning er modtaget i Pressenævnet den 8. august 2023.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2 Parternes synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.1 Vurderingsstyrelsens synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse og angreb og svar i sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har indledningsvist oplyst, at DR, inden offentliggørelsen af artiklen, anmodede styrelsen om svar på tre spørgsmål vedrørende en afgørelse om aktindsigt, samt ved at forelægge en udtalelse fra forskningschef emeritus ved Danmarks Medie- og Journalisthøjskole, [Forsker 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen har i den forbindelse henvist til følgende citat fra forelæggelsen:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Jurist og offentlighedsrådgiver [Forsker 1] kalder det forbløffende, at hensynet til statens sikkerhed bruges som begrundelse for helt at mørklægge test af ejendomsvurderingssystemet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvad siger I til det?</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har videre anført, at [Forsker 1] i artiklen er citeret for flere andre udsagn, og har fremhævet følgende udtalelse fra artiklen, der endvidere er fremhævet og anvendt som underrubrik:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[…] man misbruger offentlighedslovens undtagelser til at hemmeligholde oplysninger […]”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Herudover citerer artiklen endnu en ekspert, lektor i jura på Syddansk Universitet, [Forsker 2], som ligeledes citeres for en række udsagn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen har fremhævet følgende citat:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[… ] man løser ikke en møgsag ved at skjule den […]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Styrelsen har hertil anført, at styrelsen ikke er blevet forelagt nogen af de udtalelser, som [Forsker 2] er citeret for i artiklen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ud over det ene udsagn fra eksperten, [Forsker 1], som Vurderingsstyrelsen blev forelagt, er der i artiklen således anvendt en række andre udsagn fra de to eksperter, som ikke er blevet forelagt for styrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen har i den forbindelse anført, at der i disse udsagn er anvendt en skærpet tone, herunder ved brug af ord som ”misbruger” og ”møgsag”, og at disse ord endvidere er gengivet i underoverskrifter, hvorved de har fået en fremtrædende plads i artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har videre anført, at styrelsens svar, som det er gengivet i artiklen, er bragt på en sådan måde, at det for læseren ikke er præciseret, hvad styrelsen har forholdt sig til, hvilket er misvisende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forhold, at sagen efter DRs opfattelse er yderst relevant for offentligheden, understøtter netop behovet for, at artiklen er korrekt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til DRs bemærkninger om, at den omtalte afgørelse om afslag på aktindsigt af Skatteankestyrelsen blev hjemvist til fornyet behandling i Vurderingsstyrelsen den 26. juni 2023, har styrelsen oplyst, at hjemvisningen var begrundet med, at det ikke med den angivne begrundelse var godtgjort, at det er af væsentlig betydning for it-sikkerheden, at aktindsigten i tekniske og sikkerhedsmæssige oplysninger om ejendomsvurderingssystemet begrænses.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen har videre oplyst, at Skatteankestyrelsen imidlertid var enig i, at bestemmelsen kan anvendes til at undtage oplysninger fra retten til aktindsigt for at beskytte it-sikkerheden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har herudover henvist til en række konkrete sager fra Pressenævnets praksis, hvor nævnet har udtalt kritik for manglende forelæggelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sletning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har afslutningsvist anført, at DR ved sin fremgangsmåde har overtrådt god presseskik, og at det fortsat er styrelsens opfattelse, at artiklen bør trækkes tilbage.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">2.2 DRs synspunkter</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse og angreb og svar i sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR har indledningsvist oplyst, at mediet den 17. november 2022 søgte aktindsigt i en rapport om test af ejendomsvurderingssystemet, og at mediet den 22. december 2022 modtog afslag på anmodningen med henvisning til offentlighedslovens § 31, hvorefter retten til aktindsigt kan begrænses af hensyn til statens sikkerhed og rigets forsvar.</Char>
+        </Linea>
+        <Linea>
+          <Char>DR påklagede herefter afslaget, som Vurderingsstyrelsen fastholdt ved afgørelse af 23. februar 2023.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det var således på denne baggrund, at DR igangsatte arbejdet med artiklen, hvor der rejses kritik af begrundelsen for Vurderingsstyrelsens afslag på aktindsigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har anført, at mediet i researchen til artiklen talte med blandt andre forskningschef emeritus ved Danmarks Medie- og Journalisthøjskole, [Forsker 1], og lektor ved juridisk institut på Syddansk Universitet, [Forsker 2], som begge problematiserede Vurderingsstyrelsens angivelse af hjemmel for afslaget på anmodningen om aktindsigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Forud for offentliggørelsen af artiklen forelagde DR fire konkrete spørgsmål til styrelsen som er et koncentrat af den kritik, som de medvirkende eksperter udtalte.</Char>
+        </Linea>
+        <Linea>
+          <Char>DR har i den forbindelse henvist til den korrespondance, parterne havde inden offentliggørelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>[Gengivet under punkt 1, Sagsfremstilling, </Char>
+          <Char formaChar="Italic">Pressenævnet</Char>
+          <Char>]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har henvist til følgende passager fra artiklen, hvor [Forsker 1] udtaler sig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”- Jeg har ikke set paragraffen om statens sikkerhed brugt i lignende sager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den bliver primært brugt om efterretningsvæsenets arbejde og militærforhold […]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Min vurdering er, at man misbruger offentlighedslovens undtagelser til at hemmeligholde oplysninger om det nye ejendomsvurderingssystem […]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Man afviser at give oplysninger om resultater af de tests, man foretager af det nye vurderingssystem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men der skal naturligvis være mulighed for at få oplysninger om det nye vurderingssystem, hvordan det virker, og hvor langt man er med at gennemføre det […]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har herefter henvist til følgende passager i artiklen, hvor [Forsker 2] udtaler sig:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>” - Det har ikke noget med statens sikkerhed og rigets forsvar at gøre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du bruger kun den paragraf, hvis der reelt er grund til at frygte for statens sikkerhed […]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis man reelt mener, at den paragraf er nødvendig, så står det da virkeligt slemt til, hvis et ejendomsvurderingssystem kan true statens sikkerhed […]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi har set i de sidste 10 år, hvordan tilliden til skattevæsnet er blevet undergravet, fordi der kommer de her sager, hvor systemerne ikke fungerer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én ting er, at folk brokker sig over at betale skat, men hvis de ikke stoler på, at det er beregnet rigtigt, så begynder de først at blive utilfredse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det her er virkelig en stor møgsag, og det har det været i 10 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men man løser ikke en møgsag ved at skjule den, siger hun.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I artiklen kalder ekspert [Forsker 2] hele forløbet og sagen vedrørende de nye ejendomsvurderinger for en ”møgsag”.</Char>
+        </Linea>
+        <Linea>
+          <Char>DR har i den forbindelse videre anført, at DR i over et år har afdækket de problemer, der er med de nye ejendomsvurderinger, og at en ekspert i artiklen kommer med sin subjektive vurdering af og holdning til den samlede og meget velbeskrevne sag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har videre anført, at den subjektive vurdering fra eksperten ikke skulle forelægges for Vurderingsstyrelsen, da den samlede kritik fra begge eksperter handler om, at de ikke mener, at styrelsen kunne begrunde afslaget på aktindsigt i en testrapport med en henvisning til bestemmelsen om statens sikkerhed og rigets forsvar.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den samlede kritik var således indeholdt i den forelæggelse, som styrelsen modtog, hvorfor forelæggelsen var tilstrækkelig dækkende for den kritik, som eksperterne udtalte.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har herudover anført, at mediet i forelæggelsen anmodede om et svar til citat, og at det derfor må have stået klart for styrelsen, at DR havde til hensigt at offentliggøre svaret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Svaret er i artiklen bragt sammen med den kritik, der er rejst mod styrelsen i artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har videre bemærket, at mediet i sit svar på klagen fra Vurderingsstyrelsen, tilbød styrelsen at sende sine svar til de citater, som styrelsen mente, ikke var blevet forelagt for den, men at styrelsen ikke tog imod dette tilbud.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>DR har herudover bemærket, at der ikke er påvist faktuelle fejl i artiklen, hverken af klager eller af andre, og at der er tale om en yderst relevant historie for offentligheden.</Char>
+        </Linea>
+        <Linea>
+          <Char>Endelig har DR oplyst, at Skatteankestyrelsen den 26. juni 2023 påbød Vurderingsstyrelsen at genbehandle DRs anmodning om aktindsigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sletning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR ses ikke at have kommenteret på dette punkt over for Pressenævnet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Bold">3 Pressenævnets begrundelse og afgørelse</Char>
+          <Char>:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I sagens behandling har følgende nævnsmedlemmer deltaget:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jørgen Steen Sørensen, Hans Peter Blicher, Astrid Søndberg og Peter Munk Povlsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">God presseskik</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Forelæggelse og angreb og svar i sammenhæng</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har klaget over, at DR ikke har foretaget tilstrækkelig forelæggelse, og at angreb og svar således ikke er bragt i sammenhæng.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseetik, at det er mediernes opgave at bringe korrekt og hurtig information.</Char>
+        </Linea>
+        <Linea>
+          <Char>Så langt det er muligt, bør det kontrolleres, om de oplysninger, der gives eller gengives, er korrekte.</Char>
+        </Linea>
+        <Linea>
+          <Char>Oplysninger, som kan være skadelige, krænkende eller virke agtelsesforringende for nogen, skal efterprøves i særlig grad, inden de bringes, først og fremmest ved forelæggelse for den pågældende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Angreb og svar bør, hvor det er rimeligt, bringes i sammenhæng og på samme måde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette gælder i særlig grad krænkende eller skadelige udsagn.</Char>
+        </Linea>
+        <Linea>
+          <Char>Overskrifter og mellemrubrikker skal i form og indhold have dækning i den pågældende artikel eller udsendelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>jf. punkt A.</Char>
+        </Linea>
+        <Linea>
+          <Char>1, A.</Char>
+        </Linea>
+        <Linea>
+          <Char>3, A.</Char>
+        </Linea>
+        <Linea>
+          <Char>4 og A.</Char>
+        </Linea>
+        <Linea>
+          <Char>6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår af sagen, at DR den 2. marts 2023 i en mail forelagde Vurderingsstyrelsen en række kritikpunkter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Af mailen fremgik blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Kære [Medarbejder 2] og [Medarbejder 3]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR har modtaget afslag om aktindsigt med følgende begrundelse:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil gerne have en forklaring på, hvordan oplysninger om test-resultater af et skattemæssigt it-system kan undtages med § 31?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvordan kan udlevering af oplysningerne have betydning for fundamentet for finansieringen af den offentlige sektor?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvad er begrundelsen for, at offentligheden ikke få lov til at se resultatet af test af de systemer, der skal bruges til at opkræve boligskatter fremover?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Jurist og offentlighedsrådgiver [Forsker 1] kalder det forbløffende, at hensynet til statens sikkerhed bruges som begrundelse for helt at mørklægge test af ejendomsvurderingssystemet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvad siger I til det?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil gerne anmode om svar til citat inden mandag klokken 12.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Bedste hilsner [Journalist 1] og [Journalist 2]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det fremgår, at Vurderingsstyrelsen den 6. marts 2023 sendte et svar, hvor følgende blandt andet fremgår:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Vurderingsstyrelsen oplyser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Når Vurderingsstyrelsen afgør en anmodning om aktindsigt, sker det på baggrund af en vurdering i henhold til gældende regler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne afgørelse kan påklages til Skatteankestyrelsen, hvor den kan blive efterprøvet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil derfor understrege, at der er mulighed for at påklage afgørelsen, hvis Danmarks Radio ikke er enige i vores afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I vores afgørelse har vi derfor vejledt om muligheden for at klage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt Danmarks Radio har spørgsmål til, hvordan afgørelsen påklages, står vi naturligvis til rådighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Venlig hilsen [Medarbejder 3]”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen ”</Char>
+          <Char formaChar="Italic">Kaos om nye ejendomsvurderinger mørklægges: Frygter for statens sikkerhed</Char>
+          <Char>” fremgår følgende af underrubrikken:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Skattevæsnet misbruger lov til at hemmeligholde trykprøvning af nyt vurderingssystem, mener eksperter.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af artiklen fremgår blandt andet:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”Efter store forsinkelser og omfattende problemer med det nye ejendomsvurderingssystem ruller skattevæsnet nu et kulsort mørklægningsgardin ned over sagen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsens test af det system, der senere i år skal sende flere millioner ejendomsvurderinger ud til danske boligejere, tåler nemlig ikke at komme frem i offentlighedens lys af hensyn til statens sikkerhed, skriver styrelsen i en afvisning af en aktindsigt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR Nyheder har tidligere fået aktindsigt i rapporter om det nye ejendomsvurderingssystem, og to eksperter undrer sig over Vurderingsstyrelsens begrundelse for at afvise anmodningen denne gang.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Jeg har ikke set paragraffen om statens sikkerhed brugt i lignende sager.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den bliver primært brugt om efterretningsvæsenets arbejde og militærforhold, siger forskningschef emeritus fra Danmarks Medie- og Journalisthøjskole [Forsker 1].</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>” - Det har ikke noget med statens sikkerhed og rigets forsvar at gøre.</Char>
+        </Linea>
+        <Linea>
+          <Char>Du bruger kun den paragraf, hvis der reelt er grund til at frygte for statens sikkerhed, siger [Forsker 2], der er lektor ved juridisk institut på Syddansk Universitet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Hvis man reelt mener, at den paragraf er nødvendig, så står det da virkeligt slemt til, hvis et ejendomsvurderingssystem kan true statens sikkerhed, fortsætter hun.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Men den begrundelse køber [Forsker 1] ikke.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Min vurdering er, at man misbruger offentlighedslovens undtagelser til at hemmeligholde oplysninger om det nye ejendomsvurderingssystem, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Der kan godt være specifikke oplysninger om sikkerheden i skattevæsnets it-systemer, som man kan have ret til at holde hemmelige, men i denne sag holder myndighedernes argumenter ikke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Især ikke når samtlige oplysninger i sagen hemmeligholdes, mener [Forsker 1].</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Man afviser at give oplysninger om resultater af de tests, man foretager af det nye vurderingssystem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men der skal naturligvis være mulighed for at få oplysninger om det nye vurderingssystem, hvordan det virker, og hvor langt man er med at gennemføre det, siger han.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">'Løser ikke møgsag ved at skjule den'</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De nye, offentlige ejendomsvurderinger er vigtige, fordi de er med til at bestemme, hvor meget den enkelte boligejer i fremtiden skal betale til stats- og kommunekassen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>De gamle vurderinger viste sig i 2011 at være så smækfyldte med fejl, at hele det gamle vurderingssystem blev stoppet i 2013.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”Men ifølge juralektor [Forsker 2] risikerer hemmeligholdelse af oplysningerne om test af det nye system at skabe mistillid til skattevæsnet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Vi har set i de sidste 10 år, hvordan tilliden til skattevæsnet er blevet undergravet, fordi der kommer de her sager, hvor systemerne ikke fungerer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én ting er, at folk brokker sig over at betale skat, men hvis de ikke stoler på, at det er beregnet rigtigt, så begynder de først at blive utilfredse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>- Det her er virkelig en stor møgsag, og det har det været i 10 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men man løser ikke en møgsag ved at skjule den, siger hun.</Char>
+        </Linea>
+        <Linea>
+          <Char>”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”DR Nyheder har forsøgt at få Vurderingsstyrelsen til at forklare, hvorfor styrelsen bruger en paragraf, der handler om statens sikkerhed i sin begrundelse for at afvise aktindsigten.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det afviser Vurderingsstyrelsen at svare på og skriver i en mail:”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>[…]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>”</Char>
+          <Char formaChar="Italic">Det skriver Vurderingsstyrelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>"Når Vurderingsstyrelsen afgør en anmodning om aktindsigt, sker det på baggrund af en vurdering i henhold til gældende regler.</Char>
+        </Linea>
+        <Linea>
+          <Char>Denne afgørelse kan påklages til Skatteankestyrelsen, hvor den kan blive efterprøvet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi vil derfor understrege, at der er mulighed for at påklage afgørelsen, hvis Danmarks Radio ikke er enige i vores afgørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I vores afgørelse har vi derfor vejledt om muligheden for at klage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Såfremt Danmarks Radio har spørgsmål til, hvordan afgørelsen påklages, står vi naturligvis til rådighed."”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er nævnets opfattelse, at udtalelserne fra de to citerede eksperter indeholder eksperternes subjektive vurderinger af den begrundelse, som styrelsen gav til DR i forbindelse med afslaget på aktindsigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er endvidere Pressenævnets opfattelse, at beskyldningerne og kritikken fra eksperterne har en faktisk karakter, og at de således kan være skadelige, krænkende eller virke agtelsesforringende for styrelsen, hvorfor beskyldningerne burde forelægges.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet bemærker i den forbindelse, at den omtalte som udgangspunkt har krav på at få forelagt kernen i kritikken.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet bemærker herudover, at det er nævnets opfattelse, at offentlige institutioner i højere grad end privatpersoner må acceptere at være genstand for en kritisk medieomtale.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>To medlemmer – formand Jørgen Steen Sørensen og Peter Munk Povlsen – udtaler:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vi finder, at det ved forelæggelsen må have stået klart for Vurderingsstyrelsen, at omtalen drejede sig om den konkrete afgørelse om afslag på aktindsigt, at DR rettede en kritik af afslaget, og at begrundelsen for afslaget blev kritiseret af en ekspert på området ([Forsker 1]).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår [Forsker 1]s kritik finder vi imidlertid, at der må lægges vægt på, at den kritik, som DR bragte i artiklen – herunder at ”man misbruger offentlighedslovens undtagelser” – må anses for væsentlig skarpere end den kritik, som DR forelagde for Vurderingsstyrelsen, og som angik, at afslaget på aktindsigt var ”forbløffende”, og at der var tale om at ”mørklægge”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi finder under disse omstændigheder, at [Forsker 1]s samlede kritik burde have været forelagt for Vurderingsstyrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Af den kritik, som den anden ekspert, [Forsker 2], i artiklen retter mod styrelsen, fremgår bl.a.: ”- Vi har set i de sidste 10 år, hvordan tilliden til skattevæsnet er blevet undergravet, fordi der kommer de her sager, hvor systemerne ikke fungerer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Én ting er, at folk brokker sig over at betale skat, men hvis de ikke stoler på, at det er beregnet rigtigt, så begynder de først at blive utilfredse.</Char>
+        </Linea>
+        <Linea>
+          <Char>- Det her er virkelig en stor møgsag, og det har det været i 10 år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Men man løser ikke en møgsag ved at skjule den, siger hun.</Char>
+        </Linea>
+        <Linea>
+          <Char>”.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi finder, at denne kritik – der fremstår meget skarp og til dels af generel karakter – burde have været forelagt for Vurderingsstyrelsen, således at styrelsen havde fået mulighed for at kommentere beskyldningerne og komme til orde i den sammenhæng.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vi finder på denne baggrund anledning til at udtale kritik for utilstrækkelig forelæggelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vi bemærker i den forbindelse mere generelt, at det ved kritik i medierne af en offentlig myndigheds afgørelse, der kan påklages i det administrative system, som udgangspunkt må anses for mest korrekt for den pågældende myndighed at henvise til, at afgørelsen kan påklages, fremfor at kommentere kritikken.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette indebærer efter vores opfattelse, at medierne bør være opmærksomme på, hvornår en kritik bliver så skarp, at der for myndigheden kan være behov for at fravige det anførte udgangspunkt og tage til genmæle over for kritikken.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>To medlemmer – Hans Peter Blicher og Astrid Søndberg – udtaler:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det ville have været hensigtsmæssigt, at DR havde inkluderet kritikken fra den anden ekspert, [Forsker 2], i forelæggelsen for Vurderingsstyrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>¬Men vi mener, det forelagte citat fra [Forsker 1] med ordet “mørkelagt” på tilstrækkelig vis repræsenterer den samlede kritik.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi noterer os i den sammenhæng, at Vurderingsstyrelsen i sit svar til DR ikke kommenterer [Forsker 1]s kritik og ej heller svarer på DRs eksplicitte spørgsmål “Hvad siger I til det?</Char>
+        </Linea>
+        <Linea>
+          <Char>”.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det burde ved forelæggelsen således have stået klart for styrelsen, at omtalen drejede sig om den konkrete afgørelse om aktindsigt, og at DR rettede en kritik af afslaget understøttet af en ekspert.</Char>
+        </Linea>
+        <Linea>
+          <Char>DRs udbygning med yderligere ret enslydende kritik ændrer ikke på det forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vi finder på den baggrund ikke anledning til at kritisere DR for ikke at have forelagt kritikken fra den anden ekspert i artiklen, ligesom vi heller ikke finder anledning til at kritisere DR for ikke at bringe angreb og svar i sammenhæng.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Da der er stemmelighed, er formandens stemme afgørende, og Pressenævnet udtaler herefter kritik af DR for utilstrækkelig forelæggelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Sletning, anonymisering og afindeksering – punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">8</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Vurderingsstyrelsen har klaget over, at DR har afvist at fjerne artiklen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Generelt om punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">8</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det følger af de vejledende regler for god presseskik, at meddelelser, som er offentliggjort i digitale medier, ofte vil være tilgængelige længe efter, at de er publiceret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Efter anmodning til mediet kan tilgængeligheden af sådanne tidligere offentliggjorte, følsomme eller private oplysninger hindres, i det omfang det er muligt og skønnes rimeligt, jf. punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char>8.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Medier kan afindeksere, dvs. ændre instruksen til søgemaskiner, så søgemaskiner ophører med at henvise til artiklen, anonymisere, dvs. ændre i artikelteksten så eksempelvis et personnavn anonymiseres, eller helt afpublicere en artikel, dvs. fjerne artiklen fra hjemmesiden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er nævnets opfattelse, at anvendelse af punkt B.</Char>
+        </Linea>
+        <Linea>
+          <Char>8 i de vejledende regler og muligheden for at meddele et medie kritik for ikke at imødekomme en anmodning om afindeksering, anonymisering eller afpublicering som udgangspunkt kun bør anvendes, når der er tale om oplysninger, som er særligt belastende for den person, der er omtalt.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Den konkrete sag</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Artiklen indeholder kritisk omtale af Vurderingsstyrelsen i forhold til styrelsens begrundelse for afslag på DRs anmodning om aktindsigt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er Pressenævnets opfattelse, at den kritiske omtale af styrelsen ikke indeholder oplysninger, som må anses for følsomme eller private i en sådan grad, at de er særligt belastende for denne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet har i den forbindelse lagt vægt på, at der er tale om forhold, som kan anses for at have almen interesse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Samtidig har nævnet lagt til grund, at DR snarest opretter et link til denne kendelse med teksten ”Pressenævnet har udtalt kritik af artiklen” ved starten af brødteksten i den påklagede artikel, hvis omtalen fortsat er tilgængelig på dr.dk og ikke er ændret på de punkter, hvor nævnet har udtalt kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nævnet finder således, at der ikke er tungtvejende grunde, der taler for at hindre artiklens tilgængelighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Offentliggørelse af Pressenævnets kendelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I medfør af medieansvarslovens § 49 pålægger Pressenævnet herefter den ansvarshavende redaktør af DR at offentliggøre følgende til Pressenævnets logo som illustration:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>”[rubrik]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet kritiserer DR</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[underrubrik]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Kritik for utilstrækkelig forelæggelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>[tekst]</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>DR omtalte i marts 2023, at DR havde fået afslag på en anmodning om aktindsigt i Vurderingsstyrelsens test af det nye ejendomsvurderingssystem.</Char>
+        </Linea>
+        <Linea>
+          <Char>I artiklen kritiserede to eksperter begrundelsen for afgørelsen, og begge eksperter var citeret for en række kritiske udtalelser rettet mod styrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vurderingsstyrelsen klagede til Pressenævnet over, at styrelsen alene var blevet forelagt en af flere udtalelser fra den ene ekspert.</Char>
+        </Linea>
+        <Linea>
+          <Char>Pressenævnet fandt, at den samlede kritik fra begge eksperter burde være blevet forelagt for DR og kritiserer derfor DR for utilstrækkelig forelæggelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Pressenævnet har pålagt os at bringe ovennævnte meddelelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hele kendelsen fra Pressenævnet kan læses på pressenaevnet.dk”</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Offentliggørelse i den digitale udgave</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Offentliggørelse af nævnets kendelse skal ske snarest på de af mediets platforme, hvor den påklagede artikel har været bragt.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Offentliggørelse skal bestå i en selvstændig artikel med Pressenævnets logo som illustration.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Artiklen skal prioriteres, f.eks. med placering på en forside i mindst et døgn efter kritikkens offentliggørelse og skal placeres før eventuel betalingsmur.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Pressenævnets offentliggørelsestekst skal bringes uden reklamer i teksten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Endvidere skal denne artikel være offentligt tilgængelig som en selvstændig artikel i overensstemmelse med prioriteringen af den påklagede artikel, og i en periode svarende til den periode, hvor den påklagede artikel har været tilgængelig.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Endelig skal der oprettes et link med teksten ”Pressenævnet har udtalt kritik af artiklen” direkte til nævnets kendelse på www.pressenaevnet.dk ved starten af brødteksten i den påklagede artikel, hvis den fortsat er tilgængelig på hjemmesiden og ikke er ændret på de punkter, hvor nævnet har udtalt kritik.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Italic">Skrifttype og layout bør svare til den opsætning, der i øvrigt anvendes i redaktionelle artikler i mediet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Afgjort den 20. februar 2024</Char>
+        </Linea>
+      </Exitus>
+    </TekstGruppe>
+  </DokumentIndhold>
+</Dokument>
